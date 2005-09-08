@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2005-07-29
+Version Consolidée au 2005-09-09
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-14)](#2)
@@ -107,26 +107,29 @@ Version Consolidée au 2005-07-29
       - [TITRE II : MONUMENTS HISTORIQUES (art. L621-1 à L624-7)](#104)
         - [Chapitre 1er : Immeubles (art. L621-1 à L621-34)](#105)
           - [Section 1 : Classement des immeubles. (art. L621-1 à L621-24)](#106)
-          - [Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques. (art. L621-25 à L621-29)](#107)
-          - [Section 3 : Dispositions relatives aux immeubles ni classés ni inscrits soumis à la législation sur les monuments historiques. (art. L621-30 à L621-32)](#108)
-          - [Section 4 : Dispositions diverses. (art. L621-33 à L621-34)](#109)
-        - [Chapitre 2 : Objets mobiliers (art. L622-1 à L622-21)](#110)
-          - [Section 1 : Classement des objets mobiliers. (art. L622-1 à L622-19)](#111)
-          - [Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques. (art. L622-20 à L622-21)](#112)
-        - [Chapitre 3 : Dispositions fiscales. (art. L623-1)](#113)
-        - [Chapitre 4 : Dispositions pénales. (art. L624-1 à L624-7)](#114)
-      - [TITRE III : SITES. (art. L630-1)](#115)
-      - [TITRE IV : ESPACES PROTÉGÉS (art. L641-1 à L643-1)](#116)
-        - [Chapitre 1er : Secteurs sauvegardés. (art. L641-1 à L641-2)](#117)
-        - [Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager. (art. L642-1 à L642-7)](#118)
-        - [Chapitre 3 : Dispositions fiscales. (art. L643-1)](#119)
-    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L720-1 à L770-4)](#120)
-      - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON. (art. L720-1 à L720-3)](#121)
-      - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE. (art. L730-1 à L730-5)](#122)
-      - [TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE. (art. L740-1 à L740-5)](#123)
-      - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE. (art. L750-1 à L750-4)](#124)
-      - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA. (art. L760-1 à L760-6)](#125)
-      - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES. (art. L770-1 à L770-4)](#126)
+          - [Section 2 : Inscription des immeubles. (art. L621-25 à L621-28)](#107)
+          - [Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques. (art. L621-27 à L621-29)](#108)
+          - [Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits. (art. L621-29-1 à L621-29-6)](#109)
+          - [Section 3 : Dispositions relatives aux immeubles ni classés ni inscrits soumis à la législation sur les monuments historiques. (art. L621-30 à L621-32)](#110)
+          - [Section 4 : Dispositions diverses. (art. L621-33 à L621-34)](#111)
+        - [Chapitre 2 : Objets mobiliers (art. L622-1 à L622-29)](#112)
+          - [Section 1 : Classement des objets mobiliers. (art. L622-1 à L622-19)](#113)
+          - [Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques. (art. L622-20 à L622-21)](#114)
+          - [Section 3 : Dispositions communes aux objets classés et aux objets inscrits. (art. L622-24 à L622-29)](#115)
+        - [Chapitre 3 : Dispositions fiscales. (art. L623-1)](#116)
+        - [Chapitre 4 : Dispositions pénales. (art. L624-1 à L624-7)](#117)
+      - [TITRE III : SITES. (art. L630-1)](#118)
+      - [TITRE IV : ESPACES PROTÉGÉS (art. L641-1 à L643-1)](#119)
+        - [Chapitre 1er : Secteurs sauvegardés. (art. L641-1 à L641-2)](#120)
+        - [Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager. (art. L642-1 à L642-7)](#121)
+        - [Chapitre 3 : Dispositions fiscales. (art. L643-1)](#122)
+    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L720-1 à L770-4)](#123)
+      - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON. (art. L720-1 à L720-3)](#124)
+      - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE. (art. L730-1 à L730-5)](#125)
+      - [TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE. (art. L740-1 à L740-5)](#126)
+      - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE. (art. L750-1 à L750-4)](#127)
+      - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA. (art. L760-1 à L760-6)](#128)
+      - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES. (art. L770-1 à L770-4)](#129)
 # Partie législative<a id=1></a>
 
 ###### Article L1
@@ -8347,8 +8350,8 @@ _Cite_:
 
 ###### Article L611-1
 
-La Commission supérieure des monuments historiques se prononce notamment dans les cas prévus aux articles L. 621-2, L. 621-5,
-L. 621-6, L. 621-12, L. 622-3 et L. 622-4.
+La Commission nationale des monuments historiques se prononce notamment dans les cas prévus aux articles L. 621-30-1, L.
+621-5, L. 621-6, L. 621-12, L. 622-3 et L. 622-4.
 
 Placée auprès du ministre chargé de la culture, elle comprend des personnes titulaires d'un mandat électif national ou local,
 des représentants de l'Etat et des personnalités qualifiées.
@@ -8365,6 +8368,11 @@ _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 4 () JORF 9 septembre 2005
+
 _Cité par_:
 
   - Loi n°2016-925 du 7 juillet 2016 - art. 113 (V)
@@ -8377,7 +8385,7 @@ _Cité par_:
 _Cite_:
 
   - Code du patrimoine. - art. L621-12 (M)
-  - Code du patrimoine. - art. L621-2 (M)
+  - Code du patrimoine. - art. L621-30-1 (V)
   - Code du patrimoine. - art. L621-5 (M)
   - Code du patrimoine. - art. L621-6 (M)
   - Code du patrimoine. - art. L622-3 (M)
@@ -8512,15 +8520,12 @@ _Codifié par_:
 Les immeubles dont la conservation présente, au point de vue de l'histoire ou de l'art, un intérêt public sont classés comme
 monuments historiques en totalité ou en partie par les soins de l'autorité administrative.
 
-Sont compris parmi les immeubles susceptibles d'être classés au titre des monuments historiques :
+Sont notamment compris parmi les immeubles susceptibles d'être classés au titre des monuments historiques :
 
 a) Les monuments mégalithiques, les terrains qui renferment des stations ou gisements préhistoriques ;
 
-b) Les immeubles dont le classement est nécessaire pour isoler, dégager ou assainir un immeuble classé au titre des monuments
-historiques ou proposé pour le classement ;
-
-c) D'une façon générale, les immeubles nus ou bâtis situés dans le champ de visibilité d'un immeuble classé au titre des
-monuments historiques ou proposé pour le classement.
+b) Les immeubles dont le classement est nécessaire pour isoler, dégager, assainir ou mettre en valeur un immeuble classé au
+titre des monuments historiques.
 
 **Liens relatifs à cet article**
 
@@ -8532,6 +8537,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance 2005-1128 2005-09-08 art. 3 I, II JORF 9 septembre 2005
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 3 () JORF 9 septembre 2005
 
 _Cité par_:
 
@@ -8666,8 +8676,8 @@ _Cité par_:
 L'immeuble appartenant à une collectivité territoriale ou à un de ses établissements publics est classé au titre des
 monuments historiques par décision de l'autorité administrative, s'il y a consentement du propriétaire.
 
-En cas de désaccord, le classement est prononcé par décret en Conseil d'Etat, pris après avis de la Commission supérieure des
-monuments historiques.
+En cas de désaccord, le classement d'office est prononcé par décret en Conseil d'Etat, pris après avis de la Commission
+nationale des monuments historiques.
 
 **Liens relatifs à cet article**
 
@@ -8680,6 +8690,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 5 () JORF 9 septembre 2005
 
 _Cité par_:
 
@@ -8696,16 +8711,16 @@ _Cité par_:
 
 L'immeuble appartenant à toute personne autre que celles énumérées aux articles L. 621-4 et L. 621-5 est classé au titre des
 monuments historiques par décision de l'autorité administrative, s'il y a consentement du propriétaire. La décision détermine
-les conditions du classement.
+les conditions du classement. 
 
-A défaut du consentement du propriétaire, le classement est prononcé par décret en Conseil d'Etat, pris après avis de la
-Commission supérieure des monuments historiques, qui détermine les conditions de classement et notamment les servitudes et
-obligations qui en découlent.
+A défaut du consentement du propriétaire, le classement d'office est prononcé par décret en Conseil d'Etat, pris après avis
+de la Commission nationale des monuments historiques, qui détermine les conditions de classement et notamment les servitudes
+et obligations qui en découlent. 
 
 Le classement d'office peut donner droit à indemnité au profit du propriétaire s'il résulte, des servitudes et obligations
 dont il s'agit, une modification à l'état ou à l'utilisation des lieux déterminant un préjudice direct, matériel et certain.
 La demande de l'indemnité devra être produite dans les six mois à dater de la notification du décret de classement. A défaut
-d'accord amiable, l'indemnité est fixée par le juge de l'expropriation.
+d'accord amiable, l'indemnité est fixée par le juge de l'expropriation. 
 
 Le Premier ministre peut ne pas donner suite au classement d'office dans les conditions ainsi fixées. Il doit alors, dans un
 délai de trois mois à compter de la notification du jugement, soit abroger le décret de classement, soit poursuivre
@@ -8722,6 +8737,11 @@ _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 5 () JORF 9 septembre 2005
+
 _Cité par_:
 
   - Décret n°2007-487 du 30 mars 2007 - art. 17 (Ab)
@@ -8732,11 +8752,13 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du patrimoine. - art. L621-4 (V)
-  - Code du patrimoine. - art. L621-5 (M)
+  - Code du patrimoine - art. L621-4 (V)
 
 
 ###### Article L621-7
+
+Lorsque la conservation d'un immeuble est menacée, l'autorité administrative peut notifier au propriétaire par décision prise
+sans formalité préalable une instance de classement au titre des monuments historiques.
 
 A compter du jour où l'autorité administrative notifie au propriétaire une instance de classement au titre des monuments
 historiques, tous les effets du classement s'appliquent de plein droit à l'immeuble visé. Ils cessent de s'appliquer si la
@@ -8746,12 +8768,16 @@ décision de classement n'intervient pas dans les douze mois de cette notificati
 
 _Anciens textes_:
 
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 1 (V)
   - Loi n°1913-12-31 art. 1er al. 7
+  - Loi n°1913-12-31 du 31 décembre 1913 - art. 1 (V)
 
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 6 () JORF 9 septembre 2005
 
 _Cité par_:
 
@@ -8915,14 +8941,14 @@ _Cité par_:
 
 Indépendamment des dispositions de l'article L. 621-11, lorsque la conservation d'un immeuble classé au titre des monuments
 historiques est gravement compromise par l'inexécution de travaux de réparation ou d'entretien, l'autorité administrative
-peut, après avis de la Commission supérieure des monuments historiques, mettre en demeure le propriétaire de faire procéder
+peut, après avis de la Commission nationale des monuments historiques, mettre en demeure le propriétaire de faire procéder
 auxdits travaux, en lui indiquant le délai dans lequel ceux-ci devront être entrepris et la part de dépense qui sera
 supportée par l'Etat, laquelle ne pourra être inférieure à 50 %. La mise en demeure précisera les modalités de versement de
-la part de l'Etat.
+la part de l'Etat. 
 
 La mise en demeure est notifiée au propriétaire. Si ce dernier en conteste le bien-fondé, le tribunal administratif statue
 sur le litige et peut, le cas échéant, après expertise, ordonner l'exécution de tout ou partie des travaux prescrits par
-l'administration.
+l'administration. 
 
 Le recours au tribunal administratif est suspensif.
 
@@ -8930,12 +8956,16 @@ Le recours au tribunal administratif est suspensif.
 
 _Anciens textes_:
 
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 9-1 (Ab)
   - Loi n°1913-12-31 art. 9-1 al. 1 à 3
+  - Loi n°1913-12-31 du 31 décembre 1913 - art. 9-1 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
 
 _Cité par_:
 
@@ -8947,7 +8977,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du patrimoine. - art. L621-11 (V)
+  - Code du patrimoine - art. L621-11 (V)
 
 
 ###### Article L621-13
@@ -8957,8 +8987,9 @@ s'il ne l'a pas contestée, soit à la décision de la juridiction administrativ
 d'office les travaux, soit poursuivre l'expropriation de l'immeuble au nom de l'Etat. Si les travaux sont exécutés d'office,
 le propriétaire peut solliciter l'Etat d'engager la procédure d'expropriation. L'Etat fait connaître sa décision sur cette
 requête, qui ne suspend pas l'exécution des travaux, dans un délai de six mois au plus et au terme d'une procédure fixée par
-décret en Conseil d'Etat. Si l'autorité administrative a décidé de poursuivre l'expropriation, l'Etat peut se substituer à
-une collectivité territoriale ou à un établissement public avec leur consentement.
+décret en Conseil d'Etat. Si l'autorité administrative a décidé de poursuivre l'expropriation au nom de l'Etat, une
+collectivité territoriale ou un établissement public peut décider de se substituer à l'Etat comme bénéficiaire, avec l'accord
+de cette autorité.
 
 **Liens relatifs à cet article**
 
@@ -8971,6 +9002,10 @@ _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 8 () JORF 9 septembre 2005
+
 _Cité par_:
 
   - Décret n°2007-487 du 30 mars 2007 - art. 28 (Ab)
@@ -8980,7 +9015,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du patrimoine. - art. L621-15 (V)
+  - Code du patrimoine - art. L621-15 (V)
 
 
 ###### Article L621-14
@@ -9092,24 +9127,28 @@ _Codifié par_:
 ###### Article L621-18
 
 L'autorité administrative peut toujours, en se conformant aux prescriptions du code de l'expropriation pour cause d'utilité
-publique, poursuivre au nom de l'Etat l'expropriation d'un immeuble déjà classé au titre des monuments historiques ou proposé
-pour le classement, en raison de l'intérêt public qu'il offre au point de vue de l'histoire ou de l'art. Les collectivités
-territoriales ont la même faculté.
+publique, poursuivre au nom de l'Etat l'expropriation d'un immeuble déjà classé au titre des monuments historiques ou soumis
+à une instance de classement, en raison de l'intérêt public qu'il offre au point de vue de l'histoire ou de l'art. Les
+collectivités territoriales ont la même faculté.
 
 La même faculté est ouverte à l'égard des immeubles dont l'acquisition est nécessaire pour isoler, dégager, assainir ou
-mettre en valeur un immeuble classé au titre des monuments historiques ou proposé pour le classement ou qui se trouvent
-situés dans le champ de visibilité d'un tel immeuble.
+mettre en valeur un immeuble classé au titre des monuments historiques ou soumis à une instance de classement ou qui se
+trouvent situés dans le champ de visibilité d'un tel immeuble.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 6 (Ab)
   - Loi n°1913-12-31 art. 6
+  - Loi n°1913-12-31 du 31 décembre 1913 - art. 6 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 3 () JORF 9 septembre 2005
 
 _Cité par_:
 
@@ -9175,9 +9214,9 @@ _Cité par_:
 
 Les immeubles classés au titre des monuments historiques, expropriés par application des dispositions du présent titre,
 peuvent être cédés de gré à gré à des personnes publiques ou privées. Les acquéreurs s'engagent à les utiliser aux fins et
-dans les conditions prévues au cahier des charges annexé à l'acte de cession. Des cahiers des charges types sont approuvés
-par décret en Conseil d'Etat. En cas de cession à une personne privée, le principe et les conditions de la cession sont
-approuvés par décret en Conseil d'Etat, l'ancien propriétaire ayant été mis en mesure de présenter ses observations.
+dans les conditions prévues au cahier des charges annexé à l'acte de cession. En cas de cession à une personne privée, le
+principe et les conditions de la cession sont approuvés par décret en Conseil d'Etat, l'ancien propriétaire ayant été mis en
+mesure de présenter ses observations. 
 
 Les dispositions de l'article L. 621-22 sont applicables aux cessions faites à des personnes publiques, en vertu des
 dispositions du premier alinéa du présent article.
@@ -9186,8 +9225,8 @@ dispositions du premier alinéa du présent article.
 
 _Anciens textes_:
 
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 9-2 (Ab)
   - Loi n°1913-12-31 art. 9-2
+  - Loi n°1913-12-31 du 31 décembre 1913 - art. 9-2 (Ab)
 
 _Codifié par_:
 
@@ -9195,7 +9234,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 9 () JORF 9 septembre 2005
 
 _Cité par_:
 
@@ -9204,7 +9243,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du patrimoine. - art. L621-22 (V)
+  - Code du patrimoine - art. L621-22 (V)
 
 
 ###### Article L621-22
@@ -9284,13 +9323,13 @@ _Cité par_:
   - Code du patrimoine - art. L624-1 (V)
 
 
-##### Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques.<a id=107></a>
+##### Section 2 : Inscription des immeubles.<a id=107></a>
 
 ###### Article L621-25
 
 Les immeubles ou parties d'immeubles publics ou privés qui, sans justifier une demande de classement immédiat au titre des
 monuments historiques, présentent un intérêt d'histoire ou d'art suffisant pour en rendre désirable la préservation peuvent,
-à toute époque, être inscrits, par décision de l'autorité administrative, sur un inventaire supplémentaire.
+à toute époque, être inscrits, par décision de l'autorité administrative, au titre des monuments historiques.
 
 Peut être également inscrit dans les mêmes conditions tout immeuble nu ou bâti situé dans le champ de visibilité d'un
 immeuble déjà classé ou inscrit au titre des monuments historiques.
@@ -9300,6 +9339,11 @@ immeuble déjà classé ou inscrit au titre des monuments historiques.
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance 2005-1128 2005-09-08 art. 11 I, II JORF 9 septembre 2005
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 11 () JORF 9 septembre 2005
 
 _Cité par_:
 
@@ -9324,9 +9368,9 @@ _Anciens textes_:
 
 ###### Article L621-26
 
-Sont compris parmi les immeubles susceptibles d'être inscrits sur l'inventaire supplémentaire des monuments historiques les
-monuments mégalithiques, les stations préhistoriques ainsi que les terrains qui renferment des champs de fouilles pouvant
-intéresser la préhistoire, l'histoire, l'art ou l'archéologie.
+Sont notamment compris parmi les immeubles susceptibles d'être inscrits au titre des monuments historiques les monuments
+mégalithiques, les stations préhistoriques ainsi que les terrains qui renferment des champs de fouilles pouvant intéresser la
+préhistoire, l'histoire, l'art ou l'archéologie.
 
 **Liens relatifs à cet article**
 
@@ -9339,12 +9383,64 @@ _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+_Modifié par_:
+
+  - Ordonnance 2005-1128 2005-09-08 art. 3 I, art. 11 I, III JORF 9 septembre 2005
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 11 () JORF 9 septembre 2005
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 3 () JORF 9 septembre 2005
+
 _Cité par_:
 
   - Code du patrimoine - art. L143-8 (MMN)
   - Code du patrimoine - art. L624-7 (V)
   - Code du patrimoine - art. L642-1 (MMN)
 
+
+###### Article L621-28
+
+Les règles applicables aux travaux d'entretien ou de réparations ordinaires exemptés du permis de construire sur un immeuble
+inscrit au titre des monuments historiques sont fixées au premier alinéa de l'article L. 422-1 et au premier alinéa de
+l'article L. 422-2 du code de l'urbanisme reproduits à l'article L. 621-10 du présent code.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 11 () JORF 9 septembre 2005
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 13 () JORF 9 septembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 38
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L422-1 (V)
+  - Code du patrimoine L621-10, L422-1
+  - Code du patrimoine. - art. L621-10 (M)
+
+_Cité par_:
+
+  - Code du patrimoine - art. L624-7 (V)
+  - Code du patrimoine. - art. L720-1 (V)
+
+
+##### Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques.<a id=108></a>
 
 ###### Article L621-27
 
@@ -9396,31 +9492,6 @@ _Cité par_:
   - Code du patrimoine. - art. R621-63 (V)
 
 
-###### Article L621-28
-
-Les règles applicables en matière de permis de construire sur un immeuble inscrit sur l'inventaire supplémentaire des
-monuments historiques sont fixées à l'alinéa 1er de l'article L. 422-4 du code de l'urbanisme ci-après reproduit :
-
-"Art. L. 422-4, alinéa 1er. - Les constructions ou travaux effectués sur les immeubles inscrits à l'inventaire supplémentaire
-des monuments historiques ne peuvent être exemptés du permis de construire en application de l'article L. 422-1."
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L422-1 (M)
-  - Code de l'urbanisme - art. L422-4 (M)
-
-_Cité par_:
-
-  - Code du patrimoine - art. L624-7 (V)
-  - Code du patrimoine. - art. L720-1 (V)
-
-
 ###### Article L621-29
 
 L'autorité administrative est autorisée à subventionner dans la limite de 40 % de la dépense effective les travaux
@@ -9445,7 +9516,79 @@ _Cité par_:
   - Code du patrimoine. - art. R621-72 (V)
 
 
-##### Section 3 : Dispositions relatives aux immeubles ni classés ni inscrits soumis à la législation sur les monuments historiques.<a id=108></a>
+##### Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits.<a id=109></a>
+
+###### Article L621-29-1
+
+Le propriétaire ou l'affectataire domanial a la responsabilité de la conservation du monument historique classé ou inscrit
+qui lui appartient ou lui est affecté.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
+
+
+###### Article L621-29-3
+
+En cas de mutation d'un immeuble classé ou inscrit, le propriétaire ou l'affectataire domanial transmet les études et les
+documents afférents aux travaux de conservation ou de restauration réalisés sur cet immeuble au nouveau propriétaire ou au
+nouvel affectataire domanial.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
+
+
+###### Article L621-29-4
+
+Lorsque les travaux d'entretien, de réparation et de mise en sécurité des immeubles classés ou inscrits, les études
+préalables, les travaux de restauration de ces immeubles ainsi que l'assistance à maîtrise d'ouvrage et l'assurance dommage-
+ouvrage font l'objet, dans les conditions prévues par les lois et règlements, d'aides de la part des collectivités publiques,
+un échéancier prévoit le versement au propriétaire d'un acompte avant le début de chaque tranche de travaux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
+
+
+###### Article L621-29-5
+
+Les effets du classement ou de l'inscription au titre des monuments historiques suivent l'immeuble ou la partie d'immeuble en
+quelques mains qu'il passe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
+
+
+###### Article L621-29-6
+
+Quiconque aliène un immeuble classé ou inscrit au titre des monuments historiques est tenu de faire connaître au futur
+acquéreur l'existence du classement ou de l'inscription.
+
+Toute aliénation d'un immeuble classé ou inscrit doit, dans un délai fixé par voie réglementaire, être notifiée à l'autorité
+administrative par celui qui l'a consentie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
+
+_Cité par_:
+
+  - Code du patrimoine - art. L642-1 (V)
+
+
+##### Section 3 : Dispositions relatives aux immeubles ni classés ni inscrits soumis à la législation sur les monuments historiques.<a id=110></a>
 
 ###### Article L621-30
 
@@ -9644,7 +9787,7 @@ _Cite_:
   - Code de l'urbanisme - art. L442-1 (M)
 
 
-##### Section 4 : Dispositions diverses.<a id=109></a>
+##### Section 4 : Dispositions diverses.<a id=111></a>
 
 ###### Article L621-33
 
@@ -9701,29 +9844,33 @@ _Cité par_:
   - Code du patrimoine. - art. L720-1 (V)
 
 
-#### Chapitre 2 : Objets mobiliers<a id=110></a>
+#### Chapitre 2 : Objets mobiliers<a id=112></a>
 
-##### Section 1 : Classement des objets mobiliers.<a id=111></a>
+##### Section 1 : Classement des objets mobiliers.<a id=113></a>
 
 ###### Article L622-1
 
 Les objets mobiliers, soit meubles proprement dits, soit immeubles par destination, dont la conservation présente, au point
 de vue de l'histoire, de l'art, de la science ou de la technique, un intérêt public peuvent être classés au titre des
-monuments historiques par décision de l'autorité administrative.
+monuments historiques par décision de l'autorité administrative. 
 
-Les effets du classement subsistent à l'égard des immeubles par destination classés au titre des monuments historiques qui
-redeviennent des meubles proprement dits.
+Les effets du classement prévus dans la présente section s'appliquent aux biens devenus meubles par suite de leur détachement
+d'immeubles classés en application de l'article L. 621-1, ainsi qu'aux immeubles par destination classés qui sont redevenus
+meubles.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°1913-12-31 du 31 décembre 1913 - art. 14 (Ab)
-  - Loi n°1913-12-31 art. 14 al. 1, al. 2
 
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 19 () JORF 9 septembre 2005
 
 _Cité par_:
 
@@ -9733,6 +9880,10 @@ _Cité par_:
   - Code du patrimoine - art. L622-1-1 (V)
   - Code du patrimoine - art. L730-1 (V)
   - Code général de la propriété des personnes publ... - art. L2222-16 (MMN)
+
+_Cite_:
+
+  - Code du patrimoine - art. L621-1 (V)
 
 
 ###### Article L622-2
@@ -9760,8 +9911,8 @@ _Cité par_:
 
 Les objets mobiliers appartenant à une collectivité territoriale ou à l'un de ses établissements publics sont classés au
 titre des monuments historiques par décision de l'autorité administrative, s'il y a consentement du propriétaire. En cas de
-désaccord, le classement est prononcé par décret en Conseil d'Etat après avis de la commission supérieure des monuments
-historiques.
+désaccord, le classement d'office est prononcé par décret en Conseil d'Etat après avis de la Commission nationale des
+monuments historiques.
 
 **Liens relatifs à cet article**
 
@@ -9774,6 +9925,11 @@ _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 1 (V) JORF 9 septembre 2005
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 5 () JORF 9 septembre 2005
+
 _Cité par_:
 
   - Code du patrimoine. - art. L611-1 (M)
@@ -9784,8 +9940,8 @@ _Cité par_:
 Les objets mobiliers appartenant à une personne privée peuvent être classés au titre des monuments historiques, avec le
 consentement du propriétaire, par décision de l'autorité administrative.
 
-A défaut de consentement du propriétaire, le classement est prononcé par un décret en Conseil d'Etat pris après avis de la
-commission supérieure des monuments historiques.
+A défaut de consentement du propriétaire, le classement d'office est prononcé par un décret en Conseil d'Etat pris après avis
+de la Commission nationale des monuments historiques.
 
 Le classement pourra donner lieu au paiement d'une indemnité représentative du préjudice résultant pour le propriétaire de
 l'application de la servitude de classement d'office. La demande d'indemnité devra être produite dans les six mois à dater de
@@ -9802,6 +9958,11 @@ _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 5 () JORF 9 septembre 2005
+
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis-0 AB (V)
@@ -9810,6 +9971,10 @@ _Cité par_:
 
 
 ###### Article L622-5
+
+Lorsque la conservation ou le maintien sur le territoire national d'un objet mobilier est menacée, l'autorité administrative
+peut notifier au propriétaire par décision sans formalité préalable une instance de classement au titre des monuments
+historiques.
 
 A compter du jour où l'autorité administrative notifie au propriétaire une instance de classement au titre des monuments
 historiques, tous les effets du classement s'appliquent de plein droit à l'objet mobilier visé. Ils cessent de s'appliquer si
@@ -9825,6 +9990,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 20 () JORF 9 septembre 2005
 
 _Cité par_:
 
@@ -10224,7 +10393,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-##### Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques.<a id=112></a>
+##### Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques.<a id=114></a>
 
 ###### Article L622-20
 
@@ -10278,7 +10447,62 @@ _Cité par_:
   - Code du patrimoine - art. L624-1 (V)
 
 
-#### Chapitre 3 : Dispositions fiscales.<a id=113></a>
+##### Section 3 : Dispositions communes aux objets classés et aux objets inscrits.<a id=115></a>
+
+###### Article L622-24
+
+Le propriétaire ou l'affectataire domanial a la responsabilité de la conservation de l'objet mobilier classé ou inscrit qui
+lui appartient ou qui lui est affecté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Créé par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005
+
+_Cité par_:
+
+  - Code du patrimoine - art. L642-2 (MMN)
+
+
+###### Article L622-26
+
+En cas de mutation d'un objet mobilier classé ou inscrit, le propriétaire ou l'affectataire domanial transmet les études et
+les documents afférents aux travaux de conservation ou de restauration réalisés sur cet objet mobilier au nouveau
+propriétaire ou au nouvel affectataire domanial.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Créé par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005
+
+
+###### Article L622-29
+
+Les effets du classement ou de l'inscription au titre des monuments historiques d'un objet mobilier suivent l'objet en
+quelques mains qu'il passe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Créé par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005
+
+
+#### Chapitre 3 : Dispositions fiscales.<a id=116></a>
 
 ###### Article L623-1
 
@@ -10305,7 +10529,7 @@ _Cité par_:
   - Code du patrimoine - art. L720-1 (MMN)
 
 
-#### Chapitre 4 : Dispositions pénales.<a id=114></a>
+#### Chapitre 4 : Dispositions pénales.<a id=117></a>
 
 ###### Article L624-1
 
@@ -10534,7 +10758,7 @@ _Cite_:
   - Code du patrimoine - art. L623-1 (V)
 
 
-### TITRE III : SITES.<a id=115></a>
+### TITRE III : SITES.<a id=118></a>
 
 ###### Article L630-1
 
@@ -10818,9 +11042,9 @@ _Cité par_:
   - Code du patrimoine. - art. L730-1 (M)
 
 
-### TITRE IV : ESPACES PROTÉGÉS<a id=116></a>
+### TITRE IV : ESPACES PROTÉGÉS<a id=119></a>
 
-#### Chapitre 1er : Secteurs sauvegardés.<a id=117></a>
+#### Chapitre 1er : Secteurs sauvegardés.<a id=120></a>
 
 ###### Article L641-1
 
@@ -11019,7 +11243,7 @@ _Cité par_:
   - Code du patrimoine. - art. L720-1 (V)
 
 
-#### Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager.<a id=118></a>
+#### Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager.<a id=121></a>
 
 ###### Article L642-1
 
@@ -11224,11 +11448,12 @@ _Cité par_:
 ###### Article L642-5
 
 Lorsqu'un monument historique est situé sur une zone de protection du patrimoine architectural, urbain et paysager, les
-servitudes d'utilité publique instituées pour la protection de son champ de visibilité, en application des articles L. 621-1,
-L. 621-31 et L. 621-32, ne sont pas applicables.
+servitudes d'utilité publique instituées pour la protection de son champ de visibilité, en application des articles L.
+621-30-1, L. 621-31 et L. 621-32, ne sont pas applicables.
 
 Les immeubles situés dans une zone de protection du patrimoine architectural, urbain et paysager ne sont pas soumis aux
-servitudes d'utilité publique instituées en application des articles L. 621-1, L. 621-31, L. 621-32 et L. 630-1.
+servitudes d'utilité publique instituées en application des articles L. 621-30-1, L. 621-31 et L. 621-32 du présent code et
+de l'article L. 341-1 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -11241,18 +11466,22 @@ _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 30 () JORF 9 septembre 2005
+
+_Cite_:
+
+  - Code de l'environnement - art. L341-1 (M)
+  - Code du patrimoine. - art. L621-30-1 (V)
+  - Code du patrimoine. - art. L621-31 (M)
+  - Code du patrimoine. - art. L621-32 (M)
+
 _Cité par_:
 
   - Code de l'urbanisme - art. R*423-68 (M)
   - Code du patrimoine - art. D642-2 (Ab)
   - Code du patrimoine - art. L642-6 (Ab)
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-1 (M)
-  - Code du patrimoine. - art. L621-31 (M)
-  - Code du patrimoine. - art. L621-32 (M)
-  - Code du patrimoine. - art. L630-1 (M)
 
 
 ###### Article L642-6
@@ -11308,7 +11537,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-#### Chapitre 3 : Dispositions fiscales.<a id=119></a>
+#### Chapitre 3 : Dispositions fiscales.<a id=122></a>
 
 ###### Article L643-1
 
@@ -11336,9 +11565,9 @@ _Cité par_:
   - Code du patrimoine. - art. L720-1 (M)
 
 
-## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=120></a>
+## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=123></a>
 
-### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON.<a id=121></a>
+### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON.<a id=124></a>
 
 ###### Article L720-1
 
@@ -11399,7 +11628,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE.<a id=122></a>
+### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE.<a id=125></a>
 
 ###### Article L730-1
 
@@ -11507,7 +11736,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE.<a id=123></a>
+### TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE.<a id=126></a>
 
 ###### Article L740-1
 
@@ -11604,7 +11833,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE.<a id=124></a>
+### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE.<a id=127></a>
 
 ###### Article L750-1
 
@@ -11684,7 +11913,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA.<a id=125></a>
+### TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA.<a id=128></a>
 
 ###### Article L760-1
 
@@ -11802,7 +12031,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES.<a id=126></a>
+### TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES.<a id=129></a>
 
 ###### Article L770-1
 
