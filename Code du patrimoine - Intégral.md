@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2005-09-09
+Version Consolidée au 2005-09-10
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-14)](#2)
@@ -106,7 +106,7 @@ Version Consolidée au 2005-09-09
         - [Chapitre 2 : Institutions locales. (art. L612-1 à L612-3)](#103)
       - [TITRE II : MONUMENTS HISTORIQUES (art. L621-1 à L624-7)](#104)
         - [Chapitre 1er : Immeubles (art. L621-1 à L621-34)](#105)
-          - [Section 1 : Classement des immeubles. (art. L621-1 à L621-24)](#106)
+          - [Section 1 : Classement des immeubles. (art. L621-1 à L621-22)](#106)
           - [Section 2 : Inscription des immeubles. (art. L621-25 à L621-28)](#107)
           - [Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques. (art. L621-27 à L621-29)](#108)
           - [Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits. (art. L621-29-1 à L621-29-6)](#109)
@@ -9280,54 +9280,6 @@ _Cité par_:
   - Code du patrimoine - art. L622-24 (MMN)
   - Code du patrimoine - art. L642-1 (V)
   - Code du patrimoine - art. R621-52 (V)
-
-
-###### Article L621-23
-
-Les effets du classement suivent l'immeuble classé au titre des monuments historiques, en quelques mains qu'il passe.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1913-12-31 art. 8 al. 1
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 8 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 10
-
-
-###### Article L621-24
-
-Quiconque aliène un immeuble classé au titre des monuments historiques est tenu de faire connaître à l'acquéreur l'existence
-du classement.
-
-Toute aliénation d'un immeuble classé au titre des monuments historiques doit, dans les quinze jours de sa date, être
-notifiée à l'autorité administrative par celui qui l'a consentie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1913-12-31 art. 8 al. 2, al. 3
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 8 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 10
-
-_Cité par_:
-
-  - Code du patrimoine - art. L624-1 (V)
 
 
 ##### Section 2 : Inscription des immeubles.<a id=107></a>
