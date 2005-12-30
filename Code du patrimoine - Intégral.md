@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2005-09-10
+Version Consolidée au 2005-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-14)](#2)
@@ -1608,17 +1608,21 @@ _Cite_:
 ###### Article L122-9
 
 Les règles relatives à la taxe sur les ventes de métaux précieux, bijoux et objets d'art, de collection et d'antiquité sont
-fixées par les articles 150 V bis à 150 V sexies du code général des impôts.
+fixées par les articles 150 VI à 150 VK du code général des impôts.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 150 V bis à 150 V sexies
 
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 68 (V) JORF 31 décembre 2005
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 150 VI (V)
 
 
 ###### Article L122-10
