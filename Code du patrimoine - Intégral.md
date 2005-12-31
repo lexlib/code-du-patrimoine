@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-14)](#2)
@@ -3540,21 +3540,33 @@ _Cité par_:
 
 ###### Article L212-30
 
-Le régime des archives en cas de liquidation judiciaire d'une entreprise est fixé à l'article L. 622-19 du code de commerce
-ci-après reproduit :
+Le régime des archives en cas de liquidation judiciaire d'une entreprise est fixé à l'article L. 642-23 du code de commerce
+ci-après reproduit : 
 
-" Art. L. 622-19. - Avant toute vente ou destruction des archives du débiteur, le liquidateur en informe l'autorité
-administrative compétente pour la conservation des archives. Cette autorité dispose d'un droit de préemption. "
+" Art. L. 642-23. - Avant toute vente ou destruction des archives du débiteur, le liquidateur en informe l'autorité
+administrative compétente pour la conservation des archives. Cette autorité dispose d'un droit de préemption. 
+
+" La destination des archives du débiteur soumis au secret professionnel est déterminée par le liquidateur en accord avec
+l'ordre professionnel ou l'autorité compétente dont il relève. "
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
 
-_Cite_:
+_Modifié par_:
 
-  - Code de commerce. - art. L622-19 (M)
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+  - Loi n°2005-845 du 26 juillet 2005 - art. 116 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 3
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de commerce - art. L642-23
 
 _Cité par_:
 
@@ -6636,19 +6648,15 @@ _Cite_:
 ###### Article L524-9
 
 La redevance d'archéologie préventive est exigible immédiatement à la date d'ordonnancement du titre de recettes. La date
-limite de paiement est fixée au dernier jour du mois qui suit la date de cet ordonnancement.
+limite de paiement est fixée au dernier jour du mois qui suit la date de cet ordonnancement. 
 
 Lorsque le délai de remise des titres au comptable est supérieur à trois jours, la date de prise en charge des titres par le
-comptable constitue le point de départ pour l'application de la date limite de paiement.
+comptable constitue le point de départ pour l'application de la date limite de paiement. 
 
 Lorsque la redevance n'a pas été réglée à la date limite de paiement, elle fait l'objet de la majoration de 10 % prévue à
-l'article 1761 du code général des impôts. Une lettre de rappel est adressée au redevable.
+l'article 1730 du code général des impôts. Une lettre de rappel est adressée au redevable.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1761
 
 _Anciens textes_:
 
@@ -6658,6 +6666,19 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 24 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 25 (V) JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1730 (V)
 
 
 ###### Article L524-10
