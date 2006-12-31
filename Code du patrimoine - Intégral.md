@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2007-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -108,28 +108,30 @@ Version Consolidée au 2006-12-27
         - [Chapitre 1er : Immeubles (art. L621-1 à L621-34)](#105)
           - [Section 1 : Classement des immeubles. (art. L621-1 à L621-22)](#106)
           - [Section 2 : Inscription des immeubles. (art. L621-25 à L621-28)](#107)
-          - [Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques. (art. L621-27 à L621-29)](#108)
+          - [Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques. (art. L621-29)](#108)
           - [Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits. (art. L621-29-1 à L621-29-8)](#109)
           - [Section 3 : Dispositions relatives aux immeubles ni classés ni inscrits soumis à la législation sur les monuments historiques. (art. L621-30 à L621-32)](#110)
-          - [Section 4 : Dispositions diverses. (art. L621-33 à L621-34)](#111)
-        - [Chapitre 2 : Objets mobiliers (art. L622-1 à L622-29)](#112)
-          - [Section 1 : Classement des objets mobiliers. (art. L622-1 à L622-19)](#113)
-          - [Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques. (art. L622-20 à L622-21)](#114)
-          - [Section 3 : Dispositions communes aux objets classés et aux objets inscrits. (art. L622-24 à L622-29)](#115)
-        - [Chapitre 3 : Dispositions fiscales. (art. L623-1)](#116)
-        - [Chapitre 4 : Dispositions pénales. (art. L624-1 à L624-7)](#117)
-      - [TITRE III : SITES. (art. L630-1)](#118)
-      - [TITRE IV : ESPACES PROTÉGÉS (art. L641-1 à L643-1)](#119)
-        - [Chapitre 1er : Secteurs sauvegardés. (art. L641-1 à L641-2)](#120)
-        - [Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager. (art. L642-1 à L642-7)](#121)
-        - [Chapitre 3 : Dispositions fiscales. (art. L643-1)](#122)
-    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L720-1 à L770-4)](#123)
-      - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON. (art. L720-1 à L720-3)](#124)
-      - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE. (art. L730-1 à L730-5)](#125)
-      - [TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE. (art. L740-1 à L740-5)](#126)
-      - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE. (art. L750-1 à L750-4)](#127)
-      - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA. (art. L760-1 à L760-6)](#128)
-      - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES. (art. L770-1 à L770-4)](#129)
+          - [Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits (art. L621-31)](#111)
+          - [Section 5 : Dispositions diverses. (art. L621-33 à L621-34)](#112)
+        - [Chapitre 2 : Objets mobiliers (art. L622-1 à L622-29)](#113)
+          - [Section 1 : Classement des objets mobiliers. (art. L622-1 à L622-19)](#114)
+          - [Section 2 : Inscription des objets mobiliers. (art. L622-23)](#115)
+          - [Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques. (art. L622-20 à L622-21)](#116)
+          - [Section 3 : Dispositions communes aux objets classés et aux objets inscrits. (art. L622-24 à L622-29)](#117)
+        - [Chapitre 3 : Dispositions fiscales. (art. L623-1)](#118)
+        - [Chapitre 4 : Dispositions pénales. (art. L624-1 à L624-7)](#119)
+      - [TITRE III : SITES. (art. L630-1)](#120)
+      - [TITRE IV : ESPACES PROTÉGÉS (art. L641-1 à L643-1)](#121)
+        - [Chapitre 1er : Secteurs sauvegardés. (art. L641-1 à L641-2)](#122)
+        - [Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager. (art. L642-1 à L642-7)](#123)
+        - [Chapitre 3 : Dispositions fiscales. (art. L643-1)](#124)
+    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L720-1 à L770-4)](#125)
+      - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON. (art. L720-1 à L720-3)](#126)
+      - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE. (art. L730-1 à L730-5)](#127)
+      - [TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE. (art. L740-1 à L740-5)](#128)
+      - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE. (art. L750-1 à L750-4)](#129)
+      - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA. (art. L760-1 à L760-6)](#130)
+      - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES. (art. L770-1 à L770-4)](#131)
 # Partie législative<a id=1></a>
 
 ###### Article L1
@@ -8846,62 +8848,6 @@ _Cité par_:
   - Code pénal - art. R645-13 (V)
 
 
-###### Article L621-2
-
-Est considéré, pour l'application du présent titre, comme étant situé dans le champ de visibilité d'un immeuble classé ou
-proposé pour le classement tout autre immeuble, nu ou bâti, visible du premier ou visible en même temps que lui et situé dans
-un périmètre n'excédant pas 500 mètres. A titre exceptionnel, ce périmètre peut être étendu à plus de 500 mètres. Un décret
-en Conseil d'Etat, pris après avis de la Commission supérieure des monuments historiques, déterminera les monuments auxquels
-s'applique cette extension et délimitera le périmètre de protection propre à chacun d'eux.
-
-Lors de l'élaboration ou de la révision d'un plan local d'urbanisme, le périmètre de 500 mètres mentionné au premier alinéa
-peut, sur proposition de l'architecte des Bâtiments de France et après accord de la commune, être modifié de façon à désigner
-des ensembles d'immeubles et des espaces qui participent de l'environnement du monument pour en préserver le caractère ou
-contribuer à en améliorer la qualité. Le périmètre est soumis à enquête publique conjointement avec le plan local
-d'urbanisme. Il est annexé au plan local d'urbanisme dans les conditions prévues à l'article L. 126-1 du code de l'urbanisme.
-
-**Nota:**
-
-NOTA : Ordonnance n° 2005-1128, art. 38 : " Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34,
-35 et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007".
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 1 (V)
-  - Loi n°1913-12-31 art. 1er al. 5 (à partir de la 2ème phrase), al. 6
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Modifié par_:
-
-  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 4 () JORF 9 septembre 2005 en vigueur au plus tard le 1er janvier 2007
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L126-1 (M)
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. L313-2-1 (M)
-  - Code de l'urbanisme - art. R*123-15 (M)
-  - Code de la construction et de l'habitation. - art. R511-2 (M)
-  - Code de la santé publique - art. R1331-4 (M)
-  - Code du patrimoine. - art. L611-1 (M)
-  - Code minier - art. 79 (VT)
-
-_Nouveaux textes_:
-
-  - Code du patrimoine. - art. L621-30-1 (V)
-
-
 ###### Article L621-3
 
 Sont également classés et soumis aux dispositions du présent titre :
@@ -9161,23 +9107,39 @@ _Cité par_:
 
 Les règles applicables aux travaux exemptés de permis de construire sur un immeuble classé au titre des monuments historiques
 sont fixées au premier alinéa de l'article L. 422-1, au premier alinéa de l'article L. 422-2 et aux deuxième et troisième
-alinéas de l'article L. 422-4 du code de l'urbanisme ci-après reproduits :
+alinéas de l'article L. 422-4 du code de l'urbanisme ci-après reproduits : 
 
-" Art. L. 422-1, alinéa 1er. - Sont exemptés du permis de construire les constructions ou travaux couverts par le secret de
-la défense nationale, les dispositifs techniques nécessaires aux systèmes de radiocommunication numérique de la police et de
-la gendarmerie nationales, les travaux de ravalement, les travaux sur les immeubles classés. Il en est de même des travaux
-relatifs à la reconstruction d'établissements pénitentiaires après mutinerie ou des travaux réalisés à l'intérieur de
-l'enceinte de ces établissements nécessitant le secret pour des raisons de sécurité. "
+" Art. L. 422-1, alinéa 1er.-Sont exemptés du permis de construire les constructions ou travaux couverts par le secret de la
+défense nationale, les dispositifs techniques nécessaires aux systèmes de radiocommunication numérique de la police et de la
+gendarmerie nationales, les travaux d'entretien ou de réparations ordinaires des immeubles inscrits et les travaux de
+ravalement, à l'exception de ceux portant sur les immeubles inscrits. Sont également exemptés les travaux d'entretien, de
+réparation ou de restauration des immeubles classés. Il en est de même des travaux relatifs à la reconstruction
+d'établissements pénitentiaires après mutinerie ou des travaux réalisés à l'intérieur de l'enceinte de ces établissements
+nécessitant le secret pour des raisons de sécurité. " 
 
-" Art. L. 422-2, alinéa 1er. - Les constructions ou travaux exemptés du permis de construire, à l'exception de ceux couverts
+" Art. L. 422-2, alinéa 1er.-Les constructions ou travaux exemptés du permis de construire, à l'exception de ceux couverts
 par le secret de la défense nationale et de ceux, visés au premier alinéa de l'article L. 422-1, répondant aux besoins des
 services du ministère de l'intérieur ou des établissements pénitentiaires, font l'objet d'une déclaration auprès du maire de
-la commune avant le commencement des travaux. "
+la commune avant le commencement des travaux. " 
 
-" Art. L. 422-4, alinéas 2 et 3. - Pour les immeubles classés, la déclaration prévue à l'article L. 422-2 ne tient pas lieu
-de la demande d'autorisation mentionnée à l'article L. 621-9 du code du patrimoine.
+" Art. L. 422-4, alinéas 2 et 3.-Pour les immeubles classés, la déclaration prévue à l'article L. 422-2 ne tient pas lieu de
+la demande d'autorisation mentionnée à l'article L. 621-9 du code du patrimoine. 
 
 " Les dispositions de l'article L. 422-3 ne sont pas applicables aux immeubles classés. "
+
+**Nota:**
+
+NOTA : Ordonnance n° 2005-1128, art. 38 : "Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34,
+35 et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007."
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -9185,8 +9147,17 @@ _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 33
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 38
+
 _Cite_:
 
+  - Code de l'urbanisme - art. L422-1 (V)
   - Code de l'urbanisme - art. L422-4 (M)
   - Code de l'urbanisme L422-4, L621-9
   - Code du patrimoine L422-1, L422-2, L422-3
@@ -9634,6 +9605,70 @@ _Cité par_:
   - Code du patrimoine - art. L642-1 (MMN)
 
 
+###### Article L621-27
+
+L'inscription au titre des monuments historiques est notifiée aux propriétaires et entraînera pour eux l'obligation de ne
+procéder à aucune modification de l'immeuble ou partie de l'immeuble inscrit, sans avoir, quatre mois auparavant, avisé
+l'autorité administrative de leur intention et indiqué les travaux qu'ils se proposent de réaliser.
+
+Lorsque les constructions ou les travaux envisagés sur les immeubles inscrits au titre des monuments historiques sont soumis
+à permis de construire ou à permis de démolir, celui-ci ne peut être délivré sans l'accord de l'autorité administrative
+chargée des monuments historiques (1).
+
+Les autres travaux envisagés sur les immeubles inscrits au titre des monuments historiques ne peuvent être entrepris sans la
+déclaration prévue au premier alinéa. L'autorité administrative ne peut s'opposer à ces travaux qu'en engageant la procédure
+de classement au titre des monuments historiques prévue par le présent titre (1).
+
+Les travaux sur les immeubles inscrits sont exécutés sous le contrôle scientifique et technique des services de l'Etat
+chargés des monuments historiques (1).
+
+**Nota:**
+
+NOTA : Ordonnance n° 2005-1128, art. 38 : "Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34,
+35 et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007."
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°1913-12-31 du 31 décembre 1913 - art. 2 (V)
+  - Loi n°1913-12-31 art. 2 al. 6 à 8
+
+_Codifié par_:
+
+  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance 2005-1128 2005-09-08 art. 11 I, III, art. 12 JORF 9 septembre 2005 en vigueur le 1er janvier 2007
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 11 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 12 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 41 (Ab)
+  - Décret n°2007-487 du 30 mars 2007 - art. 95 (Ab)
+  - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
+  - Code de l'environnement - art. L341-10 (V)
+  - Code de l'urbanisme - art. L421-6 (V)
+  - Code de l'urbanisme - art. L425-4 (MMN)
+  - Code de l'urbanisme - art. R*423-10 (V)
+  - Code de l'urbanisme - art. R*423-66 (V)
+  - Code de l'urbanisme - art. R*425-16 (V)
+  - Code du domaine de l'Etat - art. R27 (Ab)
+  - Code du patrimoine - art. D642-15 (Ab)
+  - Code du patrimoine - art. L621-33 (MMN)
+  - Code du patrimoine - art. L624-1 (V)
+  - Code du patrimoine - art. L641-1 (MMN)
+  - Code du patrimoine - art. L720-1 (MMN)
+  - Code du patrimoine - art. R621-62-1 (Ab)
+  - Code du patrimoine - art. R621-91-1 (V)
+  - Code du patrimoine. - art. L621-31 (M)
+  - Code du patrimoine. - art. R621-60 (V)
+  - Code du patrimoine. - art. R621-61 (V)
+  - Code du patrimoine. - art. R621-63 (V)
+
+
 ###### Article L621-28
 
 Les règles applicables aux travaux d'entretien ou de réparations ordinaires exemptés du permis de construire sur un immeuble
@@ -9679,56 +9714,6 @@ _Cité par_:
 
 
 ##### Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques.<a id=108></a>
-
-###### Article L621-27
-
-L'inscription sur l'inventaire supplémentaire des monuments historiques est notifiée aux propriétaires et entraînera pour eux
-l'obligation de ne procéder à aucune modification de l'immeuble ou partie de l'immeuble inscrit, sans avoir, quatre mois
-auparavant, avisé l'autorité administrative de leur intention et indiqué les travaux qu'ils se proposent de réaliser.
-
-L'autorité administrative ne peut s'opposer auxdits travaux qu'en engageant la procédure de classement au titre des monuments
-historiques telle qu'elle est prévue par le présent titre.
-
-Toutefois, si lesdits travaux avaient pour dessein ou pour effet d'opérer le morcellement ou le dépeçage de l'édifice ou de
-la partie d'édifice inscrit à l'inventaire dans le seul but de vendre en totalité ou en partie les matériaux ainsi détachés,
-l'autorité administrative dispose d'un délai de cinq années pour procéder au classement au titre des monuments historiques et
-peut, en attendant, ordonner qu'il soit sursis aux travaux dont il s'agit.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 2 (V)
-  - Loi n°1913-12-31 art. 2 al. 6 à 8
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Cité par_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 41 (Ab)
-  - Décret n°2007-487 du 30 mars 2007 - art. 95 (Ab)
-  - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
-  - Code de l'environnement - art. L341-10 (V)
-  - Code de l'urbanisme - art. L421-6 (V)
-  - Code de l'urbanisme - art. L425-4 (MMN)
-  - Code de l'urbanisme - art. R*423-10 (V)
-  - Code de l'urbanisme - art. R*423-66 (V)
-  - Code de l'urbanisme - art. R*425-16 (V)
-  - Code du domaine de l'Etat - art. R27 (Ab)
-  - Code du patrimoine - art. D642-15 (Ab)
-  - Code du patrimoine - art. L621-33 (MMN)
-  - Code du patrimoine - art. L624-1 (V)
-  - Code du patrimoine - art. L641-1 (MMN)
-  - Code du patrimoine - art. L720-1 (MMN)
-  - Code du patrimoine - art. R621-62-1 (Ab)
-  - Code du patrimoine - art. R621-91-1 (V)
-  - Code du patrimoine. - art. L621-31 (M)
-  - Code du patrimoine. - art. R621-60 (V)
-  - Code du patrimoine. - art. R621-61 (V)
-  - Code du patrimoine. - art. R621-63 (V)
-
 
 ###### Article L621-29
 
@@ -9826,6 +9811,26 @@ _Cité par_:
   - Code du patrimoine - art. L642-1 (V)
 
 
+###### Article L621-29-7
+
+Pour l'application des articles 829
+,860 et 922 du code civil, lorsqu'un immeuble classé ou inscrit au titre des monuments historiques, transmis par donation ou
+succession, est affecté d'une clause d'inaliénabilité, l'évaluation de l'immeuble est diminuée des charges, y compris
+d'entretien, nécessaires à sa préservation durant toute la durée de la clause.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 37 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 829
+  - Code civil - art. 860
+  - Code civil - art. 922
+
+
 ###### Article L621-29-8
 
 Par dérogation à l'article L. 581-2 du code de l'environnement, dans le cadre de l'instruction des demandes d'autorisation de
@@ -9920,73 +9925,6 @@ _Cité par_:
   - Code du patrimoine. - art. L624-2 (V)
 
 
-###### Article L621-31
-
-Lorsqu'un immeuble est situé dans le champ de visibilité d'un édifice classé au titre des monuments historiques ou inscrit,
-il ne peut faire l'objet, tant de la part des propriétaires privés que des collectivités et établissements publics, d'aucune
-construction nouvelle, d'aucune démolition, d'aucun déboisement, d'aucune transformation ou modification de nature à en
-affecter l'aspect, sans une autorisation préalable.
-
-Le permis de construire tient lieu de l'autorisation prévue à l'alinéa précédent s'il est revêtu du visa de l'architecte des
-Bâtiments de France.
-
-En cas de désaccord soit du maire ou de l'autorité administrative compétente pour délivrer l'autorisation ou le permis de
-construire, soit du pétitionnaire avec l'avis émis par l'architecte des Bâtiments de France, le représentant de l'Etat dans
-la région émet, après consultation de la section de la commission régionale du patrimoine et des sites, un avis qui se
-substitue à celui de l'architecte des Bâtiments de France. Le recours du pétitionnaire s'exerce à l'occasion du refus
-d'autorisation de travaux. Si le représentant de l'Etat infirme l'avis de l'architecte des Bâtiments de France, le maire ou
-l'autorité administrative compétente est fondé à délivrer l'autorisation ou le permis de construire initialement refusé. Les
-délais de saisine du préfet de région et ceux impartis à la section de la commission régionale du patrimoine et des sites, au
-préfet ou au maire, ou à l'autorité administrative compétente pour statuer sont fixés par décret en Conseil d'Etat.
-
-Le ministre chargé de la culture peut évoquer tout dossier dont l'architecte des Bâtiments de France ou le représentant de
-l'Etat dans la région est saisi en application du présent article. L'autorisation ou le permis de construire ne peut dès lors
-être délivré qu'avec son accord.
-
-Dans la collectivité territoriale de Corse, les compétences dévolues au préfet de région par le présent article sont exercées
-par le préfet de Corse.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 13 bis (Ab)
-  - Loi n°1913-12-31 art. 13 bis
-
-_Cité par_:
-
-  - Décret n°99-78 du 5 février 1999 - art. 2-1 (Ab)
-  - Décret n°2007-487 du 30 mars 2007 - art. 52 (Ab)
-  - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
-  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
-  - Loi n°2016-925 du 7 juillet 2016 - art. 119 (V)
-  - Code de l'environnement - art. L341-10 (V)
-  - Code de l'urbanisme - art. L313-2-1 (Ab)
-  - Code de l'urbanisme - art. L421-6 (V)
-  - Code de l'urbanisme - art. L430-1 (Ab)
-  - Code de l'urbanisme - art. L430-8 (Ab)
-  - Code de l'urbanisme - art. R*424-14 (V)
-  - Code de l'urbanisme - art. R*425-1 (M)
-  - Code de l'urbanisme - art. R132-2 (V)
-  - Code du patrimoine - art. L611-1 (V)
-  - Code du patrimoine - art. L611-2 (MMN)
-  - Code du patrimoine - art. L621-30 (V)
-  - Code du patrimoine - art. L624-3 (V)
-  - Code du patrimoine - art. L642-7 (Ab)
-  - Code du patrimoine - art. R621-94 (V)
-  - Code du patrimoine. - art. L612-1 (V)
-  - Code du patrimoine. - art. L621-32 (M)
-  - Code du patrimoine. - art. L621-34 (Ab)
-  - Code du patrimoine. - art. L624-2 (V)
-  - Code du patrimoine. - art. L642-5 (V)
-  - Code du patrimoine. - art. R612-3 (M)
-  - Code du patrimoine. - art. R621-96 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-
 ###### Article L621-32
 
 Lorsqu'elle ne concerne pas des travaux pour lesquels le permis de construire, le permis de démolir ou l'autorisation
@@ -10056,7 +9994,102 @@ _Cite_:
   - Code de l'urbanisme - art. L442-1 (M)
 
 
-##### Section 4 : Dispositions diverses.<a id=111></a>
+##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits<a id=111></a>
+
+###### Article L621-31
+
+Lorsqu'un immeuble est situé dans le champ de visibilité d'un édifice classé au titre des monuments historiques ou inscrit,
+il ne peut faire l'objet, tant de la part des propriétaires privés que des collectivités et établissements publics, d'aucune
+construction nouvelle, d'aucune démolition, d'aucun déboisement, d'aucune transformation ou modification de nature à en
+affecter l'aspect, sans une autorisation préalable.
+
+La même autorisation est nécessaire lorsque l'immeuble est situé dans le champ de visibilité d'un parc ou d'un jardin classé
+ou inscrit ne comportant pas d'édifice, si le périmètre de protection de ce parc ou de ce jardin a été délimité dans les
+conditions fixées aux deuxième ou troisième alinéas de l'article L. 621-30-1.
+
+Si cet immeuble est classé au titre des monuments historiques, l'autorisation est celle prévue au premier alinéa de l'article
+L. 621-9. Si l'immeuble n'est pas classé, le permis de construire ou le permis de démolir tient lieu de l'autorisation si
+l'architecte des Bâtiments de France a donné son accord.
+
+Les travaux soumis à permis de construire ou permis de démolir et portant sur des immeubles inscrits ou des immeubles adossés
+à des immeubles classés ne sont soumis qu'à l'accord de l'autorité administrative prévu respectivement aux articles L. 621-27
+et L. 621-30.
+
+En cas de désaccord soit du maire ou de l'autorité administrative compétente pour délivrer l'autorisation, le permis de
+construire ou le permis de démolir, soit du pétitionnaire avec l'avis émis par l'architecte des Bâtiments de France, le
+représentant de l'Etat dans la région émet, après consultation de la section de la commission régionale du patrimoine et des
+sites, un avis qui se substitue à celui de l'architecte des Bâtiments de France. Le recours du pétitionnaire s'exerce à
+l'occasion du refus d'autorisation de travaux. Si le représentant de l'Etat infirme l'avis de l'architecte des Bâtiments de
+France, le maire ou l'autorité administrative compétente est fondé à délivrer l'autorisation, le permis de construire ou le
+permis de démolir initialement refusé. Les délais de saisine du préfet de région et ceux impartis à la section de la
+commission régionale du patrimoine et des sites, au préfet ou au maire, ou à l'autorité administrative compétente pour
+statuer sont fixés par décret en Conseil d'Etat.
+
+Le ministre chargé de la culture peut évoquer tout dossier dont l'architecte des Bâtiments de France ou le représentant de
+l'Etat dans la région est saisi en application du présent article. L'autorisation, le permis de construire ou le permis de
+démolir ne peut dès lors être délivré qu'avec son accord.
+
+Dans la collectivité territoriale de Corse, les compétences dévolues au préfet de région par le présent article sont exercées
+par le préfet de Corse.
+
+**Nota:**
+
+NOTA : Ordonnance n° 2005-1128, art. 38 : "Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34,
+35 et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°1913-12-31 du 31 décembre 1913 - art. 13 bis (Ab)
+  - Loi n°1913-12-31 art. 13 bis
+
+_Cité par_:
+
+  - Décret n°99-78 du 5 février 1999 - art. 2-1 (Ab)
+  - Décret n°2007-487 du 30 mars 2007 - art. 52 (Ab)
+  - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
+  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+  - Loi n°2016-925 du 7 juillet 2016 - art. 119 (V)
+  - Code de l'environnement - art. L341-10 (V)
+  - Code de l'urbanisme - art. L313-2-1 (Ab)
+  - Code de l'urbanisme - art. L421-6 (V)
+  - Code de l'urbanisme - art. L430-1 (Ab)
+  - Code de l'urbanisme - art. L430-8 (Ab)
+  - Code de l'urbanisme - art. R*424-14 (V)
+  - Code de l'urbanisme - art. R*425-1 (M)
+  - Code de l'urbanisme - art. R132-2 (V)
+  - Code du patrimoine - art. L611-1 (V)
+  - Code du patrimoine - art. L611-2 (MMN)
+  - Code du patrimoine - art. L621-30 (V)
+  - Code du patrimoine - art. L624-3 (V)
+  - Code du patrimoine - art. L642-7 (Ab)
+  - Code du patrimoine - art. R621-94 (V)
+  - Code du patrimoine. - art. L612-1 (V)
+  - Code du patrimoine. - art. L621-32 (M)
+  - Code du patrimoine. - art. L621-34 (Ab)
+  - Code du patrimoine. - art. L624-2 (V)
+  - Code du patrimoine. - art. L642-5 (V)
+  - Code du patrimoine. - art. R612-3 (M)
+  - Code du patrimoine. - art. R621-96 (M)
+
+_Codifié par_:
+
+  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF septembre 2005 en vigueur le 1er janvier 2007
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 16 () JORF septembre 2005 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-27 (M)
+  - Code du patrimoine. - art. L621-30-1 (V)
+  - Code du patrimoine. - art. L621-9 (AbD)
+
+
+##### Section 5 : Dispositions diverses.<a id=112></a>
 
 ###### Article L621-33
 
@@ -10076,6 +10109,10 @@ _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
+
 _Cité par_:
 
   - Code du patrimoine - art. R621-97 (V)
@@ -10083,15 +10120,23 @@ _Cité par_:
 
 ###### Article L621-34
 
-Les règles applicables en matière de permis de démolir sur un immeuble inscrit ou situé en abord de monument historique sont
-fixées à l'article L. 430-8 du code de l'urbanisme ci-après reproduit :
+Les règles relatives à l'instruction du permis de démolir portant sur les immeubles inscrits, adossés ou situés dans le champ
+de visibilité d'un immeuble classé ou inscrit mentionnés aux articles L. 621-25, L. 621-30 et L. 621-31 du présent code sont
+régies par les dispositions des articles L. 430-4 et L. 430-8 du code de l'urbanisme.
 
-" Art. L. 430-8. - Le permis de démolir tient lieu des autorisations prévues par l'article L. 621-31 du code du patrimoine,
-par l'article L. 341-7 du code de l'environnement et par l'article L. 313-2. Dans chacun de ces cas, ainsi que lorsque la
-démolition prévue concerne un immeuble ou une partie d'immeuble inscrit à l'inventaire supplémentaire des monuments
-historiques ou protégé au titre de l'article L. 341-1 du code de l'environnement, il est délivré, après accord exprès ou
-tacite du ministre chargé des monuments historiques et des sites ou de son délégué, qui peut subordonner cet accord au
-respect de certaines conditions. "
+**Nota:**
+
+NOTA : Ordonnance n° 2005-1128, art. 38 : "Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34,
+35 et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007".
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -10099,13 +10144,22 @@ _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 18 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 38 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
 _Cite_:
 
+  - Code de l'urbanisme - art. L430-4 (Ab)
   - Code de l'urbanisme - art. L430-8 (M)
-  - Code de l'urbanisme L430-8, L621-31
-  - Code de l'environnement - art. L341-1 (M)
-  - Code de l'environnement - art. L341-7 (V)
-  - Code du patrimoine L313-2
+  - Code du patrimoine. - art. L621-25 (M)
+  - Code du patrimoine. - art. L621-30 (M)
+  - Code du patrimoine. - art. L621-31 (M)
 
 _Cité par_:
 
@@ -10113,9 +10167,9 @@ _Cité par_:
   - Code du patrimoine. - art. L720-1 (V)
 
 
-#### Chapitre 2 : Objets mobiliers<a id=112></a>
+#### Chapitre 2 : Objets mobiliers<a id=113></a>
 
-##### Section 1 : Classement des objets mobiliers.<a id=113></a>
+##### Section 1 : Classement des objets mobiliers.<a id=114></a>
 
 ###### Article L622-1
 
@@ -10665,7 +10719,40 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-##### Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques.<a id=114></a>
+##### Section 2 : Inscription des objets mobiliers.<a id=115></a>
+
+###### Article L622-23
+
+Quiconque aliène un objet inscrit au titre des monuments historiques est tenu de faire connaître au futur acquéreur
+l'existence de l'inscription.
+
+L'objet mobilier inscrit au titre des monuments historiques appartenant à une collectivité territoriale ou à l'un de ses
+établissements publics ne peut être aliéné à titre gratuit ou onéreux sans que l'autorité administrative ne soit informée à
+l'avance de l'intention de cession dans un délai fixé par décret en Conseil d'Etat.
+
+Toute aliénation doit, dans un délai fixé par voie réglementaire, être notifiée à l'autorité administrative par celui qui l'a
+consentie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Cite_:
+
+  - Ordonnance 2005-1128 2005-09-08 art. 38
+
+_Créé par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 26 () JORF 9 septembre 2005 en vigueur le 1er avril 2007
+
+_Cité par_:
+
+  - Code du patrimoine - art. L642-1 (MMN)
+
+
+##### Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques.<a id=116></a>
 
 ###### Article L622-20
 
@@ -10719,7 +10806,7 @@ _Cité par_:
   - Code du patrimoine - art. L624-1 (V)
 
 
-##### Section 3 : Dispositions communes aux objets classés et aux objets inscrits.<a id=115></a>
+##### Section 3 : Dispositions communes aux objets classés et aux objets inscrits.<a id=117></a>
 
 ###### Article L622-24
 
@@ -10774,7 +10861,7 @@ _Créé par_:
   - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005
 
 
-#### Chapitre 3 : Dispositions fiscales.<a id=116></a>
+#### Chapitre 3 : Dispositions fiscales.<a id=118></a>
 
 ###### Article L623-1
 
@@ -10801,7 +10888,7 @@ _Cité par_:
   - Code du patrimoine - art. L720-1 (MMN)
 
 
-#### Chapitre 4 : Dispositions pénales.<a id=117></a>
+#### Chapitre 4 : Dispositions pénales.<a id=119></a>
 
 ###### Article L624-1
 
@@ -11030,7 +11117,7 @@ _Cite_:
   - Code du patrimoine - art. L623-1 (V)
 
 
-### TITRE III : SITES.<a id=118></a>
+### TITRE III : SITES.<a id=120></a>
 
 ###### Article L630-1
 
@@ -11314,9 +11401,9 @@ _Cité par_:
   - Code du patrimoine. - art. L730-1 (M)
 
 
-### TITRE IV : ESPACES PROTÉGÉS<a id=119></a>
+### TITRE IV : ESPACES PROTÉGÉS<a id=121></a>
 
-#### Chapitre 1er : Secteurs sauvegardés.<a id=120></a>
+#### Chapitre 1er : Secteurs sauvegardés.<a id=122></a>
 
 ###### Article L641-1
 
@@ -11526,11 +11613,12 @@ _Cité par_:
   - Code du patrimoine. - art. L720-1 (V)
 
 
-#### Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager.<a id=121></a>
+#### Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager.<a id=123></a>
 
 ###### Article L642-1
 
-Sur proposition ou après accord du conseil municipal des communes intéressées, des zones de protection du patrimoine
+Sur proposition du conseil municipal des communes intéressées ou de l'organe délibérant de l'établissement public de
+coopération intercommunale compétent en matière de plan local d'urbanisme, des zones de protection du patrimoine
 architectural, urbain et paysager peuvent être instituées autour des monuments historiques et dans les quartiers, sites et
 espaces à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou culturel.
 
@@ -11544,6 +11632,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 28 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -11589,14 +11681,20 @@ _Cité par_:
 Des prescriptions particulières en matière d'architecture et de paysages sont instituées à l'intérieur de ces zones ou
 parties de zone pour les travaux mentionnés à l'article L. 642-3.
 
-Après enquête publique, avis de la commission régionale du patrimoine et des sites mise en place par l'article L. 612-1 et
-accord du conseil municipal de la commune intéressée, la zone de protection est créée par décision de l'autorité
-administrative.
+Après enquête publique, avis de la commission régionale du patrimoine et des sites et accord de l'autorité administrative, la
+zone de protection est créée par décision du maire ou du président de l'établissement public de coopération intercommunale
+compétent en matière de plan local d'urbanisme.
 
 Le ministre compétent peut évoquer tout projet de zone de protection.
 
 Les dispositions de la zone de protection sont annexées au plan local d'urbanisme, dans les conditions prévues à l'article L.
 126-1 du code de l'urbanisme.
+
+La révision de tout ou partie d'une zone de protection du patrimoine architectural, urbain et paysager a lieu dans les formes
+prévues pour son élaboration. Toutefois, à condition qu'il ne soit pas porté atteinte à son économie générale, ni que soient
+réduits les espaces boisés classés, une zone de protection du patrimoine architectural, urbain et paysager peut être modifiée
+par arrêté de l'autorité compétente et après accord de l'autorité administrative. Le projet de modification est soumis à
+enquête publique.
 
 **Liens relatifs à cet article**
 
@@ -11621,6 +11719,10 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 29 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
 
 _Cite_:
 
@@ -11820,7 +11922,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-#### Chapitre 3 : Dispositions fiscales.<a id=122></a>
+#### Chapitre 3 : Dispositions fiscales.<a id=124></a>
 
 ###### Article L643-1
 
@@ -11848,9 +11950,9 @@ _Cité par_:
   - Code du patrimoine. - art. L720-1 (M)
 
 
-## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=123></a>
+## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=125></a>
 
-### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON.<a id=124></a>
+### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON.<a id=126></a>
 
 ###### Article L720-1
 
@@ -11911,7 +12013,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE.<a id=125></a>
+### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE.<a id=127></a>
 
 ###### Article L730-1
 
@@ -12001,7 +12103,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE.<a id=126></a>
+### TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE.<a id=128></a>
 
 ###### Article L740-1
 
@@ -12102,7 +12204,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE.<a id=127></a>
+### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE.<a id=129></a>
 
 ###### Article L750-1
 
@@ -12182,7 +12284,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA.<a id=128></a>
+### TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA.<a id=130></a>
 
 ###### Article L760-1
 
@@ -12304,7 +12406,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES.<a id=129></a>
+### TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES.<a id=131></a>
 
 ###### Article L770-1
 
