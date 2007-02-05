@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-02-06
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -108,30 +108,27 @@ Version Consolidée au 2007-01-01
         - [Chapitre 1er : Immeubles (art. L621-1 à L621-34)](#105)
           - [Section 1 : Classement des immeubles. (art. L621-1 à L621-22)](#106)
           - [Section 2 : Inscription des immeubles. (art. L621-25 à L621-28)](#107)
-          - [Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques. (art. L621-29)](#108)
-          - [Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits. (art. L621-29-1 à L621-29-8)](#109)
-          - [Section 3 : Dispositions relatives aux immeubles ni classés ni inscrits soumis à la législation sur les monuments historiques. (art. L621-30 à L621-32)](#110)
-          - [Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits (art. L621-31)](#111)
-          - [Section 5 : Dispositions diverses. (art. L621-33 à L621-34)](#112)
-        - [Chapitre 2 : Objets mobiliers (art. L622-1 à L622-29)](#113)
-          - [Section 1 : Classement des objets mobiliers. (art. L622-1 à L622-19)](#114)
-          - [Section 2 : Inscription des objets mobiliers. (art. L622-23)](#115)
-          - [Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques. (art. L622-20 à L622-21)](#116)
-          - [Section 3 : Dispositions communes aux objets classés et aux objets inscrits. (art. L622-24 à L622-29)](#117)
-        - [Chapitre 3 : Dispositions fiscales. (art. L623-1)](#118)
-        - [Chapitre 4 : Dispositions pénales. (art. L624-1 à L624-7)](#119)
-      - [TITRE III : SITES. (art. L630-1)](#120)
-      - [TITRE IV : ESPACES PROTÉGÉS (art. L641-1 à L643-1)](#121)
-        - [Chapitre 1er : Secteurs sauvegardés. (art. L641-1 à L641-2)](#122)
-        - [Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager. (art. L642-1 à L642-7)](#123)
-        - [Chapitre 3 : Dispositions fiscales. (art. L643-1)](#124)
-    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L720-1 à L770-4)](#125)
-      - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON. (art. L720-1 à L720-3)](#126)
-      - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE. (art. L730-1 à L730-5)](#127)
-      - [TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE. (art. L740-1 à L740-5)](#128)
-      - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE. (art. L750-1 à L750-4)](#129)
-      - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA. (art. L760-1 à L760-6)](#130)
-      - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES. (art. L770-1 à L770-4)](#131)
+          - [Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits. (art. L621-29-1 à L621-29-8)](#108)
+          - [Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits (art. L621-31)](#109)
+          - [Section 5 : Dispositions diverses. (art. L621-33 à L621-34)](#110)
+        - [Chapitre 2 : Objets mobiliers (art. L622-1 à L622-29)](#111)
+          - [Section 1 : Classement des objets mobiliers. (art. L622-1 à L622-19)](#112)
+          - [Section 2 : Inscription des objets mobiliers. (art. L622-23)](#113)
+          - [Section 3 : Dispositions communes aux objets classés et aux objets inscrits. (art. L622-24 à L622-29)](#114)
+        - [Chapitre 3 : Dispositions fiscales. (art. L623-1)](#115)
+        - [Chapitre 4 : Dispositions pénales. (art. L624-1 à L624-7)](#116)
+      - [TITRE III : SITES. (art. L630-1)](#117)
+      - [TITRE IV : ESPACES PROTÉGÉS (art. L641-1 à L643-1)](#118)
+        - [Chapitre 1er : Secteurs sauvegardés. (art. L641-1 à L641-2)](#119)
+        - [Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager. (art. L642-1 à L642-7)](#120)
+        - [Chapitre 3 : Dispositions fiscales. (art. L643-1)](#121)
+    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L720-1 à L770-4)](#122)
+      - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON. (art. L720-1 à L720-3)](#123)
+      - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE. (art. L730-1 à L730-5)](#124)
+      - [TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE. (art. L740-1 à L740-5)](#125)
+      - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE. (art. L750-1 à L750-4)](#126)
+      - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA. (art. L760-1 à L760-6)](#127)
+      - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES. (art. L770-1 à L770-4)](#128)
 # Partie législative<a id=1></a>
 
 ###### Article L1
@@ -3293,24 +3290,24 @@ _Anciens textes_:
 
 ###### Article L212-9
 
-Par dérogation à l'article 41 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction
-publique de l'Etat, des personnels scientifiques et de documentation de l'Etat peuvent être mis à disposition du département
-pour exercer leurs fonctions dans les services départementaux d'archives.
+Par dérogation au II de l'article 42 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la
+fonction publique de l'Etat, la mise à disposition des personnels scientifiques et de documentation de l'Etat auprès des
+départements pour exercer leurs fonctions dans les services départementaux d'archives n'est pas soumise à l'obligation de
+remboursement.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°83-663 1983-07-22 art. 66
   - Loi n°83-663 du 22 juillet 1983 - art. 66 (Ab)
-
-_Cite_:
-
-  - Loi n°84-16 1984-01-11 art. 41
 
 _Codifié par_:
 
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Loi n°2007-148 du 2 février 2007 - art. 11 () JORF 6 février 2007
 
 _Cité par_:
 
@@ -9713,33 +9710,7 @@ _Cité par_:
   - Code du patrimoine. - art. L720-1 (V)
 
 
-##### Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques.<a id=108></a>
-
-###### Article L621-29
-
-L'autorité administrative est autorisée à subventionner dans la limite de 40 % de la dépense effective les travaux
-d'entretien et de réparation que nécessite la conservation des immeubles ou parties d'immeubles inscrits à l'inventaire
-supplémentaire des monuments historiques. Les travaux s'exécutent sous le contrôle du service des monuments historiques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 2 (V)
-  - Loi n°1913-12-31 art. 2 al. 9
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. R27 (Ab)
-  - Code du patrimoine - art. L730-1 (V)
-  - Code du patrimoine. - art. R621-72 (V)
-
-
-##### Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits.<a id=109></a>
+##### Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits.<a id=108></a>
 
 ###### Article L621-29-1
 
@@ -9860,141 +9831,7 @@ _Cite_:
   - Code de l'environnement - art. L581-2
 
 
-##### Section 3 : Dispositions relatives aux immeubles ni classés ni inscrits soumis à la législation sur les monuments historiques.<a id=110></a>
-
-###### Article L621-30
-
-Aucune construction neuve ne peut être adossée à un immeuble classé au titre des monuments historiques sans une autorisation
-spéciale de l'autorité administrative.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 12 (Ab)
-  - Loi n°1913-12-31 art. 12 al. 1
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Cité par_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 48 (Ab)
-  - Décret n°2007-487 du 30 mars 2007 - art. 95 (Ab)
-  - Loi n°2016-925 du 7 juillet 2016 - art. 119 (V)
-  - Loi n°2016-925 du 7 juillet 2016 - art. 100
-  - Loi n°2016-925 du 7 juillet 2016 - art. 112 (V)
-  - Décret n°2017-456 du 29 mars 2017 - art. 13
-  - Décret n°2017-456 du 29 mars 2017 - art. 15
-  - Décret n°2017-456 du 29 mars 2017 - art. 7
-  - Décret n°2017-456 du 29 mars 2017 - art. 8
-  - Code de l'environnement - art. L581-8 (V)
-  - Code de l'environnement - art. R581-16 (V)
-  - Code de l'urbanisme - art. (VD)
-  - Code de l'urbanisme - art. L111-17 (VD)
-  - Code de l'urbanisme - art. L111-6-2 (VT)
-  - Code de l'urbanisme - art. L152-5 (V)
-  - Code de l'urbanisme - art. L313-2-1 (Ab)
-  - Code de l'urbanisme - art. L421-6 (V)
-  - Code de l'urbanisme - art. L425-4 (MMN)
-  - Code de l'urbanisme - art. L430-4 (Ab)
-  - Code de l'urbanisme - art. L480-13 (VD)
-  - Code de l'urbanisme - art. R*111-42 (VT)
-  - Code de l'urbanisme - art. R*421-12 (V)
-  - Code de l'urbanisme - art. R*421-17-1 (V)
-  - Code de l'urbanisme - art. R*421-28 (V)
-  - Code de l'urbanisme - art. R*423-68 (M)
-  - Code de l'urbanisme - art. R*425-1 (M)
-  - Code de l'urbanisme - art. R*425-16 (M)
-  - Code de l'urbanisme - art. R111-33 (V)
-  - Code de l'urbanisme - art. R132-2 (V)
-  - Code de la construction et de l'habitation. - art. D511-13-1 (V)
-  - Code de la construction et de l'habitation. - art. R*111-18-10 (V)
-  - Code de la construction et de l'habitation. - art. R111-19-10 (V)
-  - Code de la construction et de l'habitation. - art. R511-2 (V)
-  - Code de la santé publique - art. R1331-4 (V)
-  - Code du patrimoine - art. L621-31 (V)
-  - Code du patrimoine - art. L642-7 (Ab)
-  - Code du patrimoine - art. L720-1 (MMN)
-  - Code du patrimoine - art. R612-1 (V)
-  - Code du patrimoine - art. R621-92 (V)
-  - Code du patrimoine - art. R621-96-3 (V)
-  - Code du patrimoine. - art. L611-1 (M)
-  - Code du patrimoine. - art. L621-34 (Ab)
-  - Code du patrimoine. - art. L624-2 (V)
-
-
-###### Article L621-32
-
-Lorsqu'elle ne concerne pas des travaux pour lesquels le permis de construire, le permis de démolir ou l'autorisation
-mentionnée à l'article L. 442-1 du code de l'urbanisme est nécessaire, la demande d'autorisation prévue à l'article L. 621-31
-est adressée à l'autorité administrative. Celle-ci statue après avoir recueilli l'avis de l'architecte des Bâtiments de
-France. Toutefois, si le ministre chargé de la culture a décidé d'évoquer le dossier, l'autorisation ne peut être délivrée
-qu'avec son accord exprès.
-
-Si l'autorité administrative n'a pas notifié sa réponse aux intéressés dans le délai de quarante jours à dater du dépôt de
-leur demande ou si cette réponse ne leur donne pas satisfaction, ils peuvent former un recours hiérarchique, dans les deux
-mois suivant la notification de la réponse du préfet ou l'expiration du délai de quarante jours imparti au préfet pour
-procéder à ladite notification.
-
-L'autorité administrative statue. Si sa décision n'a pas été notifiée aux intéressés dans un délai fixé par voie
-réglementaire à partir de la réception de leur demande, cette demande est considérée comme rejetée.
-
-Les auteurs de la demande sont tenus de se conformer aux prescriptions qui leur sont imposées pour la protection de
-l'immeuble classé ou inscrit par l'autorité administrative dans le cas prévu au 2e alinéa de l'article L. 621-31 et dans les
-cas prévus aux 1er, 2e et 3e alinéas du présent article.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 13 ter (V)
-  - Loi n°1913-12-31 art. 13 ter
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Modifié par_:
-
-  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
-
-_Cité par_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 52 (Ab)
-  - Décret n°2007-487 du 30 mars 2007 - art. 95 (Ab)
-  - Décret n°2014-450 du 2 mai 2014 - art. 10 (VT)
-  - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
-  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
-  - Loi n°2016-925 du 7 juillet 2016 - art. 112 (V)
-  - Décret n°2017-456 du 29 mars 2017 - art. 18
-  - Décret n°2018-1054 du 29 novembre 2018 - art. 23
-  - Décret n°2019-37 du 23 janvier 2019 - art. 4 (V)
-  - Code de l'environnement - art. D181-15-2 (V)
-  - Code de l'environnement - art. L181-2 (V)
-  - Code de l'environnement - art. L341-10 (MMN)
-  - Code de l'environnement - art. R181-32 (V)
-  - Code de l'urbanisme - art. L313-2-1 (Ab)
-  - Code de l'urbanisme - art. R*425-1 (V)
-  - Code du patrimoine - art. L624-3 (V)
-  - Code du patrimoine - art. L641-1 (MMN)
-  - Code du patrimoine - art. R612-3 (Ab)
-  - Code du patrimoine - art. R621-62-1 (Ab)
-  - Code du patrimoine - art. R621-96 (V)
-  - Code du patrimoine - art. R621-96-12 (Ab)
-  - Code du patrimoine - art. R621-96-18 (Ab)
-  - Code du patrimoine - art. R621-96-9 (M)
-  - Code du patrimoine. - art. L612-1 (VD)
-  - Code du patrimoine. - art. L621-31 (M)
-  - Code du patrimoine. - art. L642-5 (V)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L442-1 (M)
-
-
-##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits<a id=111></a>
+##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits<a id=109></a>
 
 ###### Article L621-31
 
@@ -10089,7 +9926,7 @@ _Cite_:
   - Code du patrimoine. - art. L621-9 (AbD)
 
 
-##### Section 5 : Dispositions diverses.<a id=112></a>
+##### Section 5 : Dispositions diverses.<a id=110></a>
 
 ###### Article L621-33
 
@@ -10167,9 +10004,9 @@ _Cité par_:
   - Code du patrimoine. - art. L720-1 (V)
 
 
-#### Chapitre 2 : Objets mobiliers<a id=113></a>
+#### Chapitre 2 : Objets mobiliers<a id=111></a>
 
-##### Section 1 : Classement des objets mobiliers.<a id=114></a>
+##### Section 1 : Classement des objets mobiliers.<a id=112></a>
 
 ###### Article L622-1
 
@@ -10719,7 +10556,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-##### Section 2 : Inscription des objets mobiliers.<a id=115></a>
+##### Section 2 : Inscription des objets mobiliers.<a id=113></a>
 
 ###### Article L622-23
 
@@ -10752,61 +10589,7 @@ _Cité par_:
   - Code du patrimoine - art. L642-1 (MMN)
 
 
-##### Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques.<a id=116></a>
-
-###### Article L622-20
-
-Les objets mobiliers, soit meubles proprement dits, soit immeubles par destination, appartenant à l'Etat, aux collectivités
-territoriales et aux établissements publics ou aux associations cultuelles et qui, sans justifier une demande de classement
-immédiat, présentent, au point de vue de l'histoire, de l'art, de la science ou de la technique, un intérêt suffisant pour en
-rendre désirable la préservation, peuvent, à toute époque, être inscrits sur un inventaire supplémentaire à la liste des
-objets mobiliers classés au titre des monuments historiques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1913-12-31 art. 24 bis, al. 1
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 24 bis (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Cité par_:
-
-  - Code du patrimoine - art. L642-1 (MMN)
-
-
-###### Article L622-21
-
-Cette inscription est prononcée par décision de l'autorité administrative.
-
-Elle est notifiée aux propriétaires, aux gestionnaires, aux détenteurs, aux affectataires et aux dépositaires et entraîne
-pour eux l'obligation, sauf en cas de péril, de ne procéder à aucun transfert de l'objet d'un lieu dans un autre sans avoir
-informé, un mois à l'avance, l'administration de leur intention et l'obligation de ne procéder à aucune cession à titre
-gratuit ou onéreux, modification, réparation ou restauration de l'objet, sans avoir informé, deux mois à l'avance,
-l'administration de leur intention.
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1913-12-31 art. 24 bis, al. 2 à 4
-  - Loi n°1913-12-31 du 31 décembre 1913 - art. 24 bis (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Cité par_:
-
-  - Code du patrimoine - art. L624-1 (V)
-
-
-##### Section 3 : Dispositions communes aux objets classés et aux objets inscrits.<a id=117></a>
+##### Section 3 : Dispositions communes aux objets classés et aux objets inscrits.<a id=114></a>
 
 ###### Article L622-24
 
@@ -10861,7 +10644,7 @@ _Créé par_:
   - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005
 
 
-#### Chapitre 3 : Dispositions fiscales.<a id=118></a>
+#### Chapitre 3 : Dispositions fiscales.<a id=115></a>
 
 ###### Article L623-1
 
@@ -10888,7 +10671,7 @@ _Cité par_:
   - Code du patrimoine - art. L720-1 (MMN)
 
 
-#### Chapitre 4 : Dispositions pénales.<a id=119></a>
+#### Chapitre 4 : Dispositions pénales.<a id=116></a>
 
 ###### Article L624-1
 
@@ -11117,7 +10900,7 @@ _Cite_:
   - Code du patrimoine - art. L623-1 (V)
 
 
-### TITRE III : SITES.<a id=120></a>
+### TITRE III : SITES.<a id=117></a>
 
 ###### Article L630-1
 
@@ -11401,9 +11184,9 @@ _Cité par_:
   - Code du patrimoine. - art. L730-1 (M)
 
 
-### TITRE IV : ESPACES PROTÉGÉS<a id=121></a>
+### TITRE IV : ESPACES PROTÉGÉS<a id=118></a>
 
-#### Chapitre 1er : Secteurs sauvegardés.<a id=122></a>
+#### Chapitre 1er : Secteurs sauvegardés.<a id=119></a>
 
 ###### Article L641-1
 
@@ -11613,7 +11396,7 @@ _Cité par_:
   - Code du patrimoine. - art. L720-1 (V)
 
 
-#### Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager.<a id=123></a>
+#### Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager.<a id=120></a>
 
 ###### Article L642-1
 
@@ -11922,7 +11705,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-#### Chapitre 3 : Dispositions fiscales.<a id=124></a>
+#### Chapitre 3 : Dispositions fiscales.<a id=121></a>
 
 ###### Article L643-1
 
@@ -11950,9 +11733,9 @@ _Cité par_:
   - Code du patrimoine. - art. L720-1 (M)
 
 
-## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=125></a>
+## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=122></a>
 
-### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON.<a id=126></a>
+### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON.<a id=123></a>
 
 ###### Article L720-1
 
@@ -12013,7 +11796,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE.<a id=127></a>
+### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE.<a id=124></a>
 
 ###### Article L730-1
 
@@ -12103,7 +11886,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE.<a id=128></a>
+### TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE.<a id=125></a>
 
 ###### Article L740-1
 
@@ -12204,7 +11987,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE.<a id=129></a>
+### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE.<a id=126></a>
 
 ###### Article L750-1
 
@@ -12284,7 +12067,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA.<a id=130></a>
+### TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA.<a id=127></a>
 
 ###### Article L760-1
 
@@ -12406,7 +12189,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES.<a id=131></a>
+### TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES.<a id=128></a>
 
 ###### Article L770-1
 
