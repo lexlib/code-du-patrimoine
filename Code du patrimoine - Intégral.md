@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2007-12-29
+Version Consolidée au 2008-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -107,7 +107,7 @@ Version Consolidée au 2007-12-29
       - [TITRE II : MONUMENTS HISTORIQUES (art. L621-1 à L624-7)](#104)
         - [Chapitre 1er : Immeubles (art. L621-1 à L621-33)](#105)
           - [Section 1 : Classement des immeubles. (art. L621-1 à L621-22)](#106)
-          - [Section 2 : Inscription des immeubles. (art. L621-25 à L621-27)](#107)
+          - [Section 2 : Inscription des immeubles. (art. L621-25 à L621-29)](#107)
           - [Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits. (art. L621-29-1 à L621-29-8)](#108)
           - [Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits (art. L621-30 à L621-32)](#109)
           - [Section 5 : Dispositions diverses. (art. L621-33)](#110)
@@ -9593,6 +9593,35 @@ _Cité par_:
   - Code du patrimoine. - art. R621-60 (V)
   - Code du patrimoine. - art. R621-61 (V)
   - Code du patrimoine. - art. R621-63 (V)
+
+
+###### Article L621-29
+
+L'autorité administrative est autorisée à subventionner dans la limite de 40 % de la dépense effective les travaux
+d'entretien et de réparation que nécessite la conservation des immeubles ou parties d'immeubles inscrits au titre des
+monuments historiques.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°1913-12-31 art. 2 al. 9
+  - Loi n°1913-12-31 du 31 décembre 1913 - art. 2 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 11 () JORF 9 septembre 2005
+  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 14 () JORF 9 septembre 2005
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R27 (Ab)
+  - Code du patrimoine - art. L730-1 (V)
+  - Code du patrimoine. - art. R621-72 (V)
 
 
 ##### Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits.<a id=108></a>
