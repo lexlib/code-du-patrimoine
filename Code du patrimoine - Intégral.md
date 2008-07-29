@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2008-07-17
+Version Consolidée au 2008-07-30
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -39,99 +39,96 @@ Version Consolidée au 2008-07-17
         - [Chapitre 2 : Collecte, conservation et protection (art. L212-1 à L212-37)](#36)
           - [Section 1 : Archives publiques (art. L212-1 à L212-14)](#37)
             - [Sous-section 1 : Dispositions générales. (art. L212-1 à L212-5)](#38)
-            - [Sous-section 2 : Archives des collectivités territoriales (art. L212-6 à L212-14)](#39)
+            - [Sous-section 2 : Archives des collectivités territoriales et des groupements de collectivités territoriales (art. L212-6 à L212-14)](#39)
               - [Paragraphe 1 : Dispositions générales. (art. L212-6 à L212-10)](#40)
               - [Paragraphe 2 : Dépôt des archives communales. (art. L212-11 à L212-14)](#41)
-            - [Sous-section 2 : Archives des collectivités territoriales et des groupements de collectivités territoriales (art.  à L212-14)](#42)
-              - [Paragraphe 1 : Dispositions générales. (art.  à L212-14)](#43)
-              - [Paragraphe 2 : Dépôt des archives communales. (art.  à L212-14)](#44)
-          - [Section 2 : Archives privées (art. L212-15 à L212-37)](#45)
-            - [Sous-section 1 : Classement comme archives historiques. (art. L212-15 à L212-28)](#46)
-            - [Sous-section 2 : Droit de reproduction avant exportation. (art. L212-29)](#47)
-            - [Sous-section 3 : Droit de préemption. (art. L212-30 à L212-37)](#48)
-        - [Chapitre 3 : Régime de communication. (art. L213-1 à L213-8)](#49)
-        - [Chapitre 4 : Dispositions pénales. (art. L214-1 à L214-10)](#50)
-      - [TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE (art. L221-1 à L222-3)](#51)
-        - [Chapitre 1er : Constitution. (art. L221-1 à L221-5)](#52)
-        - [Chapitre 2 : Communication et reproduction. (art. L222-1 à L222-3)](#53)
-    - [LIVRE III : BIBLIOTHÈQUES (art. L310-1 à L320-4)](#54)
-      - [TITRE Ier : BIBLIOTHÈQUES MUNICIPALES. (art. L310-1 à L310-6)](#55)
-      - [TITRE II : BIBLIOTHÈQUES DÉPARTEMENTALES ET RÉGIONALES ET DE LA COLLECTIVITÉ TERRITORIALE DE CORSE. (art. L320-1 à L320-4)](#56)
-    - [LIVRE IV : MUSÉES (art. L410-1 à L452-4)](#57)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES. (art. L410-1 à L410-4)](#58)
-      - [TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE. (art. L430-1 à L430-2)](#59)
-      - [TITRE IV : RÉGIME DES MUSÉES DE FRANCE (art. L441-1 à L442-11)](#60)
-        - [Chapitre 1er : Définition et missions. (art. L441-1 à L441-2)](#61)
-        - [Chapitre 2 : Appellation "musée de France" (art. L442-1 à L442-11)](#62)
-          - [Section 1 : Conditions d'attribution et de retrait de l'appellation "musée de France". (art. L442-1 à L442-4)](#63)
-          - [Section 2 : Dispositions pénales. (art. L442-5)](#64)
-          - [Section 3 : Dispositions générales liées à l'appellation "musée de France" (art. L442-6 à L442-11)](#65)
-            - [Sous-section 1 : Dispositions relatives à l'accueil du public. (art. L442-6 à L442-7)](#66)
-            - [Sous-section 2 : Qualifications des personnels. (art. L442-8 à L442-9)](#67)
-            - [Sous-section 3 : Réseaux et conventions. (art. L442-10)](#68)
-            - [Sous-section 4 : Contrôle scientifique et technique. (art. L442-11)](#69)
-      - [TITRE V : COLLECTIONS DES MUSÉES DE FRANCE (art. L451-1 à L452-4)](#70)
-        - [Chapitre 1er : Statut des collections (art. L451-1 à L451-11)](#71)
-          - [Section 1 : Acquisitions. (art. L451-1)](#72)
-          - [Section 2 : Affectation et propriété des collections (art. L451-2 à L451-10)](#73)
-            - [Sous-section 1 : Dispositions générales. (art. L451-2 à L451-4)](#74)
-            - [Sous-section 2 : Collections publiques. (art. L451-5 à L451-9)](#75)
-            - [Sous-section 3 : Collections privées. (art. L451-10)](#76)
-          - [Section 3 : Prêts et dépôts. (art. L451-11)](#77)
-        - [Chapitre 2 : Conservation et restauration. (art. L452-1 à L452-4)](#78)
-    - [LIVRE V : ARCHÉOLOGIE (art. L510-1 à L544-13)](#79)
-      - [TITRE Ier : DÉFINITION DU PATRIMOINE ARCHÉOLOGIQUE. (art. L510-1)](#80)
-      - [TITRE II : ARCHÉOLOGIE PRÉVENTIVE (art. L521-1 à L524-16)](#81)
-        - [Chapitre 1er : Définition. (art. L521-1)](#82)
-        - [Chapitre 2 : Répartition des compétences : Etat et collectivités territoriales (art. L522-1 à L522-8)](#83)
-          - [Section 1 : Rôle de l'Etat. (art. L522-1 à L522-6)](#84)
-          - [Section 2 : Rôle des collectivités territoriales. (art. L522-7 à L522-8)](#85)
-        - [Chapitre 3 : Mise en œuvre des opérations d'archéologie préventive. (art. L523-1 à L523-14)](#86)
-        - [Chapitre 4 : Financement de l'archéologie préventive. (art. L524-1 à L524-16)](#87)
-      - [TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES ET DÉCOUVERTES FORTUITES (art. L531-1 à L532-14)](#88)
-        - [Chapitre 1er : Archéologie terrestre et subaquatique (art. L531-1 à L531-19)](#89)
-          - [Section 1 : Autorisation de fouilles par l'Etat. (art. L531-1 à L531-8)](#90)
-          - [Section 2 : Exécution de fouilles par l'Etat. (art. L531-9 à L531-13)](#91)
-          - [Section 3 : Découvertes fortuites. (art. L531-14 à L531-16)](#92)
-          - [Section 4 : Objets et vestiges. (art. L531-17 à L531-19)](#93)
-        - [Chapitre 2 : Biens culturels maritimes. (art. L532-1 à L532-14)](#94)
-      - [TITRE IV : DISPOSITIONS DIVERSES (art. L541-1 à L544-13)](#95)
-        - [Chapitre 1er : Régime de propriété des vestiges immobiliers. (art. L541-1 à L541-2)](#96)
-        - [Chapitre 2 : Utilisation de détecteurs de métaux. (art. L542-1 à L542-3)](#97)
-        - [Chapitre 3 : Dispositions fiscales. (art. L543-1)](#98)
-        - [Chapitre 4 : Dispositions pénales (art. L544-1 à L544-13)](#99)
-          - [Section 1 : Dispositions relatives à l'archéologie terrestre et subaquatique. (art. L544-1 à L544-4)](#100)
-          - [Section 2 : Dispositions relatives aux biens culturels maritimes. (art. L544-5 à L544-11)](#101)
-          - [Section 3 : Dispositions communes. (art. L544-12 à L544-13)](#102)
-    - [LIVRE VI : MONUMENTS HISTORIQUES, SITES ET ESPACES PROTÉGÉS (art. L611-1 à L643-1)](#103)
-      - [TITRE Ier : INSTITUTIONS (art. L611-1 à L612-3)](#104)
-        - [Chapitre 1er : Institutions nationales. (art. L611-1)](#105)
-        - [Chapitre 2 : Institutions locales. (art. L612-1 à L612-3)](#106)
-      - [TITRE II : MONUMENTS HISTORIQUES (art. L621-1 à L624-7)](#107)
-        - [Chapitre 1er : Immeubles (art. L621-1 à L621-33)](#108)
-          - [Section 1 : Classement des immeubles. (art. L621-1 à L621-22)](#109)
-          - [Section 2 : Inscription des immeubles. (art. L621-25 à L621-29)](#110)
-          - [Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits. (art. L621-29-1 à L621-29-8)](#111)
-          - [Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits (art. L621-30 à L621-32)](#112)
-          - [Section 5 : Dispositions diverses. (art. L621-33)](#113)
-        - [Chapitre 2 : Objets mobiliers (art. L622-1 à L622-29)](#114)
-          - [Section 1 : Classement des objets mobiliers. (art. L622-1 à L622-19)](#115)
-          - [Section 2 : Inscription des objets mobiliers. (art. L622-20 à L622-23)](#116)
-          - [Section 3 : Dispositions communes aux objets classés et aux objets inscrits. (art. L622-24 à L622-29)](#117)
-        - [Chapitre 3 : Dispositions fiscales. (art. L623-1)](#118)
-        - [Chapitre 4 : Dispositions pénales. (art. L624-1 à L624-7)](#119)
-      - [TITRE III : SITES. (art. L630-1)](#120)
-      - [TITRE IV : ESPACES PROTÉGÉS (art. L641-1 à L643-1)](#121)
-        - [Chapitre 1er : Secteurs sauvegardés. (art. L641-1 à L641-2)](#122)
-        - [Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager. (art. L642-1 à L642-7)](#123)
-        - [Chapitre 3 : Dispositions fiscales. (art. L643-1)](#124)
-    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L720-1 à L770-4)](#125)
-      - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON. (art. L720-1 à L720-3)](#126)
-      - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE. (art. L730-1 à L730-5)](#127)
-      - [TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE. (art. L740-1 à L740-5)](#128)
-      - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE. (art. L750-1 à L750-4)](#129)
-      - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA. (art. L760-1 à L760-6)](#130)
-      - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES. (art. L770-1 à L770-4)](#131)
+          - [Section 2 : Archives privées (art. L212-15 à L212-37)](#42)
+            - [Sous-section 1 : Classement comme archives historiques. (art. L212-15 à L212-28)](#43)
+            - [Sous-section 2 : Droit de reproduction avant exportation. (art. L212-29)](#44)
+            - [Sous-section 3 : Droit de préemption. (art. L212-30 à L212-37)](#45)
+        - [Chapitre 3 : Régime de communication. (art. L213-1 à L213-8)](#46)
+        - [Chapitre 4 : Dispositions pénales. (art. L214-1 à L214-10)](#47)
+      - [TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE (art. L221-1 à L222-3)](#48)
+        - [Chapitre 1er : Constitution. (art. L221-1 à L221-5)](#49)
+        - [Chapitre 2 : Communication et reproduction. (art. L222-1 à L222-3)](#50)
+    - [LIVRE III : BIBLIOTHÈQUES (art. L310-1 à L320-4)](#51)
+      - [TITRE Ier : BIBLIOTHÈQUES MUNICIPALES. (art. L310-1 à L310-6)](#52)
+      - [TITRE II : BIBLIOTHÈQUES DÉPARTEMENTALES ET RÉGIONALES ET DE LA COLLECTIVITÉ TERRITORIALE DE CORSE. (art. L320-1 à L320-4)](#53)
+    - [LIVRE IV : MUSÉES (art. L410-1 à L452-4)](#54)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES. (art. L410-1 à L410-4)](#55)
+      - [TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE. (art. L430-1 à L430-2)](#56)
+      - [TITRE IV : RÉGIME DES MUSÉES DE FRANCE (art. L441-1 à L442-11)](#57)
+        - [Chapitre 1er : Définition et missions. (art. L441-1 à L441-2)](#58)
+        - [Chapitre 2 : Appellation "musée de France" (art. L442-1 à L442-11)](#59)
+          - [Section 1 : Conditions d'attribution et de retrait de l'appellation "musée de France". (art. L442-1 à L442-4)](#60)
+          - [Section 2 : Dispositions pénales. (art. L442-5)](#61)
+          - [Section 3 : Dispositions générales liées à l'appellation "musée de France" (art. L442-6 à L442-11)](#62)
+            - [Sous-section 1 : Dispositions relatives à l'accueil du public. (art. L442-6 à L442-7)](#63)
+            - [Sous-section 2 : Qualifications des personnels. (art. L442-8 à L442-9)](#64)
+            - [Sous-section 3 : Réseaux et conventions. (art. L442-10)](#65)
+            - [Sous-section 4 : Contrôle scientifique et technique. (art. L442-11)](#66)
+      - [TITRE V : COLLECTIONS DES MUSÉES DE FRANCE (art. L451-1 à L452-4)](#67)
+        - [Chapitre 1er : Statut des collections (art. L451-1 à L451-11)](#68)
+          - [Section 1 : Acquisitions. (art. L451-1)](#69)
+          - [Section 2 : Affectation et propriété des collections (art. L451-2 à L451-10)](#70)
+            - [Sous-section 1 : Dispositions générales. (art. L451-2 à L451-4)](#71)
+            - [Sous-section 2 : Collections publiques. (art. L451-5 à L451-9)](#72)
+            - [Sous-section 3 : Collections privées. (art. L451-10)](#73)
+          - [Section 3 : Prêts et dépôts. (art. L451-11)](#74)
+        - [Chapitre 2 : Conservation et restauration. (art. L452-1 à L452-4)](#75)
+    - [LIVRE V : ARCHÉOLOGIE (art. L510-1 à L544-13)](#76)
+      - [TITRE Ier : DÉFINITION DU PATRIMOINE ARCHÉOLOGIQUE. (art. L510-1)](#77)
+      - [TITRE II : ARCHÉOLOGIE PRÉVENTIVE (art. L521-1 à L524-16)](#78)
+        - [Chapitre 1er : Définition. (art. L521-1)](#79)
+        - [Chapitre 2 : Répartition des compétences : Etat et collectivités territoriales (art. L522-1 à L522-8)](#80)
+          - [Section 1 : Rôle de l'Etat. (art. L522-1 à L522-6)](#81)
+          - [Section 2 : Rôle des collectivités territoriales. (art. L522-7 à L522-8)](#82)
+        - [Chapitre 3 : Mise en œuvre des opérations d'archéologie préventive. (art. L523-1 à L523-14)](#83)
+        - [Chapitre 4 : Financement de l'archéologie préventive. (art. L524-1 à L524-16)](#84)
+      - [TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES ET DÉCOUVERTES FORTUITES (art. L531-1 à L532-14)](#85)
+        - [Chapitre 1er : Archéologie terrestre et subaquatique (art. L531-1 à L531-19)](#86)
+          - [Section 1 : Autorisation de fouilles par l'Etat. (art. L531-1 à L531-8)](#87)
+          - [Section 2 : Exécution de fouilles par l'Etat. (art. L531-9 à L531-13)](#88)
+          - [Section 3 : Découvertes fortuites. (art. L531-14 à L531-16)](#89)
+          - [Section 4 : Objets et vestiges. (art. L531-17 à L531-19)](#90)
+        - [Chapitre 2 : Biens culturels maritimes. (art. L532-1 à L532-14)](#91)
+      - [TITRE IV : DISPOSITIONS DIVERSES (art. L541-1 à L544-13)](#92)
+        - [Chapitre 1er : Régime de propriété des vestiges immobiliers. (art. L541-1 à L541-2)](#93)
+        - [Chapitre 2 : Utilisation de détecteurs de métaux. (art. L542-1 à L542-3)](#94)
+        - [Chapitre 3 : Dispositions fiscales. (art. L543-1)](#95)
+        - [Chapitre 4 : Dispositions pénales (art. L544-1 à L544-13)](#96)
+          - [Section 1 : Dispositions relatives à l'archéologie terrestre et subaquatique. (art. L544-1 à L544-4)](#97)
+          - [Section 2 : Dispositions relatives aux biens culturels maritimes. (art. L544-5 à L544-11)](#98)
+          - [Section 3 : Dispositions communes. (art. L544-12 à L544-13)](#99)
+    - [LIVRE VI : MONUMENTS HISTORIQUES, SITES ET ESPACES PROTÉGÉS (art. L611-1 à L643-1)](#100)
+      - [TITRE Ier : INSTITUTIONS (art. L611-1 à L612-3)](#101)
+        - [Chapitre 1er : Institutions nationales. (art. L611-1)](#102)
+        - [Chapitre 2 : Institutions locales. (art. L612-1 à L612-3)](#103)
+      - [TITRE II : MONUMENTS HISTORIQUES (art. L621-1 à L624-7)](#104)
+        - [Chapitre 1er : Immeubles (art. L621-1 à L621-33)](#105)
+          - [Section 1 : Classement des immeubles. (art. L621-1 à L621-22)](#106)
+          - [Section 2 : Inscription des immeubles. (art. L621-25 à L621-29)](#107)
+          - [Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits. (art. L621-29-1 à L621-29-8)](#108)
+          - [Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits (art. L621-30 à L621-32)](#109)
+          - [Section 5 : Dispositions diverses. (art. L621-33)](#110)
+        - [Chapitre 2 : Objets mobiliers (art. L622-1 à L622-29)](#111)
+          - [Section 1 : Classement des objets mobiliers. (art. L622-1 à L622-19)](#112)
+          - [Section 2 : Inscription des objets mobiliers. (art. L622-20 à L622-23)](#113)
+          - [Section 3 : Dispositions communes aux objets classés et aux objets inscrits. (art. L622-24 à L622-29)](#114)
+        - [Chapitre 3 : Dispositions fiscales. (art. L623-1)](#115)
+        - [Chapitre 4 : Dispositions pénales. (art. L624-1 à L624-7)](#116)
+      - [TITRE III : SITES. (art. L630-1)](#117)
+      - [TITRE IV : ESPACES PROTÉGÉS (art. L641-1 à L643-1)](#118)
+        - [Chapitre 1er : Secteurs sauvegardés. (art. L641-1 à L641-2)](#119)
+        - [Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager. (art. L642-1 à L642-7)](#120)
+        - [Chapitre 3 : Dispositions fiscales. (art. L643-1)](#121)
+    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L720-1 à L770-4)](#122)
+      - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON. (art. L720-1 à L720-3)](#123)
+      - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE. (art. L730-1 à L730-5)](#124)
+      - [TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE. (art. L740-1 à L740-5)](#125)
+      - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE. (art. L750-1 à L750-4)](#126)
+      - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA. (art. L760-1 à L760-6)](#127)
+      - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES. (art. L770-1 à L770-4)](#128)
 # Partie législative<a id=1></a>
 
 ###### Article L1
@@ -3260,7 +3257,7 @@ _Modifié par_:
   - Loi n°2008-696  du 15 juillet 2008 - art. 5
 
 
-##### Sous-section 2 : Archives des collectivités territoriales<a id=39></a>
+##### Sous-section 2 : Archives des collectivités territoriales et des groupements de collectivités territoriales<a id=39></a>
 
 ##### Paragraphe 1 : Dispositions générales.<a id=40></a>
 
@@ -3543,15 +3540,9 @@ _Cite_:
   - Code du patrimoine - art. L212-11 (V)
 
 
-##### Sous-section 2 : Archives des collectivités territoriales et des groupements de collectivités territoriales<a id=42></a>
+##### Section 2 : Archives privées<a id=42></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=43></a>
-
-##### Paragraphe 2 : Dépôt des archives communales.<a id=44></a>
-
-##### Section 2 : Archives privées<a id=45></a>
-
-##### Sous-section 1 : Classement comme archives historiques.<a id=46></a>
+##### Sous-section 1 : Classement comme archives historiques.<a id=43></a>
 
 ###### Article L212-15
 
@@ -3840,7 +3831,7 @@ _Cite_:
   - Code du patrimoine - art. L111-7 (V)
 
 
-##### Sous-section 2 : Droit de reproduction avant exportation.<a id=47></a>
+##### Sous-section 2 : Droit de reproduction avant exportation.<a id=44></a>
 
 ###### Article L212-29
 
@@ -3876,7 +3867,7 @@ _Cite_:
   - Code du patrimoine - art. L111-2
 
 
-##### Sous-section 3 : Droit de préemption.<a id=48></a>
+##### Sous-section 3 : Droit de préemption.<a id=45></a>
 
 ###### Article L212-30
 
@@ -4119,7 +4110,7 @@ _Cité par_:
   - Code du patrimoine. - art. L760-2 (M)
 
 
-#### Chapitre 3 : Régime de communication.<a id=49></a>
+#### Chapitre 3 : Régime de communication.<a id=46></a>
 
 ###### Article L213-1
 
@@ -4482,7 +4473,7 @@ _Modifié par_:
   - Loi n°2008-696  du 15 juillet 2008 - art. 17
 
 
-#### Chapitre 4 : Dispositions pénales.<a id=50></a>
+#### Chapitre 4 : Dispositions pénales.<a id=47></a>
 
 ###### Article L214-1
 
@@ -4750,9 +4741,9 @@ _Cite_:
   - Code pénal - art. 433-4
 
 
-### TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE<a id=51></a>
+### TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE<a id=48></a>
 
-#### Chapitre 1er : Constitution.<a id=52></a>
+#### Chapitre 1er : Constitution.<a id=49></a>
 
 ###### Article L221-1
 
@@ -4893,7 +4884,7 @@ _Cité par_:
   - Code du patrimoine - art. L750-1 (V)
 
 
-#### Chapitre 2 : Communication et reproduction.<a id=53></a>
+#### Chapitre 2 : Communication et reproduction.<a id=50></a>
 
 ###### Article L222-1
 
@@ -4978,9 +4969,9 @@ _Cité par_:
   - Code du patrimoine - art. L760-3 (V)
 
 
-## LIVRE III : BIBLIOTHÈQUES<a id=54></a>
+## LIVRE III : BIBLIOTHÈQUES<a id=51></a>
 
-### TITRE Ier : BIBLIOTHÈQUES MUNICIPALES.<a id=55></a>
+### TITRE Ier : BIBLIOTHÈQUES MUNICIPALES.<a id=52></a>
 
 ###### Article L310-1
 
@@ -5122,7 +5113,7 @@ _Cite_:
   - Code du patrimoine - art. L310-2
 
 
-### TITRE II : BIBLIOTHÈQUES DÉPARTEMENTALES ET RÉGIONALES ET DE LA COLLECTIVITÉ TERRITORIALE DE CORSE.<a id=56></a>
+### TITRE II : BIBLIOTHÈQUES DÉPARTEMENTALES ET RÉGIONALES ET DE LA COLLECTIVITÉ TERRITORIALE DE CORSE.<a id=53></a>
 
 ###### Article L320-1
 
@@ -5209,9 +5200,9 @@ _Anciens textes_:
   - Code général des collectivités territoriales - art. L1422-9 (Ab)
 
 
-## LIVRE IV : MUSÉES<a id=57></a>
+## LIVRE IV : MUSÉES<a id=54></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES.<a id=58></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES.<a id=55></a>
 
 ###### Article L410-1
 
@@ -5301,7 +5292,7 @@ _Anciens textes_:
   - Code général des collectivités territoriales - art. L1423-5 (Ab)
 
 
-### TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE.<a id=59></a>
+### TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE.<a id=56></a>
 
 ###### Article L430-1
 
@@ -5369,9 +5360,9 @@ _Cité par_:
   - Code du patrimoine. - art. L730-1 (M)
 
 
-### TITRE IV : RÉGIME DES MUSÉES DE FRANCE<a id=60></a>
+### TITRE IV : RÉGIME DES MUSÉES DE FRANCE<a id=57></a>
 
-#### Chapitre 1er : Définition et missions.<a id=61></a>
+#### Chapitre 1er : Définition et missions.<a id=58></a>
 
 ###### Article L441-1
 
@@ -5428,9 +5419,9 @@ _Cité par_:
   - Code du patrimoine. - art. L730-1 (M)
 
 
-#### Chapitre 2 : Appellation "musée de France"<a id=62></a>
+#### Chapitre 2 : Appellation "musée de France"<a id=59></a>
 
-##### Section 1 : Conditions d'attribution et de retrait de l'appellation "musée de France".<a id=63></a>
+##### Section 1 : Conditions d'attribution et de retrait de l'appellation "musée de France".<a id=60></a>
 
 ###### Article L442-1
 
@@ -5552,7 +5543,7 @@ _Cite_:
   - Code du patrimoine - art. L442-3 (V)
 
 
-##### Section 2 : Dispositions pénales.<a id=64></a>
+##### Section 2 : Dispositions pénales.<a id=61></a>
 
 ###### Article L442-5
 
@@ -5580,9 +5571,9 @@ _Cite_:
   - Code pénal - art. 131-38 (M)
 
 
-##### Section 3 : Dispositions générales liées à l'appellation "musée de France"<a id=65></a>
+##### Section 3 : Dispositions générales liées à l'appellation "musée de France"<a id=62></a>
 
-##### Sous-section 1 : Dispositions relatives à l'accueil du public.<a id=66></a>
+##### Sous-section 1 : Dispositions relatives à l'accueil du public.<a id=63></a>
 
 ###### Article L442-6
 
@@ -5621,7 +5612,7 @@ _Cité par_:
   - Code du patrimoine - art. L442-9 (V)
 
 
-##### Sous-section 2 : Qualifications des personnels.<a id=67></a>
+##### Sous-section 2 : Qualifications des personnels.<a id=64></a>
 
 ###### Article L442-8
 
@@ -5679,7 +5670,7 @@ _Cite_:
   - Code du patrimoine - art. L442-7 (V)
 
 
-##### Sous-section 3 : Réseaux et conventions.<a id=68></a>
+##### Sous-section 3 : Réseaux et conventions.<a id=65></a>
 
 ###### Article L442-10
 
@@ -5707,7 +5698,7 @@ _Cité par_:
   - Code du patrimoine - art. L442-4 (V)
 
 
-##### Sous-section 4 : Contrôle scientifique et technique.<a id=69></a>
+##### Sous-section 4 : Contrôle scientifique et technique.<a id=66></a>
 
 ###### Article L442-11
 
@@ -5733,11 +5724,11 @@ _Cité par_:
   - Code du sport. - art. D112-7 (V)
 
 
-### TITRE V : COLLECTIONS DES MUSÉES DE FRANCE<a id=70></a>
+### TITRE V : COLLECTIONS DES MUSÉES DE FRANCE<a id=67></a>
 
-#### Chapitre 1er : Statut des collections<a id=71></a>
+#### Chapitre 1er : Statut des collections<a id=68></a>
 
-##### Section 1 : Acquisitions.<a id=72></a>
+##### Section 1 : Acquisitions.<a id=69></a>
 
 ###### Article L451-1
 
@@ -5762,9 +5753,9 @@ _Cité par_:
   - Code du patrimoine. - art. D451-18 (V)
 
 
-##### Section 2 : Affectation et propriété des collections<a id=73></a>
+##### Section 2 : Affectation et propriété des collections<a id=70></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=74></a>
+##### Sous-section 1 : Dispositions générales.<a id=71></a>
 
 ###### Article L451-2
 
@@ -5827,7 +5818,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-##### Sous-section 2 : Collections publiques.<a id=75></a>
+##### Sous-section 2 : Collections publiques.<a id=72></a>
 
 ###### Article L451-5
 
@@ -5973,7 +5964,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-##### Sous-section 3 : Collections privées.<a id=76></a>
+##### Sous-section 3 : Collections privées.<a id=73></a>
 
 ###### Article L451-10
 
@@ -6008,7 +5999,7 @@ _Cite_:
   - Code du patrimoine - art. L442-1 (V)
 
 
-##### Section 3 : Prêts et dépôts.<a id=77></a>
+##### Section 3 : Prêts et dépôts.<a id=74></a>
 
 ###### Article L451-11
 
@@ -6033,7 +6024,7 @@ _Cité par_:
   - Code du patrimoine. - art. R451-29 (V)
 
 
-#### Chapitre 2 : Conservation et restauration.<a id=78></a>
+#### Chapitre 2 : Conservation et restauration.<a id=75></a>
 
 ###### Article L452-1
 
@@ -6145,9 +6136,9 @@ _Cite_:
   - Code du patrimoine - art. L452-2 (V)
 
 
-## LIVRE V : ARCHÉOLOGIE<a id=79></a>
+## LIVRE V : ARCHÉOLOGIE<a id=76></a>
 
-### TITRE Ier : DÉFINITION DU PATRIMOINE ARCHÉOLOGIQUE.<a id=80></a>
+### TITRE Ier : DÉFINITION DU PATRIMOINE ARCHÉOLOGIQUE.<a id=77></a>
 
 ###### Article L510-1
 
@@ -6172,9 +6163,9 @@ _Cité par_:
   - Code pénal - art. 322-3-1 (V)
 
 
-### TITRE II : ARCHÉOLOGIE PRÉVENTIVE<a id=81></a>
+### TITRE II : ARCHÉOLOGIE PRÉVENTIVE<a id=78></a>
 
-#### Chapitre 1er : Définition.<a id=82></a>
+#### Chapitre 1er : Définition.<a id=79></a>
 
 ###### Article L521-1
 
@@ -6200,9 +6191,9 @@ _Cité par_:
   - Code du patrimoine - art. L730-1 (V)
 
 
-#### Chapitre 2 : Répartition des compétences : Etat et collectivités territoriales<a id=83></a>
+#### Chapitre 2 : Répartition des compétences : Etat et collectivités territoriales<a id=80></a>
 
-##### Section 1 : Rôle de l'Etat.<a id=84></a>
+##### Section 1 : Rôle de l'Etat.<a id=81></a>
 
 ###### Article L522-1
 
@@ -6377,7 +6368,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-##### Section 2 : Rôle des collectivités territoriales.<a id=85></a>
+##### Section 2 : Rôle des collectivités territoriales.<a id=82></a>
 
 ###### Article L522-7
 
@@ -6445,7 +6436,7 @@ _Cite_:
   - Code du patrimoine - art. L523-7 (V)
 
 
-#### Chapitre 3 : Mise en œuvre des opérations d'archéologie préventive.<a id=86></a>
+#### Chapitre 3 : Mise en œuvre des opérations d'archéologie préventive.<a id=83></a>
 
 ###### Article L523-1
 
@@ -6921,7 +6912,7 @@ _Cité par_:
   - Code du patrimoine - art. R531-12 (Ab)
 
 
-#### Chapitre 4 : Financement de l'archéologie préventive.<a id=87></a>
+#### Chapitre 4 : Financement de l'archéologie préventive.<a id=84></a>
 
 ###### Article L524-1
 
@@ -7112,31 +7103,32 @@ _Modifié par_:
 
 ###### Article L524-7
 
-Le montant de la redevance d'archéologie préventive est calculé selon les modalités suivantes :
+Le montant de la redevance d'archéologie préventive est calculé selon les modalités suivantes : 
 
-I. - Lorsqu'elle est perçue sur les travaux visés au a de l'article L. 524-2, l'assiette de la redevance est constituée par
-la valeur de l'ensemble immobilier comprenant les terrains nécessaires à la construction, à la reconstruction ou à
+I.-Lorsqu'elle est perçue sur les travaux visés au a de l'article L. 524-2, l'assiette de la redevance est constituée par la
+valeur de l'ensemble immobilier comprenant les terrains nécessaires à la construction, à la reconstruction ou à
 l'agrandissement et les bâtiments dont l'édification doit faire l'objet de l'autorisation de construire. Cette valeur est
 déterminée forfaitairement en appliquant à la surface de plancher développée hors oeuvre une valeur au mètre carré variable
 selon la catégorie d'immeubles. Cette valeur est déterminée conformément aux dispositions de l'article 1585 D du code général
-des impôts. Les constructions qui sont destinées à être affectées à un service public ou d'utilité publique sont assimilées,
-pour le calcul de l'assiette de la redevance, aux constructions visées au 4° du I de l'article 1585 D du même code. Il en est
-de même pour les espaces aménagés principalement pour le stationnement des véhicules, qui sont assujettis sur la base de la
-surface hors oeuvre brute lorsqu'il s'agit de constructions et de la surface au sol des travaux dans les autres cas.
+des impôts. Les constructions, y compris celles réalisées dans le cadre des contrats énumérés à l'article 1048 ter du même
+code, qui sont destinées à être affectées à un service public ou d'utilité publique sont assimilées, pour le calcul de
+l'assiette de la redevance, aux constructions visées au 4° du I de l'article 1585 D du même code. Il en est de même pour les
+espaces aménagés principalement pour le stationnement des véhicules, qui sont assujettis sur la base de la surface hors
+oeuvre brute lorsqu'il s'agit de constructions et de la surface au sol des travaux dans les autres cas. 
 
 La redevance n'est pas due pour les travaux de construction créant moins de 1 000 mètres carrés de surface hors oeuvre nette
-ou, pour les parcs de stationnement visés à l'alinéa précédent, de surface.
+ou, pour les parcs de stationnement visés à l'alinéa précédent, de surface. 
 
-Le tarif de la redevance est de 0,3 % de la valeur de l'ensemble immobilier déterminée conformément à l'article 1585 D du
-code général des impôts.
+Le tarif de la redevance est de 0, 3 % de la valeur de l'ensemble immobilier déterminée conformément à l'article 1585 D du
+code général des impôts. 
 
-II. - Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2, son montant est égal à 0,32 euro par
-mètre carré. Ce montant est indexé sur l'indice du coût de la construction.
+II.-Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2, son montant est égal à 0, 32 euro par
+mètre carré. Ce montant est indexé sur l'indice du coût de la construction. 
 
 La surface prise en compte est selon le cas :
 
 - la surface au sol des installations autorisées pour les aménagements et ouvrages soumis à autorisation administrative qui
-doivent être précédés d'une étude d'impact en application de l'article  L. 122-1 du code de l'environnement ;
+doivent être précédés d'une étude d'impact en application de l'article L. 122-1 du code de l'environnement ;
 
 - la surface au sol des aménagements et ouvrages non soumis à autorisation administrative qui doivent être précédés d'une
 étude d'impact en application de l'article L. 122-1 du code de l'environnement sur la base du dossier transmis pour
@@ -7145,7 +7137,7 @@ prescription de diagnostic éventuelle en application des articles L. 522-1 et s
 - la surface de la zone sur laquelle porte la demande de réalisation du diagnostic prévue au dernier alinéa de l'article L.
 524-4 ;
 
-- la surface au sol des travaux soumis à déclaration administrative préalable visés à l'article L. 524-2 du présent code.
+- la surface au sol des travaux soumis à déclaration administrative préalable visés à l'article L. 524-2 du présent code. 
 
 La redevance n'est pas due pour les travaux et aménagements réalisés sur des terrains d'une superficie inférieure à 3 000
 mètres carrés.
@@ -7171,13 +7163,18 @@ _Cité par_:
   - Code du patrimoine - art. L524-6 (M)
   - Code du patrimoine. - art. R524-10 (V)
 
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
 _Modifié par_:
 
-  - Loi n°2004-804 du 9 août 2004 - art. 17 (V) JORF 11 août 2004
+  - Loi n°2008-735 du 28 juillet 2008 - art. 41
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1048 ter
+  - Code général des impôts, CGI. - art. 1585 D
+  - Code de l'environnement - art. L122-1
+  - Code du patrimoine - art. L522-1
+  - Code du patrimoine - art. L524-2
+  - Code du patrimoine - art. L524-4
 
 
 ###### Article L524-8
@@ -7513,11 +7510,11 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES ET DÉCOUVERTES FORTUITES<a id=88></a>
+### TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES ET DÉCOUVERTES FORTUITES<a id=85></a>
 
-#### Chapitre 1er : Archéologie terrestre et subaquatique<a id=89></a>
+#### Chapitre 1er : Archéologie terrestre et subaquatique<a id=86></a>
 
-##### Section 1 : Autorisation de fouilles par l'Etat.<a id=90></a>
+##### Section 1 : Autorisation de fouilles par l'Etat.<a id=87></a>
 
 ###### Article L531-1
 
@@ -7780,7 +7777,7 @@ _Cite_:
   - Code du patrimoine - art. L531-5 (V)
 
 
-##### Section 2 : Exécution de fouilles par l'Etat.<a id=91></a>
+##### Section 2 : Exécution de fouilles par l'Etat.<a id=88></a>
 
 ###### Article L531-9
 
@@ -7934,7 +7931,7 @@ _Cité par_:
   - Code du patrimoine. - art. R531-7 (V)
 
 
-##### Section 3 : Découvertes fortuites.<a id=92></a>
+##### Section 3 : Découvertes fortuites.<a id=89></a>
 
 ###### Article L531-14
 
@@ -8064,7 +8061,7 @@ _Cite_:
   - Code civil - art. 716
 
 
-##### Section 4 : Objets et vestiges.<a id=93></a>
+##### Section 4 : Objets et vestiges.<a id=90></a>
 
 ###### Article L531-17
 
@@ -8131,7 +8128,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-#### Chapitre 2 : Biens culturels maritimes.<a id=94></a>
+#### Chapitre 2 : Biens culturels maritimes.<a id=91></a>
 
 ###### Article L532-1
 
@@ -8484,9 +8481,9 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE IV : DISPOSITIONS DIVERSES<a id=95></a>
+### TITRE IV : DISPOSITIONS DIVERSES<a id=92></a>
 
-#### Chapitre 1er : Régime de propriété des vestiges immobiliers.<a id=96></a>
+#### Chapitre 1er : Régime de propriété des vestiges immobiliers.<a id=93></a>
 
 ###### Article L541-1
 
@@ -8549,7 +8546,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-#### Chapitre 2 : Utilisation de détecteurs de métaux.<a id=97></a>
+#### Chapitre 2 : Utilisation de détecteurs de métaux.<a id=94></a>
 
 ###### Article L542-1
 
@@ -8619,7 +8616,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-#### Chapitre 3 : Dispositions fiscales.<a id=98></a>
+#### Chapitre 3 : Dispositions fiscales.<a id=95></a>
 
 ###### Article L543-1
 
@@ -8641,9 +8638,9 @@ _Cité par_:
   - Code du patrimoine - art. L720-1 (MMN)
 
 
-#### Chapitre 4 : Dispositions pénales<a id=99></a>
+#### Chapitre 4 : Dispositions pénales<a id=96></a>
 
-##### Section 1 : Dispositions relatives à l'archéologie terrestre et subaquatique.<a id=100></a>
+##### Section 1 : Dispositions relatives à l'archéologie terrestre et subaquatique.<a id=97></a>
 
 ###### Article L544-1
 
@@ -8751,7 +8748,7 @@ _Cite_:
   - Code du patrimoine - art. L531-6 (V)
 
 
-##### Section 2 : Dispositions relatives aux biens culturels maritimes.<a id=101></a>
+##### Section 2 : Dispositions relatives aux biens culturels maritimes.<a id=98></a>
 
 ###### Article L544-5
 
@@ -8926,7 +8923,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-##### Section 3 : Dispositions communes.<a id=102></a>
+##### Section 3 : Dispositions communes.<a id=99></a>
 
 ###### Article L544-12
 
@@ -8977,11 +8974,11 @@ _Cite_:
   - Code du patrimoine - art. L544-12 (V)
 
 
-## LIVRE VI : MONUMENTS HISTORIQUES, SITES ET ESPACES PROTÉGÉS<a id=103></a>
+## LIVRE VI : MONUMENTS HISTORIQUES, SITES ET ESPACES PROTÉGÉS<a id=100></a>
 
-### TITRE Ier : INSTITUTIONS<a id=104></a>
+### TITRE Ier : INSTITUTIONS<a id=101></a>
 
-#### Chapitre 1er : Institutions nationales.<a id=105></a>
+#### Chapitre 1er : Institutions nationales.<a id=102></a>
 
 ###### Article L611-1
 
@@ -9027,7 +9024,7 @@ _Cite_:
   - Code du patrimoine. - art. L622-4 (M)
 
 
-#### Chapitre 2 : Institutions locales.<a id=106></a>
+#### Chapitre 2 : Institutions locales.<a id=103></a>
 
 ###### Article L612-1
 
@@ -9154,11 +9151,11 @@ _Abrogé par_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4421-4 (V)
 
 
-### TITRE II : MONUMENTS HISTORIQUES<a id=107></a>
+### TITRE II : MONUMENTS HISTORIQUES<a id=104></a>
 
-#### Chapitre 1er : Immeubles<a id=108></a>
+#### Chapitre 1er : Immeubles<a id=105></a>
 
-##### Section 1 : Classement des immeubles.<a id=109></a>
+##### Section 1 : Classement des immeubles.<a id=106></a>
 
 ###### Article L621-1
 
@@ -9828,7 +9825,7 @@ _Cité par_:
   - Code du patrimoine - art. R621-52 (V)
 
 
-##### Section 2 : Inscription des immeubles.<a id=110></a>
+##### Section 2 : Inscription des immeubles.<a id=107></a>
 
 ###### Article L621-25
 
@@ -9999,7 +9996,7 @@ _Cité par_:
   - Code du patrimoine. - art. R621-72 (V)
 
 
-##### Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits.<a id=111></a>
+##### Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits.<a id=108></a>
 
 ###### Article L621-29-1
 
@@ -10154,7 +10151,7 @@ _Cite_:
   - Code de l'environnement - art. L581-2
 
 
-##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits<a id=112></a>
+##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits<a id=109></a>
 
 ###### Article L621-30
 
@@ -10490,7 +10487,7 @@ _Cite_:
   - Code de l'urbanisme - art. L442-1 (M)
 
 
-##### Section 5 : Dispositions diverses.<a id=113></a>
+##### Section 5 : Dispositions diverses.<a id=110></a>
 
 ###### Article L621-33
 
@@ -10519,9 +10516,9 @@ _Cité par_:
   - Code du patrimoine - art. R621-97 (V)
 
 
-#### Chapitre 2 : Objets mobiliers<a id=114></a>
+#### Chapitre 2 : Objets mobiliers<a id=111></a>
 
-##### Section 1 : Classement des objets mobiliers.<a id=115></a>
+##### Section 1 : Classement des objets mobiliers.<a id=112></a>
 
 ###### Article L622-1
 
@@ -11077,7 +11074,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-##### Section 2 : Inscription des objets mobiliers.<a id=116></a>
+##### Section 2 : Inscription des objets mobiliers.<a id=113></a>
 
 ###### Article L622-20
 
@@ -11194,7 +11191,7 @@ _Cité par_:
   - Code du patrimoine - art. L642-1 (MMN)
 
 
-##### Section 3 : Dispositions communes aux objets classés et aux objets inscrits.<a id=117></a>
+##### Section 3 : Dispositions communes aux objets classés et aux objets inscrits.<a id=114></a>
 
 ###### Article L622-24
 
@@ -11332,7 +11329,7 @@ _Créé par_:
   - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005
 
 
-#### Chapitre 3 : Dispositions fiscales.<a id=118></a>
+#### Chapitre 3 : Dispositions fiscales.<a id=115></a>
 
 ###### Article L623-1
 
@@ -11359,7 +11356,7 @@ _Cité par_:
   - Code du patrimoine - art. L720-1 (MMN)
 
 
-#### Chapitre 4 : Dispositions pénales.<a id=119></a>
+#### Chapitre 4 : Dispositions pénales.<a id=116></a>
 
 ###### Article L624-1
 
@@ -11588,7 +11585,7 @@ _Cite_:
   - Code du patrimoine - art. L623-1 (V)
 
 
-### TITRE III : SITES.<a id=120></a>
+### TITRE III : SITES.<a id=117></a>
 
 ###### Article L630-1
 
@@ -11872,9 +11869,9 @@ _Cité par_:
   - Code du patrimoine. - art. L730-1 (M)
 
 
-### TITRE IV : ESPACES PROTÉGÉS<a id=121></a>
+### TITRE IV : ESPACES PROTÉGÉS<a id=118></a>
 
-#### Chapitre 1er : Secteurs sauvegardés.<a id=122></a>
+#### Chapitre 1er : Secteurs sauvegardés.<a id=119></a>
 
 ###### Article L641-1
 
@@ -12084,7 +12081,7 @@ _Cité par_:
   - Code du patrimoine. - art. L720-1 (V)
 
 
-#### Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager.<a id=123></a>
+#### Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager.<a id=120></a>
 
 ###### Article L642-1
 
@@ -12393,7 +12390,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-#### Chapitre 3 : Dispositions fiscales.<a id=124></a>
+#### Chapitre 3 : Dispositions fiscales.<a id=121></a>
 
 ###### Article L643-1
 
@@ -12421,9 +12418,9 @@ _Cité par_:
   - Code du patrimoine. - art. L720-1 (M)
 
 
-## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=125></a>
+## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=122></a>
 
-### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON.<a id=126></a>
+### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON.<a id=123></a>
 
 ###### Article L720-1
 
@@ -12484,7 +12481,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE.<a id=127></a>
+### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE.<a id=124></a>
 
 ###### Article L730-1
 
@@ -12573,7 +12570,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE.<a id=128></a>
+### TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE.<a id=125></a>
 
 ###### Article L740-1
 
@@ -12674,7 +12671,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE.<a id=129></a>
+### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE.<a id=126></a>
 
 ###### Article L750-1
 
@@ -12754,7 +12751,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA.<a id=130></a>
+### TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA.<a id=127></a>
 
 ###### Article L760-1
 
@@ -12879,7 +12876,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES.<a id=131></a>
+### TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES.<a id=128></a>
 
 ###### Article L770-1
 
