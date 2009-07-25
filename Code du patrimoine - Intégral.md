@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-07-26
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -1779,10 +1779,12 @@ _Cite_:
 
 Les documents imprimés, graphiques, photographiques, sonores, audiovisuels, multimédias, quel que soit leur procédé technique
 de production, d'édition ou de diffusion, font l'objet d'un dépôt obligatoire, dénommé dépôt légal, dès lors qu'ils sont mis
-à la disposition d'un public.
+à la disposition d'un public. Toutefois, les documents destinés à une première exploitation en salles de spectacles
+cinématographiques sont soumis à l'obligation de dépôt légal dès lors qu'ils ont obtenu le visa d'exploitation
+cinématographique prévu à l'article L. 211-1 du code du cinéma et de l'image animée. 
 
 Les logiciels et les bases de données sont soumis à l'obligation de dépôt légal dès lors qu'ils sont mis à disposition d'un
-public par la diffusion d'un support matériel, quelle que soit la nature de ce support.
+public par la diffusion d'un support matériel, quelle que soit la nature de ce support. 
 
 Sont également soumis au dépôt légal les signes, signaux, écrits, images, sons ou messages de toute nature faisant l'objet
 d'une communication au public par voie électronique.
@@ -1807,16 +1809,15 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°92-546 1992-06-20 art. 1
   - Loi n°92-546 du 20 juin 1992 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 _Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 39 () JORF 3 août 2006
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 5
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L211-1 (V)
 
 
 #### Chapitre 2 : Modalités et organisation du dépôt légal.<a id=27></a>
@@ -1872,33 +1873,34 @@ _Cite_:
 
 ###### Article L132-2
 
-L'obligation de dépôt mentionnée à l'article L. 131-2 incombe aux personnes suivantes :
+L'obligation de dépôt mentionnée à l'article L. 131-2 incombe aux personnes suivantes : 
 
-a) Celles qui éditent ou importent des documents imprimés, graphiques ou photographiques ;
+a) Celles qui éditent ou importent des documents imprimés, graphiques ou photographiques ; 
 
-b) Celles qui impriment les documents mentionnés au a ci-dessus ;
+b) Celles qui impriment les documents mentionnés au a ci-dessus ; 
 
-c) Celles qui éditent, produisent ou importent des logiciels ou des bases de données ;
+c) Celles qui éditent, produisent ou importent des logiciels ou des bases de données ; 
 
 d) Celles qui éditent ou, en l'absence d'éditeur, celles qui produisent ou qui commandent et celles qui importent des
-phonogrammes ;
+phonogrammes ; 
 
 e) Celles qui produisent des documents cinématographiques et, en ce qui concerne les documents cinématographiques importés,
-celles qui les distribuent, ainsi que celles qui éditent et importent des documents cinématographiques fixés sur un support
-autre que photochimique ;
+celles qui les distribuent, quelle que soit la nature du support sur lequel ils sont fixés, ainsi que celles qui éditent et
+importent des vidéogrammes destinés à l'usage privé du public consistant dans la reproduction de documents
+cinématographiques ; 
 
 f) Les services de radio et de télévision au sens de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de
-communication ;
+communication ; 
 
 g) Les personnes qui éditent ou, en l'absence d'éditeur, celles qui produisent ou qui commandent et celles qui importent des
 vidéogrammes autres que ceux qui sont mentionnés au e ci-dessus et que ceux qui sont télédiffusés sans faire l'objet par
-ailleurs d'une exploitation commerciale ;
+ailleurs d'une exploitation commerciale ; 
 
-h) Celles qui éditent ou, en l'absence d'éditeur, celles qui produisent et celles qui importent des documents multimédias ;
+h) Celles qui éditent ou, en l'absence d'éditeur, celles qui produisent et celles qui importent des documents multimédias ; 
 
 i) Celles qui éditent ou produisent en vue de la communication au public par voie électronique, au sens du deuxième alinéa de
 l'article 2 de la loi n° 86-1067 du 30 septembre 1986 précitée, des signes, signaux, écrits, images, sons ou messages de
-toute nature.
+toute nature. 
 
 Sont réputés importateurs au sens du présent article ceux qui introduisent sur le territoire national des documents édités ou
 produits hors de ce territoire.
@@ -1907,21 +1909,17 @@ produits hors de ce territoire.
 
 _Cite_:
 
-  - Loi n°86-1067 du 30 septembre 1986 - art. 2 (M)
-  - Code du patrimoine. - art. L131-2 (M)
+  - Loi n°86-1067 du 30 septembre 1986
+  - Loi n°86-1067 du 30 septembre 1986 - art. 2
+  - Code du patrimoine - art. L131-2
 
 _Anciens textes_:
 
-  - Loi n°92-546 1992-06-20 art. 4
   - Loi n°92-546 du 20 juin 1992 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 _Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 41 () JORF 3 août 2006
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 5
 
 _Cité par_:
 
@@ -1970,8 +1968,8 @@ _Cite_:
 ###### Article L132-3
 
 Sont responsables du dépôt légal, qu'ils gèrent pour le compte de l'Etat, dans des conditions déterminées par décret en
-Conseil d'Etat : la Bibliothèque nationale de France, le Centre national de la cinématographie, l'Institut national de
-l'audiovisuel et le service chargé du dépôt légal du ministère de l'intérieur.
+Conseil d'Etat : la Bibliothèque nationale de France, le Centre national du cinéma et de l'image animée, l'Institut national
+de l'audiovisuel et le service chargé du dépôt légal du ministère de l'intérieur. 
 
 Ce décret peut confier la responsabilité du dépôt légal à d'autres établissements ou services publics, nationaux ou locaux, à
 la condition qu'ils présentent les garanties statutaires et disposent des moyens, notamment scientifiques, propres à assurer
@@ -1986,16 +1984,15 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°92-546 1992-06-20 art. 5
   - Loi n°92-546 du 20 juin 1992 - art. 5 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 3 (V)
 
 _Cite_:
 
-  - Code du patrimoine. - art. L131-1 (M)
+  - Code du patrimoine. - art. L131-1 (V)
 
 
 ###### Article L132-4
