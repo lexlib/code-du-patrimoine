@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-08
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -12066,17 +12066,18 @@ prévoient les articles L. 160-1 et L. 480-4, ils sont tenus d'en faire dresser 
 Copie du procès-verbal constatant une infraction est transmise sans délai au ministère public. 
 
 Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural
-peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction à l'alinéa 1er du
-présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre. 
+et de la pêche maritime peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une
+infraction à l'alinéa 1er du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a
+pour objet de défendre. 
 
 La commune peut exercer les droits reconnus à la partie civile, en ce qui concerne les faits commis sur son territoire et
 constituant une infraction à l'alinéa premier du présent article. "
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cite_:
 
@@ -12084,10 +12085,6 @@ _Cite_:
   - Code de l'urbanisme - art. L480-1 (V)
   - Code de l'urbanisme - art. L480-4 (V)
   - Code du patrimoine. - art. L522-1 (V)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L480-1 (V)
 
 _Cité par_:
 
