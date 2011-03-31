@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2011-01-13
+Version Consolidée au 2011-04-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -12709,21 +12709,31 @@ _Cite_:
 ###### Article L730-4
 
 Pour l'application du code dans la collectivité départementale de Mayotte, les termes énumérés ci-après sont remplacés comme
-suit :
+suit : 
 
-a) Les mots : "tribunal d'instance" et "tribunal de grande instance" par les mots : "tribunal de première instance" ;
+a) Les mots : " tribunal d'instance " et " tribunal de grande instance " par les mots : " tribunal de première instance " ; 
 
-b) Les mots : "cour d'appel" par les mots : "tribunal supérieur d'appel" ;
+b) Les mots : " cour d'appel " par les mots : "    chambre d'appel de Mamoudzou " ; 
 
-c) Le mot : "département" par le mot : "collectivité départementale de Mayotte" ;
+c) Le mot : " département " par le mot : " collectivité départementale de Mayotte " ; 
 
-d) Le mot : "préfet" par les mots : "préfet de Mayotte".
+d) Le mot : " préfet " par les mots : " préfet de Mayotte ".
+
+**Nota:**
+
+Aux termes de l'alinéa 6 de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, la référence au tribunal de première
+instance est remplacée par celle au tribunal de grande instance, ou au tribunal d'instance conformément à la répartition des
+compétences fixées entre ces juridictions par le code de l'organisation judiciaire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2011-337 - art. 12 (VD)
 
 
 ###### Article L730-5
