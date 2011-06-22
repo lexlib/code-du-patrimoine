@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2011-06-17
+Version Consolidée au 2011-06-23
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -130,7 +130,7 @@ Version Consolidée au 2011-06-17
       - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE. (art. L750-1 à L750-4)](#127)
       - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA. (art. L760-1 à L760-6)](#128)
       - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES. (art. L770-1 à L770-4)](#129)
-  - [Partie réglementaire (art. R111-1 à Annexe 5-1 à l'article R. 143-1)](#130)
+  - [Partie réglementaire (art. R111-1 à Annexe 6 à l'article R. 545-16)](#130)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE  DU PATRIMOINE CULTUREL (art. R111-1 à D144-5)](#131)
       - [TITRE Ier : PROTECTION DES BIENS CULTURELS (art. R111-1 à R115-4)](#132)
         - [Chapitre Ier : Régime de circulation des biens culturels (art. R111-1 à R111-23)](#133)
@@ -383,7 +383,7 @@ Version Consolidée au 2011-06-17
       - [TITRE IV : ESPACES PROTÉGÉS (art. D641-1 à D643-1)](#380)
         - [Chapitre Ier : Secteurs sauvegardés (art. D641-1)](#381)
         - [Chapitre III : Dispositions fiscales (art. D643-1)](#382)
-    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 5-1 à l'article R. 143-1)](#383)
+    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 6 à l'article R. 545-16)](#383)
 # Partie législative<a id=1></a>
 
 ###### Article L1
@@ -42219,5 +42219,113 @@ _Codifié par_:
 _Cité par_:
 
   - Code du patrimoine - art. R143-1 (V)
+
+
+###### Article Annexe 6 à l'article R. 545-16
+
+Ressort territorial et siège des commissions interrégionales de la recherche archéologique
+
+<table border="1">
+    <tbody>
+      <tr>
+        <th>COMMISSION INTERRÉGIONALE
+
+</th>
+        <th>RESSORT
+
+</th>
+        <th>SIÈGE
+
+</th>
+      </tr>
+      <tr>
+        <td align="center">Commission Centre-Est
+
+</td>
+        <td align="center">Auvergne, Rhône-Alpes
+
+</td>
+        <td align="center">Lyon
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">Commission Centre-Nord
+
+</td>
+        <td align="center">Centre, Ile-de-France, Nord - Pas-de-Calais, Picardie
+
+</td>
+        <td align="center">Orléans
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">Commission Ouest
+
+</td>
+        <td align="center">Bretagne, Basse-Normandie, Haute-Normandie, Pays de la Loire
+
+</td>
+        <td align="center">Rennes
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">Commission Est
+
+</td>
+        <td align="center">Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine
+
+</td>
+        <td align="center">Dijon
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">Commission Sud-Est
+
+</td>
+        <td align="center">Corse, Languedoc-Roussillon, Provence-Alpes-Côte d'Azur
+
+</td>
+        <td align="center">Marseille
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">Commission Sud-Ouest
+
+</td>
+        <td align="center">Aquitaine, Limousin, Midi-Pyrénées, Poitou-Charentes
+
+</td>
+        <td align="center">Bordeaux
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">Commission de l'outre-mer
+
+</td>
+        <td align="center">Guadeloupe, Guyane, Martinique, Réunion
+
+</td>
+        <td align="center">Fort-de-France
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
