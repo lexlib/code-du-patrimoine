@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2012-03-01
+Version Consolidée au 2012-03-14
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -6826,12 +6826,7 @@ Les emplois permanents de l'établissement public sont pourvus par des agents co
 l'établissement public est régi par le décret en Conseil d'Etat pris en application de l'article 7 de la loi n° 84-16 du 11
 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et par un décret particulier.
 
-Pour une durée  de cinq ans, lorsque les contrats sont conclus pour une activité définie dans le  cadre d'une opération de
-fouilles d'archéologie préventive, leur terme est fixé  à l'achèvement de l'activité pour la réalisation de laquelle ils ont
-été  conclus. Un décret en Conseil d'Etat précise les activités pour lesquelles ces  types de contrats peuvent être conclus
-et les règles qui leur sont applicables,  notamment en fin de contrat. 
-
-Les biens, droits et obligations de l'association dénommée "Association pour les fouilles archéologiques nationales" sont
+Les biens, droits et obligations de l'association dénommée " Association pour les fouilles archéologiques nationales " sont
 dévolus à l'établissement public dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
@@ -6850,7 +6845,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-179 du 17 février 2009 - art. 9
+  - Loi n°2012-347 du 12 mars 2012 - art. 39
 
 
 ###### Article L523-4
