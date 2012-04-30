@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2012-03-24
+Version Consolidée au 2012-05-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -25214,7 +25214,7 @@ département des arts graphiques, le département des arts de l'Islam ;
 
 22° Le musée Magnin à Dijon ; 
 
-23° Le musée de la porcelaine Adrien Dubouché à Limoges ; 
+23° Le musée Adrien Dubouché à Limoges ; 
 
 24° Le musée Clemenceau et de Lattre de Tassigny à Mouilleron-en-Pareds ; 
 
@@ -25242,17 +25242,13 @@ département des arts graphiques, le département des arts de l'Islam ;
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°45-2075 du 31 août 1945 - art. 1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2012-462 du 6 avril 2012 - art. 24
 
 _Cité par_:
 
@@ -25261,9 +25257,17 @@ _Cité par_:
   - Code du patrimoine. - art. D423-6 (M)
   - Code du patrimoine. - art. D423-9 (V)
 
+**Liens**:
+
+  - TRANSFERE: Décret n°2014-119 du 11 février 2014 - art. 4
+
 _Cite_:
 
-  - Code du patrimoine. - art. R423-1 (V)
+  - Code du patrimoine - art. R423-1
+
+_Nouveaux textes_:
+
+  - Code du patrimoine. - art. R421-2 (V)
 
 
 ###### Article D421-3
