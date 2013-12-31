@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2013-07-01
+Version Consolidée au 2014-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -2593,25 +2593,24 @@ _Cité par_:
 
 ###### Article L143-2
 
-La "Fondation du patrimoine" a pour but de promouvoir la connaissance, la conservation et la mise en valeur du patrimoine
-national. 
+La " Fondation du patrimoine " a pour but de promouvoir la connaissance, la conservation et la mise en valeur du patrimoine
+national.
 
-Elle s'attache à l'identification, à la préservation et à la mise en valeur du patrimoine non protégé. 
+Elle s'attache à l'identification, à la préservation et à la mise en valeur du patrimoine non protégé.
 
 Elle contribue à la sauvegarde des monuments, édifices, ensembles mobiliers ou éléments remarquables des espaces naturels ou
 paysagers menacés de dégradation, de disparition ou de dispersion. Elle concourt ainsi à l'emploi, à l'insertion, à la
 formation et à la transmission des savoir-faire dans les secteurs de la restauration et de la valorisation du patrimoine et
-des sites. 
+des sites.
 
 Elle apporte son concours à des personnes publiques ou privées, notamment par subvention, pour l'acquisition, l'entretien, la
 gestion et la présentation au public de ces biens, qu'ils aient ou non fait l'objet de mesures de protection prévues par le
-présent code, ainsi que pour la conservation de biens dans les conditions prévues à l'article L. 143-2-1. 
+présent code, ainsi que pour la conservation de biens dans les conditions prévues à l'article L. 143-2-1.
 
 Elle peut également acquérir les biens mentionnés au troisième alinéa lorsque cette acquisition est nécessaire aux actions de
-sauvegarde qu'elle met en place. 
+sauvegarde qu'elle met en place.
 
-Elle peut attribuer un label au patrimoine non protégé et aux sites. Ce label peut être pris en compte pour l'octroi de
-l'agrément prévu au 1° ter du II de l'article 156 du code général des impôts.
+Elle peut attribuer un label au patrimoine non protégé et aux sites.
 
 **Liens relatifs à cet article**
 
@@ -2621,11 +2620,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Modifié par_:
-
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 10 (V) JORF 27 décembre 2006
+  - Ordonnance n°2004-178 du 20 février 2004
 
 _Cité par_:
 
@@ -2638,6 +2633,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 156 (V)
   - Code général des impôts, CGI. - art. 156 bis (V)
   - Code général des impôts, CGI. - art. 199 octovicies (VD)
+
+_Modifié par_:
+
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
 
 **Liens**:
 
@@ -12463,7 +12462,10 @@ prononcée, après enquête publique puis accord du préfet, par délibération 
 premier alinéa de l'article L. 642-1. 
 
 La modification de l'aire de mise en valeur de l'architecture et du patrimoine emporte, le cas échéant, la modification du
-plan local d'urbanisme.
+plan local d'urbanisme. 
+
+Une aire de mise en valeur de l'architecture et du patrimoine peut être adaptée dans les conditions définies à l'article L.
+300-6-1 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -12473,16 +12475,21 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 5
+
+_Abrogé par_:
+
+  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L300-6-1 (M)
+  - Code du patrimoine - art. L642-1
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*315-18 (Ab)
   - Code de l'urbanisme - art. R*442-11-1 (Ab)
-
-_Cite_:
-
-  - Code du patrimoine. - art. L642-1 (V)
 
 
 ###### Article L642-5
@@ -12656,22 +12663,28 @@ l'engagement de l'enquête.
 
 La révision d'une zone de protection du patrimoine architectural, urbain et paysager créée antérieurement à la date d'entrée
 en vigueur de la loi n° 2010-788 du 12 juillet 2010 précitée est instruite selon les dispositions du présent chapitre et
-conduit à l'établissement d'une aire de mise en valeur de l'architecture et du patrimoine.
+conduit à l'établissement d'une aire de mise en valeur de l'architecture et du patrimoine. 
+
+Les zones de protection du patrimoine architectural, urbain et paysager créées avant la date d'entrée en vigueur de la loi n°
+2010-788 du 12 juillet 2010 précitée peuvent être adaptées dans les conditions définies à l'article L. 300-6-1 du code de
+l'urbanisme. Cette adaptation ne conduit pas à l'établissement d'une aire de mise en valeur de l'architecture et du
+patrimoine.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2010-788 du 12 juillet 2010
-
-_Modifié par_:
-
-  - Loi n°2011-665 du 15 juin 2011 - art. 2
+  - Code de l'urbanisme - art. L300-6-1
 
 _Cité par_:
 
   - Décret n°2011-1903 du 19 décembre 2011 (V)
   - Code de la construction et de l'habitation. - art. D511-13-1 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 5
 
 
 ###### Article L642-9
