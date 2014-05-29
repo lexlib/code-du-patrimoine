@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2014-03-27
+Version Consolidée au 2014-05-30
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -161,7 +161,7 @@ Version Consolidée au 2014-03-27
         - [Chapitre Ier : Acquisition de biens culturels présentant le caractère de Trésor national et faisant l'objet d'un refus de certificat d'exportation (art. R121-1 à R121-7)](#158)
         - [Chapitre II : Dispositions fiscales (art. D122-1 à D122-4)](#159)
         - [Chapitre III : Préemption des œuvres d'art (art. R123-1 à R123-8)](#160)
-      - [TITRE III : DÉPÔT LÉGAL (art. R131-1 à R133-1)](#161)
+      - [TITRE III : DÉPÔT LÉGAL (art. R131-1 à R133-1-1)](#161)
         - [Chapitre Ier : Objectifs et champ d'application du dépôt légal (art. R131-1 à R131-7)](#162)
         - [Chapitre II : Modalités et organisation du dépôt légal (art. R132-1 à R132-45)](#163)
           - [Section 1 : Dépôt légal à la Bibliothèque nationale de France (art. R132-1 à D132-23-3)](#164)
@@ -173,7 +173,7 @@ Version Consolidée au 2014-03-27
           - [Section 2 : Dépôt légal au Centre national du cinéma  et de l'image animée (art. R132-24 à R132-32)](#170)
           - [Section 3 : Dépôt légal à l'Institut national de l'audiovisuel (art. R132-33 à R132-43)](#171)
           - [Section 5 : Dispositions diverses (art. R132-44 à R132-45)](#172)
-        - [Chapitre III : Dispositions pénales (art. R133-1)](#173)
+        - [Chapitre III : Dispositions pénales (art. R133-1 à R133-1-1)](#173)
       - [TITRE IV : INSTITUTIONS RELATIVES  AU PATRIMOINE CULTUREL (art. R141-1 à D144-5)](#174)
         - [Chapitre Ier : Centre des monuments nationaux (art. R141-1 à R141-21)](#175)
           - [Section 1 : Dispositions générales (art. R141-1 à R141-9)](#176)
@@ -18767,6 +18767,22 @@ _Cite_:
   - Code du patrimoine - art. R132-32
   - Code du patrimoine - art. R132-40
   - Code du patrimoine - art. R132-8
+
+
+###### Article R133-1-1
+
+Le comptable public compétent mentionné au quatrième alinéa de l'article L. 133-1 du code du patrimoine est un comptable de
+la direction générale des finances publiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-551 du 27 mai 2014 - art. 18
+
+_Cite_:
+
+  - Code du patrimoine - art. L133-1 (V)
 
 
 ### TITRE IV : INSTITUTIONS RELATIVES  AU PATRIMOINE CULTUREL<a id=174></a>
