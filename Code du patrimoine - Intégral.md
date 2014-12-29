@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2014-11-05
+Version Consolidée au 2014-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -347,57 +347,56 @@ Version Consolidée au 2014-11-05
             - [Sous-section 2 : Assistance à maîtrise d'ouvrage (art. R621-70 à R621-77)](#344)
             - [Sous-section 3 : Subventions (art. R621-78 à R621-79)](#345)
             - [Sous-section 4 : Publicité des mesures de protection (art. R621-80 à R621-81)](#346)
-            - [Sous-section 5 : Financement de l'Etat aux travaux d'entretien,  de réparation ou de restauration (art.  à R621-81)](#347)
-            - [Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration (art. R621-82)](#348)
-            - [Sous-section 6 : Découverte fortuite (art. R621-83)](#349)
-            - [Sous-section 7 : Aliénation (art. R621-84)](#350)
-            - [Sous-section 8 : Notification (art. R621-85)](#351)
-            - [Sous-section 9 : Autorisation d'affichage (art. R621-86 à R621-91)](#352)
-          - [Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits (art. R621-92 à R621-96-18)](#353)
-            - [Sous-section 1 : Périmètres de protection (art. R621-92 à R621-95)](#354)
-            - [Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit (art. R621-96 à R621-96-18)](#355)
-          - [Section 5 : Dispositions diverses (art. R621-97)](#356)
-        - [Chapitre II : Objets mobiliers (art. R622-1 à R622-61)](#357)
-          - [Section 1 : Classement des objets mobiliers (art. R622-1 à R622-31)](#358)
-            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R622-1 à R622-10)](#359)
-            - [Sous-section 2 : Travaux sur un objet mobilier classé (art. R622-11 à R622-17)](#360)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-18 à R622-25)](#361)
-            - [Sous-section 4 : Mesures conservatoires (art. R622-26 à R622-27)](#362)
-            - [Sous-section 5 : Aliénation (art. R622-28 à R622-31)](#363)
-          - [Section 2 : Inscription des objets mobiliers (art. R622-32 à R622-44)](#364)
-            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R622-32 à R622-38)](#365)
-            - [Sous-section 2 : Travaux sur un objet mobilier inscrit (art. R622-39)](#366)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-40 à R622-42)](#367)
-            - [Sous-section 4 : Aliénation (art. R622-43 à R622-44)](#368)
-          - [Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits (art. R622-45 à R622-61)](#369)
-            - [Sous-section 1 : Assistance à maîtrise d'ouvrage (art. R622-45 à R622-52)](#370)
-            - [Sous-section 2 : Subventions (art. R622-53 à R622-55)](#371)
-            - [Sous-section 3 : Découverte fortuite (art. R622-56)](#372)
-            - [Sous-section 4 : Déplacement (art. R622-57)](#373)
-            - [Sous-section 5 : Notification (art. R622-58)](#374)
-            - [Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues (art. R622-59 à R622-61)](#375)
-        - [Chapitre III : Dispositions fiscales (art. D623-1 à D623-2)](#376)
-        - [Chapitre IV : Dispositions pénales (art. R624-1 à R624-2)](#377)
-      - [TITRE III : SITES (art. D630-1)](#378)
-      - [TITRE IV : ESPACES PROTÉGÉS (art. D641-1 à D643-1)](#379)
-        - [Chapitre Ier : Secteurs sauvegardés (art. D641-1)](#380)
-        - [Chapitre II : Aires de mise en valeur  de l'architecture et du patrimoine (art. D642-1 à R642-29)](#381)
-          - [Section 1 : Mise à l'étude d'un projet d'aire (art. D642-1 à D642-4)](#382)
-          - [Section 2 : Création d'une aire (art. D642-5 à D642-10)](#383)
-          - [Section 3 : Régime des travaux dans une aire (art. D642-11 à R642-22)](#384)
-          - [Section 4 : Sanctions pénales (art. R642-29)](#385)
-        - [Chapitre III : Dispositions fiscales (art. D643-1)](#386)
-    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R710-1 à R790-19)](#387)
-      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION (art. R710-1 à R710-10)](#388)
-      - [TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON (art. D720-2 à R720-16)](#389)
-      - [TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R730-1 à R730-11)](#390)
-      - [TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D740-2 à R740-15)](#391)
-      - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D750-2 à R750-13)](#392)
-      - [TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D760-2 à R760-14)](#393)
-      - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-2 à R770-11)](#394)
-      - [TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY (art. D780-2 à R780-20)](#395)
-      - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. D790-2 à R790-19)](#396)
-    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 6 à l'article R. 545-16)](#397)
+            - [Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration (art. R621-82)](#347)
+            - [Sous-section 6 : Découverte fortuite (art. R621-83)](#348)
+            - [Sous-section 7 : Aliénation (art. R621-84)](#349)
+            - [Sous-section 8 : Notification (art. R621-85)](#350)
+            - [Sous-section 9 : Autorisation d'affichage (art. R621-86 à R621-91)](#351)
+          - [Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits (art. R621-92 à R621-96-18)](#352)
+            - [Sous-section 1 : Périmètres de protection (art. R621-92 à R621-95)](#353)
+            - [Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit (art. R621-96 à R621-96-18)](#354)
+          - [Section 5 : Dispositions diverses (art. R621-97)](#355)
+        - [Chapitre II : Objets mobiliers (art. R622-1 à R622-61)](#356)
+          - [Section 1 : Classement des objets mobiliers (art. R622-1 à R622-31)](#357)
+            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R622-1 à R622-10)](#358)
+            - [Sous-section 2 : Travaux sur un objet mobilier classé (art. R622-11 à R622-17)](#359)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-18 à R622-25)](#360)
+            - [Sous-section 4 : Mesures conservatoires (art. R622-26 à R622-27)](#361)
+            - [Sous-section 5 : Aliénation (art. R622-28 à R622-31)](#362)
+          - [Section 2 : Inscription des objets mobiliers (art. R622-32 à R622-44)](#363)
+            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R622-32 à R622-38)](#364)
+            - [Sous-section 2 : Travaux sur un objet mobilier inscrit (art. R622-39)](#365)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-40 à R622-42)](#366)
+            - [Sous-section 4 : Aliénation (art. R622-43 à R622-44)](#367)
+          - [Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits (art. R622-45 à R622-61)](#368)
+            - [Sous-section 1 : Assistance à maîtrise d'ouvrage (art. R622-45 à R622-52)](#369)
+            - [Sous-section 2 : Subventions (art. R622-53 à R622-55)](#370)
+            - [Sous-section 3 : Découverte fortuite (art. R622-56)](#371)
+            - [Sous-section 4 : Déplacement (art. R622-57)](#372)
+            - [Sous-section 5 : Notification (art. R622-58)](#373)
+            - [Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues (art. R622-59 à R622-61)](#374)
+        - [Chapitre III : Dispositions fiscales (art. D623-1 à D623-2)](#375)
+        - [Chapitre IV : Dispositions pénales (art. R624-1 à R624-2)](#376)
+      - [TITRE III : SITES (art. D630-1)](#377)
+      - [TITRE IV : ESPACES PROTÉGÉS (art. D641-1 à D643-1)](#378)
+        - [Chapitre Ier : Secteurs sauvegardés (art. D641-1)](#379)
+        - [Chapitre II : Aires de mise en valeur  de l'architecture et du patrimoine (art. D642-1 à R642-29)](#380)
+          - [Section 1 : Mise à l'étude d'un projet d'aire (art. D642-1 à D642-4)](#381)
+          - [Section 2 : Création d'une aire (art. D642-5 à D642-10)](#382)
+          - [Section 3 : Régime des travaux dans une aire (art. D642-11 à R642-22)](#383)
+          - [Section 4 : Sanctions pénales (art. R642-29)](#384)
+        - [Chapitre III : Dispositions fiscales (art. D643-1)](#385)
+    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R710-1 à R790-19)](#386)
+      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION (art. R710-1 à R710-10)](#387)
+      - [TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON (art. D720-2 à R720-16)](#388)
+      - [TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R730-1 à R730-11)](#389)
+      - [TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D740-2 à R740-15)](#390)
+      - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D750-2 à R750-13)](#391)
+      - [TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D760-2 à R760-14)](#392)
+      - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-2 à R770-11)](#393)
+      - [TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY (art. D780-2 à R780-20)](#394)
+      - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. D790-2 à R790-19)](#395)
+    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 6 à l'article R. 545-16)](#396)
 # Partie législative<a id=1></a>
 
 ###### Article L1
@@ -7529,6 +7528,9 @@ En cas de transfert partiel, un titre d'annulation des sommes correspondant à l
 titulaire initial du droit à construire ou d'aménager. Un titre de perception est émis à l'encontre du titulaire du transfert
 partiel. 
 
+En cas de transfert total ou partiel, le ou les titres de perception sont émis dans les trente-six mois suivant l'émission du
+titre d'annulation.
+
 IV. ― L'Etat effectue un prélèvement de 3 % sur le montant des sommes recouvrées, au titre des frais d'assiette et de
 recouvrement.
 
@@ -7561,15 +7563,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L55 (V)
-  - Code de l'urbanisme - art. L331-19 (V)
-  - Code de l'urbanisme - art. L331-21 (V)
-  - Code du patrimoine - art. L524-2 (V)
-  - Code du patrimoine - art. L524-4 (V)
+  - Livre des procédures fiscales - art. L55
+  - Code de l'urbanisme - art. L331-19
+  - Code de l'urbanisme - art. L331-21
+  - Code du patrimoine - art. L524-2
+  - Code du patrimoine - art. L524-4
 
 
 ###### Article L524-11
@@ -38625,9 +38627,7 @@ _Modifié par_:
   - Décret n°2014-1314 du 31 octobre 2014 - art. 19
 
 
-##### Sous-section 5 : Financement de l'Etat aux travaux d'entretien,  de réparation ou de restauration<a id=347></a>
-
-##### Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration<a id=348></a>
+##### Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration<a id=347></a>
 
 ###### Article R621-82
 
@@ -38651,7 +38651,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 6 : Découverte fortuite<a id=349></a>
+##### Sous-section 6 : Découverte fortuite<a id=348></a>
 
 ###### Article R621-83
 
@@ -38674,7 +38674,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 7 : Aliénation<a id=350></a>
+##### Sous-section 7 : Aliénation<a id=349></a>
 
 ###### Article R621-84
 
@@ -38697,7 +38697,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 8 : Notification<a id=351></a>
+##### Sous-section 8 : Notification<a id=350></a>
 
 ###### Article R621-85
 
@@ -38742,7 +38742,7 @@ _Cité par_:
   - Code du patrimoine. - art. R622-58 (V)
 
 
-##### Sous-section 9 : Autorisation d'affichage<a id=352></a>
+##### Sous-section 9 : Autorisation d'affichage<a id=351></a>
 
 ###### Article R621-86
 
@@ -38925,9 +38925,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits<a id=353></a>
+##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits<a id=352></a>
 
-##### Sous-section 1 : Périmètres de protection<a id=354></a>
+##### Sous-section 1 : Périmètres de protection<a id=353></a>
 
 ###### Article R621-92
 
@@ -39071,7 +39071,7 @@ _Cité par_:
   - Code du patrimoine. - art. R720-13 (M)
 
 
-##### Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit<a id=355></a>
+##### Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit<a id=354></a>
 
 ###### Article R621-96
 
@@ -39470,7 +39470,7 @@ _Cite_:
   - Code du patrimoine - art. L621-32
 
 
-##### Section 5 : Dispositions diverses<a id=356></a>
+##### Section 5 : Dispositions diverses<a id=355></a>
 
 ###### Article R621-97
 
@@ -39493,11 +39493,11 @@ _Cite_:
   - Code du patrimoine. - art. L621-33 (V)
 
 
-#### Chapitre II : Objets mobiliers<a id=357></a>
+#### Chapitre II : Objets mobiliers<a id=356></a>
 
-##### Section 1 : Classement des objets mobiliers<a id=358></a>
+##### Section 1 : Classement des objets mobiliers<a id=357></a>
 
-##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=359></a>
+##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=358></a>
 
 ###### Article R622-1
 
@@ -39760,7 +39760,7 @@ _Cite_:
   - Code du patrimoine. - art. L622-5 (V)
 
 
-##### Sous-section 2 : Travaux sur un objet mobilier classé<a id=360></a>
+##### Sous-section 2 : Travaux sur un objet mobilier classé<a id=359></a>
 
 ###### Article R622-11
 
@@ -39976,7 +39976,7 @@ _Cité par_:
   - Code du patrimoine. - art. R622-23 (V)
 
 
-##### Sous-section 3 : Contrôle scientifique et technique<a id=361></a>
+##### Sous-section 3 : Contrôle scientifique et technique<a id=360></a>
 
 ###### Article R622-18
 
@@ -40180,7 +40180,7 @@ _Cite_:
   - Code du patrimoine. - art. L622-8 (V)
 
 
-##### Sous-section 4 : Mesures conservatoires<a id=362></a>
+##### Sous-section 4 : Mesures conservatoires<a id=361></a>
 
 ###### Article R622-26
 
@@ -40253,7 +40253,7 @@ _Cite_:
   - Code du patrimoine. - art. L622-10 (V)
 
 
-##### Sous-section 5 : Aliénation<a id=363></a>
+##### Sous-section 5 : Aliénation<a id=362></a>
 
 ###### Article R622-28
 
@@ -40346,9 +40346,9 @@ _Cite_:
   - Code du patrimoine. - art. L622-17 (V)
 
 
-##### Section 2 : Inscription des objets mobiliers<a id=364></a>
+##### Section 2 : Inscription des objets mobiliers<a id=363></a>
 
-##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=365></a>
+##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=364></a>
 
 ###### Article R622-32
 
@@ -40531,7 +40531,7 @@ _Cite_:
   - Code du patrimoine. - art. R622-9 (V)
 
 
-##### Sous-section 2 : Travaux sur un objet mobilier inscrit<a id=366></a>
+##### Sous-section 2 : Travaux sur un objet mobilier inscrit<a id=365></a>
 
 ###### Article R622-39
 
@@ -40563,7 +40563,7 @@ _Cite_:
   - Code du patrimoine. - art. R622-12 (V)
 
 
-##### Sous-section 3 : Contrôle scientifique et technique<a id=367></a>
+##### Sous-section 3 : Contrôle scientifique et technique<a id=366></a>
 
 ###### Article R622-40
 
@@ -40635,7 +40635,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 4 : Aliénation<a id=368></a>
+##### Sous-section 4 : Aliénation<a id=367></a>
 
 ###### Article R622-43
 
@@ -40682,9 +40682,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits<a id=369></a>
+##### Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits<a id=368></a>
 
-##### Sous-section 1 : Assistance à maîtrise d'ouvrage<a id=370></a>
+##### Sous-section 1 : Assistance à maîtrise d'ouvrage<a id=369></a>
 
 ###### Article R622-45
 
@@ -40950,7 +40950,7 @@ _Cite_:
   - Code du patrimoine - art. R622-47 (V)
 
 
-##### Sous-section 2 : Subventions<a id=371></a>
+##### Sous-section 2 : Subventions<a id=370></a>
 
 ###### Article R622-53
 
@@ -41026,7 +41026,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 3 : Découverte fortuite<a id=372></a>
+##### Sous-section 3 : Découverte fortuite<a id=371></a>
 
 ###### Article R622-56
 
@@ -41052,7 +41052,7 @@ _Cité par_:
   - Code du patrimoine - art. R622-58 (V)
 
 
-##### Sous-section 4 : Déplacement<a id=373></a>
+##### Sous-section 4 : Déplacement<a id=372></a>
 
 ###### Article R622-57
 
@@ -41086,7 +41086,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 5 : Notification<a id=374></a>
+##### Sous-section 5 : Notification<a id=373></a>
 
 ###### Article R622-58
 
@@ -41120,7 +41120,7 @@ _Cite_:
   - Code du patrimoine. - art. R621-85 (V)
 
 
-##### Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues<a id=375></a>
+##### Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues<a id=374></a>
 
 ###### Article R622-59
 
@@ -41215,7 +41215,7 @@ _Cite_:
   - Code du patrimoine - art. R622-59
 
 
-#### Chapitre III : Dispositions fiscales<a id=376></a>
+#### Chapitre III : Dispositions fiscales<a id=375></a>
 
 ###### Article D623-1
 
@@ -41263,7 +41263,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 281 bis (Ab)
 
 
-#### Chapitre IV : Dispositions pénales<a id=377></a>
+#### Chapitre IV : Dispositions pénales<a id=376></a>
 
 ###### Article R624-1
 
@@ -41317,7 +41317,7 @@ _Cite_:
   - Code du patrimoine. - art. R621-86 (V)
 
 
-### TITRE III : SITES<a id=378></a>
+### TITRE III : SITES<a id=377></a>
 
 ###### Article D630-1
 
@@ -41347,9 +41347,9 @@ _Cité par_:
   - Code du patrimoine - art. D780-12 (V)
 
 
-### TITRE IV : ESPACES PROTÉGÉS<a id=379></a>
+### TITRE IV : ESPACES PROTÉGÉS<a id=378></a>
 
-#### Chapitre Ier : Secteurs sauvegardés<a id=380></a>
+#### Chapitre Ier : Secteurs sauvegardés<a id=379></a>
 
 ###### Article D641-1
 
@@ -41377,9 +41377,9 @@ _Cité par_:
   - Code du patrimoine. - art. D720-12 (M)
 
 
-#### Chapitre II : Aires de mise en valeur  de l'architecture et du patrimoine<a id=381></a>
+#### Chapitre II : Aires de mise en valeur  de l'architecture et du patrimoine<a id=380></a>
 
-##### Section 1 : Mise à l'étude d'un projet d'aire<a id=382></a>
+##### Section 1 : Mise à l'étude d'un projet d'aire<a id=381></a>
 
 ###### Article D642-1
 
@@ -41528,7 +41528,7 @@ _Cite_:
   - Code du patrimoine - art. L642-1
 
 
-##### Section 2 : Création d'une aire<a id=383></a>
+##### Section 2 : Création d'une aire<a id=382></a>
 
 ###### Article D642-5
 
@@ -41689,7 +41689,7 @@ _Cite_:
   - Code du patrimoine - art. L642-3
 
 
-##### Section 3 : Régime des travaux dans une aire<a id=384></a>
+##### Section 3 : Régime des travaux dans une aire<a id=383></a>
 
 ###### Article D642-11
 
@@ -42223,7 +42223,7 @@ _Cite_:
   - Code du patrimoine - art. L642-6
 
 
-##### Section 4 : Sanctions pénales<a id=385></a>
+##### Section 4 : Sanctions pénales<a id=384></a>
 
 ###### Article R642-29
 
@@ -42250,7 +42250,7 @@ _Cite_:
   - Code du patrimoine - art. L642-6
 
 
-#### Chapitre III : Dispositions fiscales<a id=386></a>
+#### Chapitre III : Dispositions fiscales<a id=385></a>
 
 ###### Article D643-1
 
@@ -42283,9 +42283,9 @@ _Cité par_:
   - Code du patrimoine. - art. D720-12 (M)
 
 
-## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=387></a>
+## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=386></a>
 
-### TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION<a id=388></a>
+### TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION<a id=387></a>
 
 ###### Article R710-1
 
@@ -42617,7 +42617,7 @@ _Abrogé par_:
   - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 
-### TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON<a id=389></a>
+### TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON<a id=388></a>
 
 ###### Article D720-2
 
@@ -43038,7 +43038,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE<a id=390></a>
+### TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE<a id=389></a>
 
 ###### Article R730-1
 
@@ -43340,7 +43340,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=391></a>
+### TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=390></a>
 
 ###### Article D740-2
 
@@ -43677,7 +43677,7 @@ _Codifié par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=392></a>
+### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=391></a>
 
 ###### Article D750-2
 
@@ -43951,7 +43951,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=393></a>
+### TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=392></a>
 
 ###### Article D760-2
 
@@ -44271,7 +44271,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=394></a>
+### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=393></a>
 
 ###### Article D770-2
 
@@ -44523,7 +44523,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY<a id=395></a>
+### TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY<a id=394></a>
 
 ###### Article D780-2
 
@@ -45018,7 +45018,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=396></a>
+### TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=395></a>
 
 ###### Article D790-2
 
@@ -45475,7 +45475,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-## Annexes<a id=397></a>
+## Annexes<a id=396></a>
 
 ###### Article Annexe 1 aux articles R. 111-1
 
