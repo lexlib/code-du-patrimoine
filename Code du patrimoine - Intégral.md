@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-07-11
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -29310,28 +29310,24 @@ _Cité par_:
 
 Les collectivités ou groupements de collectivités mentionnés à l'article R. 523-25 qui entendent réaliser le diagnostic
 d'archéologie préventive pour une opération, en application du 1° de cet article, doivent faire connaître leur décision en ce
-sens, prise conformément aux dispositions de l'article L. 523-4, au préfet de région dans le délai d'un mois à compter de la
-réception de la notification de prescription de diagnostic. A défaut de la notification de leur décision dans ce délai, ces
-collectivités ou groupements de collectivités sont réputés avoir renoncé à exercer cette faculté.
+sens, prise conformément aux dispositions de l'article L. 523-4, au préfet de région dans le délai d'une semaine à compter de
+la réception de la notification de prescription de diagnostic. A défaut de la notification de leur décision dans ce délai,
+ces collectivités ou groupements de collectivités sont réputés avoir renoncé à exercer cette faculté.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2004-490 du 3 juin 2004 - art. 24 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2015-836 du 9 juillet 2015 - art. 7
+
 _Cite_:
 
-  - Code du patrimoine - art. R523-25 (V)
-  - Code du patrimoine. - art. L523-4 (V)
+  - Code du patrimoine - art. L523-4
+  - Code du patrimoine - art. R523-25
 
 _Cité par_:
 
@@ -29370,21 +29366,17 @@ _Cite_:
 La réalisation, par un service archéologique territorial, d'un diagnostic prescrit à l'occasion de travaux effectués pour le
 compte d'autres collectivités territoriales ou leurs groupements ou de l'Etat est soumise à l'accord de ces collectivités ou
 de leurs groupements ou de l'Etat. Cet accord est regardé comme acquis, sauf décision expresse de refus notifiée au préfet de
-région dans un délai d'un mois à compter de la réception de la prescription de diagnostic.
+région dans un délai d'une semaine à compter de la réception de la prescription de diagnostic.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2004-490 du 3 juin 2004 - art. 26 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2015-836 du 9 juillet 2015 - art. 7
 
 _Cité par_:
 
@@ -29430,28 +29422,32 @@ _Cite_:
 
 ###### Article R523-30
 
-A la réception de la notification de l'attribution du diagnostic, l'opérateur élabore un projet d'intervention détaillant la
-mise en œuvre de la prescription et le soumet au préfet de région pour approbation. Si le projet soumis n'est pas conforme à
-la prescription qu'il a édictée, le préfet de région demande à l'opérateur de le modifier. Faute d'observation de la part du
-préfet dans le délai d'un mois, l'approbation est réputée acquise. 
+Dans le délai d'un mois suivant la réception de la notification de l'attribution du diagnostic, l'opérateur élabore un projet
+d'intervention détaillant la mise en œuvre de la prescription et le soumet au préfet de région pour approbation. Si le projet
+soumis n'est pas conforme à la prescription qu'il a édictée, le préfet de région demande à l'opérateur de le modifier. Faute
+d'observation de la part du préfet dans le délai d'un mois, l'approbation est réputée acquise. 
 
 Dès que le projet d'intervention a été approuvé et au plus tard deux mois après avoir reçu la notification de l'attribution
 du diagnostic, l'opérateur adresse à l'aménageur un projet de convention précisant les conditions de réalisation du
 diagnostic, telles que prévues à l'article R. 523-31.
 
+Après transmission du projet de convention à l'aménageur et au plus tard trois mois après la notification de l'attribution du
+diagnostic, l'opérateur et l'aménageur signent une convention précisant les conditions de réalisation du diagnostic, telles
+que prévues à l'article R. 523-31.
+
+A défaut de signature de la convention dans le délai prévu à l'alinéa précédent ou en cas de désaccord sur les éléments
+prévus à l'article R. 523-31, ceux-ci sont fixés par le préfet de région, saisi par la partie la plus diligente, dans le
+délai de quinze jours.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2004-490 du 3 juin 2004 - art. 28 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2015-836 du 9 juillet 2015 - art. 7
 
 _Cité par_:
 
