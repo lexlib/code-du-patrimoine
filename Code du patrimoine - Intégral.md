@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2015-12-30
+Version Consolidée au 2015-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -7260,7 +7260,7 @@ _Cité par_:
 
 Le financement de l'établissement public mentionné à l'article L. 523-1 est assuré notamment : 
 
-a) Par la redevance d'archéologie préventive prévue à l'article L. 524-2 ; 
+a) (Abrogé) 
 
 b) Par les subventions de l'Etat ou de toute autre personne publique ou privée ; 
 
@@ -7270,7 +7270,6 @@ c) Par les rémunérations qu'il perçoit en contrepartie des opérations de fou
 
 _Anciens textes_:
 
-  - Loi n°2001-44 du 17 janvier 2001 - art. 8 (M)
   - Loi n°2001-44 du 17 janvier 2001 - art. 8 (Ab)
 
 _Cité par_:
@@ -7281,12 +7280,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
+
+_Modifié par_:
+
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 41
 
 _Cite_:
 
-  - Code du patrimoine - art. L523-1 (V)
-  - Code du patrimoine - art. L524-2 (V)
+  - Code du patrimoine - art. L523-1
+  - Code du patrimoine - art. L524-2
 
 
 ###### Article L524-2
@@ -7539,11 +7542,11 @@ _Cite_:
 
 ###### Article L524-8
 
-I. ― Lorsqu'elle est perçue sur les travaux mentionnés au a de l'article L. 524-2, la redevance est établie dans les
+I. – Lorsqu'elle est perçue sur les travaux mentionnés au a de l'article L. 524-2, la redevance est établie dans les
 conditions prévues aux articles L. 331-19 et L. 331-20 du code de l'urbanisme. Les règles de contrôle et les sanctions sont
 celles prévues aux articles L. 331-21 à L. 331-23 du même code. 
 
-II. ― Lorsqu'elle est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 du présent code ou sur la demande
+II. – Lorsqu'elle est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 du présent code ou sur la demande
 mentionnée au dernier alinéa de l'article L. 524-4, la redevance est établie par les services de l'Etat chargés des affaires
 culturelles dans la région. 
 
@@ -7557,7 +7560,7 @@ administrative est accordée pour une durée supérieure à trois ans, l'année 
 Lorsqu'il apparaît que la superficie déclarée par l'aménageur est erronée, la procédure contradictoire prévue aux articles L.
 55 à L. 61 B du livre des procédures fiscales est applicable. 
 
-III. ― La redevance due sur les travaux mentionnés aux a, b et c de l'article L. 524-2 du présent code ou sur la demande
+III. – La redevance due sur les travaux mentionnés aux a, b et c de l'article L. 524-2 du présent code ou sur la demande
 mentionnée au dernier alinéa de l'article L. 524-4 est recouvrée par les comptables publics compétents comme en matière de
 créances étrangères à l'impôt et au domaine. 
 
@@ -7585,9 +7588,6 @@ partiel.
 
 En cas de transfert total ou partiel, le ou les titres de perception sont émis dans les trente-six mois suivant l'émission du
 titre d'annulation.
-
-IV. ― L'Etat effectue un prélèvement de 3 % sur le montant des sommes recouvrées, au titre des frais d'assiette et de
-recouvrement.
 
 **Nota:**
 
@@ -7618,10 +7618,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 41
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 1929 (V)
   - Livre des procédures fiscales - art. L55
   - Code de l'urbanisme - art. L331-19
   - Code de l'urbanisme - art. L331-21
@@ -7631,35 +7632,8 @@ _Cite_:
 
 ###### Article L524-11
 
-La redevance d'archéologie préventive mentionnée à l'article L. 524-2 est affectée dans les conditions prévues au présent
-article, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour
-2012. 
-
-Après encaissement de la redevance, le comptable public compétent en reverse le produit à l'établissement public mentionné à
-l'article L. 523-1 ou, dans le cas mentionné au b de l'article L. 523-4, à la collectivité territoriale ou au groupement de
-collectivités territoriales après déduction des frais d'assiette et de recouvrement et après prélèvement du pourcentage du
-produit de la redevance alimentant le Fonds national pour l'archéologie préventive prévu à l'article L. 524-14. Le
-reversement intervient au plus tard à la fin du mois qui suit le mois d'encaissement. 
-
-Toutefois, lorsque l'établissement public réalise un diagnostic prescrit à l'occasion de travaux d'aménagement réalisés pour
-le compte d'une collectivité territoriale ou d'un groupement de collectivités territoriales qui, dans le cas prévu au
-quatrième alinéa de l'article L. 523-4, n'a pas donné son accord à l'intervention du service archéologique de la collectivité
-territoriale mentionnée au b de l'article L. 523-4, cette dernière reverse à l'établissement public le montant de la
-redevance d'archéologie préventive perçue au titre de ces travaux. 
-
-Dans le cas où une collectivité territoriale ou un groupement de collectivités territoriales assure l'intégralité d'un
-diagnostic en application du a de l'article L. 523-4, la redevance lui est reversée par l'établissement public, la
-collectivité territoriale ou le groupement de collectivités territoriales qui l'a perçue. 
-
-Le plafond mentionné au premier alinéa du présent article porte prioritairement sur la part affectée au Fonds national pour
-l'archéologie préventive prévu à l'article L. 524-14, puis sur la part affectée à l'établissement public mentionné à
-l'article L. 523-1. 
-
-Lorsque le plafond précédemment mentionné est atteint en cours d'année, le comptable public compétent poursuit les versements
-de redevance aux collectivités territoriales et aux groupements de collectivités territoriales dans les conditions prévues
-aux alinéas précédents. Le trop-perçu par le Fonds national pour l'archéologie préventive prévu à l'article L. 524-14 et, le
-cas échéant, par l'établissement public mentionné à l'article L. 523-1 est restitué au budget général selon les modalités
-fixées au A du III de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 précitée.
+Dans les cas mentionnés à l'article L. 523-4, la collectivité territoriale ou le groupement de collectivités territoriales
+réalisant un diagnostic d'archéologie préventive peut bénéficier d'une subvention de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -7667,16 +7641,13 @@ _Anciens textes_:
 
   - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
 
-_Cite_:
-
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
-  - Code du patrimoine - art. L524-2 (V)
-  - Code du patrimoine. - art. L523-1 (V)
-  - Code du patrimoine. - art. L523-4 (V)
-
 _Modifié par_:
 
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 39 (VD)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 41
+
+_Cite_:
+
+  - Code du patrimoine - art. L523-4 (V)
 
 _Cité par_:
 
@@ -7692,12 +7663,7 @@ Les décharges sont prononcées lorsque les travaux définis à l'article L. 521
 l'opération de diagnostic n'a pas été engagée. 
 
 Les dégrèvements et décharges donnent lieu à l'émission de titres d'annulation totale ou partielle par le service qui a émis
-le titre initial. 
-
-Lorsque la redevance qui fait l'objet d'un titre d'annulation a été acquittée par le redevable en tout ou en partie et
-répartie entre les bénéficiaires, le versement indu fait l'objet d'un remboursement par le comptable et un titre de
-perception est émis à l'égard des bénéficiaires pour les montants indûment reversés. Le comptable peut recouvrer ce titre par
-voie de compensation.
+le titre initial.
 
 **Nota:**
 
@@ -7725,15 +7691,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 41
+
+_Cite_:
+
+  - Code du patrimoine - art. L521-1
 
 _Cité par_:
 
   - Code du patrimoine - art. R524-5 (V)
-
-_Cite_:
-
-  - Code du patrimoine. - art. L521-1 (V)
 
 
 ###### Article L524-14
@@ -7741,10 +7707,7 @@ _Cite_:
 Il est créé, dans les comptes de l'établissement public mentionné à l'article L. 523-1, un Fonds national pour l'archéologie
 préventive. 
 
-Les recettes du fonds sont constituées par un prélèvement sur le produit de la redevance d'archéologie préventive prévue à
-l'article L. 524-2. La part du produit de la redevance qui lui est affectée ne peut être inférieure à 30 % du montant à
-percevoir avant application du plafonnement mentionné au premier alinéa de l'article L. 524-11. Elle est fixée chaque année
-par décision de l'autorité administrative. 
+Les recettes du fonds sont constituées par une subvention de l'Etat. 
 
 Ce fonds finance les subventions accordées par l'Etat aux personnes projetant d'exécuter des travaux qui ont donné lieu à
 l'édiction d'une prescription de fouille d'archéologie préventive conformément aux dispositions de l'article L. 522-2. Les
@@ -7782,13 +7745,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1469 du 13 novembre 2015 - art. 35 (V)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 41
 
 _Cite_:
 
   - Code de l'urbanisme - art. L331-12
+  - Code du patrimoine - art. L522-2 (V)
   - Code du patrimoine - art. L523-1
-  - Code du patrimoine - art. L524-2
 
 
 ###### Article L524-15
