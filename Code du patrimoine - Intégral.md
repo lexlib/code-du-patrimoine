@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2015-12-31
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -4434,11 +4434,10 @@ _Cité par_:
 
 ###### Article L213-1
 
-Les archives publiques sont, sous réserve des dispositions de l'article L. 213-2, communicables de plein droit.
+Les archives publiques sont, sous réserve des dispositions de l'article L. 213-2, communicables de plein droit. 
 
-L'accès à ces archives s'exerce dans les conditions définies pour les documents administratifs à l'article 4 de la loi n°
-78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
-diverses dispositions d'ordre administratif, social et fiscal.
+L'accès à ces archives s'exerce dans les conditions définies pour les documents administratifs à l'article L. 311-9 du code
+des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
@@ -4464,79 +4463,79 @@ _Cité par_:
   - Code du patrimoine. - art. L213-7 (V)
   - Code du patrimoine. - art. R212-18 (V)
 
-_Cite_:
-
-  - Loi n°78-753 du 17 juillet 1978 - art. 4
-
 _Anciens textes_:
 
   - Loi n°79-18 du 3 janvier 1979 - art. 6 (Ab)
 
 _Modifié par_:
 
-  - Loi n°2008-696  du 15 juillet 2008 - art. 17
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. L311-9 (V)
 
 
 ###### Article L213-2
 
-Par dérogation aux dispositions de l'article L. 213-1 : 
+Par dérogation aux dispositions de l'article L. 213-1 :
 
-I. ― Les archives publiques sont communicables de plein droit à l'expiration d'un délai de : 
+I. – Les archives publiques sont communicables de plein droit à l'expiration d'un délai de :
 
-1° Vingt-cinq ans à compter de la date du document ou du document le plus récent inclus dans le dossier : 
+1° Vingt-cinq ans à compter de la date du document ou du document le plus récent inclus dans le dossier :
 
 a) Pour les documents dont la communication porte atteinte au secret des délibérations du Gouvernement et des autorités
 responsables relevant du pouvoir exécutif, à la conduite des relations extérieures, à la monnaie et au crédit public, au
 secret en matière commerciale et industrielle, à la recherche par les services compétents des infractions fiscales et
 douanières ou au secret en matière de statistiques sauf lorsque sont en cause des données collectées au moyen de
-questionnaires ayant trait aux faits et comportements d'ordre privé mentionnées aux 4° et 5° ; 
+questionnaires ayant trait aux faits et comportements d'ordre privé mentionnées aux 4° et 5° ;
 
-b) Pour les documents mentionnés au 1° du I de l'article 6 de la loi n° 78-753 du 17 juillet 1978, à l'exception des
-documents produits dans le cadre d'un contrat de prestation de services exécuté pour le compte d'une ou de plusieurs
-personnes déterminées lorsque ces documents entrent, du fait de leur contenu, dans le champ d'application des 3° ou 4° du
-présent I ; 
+b) Pour les documents mentionnés au 1° du I de l'article L. 311-5 du code des relations entre le public et l'administration,
+à l'exception des documents produits dans le cadre d'un contrat de prestation de services exécuté pour le compte d'une ou de
+plusieurs personnes déterminées lorsque ces documents entrent, du fait de leur contenu, dans le champ d'application des 3° ou
+4° du présent I ;
 
 2° Vingt-cinq ans à compter de la date du décès de l'intéressé, pour les documents dont la communication porte atteinte au
 secret médical. Si la date du décès n'est pas connue, le délai est de cent vingt ans à compter de la date de naissance de la
-personne en cause ; 
+personne en cause ;
 
 3° Cinquante ans à compter de la date du document ou du document le plus récent inclus dans le dossier, pour les documents
 dont la communication porte atteinte au secret de la défense nationale, aux intérêts fondamentaux de l'Etat dans la conduite
 de la politique extérieure, à la sûreté de l'Etat, à la sécurité publique, à la sécurité des personnes ou à la protection de
 la vie privée, à l'exception des documents mentionnés aux 4° et 5°. Le même délai s'applique aux documents qui portent une
 appréciation ou un jugement de valeur sur une personne physique, nommément désignée ou facilement identifiable, ou qui font
-apparaître le comportement d'une personne dans des conditions susceptibles de lui porter préjudice. 
+apparaître le comportement d'une personne dans des conditions susceptibles de lui porter préjudice.
 
 Le même délai s'applique aux documents relatifs à la construction, à l'équipement et au fonctionnement des ouvrages,
 bâtiments ou parties de bâtiment utilisés pour la détention des personnes ou recevant habituellement des personnes détenues.
-Ce délai est décompté depuis la fin de l'affectation à ces usages des ouvrages, bâtiments ou parties de bâtiment en cause ; 
+Ce délai est décompté depuis la fin de l'affectation à ces usages des ouvrages, bâtiments ou parties de bâtiment en cause ;
 
 4° Soixante-quinze ans à compter de la date du document ou du document le plus récent inclus dans le dossier, ou un délai de
-vingt-cinq ans à compter de la date du décès de l'intéressé si ce dernier délai est plus bref : 
+vingt-cinq ans à compter de la date du décès de l'intéressé si ce dernier délai est plus bref :
 
 a) Pour les documents dont la communication porte atteinte au secret en matière de statistiques lorsque sont en cause des
-données collectées au moyen de questionnaires ayant trait aux faits et comportements d'ordre privé ; 
+données collectées au moyen de questionnaires ayant trait aux faits et comportements d'ordre privé ;
 
-b) Pour les documents relatifs aux enquêtes réalisées par les services de la police judiciaire ; 
+b) Pour les documents relatifs aux enquêtes réalisées par les services de la police judiciaire ;
 
 c) Pour les documents relatifs aux affaires portées devant les juridictions, sous réserve des dispositions particulières
-relatives aux jugements, et à l'exécution des décisions de justice ; 
+relatives aux jugements, et à l'exécution des décisions de justice ;
 
-d) Pour les minutes et répertoires des officiers publics ou ministériels ; 
+d) Pour les minutes et répertoires des officiers publics ou ministériels ;
 
-e) Pour les registres de naissance et de mariage de l'état civil, à compter de leur clôture ; 
+e) Pour les registres de naissance et de mariage de l'état civil, à compter de leur clôture ;
 
 5° Cent ans à compter de la date du document ou du document le plus récent inclus dans le dossier, ou un délai de vingt-cinq
 ans à compter de la date du décès de l'intéressé si ce dernier délai est plus bref, pour les documents mentionnés au 4° qui
-se rapportent à une personne mineure. 
+se rapportent à une personne mineure.
 
 Les mêmes délais s'appliquent aux documents couverts ou ayant été couverts par le secret de la défense nationale dont la
 communication est de nature à porter atteinte à la sécurité de personnes nommément désignées ou facilement identifiables. Il
 en est de même pour les documents relatifs aux enquêtes réalisées par les services de la police judiciaire, aux affaires
 portées devant les juridictions, sous réserve des dispositions particulières relatives aux jugements, et à l'exécution des
-décisions de justice dont la communication porte atteinte à l'intimité de la vie sexuelle des personnes. 
+décisions de justice dont la communication porte atteinte à l'intimité de la vie sexuelle des personnes.
 
-II. ― Ne peuvent être consultées les archives publiques dont la communication est susceptible d'entraîner la diffusion
+II. – Ne peuvent être consultées les archives publiques dont la communication est susceptible d'entraîner la diffusion
 d'informations permettant de concevoir, fabriquer, utiliser ou localiser des armes nucléaires, biologiques, chimiques ou
 toutes autres armes ayant des effets directs ou indirects de destruction d'un niveau analogue.
 
@@ -4575,7 +4574,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2009-483 du 29 avril 2009 - art. 13
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
 
 
 ###### Article L213-3
@@ -10477,7 +10480,7 @@ l'établissement public de coopération intercommunale compétent, en même temp
 communale. L'approbation du plan ou de la carte emporte modification du périmètre. 
 
 Le tracé du périmètre prévu au présent article est annexé au plan local d'urbanisme dans les conditions prévues à l'article
-L. 126-1 du code de l'urbanisme. 
+L. 153-60 du code de l'urbanisme. 
 
 Les enquêtes publiques conduites pour l'application du présent article sont réalisées conformément au chapitre III du titre
 II du livre Ier du code de l'environnement.
@@ -10541,11 +10544,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-387 du 22 mars 2012 - art. 106
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L126-1 (VT)
+  - Code de l'urbanisme - art. L153-60 (VD)
 
 
 ###### Article L621-31
@@ -12241,7 +12244,7 @@ patrimoine.
 
 Lorsque l'autorité administrative et, au cas où il est compétent pour délivrer les autorisations, le maire ou le président de
 l'établissement public de coopération intercommunale compétent ont connaissance d'une infraction de la nature de celles que
-prévoient les articles L. 160-1 et L. 480-4, ils sont tenus d'en faire dresser procès verbal. 
+prévoient les articles L. 610-1 et L. 480-4, ils sont tenus d'en faire dresser procès verbal. 
 
 Copie du procès-verbal constatant une infraction est transmise sans délai au ministère public. 
 
@@ -12258,12 +12261,12 @@ les droits reconnus à la partie civile, en ce qui concerne les faits commis sur
 
 _Modifié par_:
 
-  - Loi n°2012-387 du 22 mars 2012 - art. 117
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L480-1
   - Code de l'urbanisme - art. L480-4
+  - Code de l'urbanisme - art. L610-1 (VD)
   - Code de l'environnement - art. L141-1
   - Code du patrimoine - art. L522-1
 
@@ -12406,14 +12409,13 @@ _Cite_:
 
 La mise à l'étude de la création ou de la révision de l'aire de mise en valeur de l'architecture et du patrimoine est décidée
 par délibération de l'organe délibérant de l'autorité mentionnée au premier alinéa de l'article L. 642-1. La délibération
-mentionne les modalités de la concertation prévue à l'article L. 300-2 du code de l'urbanisme. 
+mentionne les modalités de la concertation prévue à l'article L. 103-3 du code de l'urbanisme. 
 
 Le projet de création ou de révision de l'aire de mise en valeur de l'architecture et du patrimoine est arrêté par
 délibération de cette autorité. Le projet arrêté est soumis à l'avis de la commission régionale du patrimoine et des sites
 prévue à l'article L. 612-1 du présent code. 
 
-Ce projet donne lieu à un examen conjoint des personnes publiques mentionnées à l'article L. 123-14-2 du code de
-l'urbanisme. 
+Ce projet donne lieu à un examen conjoint des personnes publiques mentionnées à l'article L. 153-54 du code de l'urbanisme. 
 
 Il fait l'objet d'une enquête publique conduite par les autorités compétentes concernées. L'organe délibérant de l'autorité
 mentionnée au premier alinéa de l'article L. 642-1 du présent code peut, par délibération, désigner à cette fin l'une de ces
@@ -12421,24 +12423,12 @@ autorités compétentes concernées.
 
 Lorsque le projet n'est pas compatible avec les dispositions du plan local d'urbanisme, l'aire de mise en valeur de
 l'architecture et du patrimoine ne peut être créée que si celui-ci a été mis en compatibilité avec ses dispositions selon la
-procédure définie à l'article L. 123-14-2 du code de l'urbanisme. 
+procédure définie aux articles L. 153-54 à L. 153-59 du code de l'urbanisme. 
 
 Après accord du préfet, l'aire de mise en valeur de l'architecture et du patrimoine est créée ou révisée par délibération de
 l'autorité mentionnée au premier alinéa de l'article L. 642-1 du présent code. Lorsque l'enquête publique précitée a porté à
 la fois sur l'aire et sur un plan local d'urbanisme, l'acte portant création ou révision de l'aire prononce également la
 révision ou la modification du plan local d'urbanisme.
-
-**Nota:**
-
-Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
-décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
-l'entrée en vigueur de l'ordonnance demeurent applicables :
-
-- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
-prescrites à cette même date ;
-
-- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
-modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -12462,19 +12452,22 @@ _Cité par_:
   - Code du patrimoine - art. D642-7 (Ab)
   - Code du patrimoine - art. D642-8 (Ab)
   - Code du patrimoine - art. D642-9 (Ab)
-  - Code du patrimoine. - art. L612-1 (VD)
+  - Code du patrimoine - art. L612-1 (V)
   - Code du patrimoine. - art. L642-2 (V)
   - Code du patrimoine. - art. L642-4 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 12
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+
+_Abrogé par_:
+
+  - Loi n°2016-925 du 7 juillet 2016 - art. 77
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L123-14-2
-  - Code de l'urbanisme - art. L300-2
-  - Code du patrimoine - art. L642-1
+  - Code de l'urbanisme - art. L153-54
+  - Code du patrimoine - art. L642-1 (V)
 
 
 ###### Article L642-4
@@ -36223,25 +36216,21 @@ les affectataires ou occupants successifs.
 
 Cette décision est notifiée avec l'indication de l'étendue de la servitude de protection au maire et, le cas échéant, au
 président de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, qui
-l'annexe à ce plan, lorsqu'il existe, dans les conditions prévues à l'article L. 126-1 du code de l'urbanisme.
+l'annexe à ce plan, lorsqu'il existe, dans les conditions prévues à l'article L. 153-60 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 16 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+
 _Cite_:
 
-  - Code de l'urbanisme - art. L126-1 (V)
+  - Code de l'urbanisme - art. L153-60
 
 _Cité par_:
 
@@ -36363,40 +36352,40 @@ _Cité par_:
 
 La demande d'autorisation pour les travaux sur un immeuble classé prévue à l'article L. 621-9 est présentée par le
 propriétaire ou son mandataire ou par une personne justifiant d'un titre l'habilitant à y exécuter les travaux projetés ou
-ayant qualité pour bénéficier de l'expropriation pour cause d'utilité publique. 
+ayant qualité pour bénéficier de l'expropriation pour cause d'utilité publique.
 
 La demande et le dossier qui l'accompagne sont adressés, en quatre exemplaires, au service déconcentré chargé de
-l'architecture et du patrimoine. 
+l'architecture et du patrimoine.
 
-Ce dossier comprend : 
+Ce dossier comprend :
 
 1° Le programme d'opération décrivant et justifiant les travaux projetés et l'avant-projet définitif contenant un rapport de
 présentation, un descriptif quantitatif détaillé et l'ensemble des documents graphiques et photographiques permettant la
-compréhension des travaux prévus ; 
+compréhension des travaux prévus ;
 
 2° Les études scientifiques et techniques préalables à la réalisation des travaux, en fonction de la nature, de l'importance
-et de la complexité de ceux-ci. 
+et de la complexité de ceux-ci.
 
 Un arrêté du ministre chargé de la culture fixe, selon l'objet des travaux, les modèles de demande et précise la liste des
-pièces à joindre au dossier. 
+pièces à joindre au dossier.
 
 Le service déconcentré chargé de l'architecture et du patrimoine transmet sans délai deux exemplaires de la demande et du
 dossier au préfet de région pour examen au titre du présent livre et, lorsque les travaux requièrent son accord, un
-exemplaire à l'autorité compétente pour statuer sur les demandes de permis de construire. 
+exemplaire à l'autorité compétente pour statuer sur les demandes de permis de construire.
 
 Si le préfet de région estime que le dossier est incomplet, il fait connaître au demandeur, dans le délai d'un mois à partir
 de la réception de la demande par le service déconcentré chargé de l'architecture et du patrimoine, la liste et le contenu
 des pièces complémentaires à fournir. A défaut d'une demande de pièces complémentaires dans ce délai, le dossier est réputé
-complet. 
+complet.
 
 Lorsque le dossier est complet, le préfet de région fait connaître au demandeur ainsi qu'à l'autorité compétente pour statuer
 sur les demandes de permis de construire, la date et le numéro d'enregistrement de la demande par le service déconcentré
 chargé de l'architecture et du patrimoine. Lorsque des pièces complémentaires ont été demandées dans le délai d'un mois prévu
 au précédent alinéa, à défaut de réception de ces pièces dans un délai de deux mois, la demande fait l'objet d'une décision
-tacite de rejet. 
+tacite de rejet.
 
 L'accord de l'autorité compétente pour statuer sur les demandes de permis de construire, portant le cas échéant dérogation
-aux règles du plan local d'urbanisme, en application de l'article L. 123-5 du code de l'urbanisme, est transmis au préfet de
+aux règles du plan local d'urbanisme, en application  de l'article L. 152-4 du code de l'urbanisme, est transmis au préfet de
 région dans le délai de deux mois à compter de la réception du dossier complet par cette autorité. Faute de réponse de cette
 autorité à l'expiration du délai fixé, son accord est réputé donné.
 
@@ -36410,7 +36399,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 11
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cite_:
 
@@ -37778,25 +37767,21 @@ les affectataires ou occupants successifs.
 
 Cette décision est notifiée avec l'indication de l'étendue de la servitude de protection au maire et, le cas échéant, au
 président de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme qui l'annexe
-à ce plan, lorsqu'il existe, dans les conditions prévues à l'article L. 126-1 du code de l'urbanisme.
+à ce plan, lorsqu'il existe, dans les conditions prévues à l'article L. 153-60 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 39 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+
 _Cite_:
 
-  - Code de l'urbanisme - art. L126-1 (V)
+  - Code de l'urbanisme - art. L153-60 (V)
 
 _Cité par_:
 
@@ -38867,14 +38852,14 @@ région pour recueillir l'avis de la commission régionale du patrimoine et des 
 régionale du patrimoine et des sites sont alors portés à la connaissance de la collectivité territoriale. 
 
 L'organe délibérant de la collectivité territoriale compétente émet un avis sur le projet de périmètre en même temps qu'il
-arrête le projet de plan local d'urbanisme, dans les conditions fixées par l'article L. 123-9 du code de l'urbanisme
-. Lorsque cet avis est favorable, l'enquête publique prévue par l'article L. 123-10 du code de l'urbanisme porte à la fois
-sur le projet de plan local d'urbanisme et sur le projet de périmètre de protection.
+arrête le projet de plan local d'urbanisme, dans les conditions fixées par l'article L. 153-14 du code de l'urbanisme.
+Lorsque cet avis est favorable, l'enquête publique prévue par l'article L. 153-19 du code de l'urbanisme porte à la fois sur
+le projet de plan local d'urbanisme et sur le projet de périmètre de protection.
 
 Lors de l'élaboration ou de la révision d'une carte communale, l'organe délibérant de la collectivité territoriale compétente
-émet un avis sur le projet de périmètre de protection. Lorsque cet avis est favorable, l'enquête publique prévue par l'
-article L. 124-2 du code de l'urbanisme
-porte à la fois sur le projet de carte communale et sur le projet de périmètre de protection.
+émet un avis sur le projet de périmètre de protection. Lorsque cet avis est favorable, l'enquête publique prévue par
+l'article L. 163-5 du code de l'urbanisme porte à la fois sur le projet de carte communale et sur le projet de périmètre de
+protection.
 
 **Liens relatifs à cet article**
 
@@ -38888,12 +38873,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1782 du 28 décembre 2015 - art. 8
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L123-9
-  - Code de l'urbanisme - art. L124-2
+  - Code de l'urbanisme - art. L153-14
+  - Code de l'urbanisme - art. L153-19
+  - Code de l'urbanisme - art. L163-5
 
 
 ###### Article R621-95
@@ -38904,9 +38890,7 @@ arrêté du préfet de département publié au recueil des actes administratifs 
 Le préfet notifie l'arrêté aux maires des communes concernées et, le cas échéant, au président de l'établissement public de
 coopération intercommunale compétent en matière de plan local d'urbanisme ou de carte communale. Lorsque le territoire
 concerné est soumis à un plan local d'urbanisme ou à une carte communale, l'autorité compétente annexe le tracé des nouveaux
-périmètres à ce plan, dans les conditions prévues à l'
-article L. 126-1 du code de l'urbanisme
-.
+périmètres à ce plan, dans les conditions prévues à l'article L. 153-60 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -38916,7 +38900,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cite_:
 
