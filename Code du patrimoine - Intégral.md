@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-02-06
+Version Consolidée au 2016-03-19
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -21033,28 +21033,19 @@ _Codifié par_:
 
 Les documents conservés dans les dépôts relevant du service interministériel des archives de France de la direction générale
 des patrimoines restent à la disposition exclusive du service, établissement ou organisme dont ils proviennent dans la mesure
-où ils ne sont pas communicables aux termes de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration
-des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, et des
+où ils ne sont pas communicables aux termes du livre III du code des relations entre le public et l'administration, et des
 articles L. 213-1, L. 213-2 et L. 213-3.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
 _Cite_:
 
-  - Loi n°78-753 du 17 juillet 1978 (V)
   - Code du patrimoine. - art. L213-1 (V)
-
-_Anciens textes_:
-
-  - Décret n°79-1037 du 3 décembre 1979 - art. 20 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+  - Code des relations entre le public et l'adminis... - art. L300-1 (V)
 
 
 ##### Paragraphe 3 : Dépôt d'archives publiques courantes et intermédiaires  auprès de personnes agréées<a id=193></a>
