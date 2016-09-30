@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-08-15
+Version Consolidée au 2016-10-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -23978,26 +23978,23 @@ _Cité par_:
 ###### Article R213-2
 
 La formule qui confère le caractère de conformité est : " Vu et certifié conforme à l'original. Ce document n'a pas de valeur
-authentique au sens de l'article 1317 du code civil ", suivie de la date de la délivrance du visa, du timbre, tampon ou sceau
+authentique au sens de l'article 1369 du code civil ", suivie de la date de la délivrance du visa, du timbre, tampon ou sceau
 et de la signature de la personne qualifiée aux termes de l'article R. 213-5, ou de son délégué.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-1039 du 3 décembre 1979 - art. 2 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
+
 _Cite_:
 
-  - Code civil - art. 1317 (M)
+  - Code civil - art. 1369
+  - Code du patrimoine - art. R213-5
 
 
 ###### Article R213-3
