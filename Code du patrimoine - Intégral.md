@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-09
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -4834,7 +4834,7 @@ _Cite_:
 
 ###### Article L213-3
 
-I. ― L'autorisation de consultation de documents d'archives publiques avant l'expiration des délais fixés au I de l'article
+I. – L'autorisation de consultation de documents d'archives publiques avant l'expiration des délais fixés au I de l'article
 L. 213-2 peut être accordée aux personnes qui en font la demande dans la mesure où l'intérêt qui s'attache à la consultation
 de ces documents ne conduit pas à porter une atteinte excessive aux intérêts que la loi a entendu protéger. Sous réserve, en
 ce qui concerne les minutes et répertoires des notaires, des dispositions de l'article 23 de la loi du 25 ventôse an XI
@@ -4843,8 +4843,11 @@ la demande après accord de l'autorité dont émanent les documents.
 
 Le temps de réponse à une demande de consultation ne peut excéder deux mois à compter de l'enregistrement de la demande. 
 
-II. ― L'administration des archives peut également, après accord de l'autorité dont émanent les documents, décider
-l'ouverture anticipée de fonds ou parties de fonds d'archives publiques.
+II. – L'administration des archives peut également, après accord de l'autorité dont émanent les documents, décider
+l'ouverture anticipée de fonds ou parties de fonds d'archives publiques. 
+
+III. – L'article 226-13 du code pénal n'est pas applicable aux procédures d'ouverture anticipée des archives publiques
+prévues aux I et II du présent article.
 
 **Liens relatifs à cet article**
 
@@ -4889,10 +4892,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-696  du 15 juillet 2008 - art. 17
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 36
 
 _Cite_:
 
+  - Loi du 16 mars 1803 - art. 23 (V)
+  - Code pénal - art. 226-13 (V)
   - Code du patrimoine - art. L213-2
 
 
