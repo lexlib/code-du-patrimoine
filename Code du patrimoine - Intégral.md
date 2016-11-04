@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-10-22
+Version Consolidée au 2016-11-05
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -280,7 +280,7 @@ Version Consolidée au 2016-10-22
           - [Section 2 : Instances scientifiques compétentes en matière de restauration (art. D452-3 à R452-6)](#277)
           - [Section 3 : Qualifications requises en matière de restauration (art. R452-10 à R452-13)](#278)
     - [LIVRE V : ARCHÉOLOGIE (art. R522-1 à R545-59)](#279)
-      - [TITRE II : ARCHÉOLOGIE PRÉVENTIVE (art. R522-1 à R524-33)](#280)
+      - [TITRE II : ARCHÉOLOGIE PRÉVENTIVE (art. R522-1 à R524-36)](#280)
         - [Chapitre II : Répartition des compétences :  Etat et collectivités territoriales (art. R522-1 à R522-13)](#281)
           - [Section 1 : Rôle de l'Etat (art. R522-1)](#282)
           - [Section 2 : Rôle des collectivités territoriales (art. R522-2)](#283)
@@ -306,115 +306,116 @@ Version Consolidée au 2016-10-22
             - [Sous-section 4 : Achèvement des fouilles (art. R523-59)](#303)
           - [Section 8 : Le contrôle des opérations d'archéologie préventive (art. R523-60 à R523-61)](#304)
           - [Section 9 : Dispositions relatives aux rapports d'opérations,  à la documentation scientifique et aux objets mobiliers (art. R523-62 à R523-68)](#305)
-        - [Chapitre IV : Financement de l'archéologie préventive (art. R524-1 à R524-33)](#306)
-          - [Section 1 : Dispositions relatives  à la redevance d'archéologie préventive (art. R524-1 à R524-11)](#307)
+        - [Chapitre IV : Financement de l'archéologie préventive (art. R524-3 à R524-36)](#306)
+          - [Section 1 : Dispositions relatives  à la redevance d'archéologie préventive (art. R524-3 à R524-10)](#307)
           - [Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive (art. R524-17 à R524-33)](#308)
             - [Sous-section 2 : Les subventions du Fonds national  pour l'archéologie préventive (art. R524-17 à R524-23)](#309)
             - [Sous-section 3 : La prise en charge des fouilles (art. R524-24 à R524-33)](#310)
-      - [TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES (art. R531-1 à R532-19)](#311)
-        - [Chapitre Ier : Archéologie terrestre et subaquatique (art. R531-1 à R531-19)](#312)
-          - [Section 1 : Autorisation de fouilles par l'Etat (art. R531-1 à R531-4)](#313)
-          - [Section 2 : Exécution de fouilles par l'Etat (art. R531-5 à R531-7)](#314)
-          - [Section 3 : Découvertes fortuites (art. R531-8 à R531-10)](#315)
-          - [Section 4 : Objets (art. R531-11 à R531-19)](#316)
-        - [Chapitre II : Biens culturels maritimes (art. R532-1 à R532-19)](#317)
-          - [Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes (art. R532-1 à R532-4)](#318)
-          - [Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2 (art. R532-5)](#319)
-          - [Section 3 : Recherche archéologique sous-marine (art. R532-6 à R532-19)](#320)
-      - [TITRE IV : DISPOSITIONS DIVERSES (art. R541-1 à R545-59)](#321)
-        - [Chapitre Ier : Régime de propriété des vestiges immobiliers (art. R541-1 à R541-6)](#322)
-        - [Chapitre II : Utilisation des détecteurs de métaux (art. R542-1 à R542-2)](#323)
-        - [Chapitre IV : Dispositions pénales (art. R544-1 à R544-4)](#324)
-          - [Section 1 : Dispositions relatives aux biens culturels maritimes (art. R544-1 à R544-2)](#325)
-          - [Section 2 : Dispositions relatives aux détecteurs de métaux (art. R544-3 à R544-4)](#326)
-        - [Chapitre V : Dispositions diverses (art. R545-1 à R545-59)](#327)
-          - [Section 1 : Conseil national de la recherche archéologique (art. R545-1 à R545-15)](#328)
-            - [Sous-section 1 : Formation plénière du Conseil national  de la recherche archéologique (art. R545-1 à R545-6)](#329)
-            - [Sous-section 2 : Délégation permanente du Conseil national  de la recherche archéologique (art. R545-7 à R545-9)](#330)
-            - [Sous-section 3 : Commission des opérations sous-marines (art. R545-10 à R545-11)](#331)
-            - [Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines (art. R545-12 à R545-15)](#332)
-          - [Section 2 : Commissions interrégionales de la recherche archéologique (art. R545-16 à R545-23)](#333)
-          - [Section 3 : Institut national de recherches archéologiques préventives (art. R545-24 à R545-59)](#334)
-    - [LIVRE VI : MONUMENTS HISTORIQUES,  SITES ET ESPACES PROTÉGÉS (art. R611-1 à D643-1)](#335)
-      - [TITRE Ier : INSTITUTIONS (art. R611-1 à D612-18)](#336)
-        - [Chapitre Ier : Institutions nationales (art. R611-1 à D611-17)](#337)
-          - [Section 1 : Commission nationale des monuments historiques (art. R611-1 à R611-16)](#338)
-          - [Section 2 : Commission nationale des secteurs sauvegardés (art. D611-17)](#339)
-        - [Chapitre II : Institutions locales (art. R612-1 à D612-18)](#340)
-          - [Section 1 : Commission régionale du patrimoine et des sites (art. R612-1 à R612-9)](#341)
-          - [Section 2 : Commission départementale des objets mobiliers (art. R612-10 à R612-16)](#342)
-          - [Section 3 : Conseil des sites de Corse (art. D612-17)](#343)
-          - [Section 4 : Commission locale du secteur sauvegardé (art. D612-18)](#344)
-      - [TITRE II : MONUMENTS HISTORIQUES (art. R621-1 à R624-2)](#345)
-        - [Chapitre Ier : Immeubles (art. R621-1 à R621-97)](#346)
-          - [Section 1 : Classement des immeubles (art. R621-1 à R621-52)](#347)
-            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R621-1 à R621-10)](#348)
-            - [Sous-section 2 : Travaux sur un immeuble classé (art. R621-11 à R621-17)](#349)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R621-18 à R621-24)](#350)
-            - [Sous-section 4 : Maîtrise d'œuvre (art. R621-25 à R621-44)](#351)
-            - [Sous-section 5 : Travaux d'office (art. R621-45 à R621-48)](#352)
-            - [Sous-section 6 : Servitude conventionnelle (art. R621-49)](#353)
-            - [Sous-section 7 : Expropriation pour cause d'utilité publique (art. R621-50 à R621-51)](#354)
-            - [Sous-section 8 : Aliénation (art. R621-52)](#355)
-          - [Section 2 : Inscription des immeubles (art. R621-53 à R621-68)](#356)
-            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R621-53 à R621-59)](#357)
-            - [Sous-section 2 : Travaux sur un immeuble inscrit (art. R621-60 à R621-62-1)](#358)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R621-63 à R621-68)](#359)
-          - [Section 3 : Dispositions communes  aux immeubles classés et aux immeubles inscrits (art. R621-69 à R621-91)](#360)
-            - [Sous-section 1 : Conservateurs des monuments historiques relevant du ministère  chargé de la culture et de ses établissements publics (art. R621-69)](#361)
-            - [Sous-section 2 : Assistance à maîtrise d'ouvrage (art. R621-70 à R621-77)](#362)
-            - [Sous-section 3 : Subventions (art. R621-78 à R621-79)](#363)
-            - [Sous-section 4 : Publicité des mesures de protection (art. R621-80 à R621-81)](#364)
-            - [Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration (art. R621-82)](#365)
-            - [Sous-section 6 : Découverte fortuite (art. R621-83)](#366)
-            - [Sous-section 7 : Aliénation (art. R621-84)](#367)
-            - [Sous-section 8 : Notification (art. R621-85)](#368)
-            - [Sous-section 9 : Autorisation d'affichage (art. R621-86 à R621-91)](#369)
-          - [Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits (art. R621-92 à R621-96-18)](#370)
-            - [Sous-section 1 : Périmètres de protection (art. R621-92 à R621-95)](#371)
-            - [Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit (art. R621-96 à R621-96-18)](#372)
-          - [Section 5 : Dispositions diverses (art. R621-97)](#373)
-        - [Chapitre II : Objets mobiliers (art. R622-1 à R622-61)](#374)
-          - [Section 1 : Classement des objets mobiliers (art. R622-1 à R622-31)](#375)
-            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R622-1 à R622-10)](#376)
-            - [Sous-section 2 : Travaux sur un objet mobilier classé (art. R622-11 à R622-17)](#377)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-18 à R622-25)](#378)
-            - [Sous-section 4 : Mesures conservatoires (art. R622-26 à R622-27)](#379)
-            - [Sous-section 5 : Aliénation (art. R622-28 à R622-31)](#380)
-          - [Section 2 : Inscription des objets mobiliers (art. R622-32 à R622-44)](#381)
-            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R622-32 à R622-38)](#382)
-            - [Sous-section 2 : Travaux sur un objet mobilier inscrit (art. R622-39)](#383)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-40 à R622-42)](#384)
-            - [Sous-section 4 : Aliénation (art. R622-43 à R622-44)](#385)
-          - [Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits (art. R622-45 à R622-61)](#386)
-            - [Sous-section 1 : Assistance à maîtrise d'ouvrage (art. R622-45 à R622-52)](#387)
-            - [Sous-section 2 : Subventions (art. R622-53 à R622-55)](#388)
-            - [Sous-section 3 : Découverte fortuite (art. R622-56)](#389)
-            - [Sous-section 4 : Déplacement (art. R622-57)](#390)
-            - [Sous-section 5 : Notification (art. R622-58)](#391)
-            - [Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues (art. R622-59 à R622-61)](#392)
-        - [Chapitre III : Dispositions fiscales (art. D623-1 à D623-2)](#393)
-        - [Chapitre IV : Dispositions pénales (art. R624-1 à R624-2)](#394)
-      - [TITRE III : SITES (art. D630-1)](#395)
-      - [TITRE IV : ESPACES PROTÉGÉS (art. D641-1 à D643-1)](#396)
-        - [Chapitre Ier : Secteurs sauvegardés (art. D641-1)](#397)
-        - [Chapitre II : Aires de mise en valeur  de l'architecture et du patrimoine (art. D642-1 à R642-29)](#398)
-          - [Section 1 : Mise à l'étude d'un projet d'aire (art. D642-1 à D642-4)](#399)
-          - [Section 2 : Création d'une aire (art. D642-5 à D642-10)](#400)
-          - [Section 3 : Régime des travaux dans une aire (art. D642-11 à R642-22)](#401)
-          - [Section 4 : Sanctions pénales (art. R642-29)](#402)
-        - [Chapitre III : Dispositions fiscales (art. D643-1)](#403)
-    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R710-1 à R790-19)](#404)
-      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION (art. R710-1 à R710-10)](#405)
-      - [TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON (art. D720-2 à R720-16)](#406)
-      - [TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R730-1 à R730-11)](#407)
-      - [TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D740-2 à R740-15)](#408)
-      - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D750-2 à R750-13)](#409)
-      - [TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D760-2 à R760-14)](#410)
-      - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-2 à R770-11)](#411)
-      - [TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY (art. D780-2 à R780-20)](#412)
-      - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. D790-2 à R790-19)](#413)
-    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 6 à l'article R. 545-16)](#414)
+          - [Section 3 : Dispositions relatives aux subventions accordées aux services des collectivités territoriales (art. R524-34 à R524-36)](#311)
+      - [TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES (art. R531-1 à R532-19)](#312)
+        - [Chapitre Ier : Archéologie terrestre et subaquatique (art. R531-1 à R531-19)](#313)
+          - [Section 1 : Autorisation de fouilles par l'Etat (art. R531-1 à R531-4)](#314)
+          - [Section 2 : Exécution de fouilles par l'Etat (art. R531-5 à R531-7)](#315)
+          - [Section 3 : Découvertes fortuites (art. R531-8 à R531-10)](#316)
+          - [Section 4 : Objets (art. R531-11 à R531-19)](#317)
+        - [Chapitre II : Biens culturels maritimes (art. R532-1 à R532-19)](#318)
+          - [Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes (art. R532-1 à R532-4)](#319)
+          - [Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2 (art. R532-5)](#320)
+          - [Section 3 : Recherche archéologique sous-marine (art. R532-6 à R532-19)](#321)
+      - [TITRE IV : DISPOSITIONS DIVERSES (art. R541-1 à R545-59)](#322)
+        - [Chapitre Ier : Régime de propriété des vestiges immobiliers (art. R541-1 à R541-6)](#323)
+        - [Chapitre II : Utilisation des détecteurs de métaux (art. R542-1 à R542-2)](#324)
+        - [Chapitre IV : Dispositions pénales (art. R544-1 à R544-4)](#325)
+          - [Section 1 : Dispositions relatives aux biens culturels maritimes (art. R544-1 à R544-2)](#326)
+          - [Section 2 : Dispositions relatives aux détecteurs de métaux (art. R544-3 à R544-4)](#327)
+        - [Chapitre V : Dispositions diverses (art. R545-1 à R545-59)](#328)
+          - [Section 1 : Conseil national de la recherche archéologique (art. R545-1 à R545-15)](#329)
+            - [Sous-section 1 : Formation plénière du Conseil national  de la recherche archéologique (art. R545-1 à R545-6)](#330)
+            - [Sous-section 2 : Délégation permanente du Conseil national  de la recherche archéologique (art. R545-7 à R545-9)](#331)
+            - [Sous-section 3 : Commission des opérations sous-marines (art. R545-10 à R545-11)](#332)
+            - [Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines (art. R545-12 à R545-15)](#333)
+          - [Section 2 : Commissions interrégionales de la recherche archéologique (art. R545-16 à R545-23)](#334)
+          - [Section 3 : Institut national de recherches archéologiques préventives (art. R545-24 à R545-59)](#335)
+    - [LIVRE VI : MONUMENTS HISTORIQUES,  SITES ET ESPACES PROTÉGÉS (art. R611-1 à D643-1)](#336)
+      - [TITRE Ier : INSTITUTIONS (art. R611-1 à D612-18)](#337)
+        - [Chapitre Ier : Institutions nationales (art. R611-1 à D611-17)](#338)
+          - [Section 1 : Commission nationale des monuments historiques (art. R611-1 à R611-16)](#339)
+          - [Section 2 : Commission nationale des secteurs sauvegardés (art. D611-17)](#340)
+        - [Chapitre II : Institutions locales (art. R612-1 à D612-18)](#341)
+          - [Section 1 : Commission régionale du patrimoine et des sites (art. R612-1 à R612-9)](#342)
+          - [Section 2 : Commission départementale des objets mobiliers (art. R612-10 à R612-16)](#343)
+          - [Section 3 : Conseil des sites de Corse (art. D612-17)](#344)
+          - [Section 4 : Commission locale du secteur sauvegardé (art. D612-18)](#345)
+      - [TITRE II : MONUMENTS HISTORIQUES (art. R621-1 à R624-2)](#346)
+        - [Chapitre Ier : Immeubles (art. R621-1 à R621-97)](#347)
+          - [Section 1 : Classement des immeubles (art. R621-1 à R621-52)](#348)
+            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R621-1 à R621-10)](#349)
+            - [Sous-section 2 : Travaux sur un immeuble classé (art. R621-11 à R621-17)](#350)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R621-18 à R621-24)](#351)
+            - [Sous-section 4 : Maîtrise d'œuvre (art. R621-25 à R621-44)](#352)
+            - [Sous-section 5 : Travaux d'office (art. R621-45 à R621-48)](#353)
+            - [Sous-section 6 : Servitude conventionnelle (art. R621-49)](#354)
+            - [Sous-section 7 : Expropriation pour cause d'utilité publique (art. R621-50 à R621-51)](#355)
+            - [Sous-section 8 : Aliénation (art. R621-52)](#356)
+          - [Section 2 : Inscription des immeubles (art. R621-53 à R621-68)](#357)
+            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R621-53 à R621-59)](#358)
+            - [Sous-section 2 : Travaux sur un immeuble inscrit (art. R621-60 à R621-62-1)](#359)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R621-63 à R621-68)](#360)
+          - [Section 3 : Dispositions communes  aux immeubles classés et aux immeubles inscrits (art. R621-69 à R621-91)](#361)
+            - [Sous-section 1 : Conservateurs des monuments historiques relevant du ministère  chargé de la culture et de ses établissements publics (art. R621-69)](#362)
+            - [Sous-section 2 : Assistance à maîtrise d'ouvrage (art. R621-70 à R621-77)](#363)
+            - [Sous-section 3 : Subventions (art. R621-78 à R621-79)](#364)
+            - [Sous-section 4 : Publicité des mesures de protection (art. R621-80 à R621-81)](#365)
+            - [Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration (art. R621-82)](#366)
+            - [Sous-section 6 : Découverte fortuite (art. R621-83)](#367)
+            - [Sous-section 7 : Aliénation (art. R621-84)](#368)
+            - [Sous-section 8 : Notification (art. R621-85)](#369)
+            - [Sous-section 9 : Autorisation d'affichage (art. R621-86 à R621-91)](#370)
+          - [Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits (art. R621-92 à R621-96-18)](#371)
+            - [Sous-section 1 : Périmètres de protection (art. R621-92 à R621-95)](#372)
+            - [Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit (art. R621-96 à R621-96-18)](#373)
+          - [Section 5 : Dispositions diverses (art. R621-97)](#374)
+        - [Chapitre II : Objets mobiliers (art. R622-1 à R622-61)](#375)
+          - [Section 1 : Classement des objets mobiliers (art. R622-1 à R622-31)](#376)
+            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R622-1 à R622-10)](#377)
+            - [Sous-section 2 : Travaux sur un objet mobilier classé (art. R622-11 à R622-17)](#378)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-18 à R622-25)](#379)
+            - [Sous-section 4 : Mesures conservatoires (art. R622-26 à R622-27)](#380)
+            - [Sous-section 5 : Aliénation (art. R622-28 à R622-31)](#381)
+          - [Section 2 : Inscription des objets mobiliers (art. R622-32 à R622-44)](#382)
+            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R622-32 à R622-38)](#383)
+            - [Sous-section 2 : Travaux sur un objet mobilier inscrit (art. R622-39)](#384)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-40 à R622-42)](#385)
+            - [Sous-section 4 : Aliénation (art. R622-43 à R622-44)](#386)
+          - [Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits (art. R622-45 à R622-61)](#387)
+            - [Sous-section 1 : Assistance à maîtrise d'ouvrage (art. R622-45 à R622-52)](#388)
+            - [Sous-section 2 : Subventions (art. R622-53 à R622-55)](#389)
+            - [Sous-section 3 : Découverte fortuite (art. R622-56)](#390)
+            - [Sous-section 4 : Déplacement (art. R622-57)](#391)
+            - [Sous-section 5 : Notification (art. R622-58)](#392)
+            - [Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues (art. R622-59 à R622-61)](#393)
+        - [Chapitre III : Dispositions fiscales (art. D623-1 à D623-2)](#394)
+        - [Chapitre IV : Dispositions pénales (art. R624-1 à R624-2)](#395)
+      - [TITRE III : SITES (art. D630-1)](#396)
+      - [TITRE IV : ESPACES PROTÉGÉS (art. D641-1 à D643-1)](#397)
+        - [Chapitre Ier : Secteurs sauvegardés (art. D641-1)](#398)
+        - [Chapitre II : Aires de mise en valeur  de l'architecture et du patrimoine (art. D642-1 à R642-29)](#399)
+          - [Section 1 : Mise à l'étude d'un projet d'aire (art. D642-1 à D642-4)](#400)
+          - [Section 2 : Création d'une aire (art. D642-5 à D642-10)](#401)
+          - [Section 3 : Régime des travaux dans une aire (art. D642-11 à R642-22)](#402)
+          - [Section 4 : Sanctions pénales (art. R642-29)](#403)
+        - [Chapitre III : Dispositions fiscales (art. D643-1)](#404)
+    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R710-1 à R790-19)](#405)
+      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION (art. R710-1 à R710-10)](#406)
+      - [TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON (art. D720-2 à R720-16)](#407)
+      - [TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R730-1 à R730-11)](#408)
+      - [TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D740-2 à R740-15)](#409)
+      - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D750-2 à R750-13)](#410)
+      - [TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D760-2 à R760-14)](#411)
+      - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-2 à R770-11)](#412)
+      - [TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY (art. D780-2 à R780-20)](#413)
+      - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. D790-2 à R790-19)](#414)
+    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 6 à l'article R. 545-16)](#415)
 # Partie législative<a id=1></a>
 
 ###### Article L1
@@ -31174,92 +31175,28 @@ _Abrogé par_:
 
 ##### Section 1 : Dispositions relatives  à la redevance d'archéologie préventive<a id=307></a>
 
-###### Article R524-1
-
-Au plus tard à la fin du mois qui suit le mois d'encaissement de la redevance d'archéologie préventive, le comptable public
-compétent en verse le produit net des frais d'assiette et de recouvrement au bénéficiaire indiqué sur le titre de recettes.
-Il prélève sur le montant de redevance perçu la part destinée au Fonds national pour l'archéologie préventive et la verse à
-l'Institut national de recherches archéologiques préventives.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2004-490 du 3 juin 2004 - art. 80 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
-
-  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
-
-_Cité par_:
-
-  - Code du patrimoine - art. R524-3 (V)
-  - Code du patrimoine - art. R720-6 (V)
-  - Code du patrimoine - art. R780-9 (V)
-  - Code du patrimoine - art. R790-8 (V)
-
-
-###### Article R524-2
-
-Lorsque l'opération de diagnostic n'est pas réalisée par le bénéficiaire indiqué dans le titre de recettes, la personne
-publique qui a effectivement réalisé le diagnostic demande au bénéficiaire le reversement du montant perçu. Celui-ci est
-reversé par le bénéficiaire initial dans le délai d'un mois à compter de la réception de la demande.
-
-Cette demande doit être accompagnée des éléments justifiant que l'opération de diagnostic a bien été engagée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2004-490 du 3 juin 2004 - art. 81 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
-
-  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
-
-
 ###### Article R524-3
 
 Lorsque la redevance est afférente à une opération autre que celles visées à l'alinéa a de l'article L. 524-4 faisant l'objet
 d'une réalisation par tranches de travaux, un titre de recettes et un avis d'imposition sont émis au début de chacune des
-tranches prévues dans l'autorisation administrative. 
+tranches prévues dans l'autorisation administrative.
 
-La redevance est perçue pour chaque tranche et reversée conformément aux articles R. 524-1 et R. 524-2.
+La redevance est perçue pour chaque tranche.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2004-490 du 3 juin 2004 - art. 82 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
+
 _Cite_:
 
-  - Code du patrimoine - art. R524-1 (V)
-  - Code du patrimoine. - art. L524-4 (V)
+  - Code du patrimoine - art. L524-4
+  - Code du patrimoine - art. R524-1
 
 
 ###### Article R524-4
@@ -31287,35 +31224,27 @@ _Codifié par_:
 
 Les réclamations relatives à l'assiette de la redevance sont instruites par le service liquidateur conformément au titre III
 du livre des procédures fiscales. Le service liquidateur adresse une copie des demandes de décharge ou de dégrèvement au
-préfet de région. 
-
-En cas de demande de dégrèvement, la décision préalable prévue à l'article L. 524-12 est prise par l'Institut national de
-recherches archéologiques préventives ou la collectivité bénéficiaire. Cet accord est réputé donné à défaut de notification
-de la réponse dans un délai de trois mois à compter de la saisine de ces organismes.
+préfet de région.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2004-490 du 3 juin 2004 - art. 84 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
+
+_Cite_:
+
+  - Code du patrimoine - art. L524-12
 
 _Cité par_:
 
   - Code du patrimoine - art. R780-10 (V)
   - Code du patrimoine - art. R790-9 (V)
   - Code du patrimoine. - art. R720-7 (V)
-
-_Cite_:
-
-  - Code du patrimoine. - art. L524-12 (V)
 
 
 ###### Article R524-6
@@ -31360,21 +31289,21 @@ _Codifié par_:
 
 ###### Article R524-8
 
-Le ministre chargé du budget désigne le comptable du Trésor compétent au titre des articles L. 524-8 et L. 524-15.
+Le ministre chargé du budget désigne le comptable du Trésor compétent au titre de l'article L. 524-8.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
+
 _Cite_:
 
-  - Code du patrimoine. - art. L524-8 (V)
+  - Code du patrimoine - art. L524-8 (V)
 
 
 ###### Article R524-9
@@ -31425,40 +31354,6 @@ _Codifié par_:
 _Cite_:
 
   - Code du patrimoine. - art. L524-7 (V)
-
-
-###### Article R524-11
-
-La part du produit de la redevance d'archéologie préventive affectée au Fonds national pour l'archéologie préventive,
-conformément à l'article L. 524-14, est fixée par arrêté conjoint du ministre chargé de la culture, du ministre chargé de
-l'urbanisme et du ministre chargé du budget.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2015-1469 du 13 novembre 2015 - art. 35 (V)
-
-_Cité par_:
-
-  - Décret n°2015-1469 du 13 novembre 2015 - art. 36 (V)
-  - Code du patrimoine - art. R524-12 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
-
-_Cite_:
-
-  - Code du patrimoine - art. L524-14
 
 
 ##### Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive<a id=308></a>
@@ -31965,11 +31860,79 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-### TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES<a id=311></a>
+##### Section 3 : Dispositions relatives aux subventions accordées aux services des collectivités territoriales<a id=311></a>
 
-#### Chapitre Ier : Archéologie terrestre et subaquatique<a id=312></a>
+###### Article R524-34
 
-##### Section 1 : Autorisation de fouilles par l'Etat<a id=313></a>
+Les subventions mentionnées à l'article L. 524-11 sont attribuées par arrêté du ministre chargé de la culture. Ces
+subventions sont versées en fonctionnement.
+
+La demande de subvention est adressée chaque année au plus tard le 31 décembre au ministre chargé de la culture par la
+collectivité territoriale ou le groupement de collectivités territoriales mentionné à l'article L. 523-4.
+
+**Nota:**
+
+L'article 3 du décret n° 2016-1485 du 2 novembre 2016 précise les conditions de versement des subventions au titre de 2016,
+par dérogation aux articles R. 524-34 et R. 524-36 dans leur rédaction issue dudit décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
+
+_Cite_:
+
+  - Code du patrimoine - art. L523-4 (V)
+  - Code du patrimoine - art. L524-11 (V)
+
+
+###### Article R524-35
+
+Le montant de la subvention est fixé sur la base d'une valeur forfaitaire par mètre carré de la surface des opérations de
+diagnostic d'archéologie préventive prescrites par le préfet de région et réalisées au cours d'une période de référence.
+
+La valeur forfaitaire mentionnée au premier alinéa est majorée en fonction du niveau de complexité des opérations.
+
+La période de référence, la valeur forfaitaire par mètre carré et les coefficients de majoration sont fixés par arrêté
+conjoint des ministres chargés de la culture et du budget.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 2 novembre 2016 - art. 1 (V)
+  - Arrêté du 2 novembre 2016 - art. 2 (V)
+
+
+###### Article R524-36
+
+Lorsque la subvention est accordée, elle fait l'objet d'un versement unique.
+
+Ce versement est notifié au plus tard le 31 janvier de l'année suivant la demande. Cette notification est accompagnée d'un
+état récapitulatif des surfaces ayant fait l'objet d'une opération de diagnostic d'archéologie préventive.
+
+**Nota:**
+
+L'article 3 du décret n° 2016-1485 du 2 novembre 2016 précise les conditions de versement des subventions au titre de 2016,
+par dérogation aux articles R. 524-34 et R. 524-36 dans leur rédaction issue dudit décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
+
+
+### TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES<a id=312></a>
+
+#### Chapitre Ier : Archéologie terrestre et subaquatique<a id=313></a>
+
+##### Section 1 : Autorisation de fouilles par l'Etat<a id=314></a>
 
 ###### Article R531-1
 
@@ -32078,7 +32041,7 @@ _Cite_:
   - Code du patrimoine - art. L531-4
 
 
-##### Section 2 : Exécution de fouilles par l'Etat<a id=314></a>
+##### Section 2 : Exécution de fouilles par l'Etat<a id=315></a>
 
 ###### Article R531-5
 
@@ -32157,7 +32120,7 @@ _Cite_:
   - Code du patrimoine. - art. L531-13 (V)
 
 
-##### Section 3 : Découvertes fortuites<a id=315></a>
+##### Section 3 : Découvertes fortuites<a id=316></a>
 
 ###### Article R531-8
 
@@ -32224,7 +32187,7 @@ _Cite_:
   - Code du patrimoine - art. L531-16
 
 
-##### Section 4 : Objets<a id=316></a>
+##### Section 4 : Objets<a id=317></a>
 
 ###### Article R531-11
 
@@ -32525,9 +32488,9 @@ _Cite_:
   - Code du patrimoine - art. L531-16
 
 
-#### Chapitre II : Biens culturels maritimes<a id=317></a>
+#### Chapitre II : Biens culturels maritimes<a id=318></a>
 
-##### Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes<a id=318></a>
+##### Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes<a id=319></a>
 
 ###### Article R532-1
 
@@ -32647,7 +32610,7 @@ _Cite_:
   - Code du patrimoine. - art. L532-6 (V)
 
 
-##### Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2<a id=319></a>
+##### Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2<a id=320></a>
 
 ###### Article R532-5
 
@@ -32688,7 +32651,7 @@ _Cite_:
   - Code du patrimoine. - art. L532-2 (V)
 
 
-##### Section 3 : Recherche archéologique sous-marine<a id=320></a>
+##### Section 3 : Recherche archéologique sous-marine<a id=321></a>
 
 ###### Article R532-6
 
@@ -33100,9 +33063,9 @@ _Cite_:
   - Code du patrimoine. - art. L532-11 (V)
 
 
-### TITRE IV : DISPOSITIONS DIVERSES<a id=321></a>
+### TITRE IV : DISPOSITIONS DIVERSES<a id=322></a>
 
-#### Chapitre Ier : Régime de propriété des vestiges immobiliers<a id=322></a>
+#### Chapitre Ier : Régime de propriété des vestiges immobiliers<a id=323></a>
 
 ###### Article R541-1
 
@@ -33289,7 +33252,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre II : Utilisation des détecteurs de métaux<a id=323></a>
+#### Chapitre II : Utilisation des détecteurs de métaux<a id=324></a>
 
 ###### Article R542-1
 
@@ -33347,9 +33310,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre IV : Dispositions pénales<a id=324></a>
+#### Chapitre IV : Dispositions pénales<a id=325></a>
 
-##### Section 1 : Dispositions relatives aux biens culturels maritimes<a id=325></a>
+##### Section 1 : Dispositions relatives aux biens culturels maritimes<a id=326></a>
 
 ###### Article R544-1
 
@@ -33403,7 +33366,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 2 : Dispositions relatives aux détecteurs de métaux<a id=326></a>
+##### Section 2 : Dispositions relatives aux détecteurs de métaux<a id=327></a>
 
 ###### Article R544-3
 
@@ -33456,11 +33419,11 @@ _Cite_:
   - Code du patrimoine. - art. L542-2 (V)
 
 
-#### Chapitre V : Dispositions diverses<a id=327></a>
+#### Chapitre V : Dispositions diverses<a id=328></a>
 
-##### Section 1 : Conseil national de la recherche archéologique<a id=328></a>
+##### Section 1 : Conseil national de la recherche archéologique<a id=329></a>
 
-##### Sous-section 1 : Formation plénière du Conseil national  de la recherche archéologique<a id=329></a>
+##### Sous-section 1 : Formation plénière du Conseil national  de la recherche archéologique<a id=330></a>
 
 ###### Article R545-1
 
@@ -33689,7 +33652,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 2 : Délégation permanente du Conseil national  de la recherche archéologique<a id=330></a>
+##### Sous-section 2 : Délégation permanente du Conseil national  de la recherche archéologique<a id=331></a>
 
 ###### Article R545-7
 
@@ -33775,7 +33738,7 @@ _Cite_:
   - Code du patrimoine. - art. R522-11 (V)
 
 
-##### Sous-section 3 : Commission des opérations sous-marines<a id=331></a>
+##### Sous-section 3 : Commission des opérations sous-marines<a id=332></a>
 
 ###### Article R545-10
 
@@ -33857,7 +33820,7 @@ _Cite_:
   - Code du patrimoine. - art. R541-4 (V)
 
 
-##### Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines<a id=332></a>
+##### Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines<a id=333></a>
 
 ###### Article R545-12
 
@@ -33953,7 +33916,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 2 : Commissions interrégionales de la recherche archéologique<a id=333></a>
+##### Section 2 : Commissions interrégionales de la recherche archéologique<a id=334></a>
 
 ###### Article R545-16
 
@@ -34241,7 +34204,7 @@ _Cite_:
   - Code du patrimoine. - art. R523-48 (V)
 
 
-##### Section 3 : Institut national de recherches archéologiques préventives<a id=334></a>
+##### Section 3 : Institut national de recherches archéologiques préventives<a id=335></a>
 
 ###### Article R545-24
 
@@ -35273,13 +35236,13 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-## LIVRE VI : MONUMENTS HISTORIQUES,  SITES ET ESPACES PROTÉGÉS<a id=335></a>
+## LIVRE VI : MONUMENTS HISTORIQUES,  SITES ET ESPACES PROTÉGÉS<a id=336></a>
 
-### TITRE Ier : INSTITUTIONS<a id=336></a>
+### TITRE Ier : INSTITUTIONS<a id=337></a>
 
-#### Chapitre Ier : Institutions nationales<a id=337></a>
+#### Chapitre Ier : Institutions nationales<a id=338></a>
 
-##### Section 1 : Commission nationale des monuments historiques<a id=338></a>
+##### Section 1 : Commission nationale des monuments historiques<a id=339></a>
 
 ###### Article R611-1
 
@@ -35821,7 +35784,7 @@ _Modifié par_:
   - Décret n°2014-1314 du 31 octobre 2014 - art. 4
 
 
-##### Section 2 : Commission nationale des secteurs sauvegardés<a id=339></a>
+##### Section 2 : Commission nationale des secteurs sauvegardés<a id=340></a>
 
 ###### Article D611-17
 
@@ -35853,9 +35816,9 @@ _Cité par_:
   - Code du patrimoine. - art. D720-12 (M)
 
 
-#### Chapitre II : Institutions locales<a id=340></a>
+#### Chapitre II : Institutions locales<a id=341></a>
 
-##### Section 1 : Commission régionale du patrimoine et des sites<a id=341></a>
+##### Section 1 : Commission régionale du patrimoine et des sites<a id=342></a>
 
 ###### Article R612-1
 
@@ -36253,7 +36216,7 @@ _Cite_:
   - Code du patrimoine - art. R612-3 (Ab)
 
 
-##### Section 2 : Commission départementale des objets mobiliers<a id=342></a>
+##### Section 2 : Commission départementale des objets mobiliers<a id=343></a>
 
 ###### Article R612-10
 
@@ -36513,7 +36476,7 @@ _Abrogé par_:
   - Décret n°2017-456 du 29 mars 2017 - art. 3
 
 
-##### Section 3 : Conseil des sites de Corse<a id=343></a>
+##### Section 3 : Conseil des sites de Corse<a id=344></a>
 
 ###### Article D612-17
 
@@ -36541,7 +36504,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R4421-1
 
 
-##### Section 4 : Commission locale du secteur sauvegardé<a id=344></a>
+##### Section 4 : Commission locale du secteur sauvegardé<a id=345></a>
 
 ###### Article D612-18
 
@@ -36573,13 +36536,13 @@ _Cité par_:
   - Code du patrimoine. - art. D720-12 (M)
 
 
-### TITRE II : MONUMENTS HISTORIQUES<a id=345></a>
+### TITRE II : MONUMENTS HISTORIQUES<a id=346></a>
 
-#### Chapitre Ier : Immeubles<a id=346></a>
+#### Chapitre Ier : Immeubles<a id=347></a>
 
-##### Section 1 : Classement des immeubles<a id=347></a>
+##### Section 1 : Classement des immeubles<a id=348></a>
 
-##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=348></a>
+##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=349></a>
 
 ###### Article R621-1
 
@@ -36852,7 +36815,7 @@ _Cité par_:
   - Code du patrimoine. - art. R720-10 (M)
 
 
-##### Sous-section 2 : Travaux sur un immeuble classé<a id=349></a>
+##### Sous-section 2 : Travaux sur un immeuble classé<a id=350></a>
 
 ###### Article R621-11
 
@@ -37166,7 +37129,7 @@ _Cité par_:
   - Code du patrimoine. - art. R621-23 (V)
 
 
-##### Sous-section 3 : Contrôle scientifique et technique<a id=350></a>
+##### Sous-section 3 : Contrôle scientifique et technique<a id=351></a>
 
 ###### Article R621-18
 
@@ -37361,7 +37324,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 4 : Maîtrise d'œuvre<a id=351></a>
+##### Sous-section 4 : Maîtrise d'œuvre<a id=352></a>
 
 ###### Article R621-25
 
@@ -37956,7 +37919,7 @@ _Cite_:
   - Code du patrimoine. - art. R621-31 (V)
 
 
-##### Sous-section 5 : Travaux d'office<a id=352></a>
+##### Sous-section 5 : Travaux d'office<a id=353></a>
 
 ###### Article R621-45
 
@@ -38077,7 +38040,7 @@ _Cite_:
   - Code du patrimoine. - art. L621-14 (V)
 
 
-##### Sous-section 6 : Servitude conventionnelle<a id=353></a>
+##### Sous-section 6 : Servitude conventionnelle<a id=354></a>
 
 ###### Article R621-49
 
@@ -38104,7 +38067,7 @@ _Cite_:
   - Code du patrimoine. - art. L621-16 (V)
 
 
-##### Sous-section 7 : Expropriation pour cause d'utilité publique<a id=354></a>
+##### Sous-section 7 : Expropriation pour cause d'utilité publique<a id=355></a>
 
 ###### Article R621-50
 
@@ -38161,7 +38124,7 @@ _Cite_:
   - Code du patrimoine. - art. L621-18 (V)
 
 
-##### Sous-section 8 : Aliénation<a id=355></a>
+##### Sous-section 8 : Aliénation<a id=356></a>
 
 ###### Article R621-52
 
@@ -38190,9 +38153,9 @@ _Cite_:
   - Code du patrimoine - art. L621-22
 
 
-##### Section 2 : Inscription des immeubles<a id=356></a>
+##### Section 2 : Inscription des immeubles<a id=357></a>
 
-##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=357></a>
+##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=358></a>
 
 ###### Article R621-53
 
@@ -38376,7 +38339,7 @@ _Cité par_:
   - Code du patrimoine. - art. R720-10 (M)
 
 
-##### Sous-section 2 : Travaux sur un immeuble inscrit<a id=358></a>
+##### Sous-section 2 : Travaux sur un immeuble inscrit<a id=359></a>
 
 ###### Article R621-60
 
@@ -38495,7 +38458,7 @@ _Cité par_:
   - Code du patrimoine - art. R720-12-1 (V)
 
 
-##### Sous-section 3 : Contrôle scientifique et technique<a id=359></a>
+##### Sous-section 3 : Contrôle scientifique et technique<a id=360></a>
 
 ###### Article R621-63
 
@@ -38644,9 +38607,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 3 : Dispositions communes  aux immeubles classés et aux immeubles inscrits<a id=360></a>
+##### Section 3 : Dispositions communes  aux immeubles classés et aux immeubles inscrits<a id=361></a>
 
-##### Sous-section 1 : Conservateurs des monuments historiques relevant du ministère  chargé de la culture et de ses établissements publics<a id=361></a>
+##### Sous-section 1 : Conservateurs des monuments historiques relevant du ministère  chargé de la culture et de ses établissements publics<a id=362></a>
 
 ###### Article R621-69
 
@@ -38672,7 +38635,7 @@ _Modifié par_:
   - Décret n°2014-1314 du 31 octobre 2014 - art. 18
 
 
-##### Sous-section 2 : Assistance à maîtrise d'ouvrage<a id=362></a>
+##### Sous-section 2 : Assistance à maîtrise d'ouvrage<a id=363></a>
 
 ###### Article R621-70
 
@@ -38923,7 +38886,7 @@ _Cite_:
   - Code du patrimoine. - art. R621-70 (V)
 
 
-##### Sous-section 3 : Subventions<a id=363></a>
+##### Sous-section 3 : Subventions<a id=364></a>
 
 ###### Article R621-78
 
@@ -38977,7 +38940,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 4 : Publicité des mesures de protection<a id=364></a>
+##### Sous-section 4 : Publicité des mesures de protection<a id=365></a>
 
 ###### Article R621-80
 
@@ -39032,7 +38995,7 @@ _Modifié par_:
   - Décret n°2014-1314 du 31 octobre 2014 - art. 19
 
 
-##### Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration<a id=365></a>
+##### Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration<a id=366></a>
 
 ###### Article R621-82
 
@@ -39056,7 +39019,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 6 : Découverte fortuite<a id=366></a>
+##### Sous-section 6 : Découverte fortuite<a id=367></a>
 
 ###### Article R621-83
 
@@ -39079,7 +39042,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 7 : Aliénation<a id=367></a>
+##### Sous-section 7 : Aliénation<a id=368></a>
 
 ###### Article R621-84
 
@@ -39102,7 +39065,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 8 : Notification<a id=368></a>
+##### Sous-section 8 : Notification<a id=369></a>
 
 ###### Article R621-85
 
@@ -39147,7 +39110,7 @@ _Cité par_:
   - Code du patrimoine. - art. R622-58 (V)
 
 
-##### Sous-section 9 : Autorisation d'affichage<a id=369></a>
+##### Sous-section 9 : Autorisation d'affichage<a id=370></a>
 
 ###### Article R621-86
 
@@ -39330,9 +39293,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits<a id=370></a>
+##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits<a id=371></a>
 
-##### Sous-section 1 : Périmètres de protection<a id=371></a>
+##### Sous-section 1 : Périmètres de protection<a id=372></a>
 
 ###### Article R621-92
 
@@ -39475,7 +39438,7 @@ _Cité par_:
   - Code du patrimoine. - art. R720-13 (M)
 
 
-##### Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit<a id=372></a>
+##### Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit<a id=373></a>
 
 ###### Article R621-96
 
@@ -39874,7 +39837,7 @@ _Cite_:
   - Code du patrimoine - art. L621-32
 
 
-##### Section 5 : Dispositions diverses<a id=373></a>
+##### Section 5 : Dispositions diverses<a id=374></a>
 
 ###### Article R621-97
 
@@ -39897,11 +39860,11 @@ _Cite_:
   - Code du patrimoine. - art. L621-33 (V)
 
 
-#### Chapitre II : Objets mobiliers<a id=374></a>
+#### Chapitre II : Objets mobiliers<a id=375></a>
 
-##### Section 1 : Classement des objets mobiliers<a id=375></a>
+##### Section 1 : Classement des objets mobiliers<a id=376></a>
 
-##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=376></a>
+##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=377></a>
 
 ###### Article R622-1
 
@@ -40164,7 +40127,7 @@ _Cite_:
   - Code du patrimoine. - art. L622-5 (V)
 
 
-##### Sous-section 2 : Travaux sur un objet mobilier classé<a id=377></a>
+##### Sous-section 2 : Travaux sur un objet mobilier classé<a id=378></a>
 
 ###### Article R622-11
 
@@ -40380,7 +40343,7 @@ _Cité par_:
   - Code du patrimoine. - art. R622-23 (V)
 
 
-##### Sous-section 3 : Contrôle scientifique et technique<a id=378></a>
+##### Sous-section 3 : Contrôle scientifique et technique<a id=379></a>
 
 ###### Article R622-18
 
@@ -40584,7 +40547,7 @@ _Cite_:
   - Code du patrimoine. - art. L622-8 (V)
 
 
-##### Sous-section 4 : Mesures conservatoires<a id=379></a>
+##### Sous-section 4 : Mesures conservatoires<a id=380></a>
 
 ###### Article R622-26
 
@@ -40657,7 +40620,7 @@ _Cite_:
   - Code du patrimoine. - art. L622-10 (V)
 
 
-##### Sous-section 5 : Aliénation<a id=380></a>
+##### Sous-section 5 : Aliénation<a id=381></a>
 
 ###### Article R622-28
 
@@ -40750,9 +40713,9 @@ _Cite_:
   - Code du patrimoine. - art. L622-17 (V)
 
 
-##### Section 2 : Inscription des objets mobiliers<a id=381></a>
+##### Section 2 : Inscription des objets mobiliers<a id=382></a>
 
-##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=382></a>
+##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=383></a>
 
 ###### Article R622-32
 
@@ -40935,7 +40898,7 @@ _Cite_:
   - Code du patrimoine. - art. R622-9 (V)
 
 
-##### Sous-section 2 : Travaux sur un objet mobilier inscrit<a id=383></a>
+##### Sous-section 2 : Travaux sur un objet mobilier inscrit<a id=384></a>
 
 ###### Article R622-39
 
@@ -40967,7 +40930,7 @@ _Cite_:
   - Code du patrimoine. - art. R622-12 (V)
 
 
-##### Sous-section 3 : Contrôle scientifique et technique<a id=384></a>
+##### Sous-section 3 : Contrôle scientifique et technique<a id=385></a>
 
 ###### Article R622-40
 
@@ -41039,7 +41002,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 4 : Aliénation<a id=385></a>
+##### Sous-section 4 : Aliénation<a id=386></a>
 
 ###### Article R622-43
 
@@ -41086,9 +41049,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits<a id=386></a>
+##### Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits<a id=387></a>
 
-##### Sous-section 1 : Assistance à maîtrise d'ouvrage<a id=387></a>
+##### Sous-section 1 : Assistance à maîtrise d'ouvrage<a id=388></a>
 
 ###### Article R622-45
 
@@ -41354,7 +41317,7 @@ _Cite_:
   - Code du patrimoine - art. R622-47 (V)
 
 
-##### Sous-section 2 : Subventions<a id=388></a>
+##### Sous-section 2 : Subventions<a id=389></a>
 
 ###### Article R622-53
 
@@ -41430,7 +41393,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 3 : Découverte fortuite<a id=389></a>
+##### Sous-section 3 : Découverte fortuite<a id=390></a>
 
 ###### Article R622-56
 
@@ -41456,7 +41419,7 @@ _Cité par_:
   - Code du patrimoine - art. R622-58 (V)
 
 
-##### Sous-section 4 : Déplacement<a id=390></a>
+##### Sous-section 4 : Déplacement<a id=391></a>
 
 ###### Article R622-57
 
@@ -41490,7 +41453,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 5 : Notification<a id=391></a>
+##### Sous-section 5 : Notification<a id=392></a>
 
 ###### Article R622-58
 
@@ -41524,7 +41487,7 @@ _Cite_:
   - Code du patrimoine. - art. R621-85 (V)
 
 
-##### Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues<a id=392></a>
+##### Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues<a id=393></a>
 
 ###### Article R622-59
 
@@ -41658,7 +41621,7 @@ _Cite_:
   - Code du patrimoine - art. R622-59
 
 
-#### Chapitre III : Dispositions fiscales<a id=393></a>
+#### Chapitre III : Dispositions fiscales<a id=394></a>
 
 ###### Article D623-1
 
@@ -41706,7 +41669,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 281 bis (Ab)
 
 
-#### Chapitre IV : Dispositions pénales<a id=394></a>
+#### Chapitre IV : Dispositions pénales<a id=395></a>
 
 ###### Article R624-1
 
@@ -41760,7 +41723,7 @@ _Cite_:
   - Code du patrimoine. - art. R621-86 (V)
 
 
-### TITRE III : SITES<a id=395></a>
+### TITRE III : SITES<a id=396></a>
 
 ###### Article D630-1
 
@@ -41790,9 +41753,9 @@ _Cité par_:
   - Code du patrimoine - art. D780-12 (V)
 
 
-### TITRE IV : ESPACES PROTÉGÉS<a id=396></a>
+### TITRE IV : ESPACES PROTÉGÉS<a id=397></a>
 
-#### Chapitre Ier : Secteurs sauvegardés<a id=397></a>
+#### Chapitre Ier : Secteurs sauvegardés<a id=398></a>
 
 ###### Article D641-1
 
@@ -41820,9 +41783,9 @@ _Cité par_:
   - Code du patrimoine. - art. D720-12 (M)
 
 
-#### Chapitre II : Aires de mise en valeur  de l'architecture et du patrimoine<a id=398></a>
+#### Chapitre II : Aires de mise en valeur  de l'architecture et du patrimoine<a id=399></a>
 
-##### Section 1 : Mise à l'étude d'un projet d'aire<a id=399></a>
+##### Section 1 : Mise à l'étude d'un projet d'aire<a id=400></a>
 
 ###### Article D642-1
 
@@ -41971,7 +41934,7 @@ _Cite_:
   - Code du patrimoine - art. L642-1
 
 
-##### Section 2 : Création d'une aire<a id=400></a>
+##### Section 2 : Création d'une aire<a id=401></a>
 
 ###### Article D642-5
 
@@ -42132,7 +42095,7 @@ _Cite_:
   - Code du patrimoine - art. L642-3
 
 
-##### Section 3 : Régime des travaux dans une aire<a id=401></a>
+##### Section 3 : Régime des travaux dans une aire<a id=402></a>
 
 ###### Article D642-11
 
@@ -42666,7 +42629,7 @@ _Cite_:
   - Code du patrimoine - art. L642-6
 
 
-##### Section 4 : Sanctions pénales<a id=402></a>
+##### Section 4 : Sanctions pénales<a id=403></a>
 
 ###### Article R642-29
 
@@ -42693,7 +42656,7 @@ _Cite_:
   - Code du patrimoine - art. L642-6
 
 
-#### Chapitre III : Dispositions fiscales<a id=403></a>
+#### Chapitre III : Dispositions fiscales<a id=404></a>
 
 ###### Article D643-1
 
@@ -42726,9 +42689,9 @@ _Cité par_:
   - Code du patrimoine. - art. D720-12 (M)
 
 
-## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=404></a>
+## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=405></a>
 
-### TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION<a id=405></a>
+### TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION<a id=406></a>
 
 ###### Article R710-1
 
@@ -43060,7 +43023,7 @@ _Abrogé par_:
   - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 
-### TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON<a id=406></a>
+### TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON<a id=407></a>
 
 ###### Article D720-2
 
@@ -43194,7 +43157,7 @@ _Cite_:
 ###### Article R720-6
 
 Dans l'exercice des missions d'intérêt général de sauvegarde et d'étude du patrimoine archéologique qui incombent à l'Etat
-dans le cadre de ses compétences en matière d'archéologie préventive, les articles R. 524-1 à R. 524-10 sont applicables à
+dans le cadre de ses compétences en matière d'archéologie préventive, les articles R. 524-3 à R. 524-10 sont applicables à
 Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
@@ -43203,13 +43166,13 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2016-1485 du 2 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code du patrimoine. - art. R524-1 (V)
+  - Code du patrimoine - art. R524-1
 
 
 ###### Article R720-7
@@ -43481,7 +43444,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE<a id=407></a>
+### TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE<a id=408></a>
 
 ###### Article R730-1
 
@@ -43783,7 +43746,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=408></a>
+### TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=409></a>
 
 ###### Article D740-2
 
@@ -44120,7 +44083,7 @@ _Codifié par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=409></a>
+### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=410></a>
 
 ###### Article D750-2
 
@@ -44394,7 +44357,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=410></a>
+### TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=411></a>
 
 ###### Article D760-2
 
@@ -44714,7 +44677,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=411></a>
+### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=412></a>
 
 ###### Article D770-2
 
@@ -44966,7 +44929,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY<a id=412></a>
+### TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY<a id=413></a>
 
 ###### Article D780-2
 
@@ -45169,7 +45132,7 @@ _Cite_:
 ###### Article R780-9
 
 Dans l'exercice des missions d'intérêt général qui incombent à l'Etat dans le cadre de ses compétences en matière
-d'archéologie préventive, les articles R. 524-1 à R. 524-10 sont applicables à Saint-Barthélemy.
+d'archéologie préventive, les articles R. 524-3 à R. 524-10 sont applicables à Saint-Barthélemy.
 
 **Liens relatifs à cet article**
 
@@ -45177,13 +45140,13 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2016-1485 du 2 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code du patrimoine - art. R524-1 (V)
+  - Code du patrimoine - art. R524-1
 
 
 ###### Article R780-10
@@ -45461,7 +45424,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=413></a>
+### TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=414></a>
 
 ###### Article D790-2
 
@@ -45645,7 +45608,7 @@ _Cite_:
 ###### Article R790-8
 
 Dans l'exercice des missions d'intérêt général qui incombent à l'Etat dans le cadre de ses compétences en matière
-d'archéologie préventive, les articles R. 524-1 à R. 524-10 sont applicables à Saint-Martin.
+d'archéologie préventive, les articles R. 524-3 à R. 524-10 sont applicables à Saint-Martin.
 
 **Liens relatifs à cet article**
 
@@ -45653,13 +45616,13 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2016-1485 du 2 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code du patrimoine - art. R524-1 (V)
+  - Code du patrimoine - art. R524-1
 
 
 ###### Article R790-9
@@ -45918,7 +45881,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-## Annexes<a id=414></a>
+## Annexes<a id=415></a>
 
 ###### Article Annexe 1 aux articles R. 111-1
 
