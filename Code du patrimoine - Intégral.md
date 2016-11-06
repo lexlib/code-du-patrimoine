@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-11-05
+Version Consolidée au 2016-11-07
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -167,13 +167,13 @@ Version Consolidée au 2016-11-05
             - [Sous-section 1 : Procédure de retour des biens culturels (art. R112-20 à R112-24)](#164)
             - [Sous-section 2 : Conditions de la restitution des biens (art. R112-25 à R112-26)](#165)
           - [Section 3 : Dispositions diverses (art. R112-27 à R112-30)](#166)
-        - [Chapitre III : Prêts et dépôts (art. D113-1 à R113-26)](#167)
-          - [Section 1 : Dispositions relatives aux prêts  applicables à certaines collections publiques (art. D113-1 à D113-4)](#168)
-          - [Section 2 : Dispositions relatives aux dépôts  applicables à certaines collections publiques (art. D113-5 à D113-23)](#169)
-            - [Sous-section 1 : Dispositions relatives aux collections  du Fonds national d'art contemporain (art. D113-5 à D113-10)](#170)
-            - [Sous-section 2 : Dispositions relatives aux collections  du Mobilier national (art. D113-11 à D113-23)](#171)
-          - [Section 3 : Dispositions diverses (art. D113-27 à R113-26)](#172)
-            - [Sous-section 1 : Comité consultatif des prêts et dépôts d'œuvres et d'objets d'art  inscrits sur l'inventaire du Fonds national d'art contemporain (art. D113-24 à R113-26)](#173)
+        - [Chapitre III : Prêts et dépôts (art. D113-2 à D113-30)](#167)
+          - [Section 1 : Dispositions relatives aux prêts et dépôts des œuvres et objets d'art confiés à la garde du Centre national des arts plastiques (art. D113-2 à D113-10-2)](#168)
+            - [Sous-section 1 : Dispositions communes (art. D113-2 à R113-1)](#169)
+            - [Sous-section 2 :  Dispositions spécifiques relatives aux prêts (art. D113-7 à D113-8)](#170)
+            - [Sous-section 3 :  Dispositions spécifiques aux dépots (art. D113-9 à D113-10-2)](#171)
+          - [Section 2 : Dispositions relatives aux dépôts des collections du mobilier national (art. D113-11 à D113-23)](#172)
+          - [Section 3 : Dispositions diverses (art. D113-24 à D113-30)](#173)
         - [Chapitre IV : Dispositions pénales (art. R114-1 à R114-17)](#174)
         - [Chapitre V : Commission scientifique nationale des collections (art. R115-1 à R115-4)](#175)
       - [TITRE II : ACQUISITION DE BIENS CULTURELS (art. R121-1 à R123-8)](#176)
@@ -409,10 +409,10 @@ Version Consolidée au 2016-11-05
       - [TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION (art. R710-1 à R710-10)](#406)
       - [TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON (art. D720-2 à R720-16)](#407)
       - [TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R730-1 à R730-11)](#408)
-      - [TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D740-2 à R740-15)](#409)
-      - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D750-2 à R750-13)](#410)
-      - [TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D760-2 à R760-14)](#411)
-      - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-2 à R770-11)](#412)
+      - [TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D740-1-1 à R740-15)](#409)
+      - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D750-1-1 à R750-13)](#410)
+      - [TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D760-1-1 à R760-14)](#411)
+      - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-1-1 à R770-11)](#412)
       - [TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY (art. D780-2 à R780-20)](#413)
       - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. D790-2 à R790-19)](#414)
     - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 6 à l'article R. 545-16)](#415)
@@ -15348,64 +15348,45 @@ _Nouveaux textes_:
 
 #### Chapitre III : Prêts et dépôts<a id=167></a>
 
-##### Section 1 : Dispositions relatives aux prêts  applicables à certaines collections publiques<a id=168></a>
+##### Section 1 : Dispositions relatives aux prêts et dépôts des œuvres et objets d'art confiés à la garde du Centre national des arts plastiques<a id=168></a>
 
-###### Article D113-1
-
-Les œuvres et objets d'art inscrits sur l'inventaire du Fonds national d'art contemporain peuvent être prêtés pour des
-expositions temporaires à caractère culturel, organisées en France ou à l'étranger par des personnes publiques ou des
-personnes morales de droit privé à vocation culturelle ou organisant une manifestation culturelle, agissant sans but
-lucratif.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-856 du 29 août 2000 - art. 1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Décret n°2015-463 du 23 avril 2015 - art. 12 (V)
-  - Décret n°2015-463 du 23 avril 2015 - art. 4 (V)
-  - Code du patrimoine - art. D740-2 (V)
-  - Code du patrimoine - art. D750-2 (V)
-  - Code du patrimoine - art. D760-2 (V)
-  - Code du patrimoine - art. D770-2 (V)
-
-_Abrogé par_:
-
-  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
-
+##### Sous-section 1 : Dispositions communes<a id=169></a>
 
 ###### Article D113-2
 
-Les prêts font l'objet d'une convention passée entre l'Etat et l'emprunteur, après avis du comité consultatif des prêts et
-dépôts mentionné à l'article D. 113-24. 
+Les œuvres et objets d'art appartenant à l'Etat et confiés à la garde du Centre national des arts plastiques peuvent faire
+l'objet soit d'un prêt, soit d'un dépôt, après avis de la commission mentionnée au I de l'article 13 du décret n° 2015-463 du
+23 avril 2015 relatif au Centre national des arts plastiques.
 
-Le comité étudie le projet scientifique de l'exposition, examine l'état des œuvres dont le prêt est demandé et apprécie les
-garanties de sécurité ainsi que les conditions de conservation prévues pour le transport et l'exposition.
+Cette commission examine :
+
+– la liste des œuvres et objets d'art dont le prêt ou le dépôt est demandé ;
+
+– l'état de conservation de ces œuvres et objets d'art ;
+
+– les garanties de sécurité et les conditions de conservation prévues dans le dossier du demandeur pour le transport et
+l'exposition des œuvres et objets d'art ;
+
+– les conditions d'accessibilité et de mise en valeur des œuvres et objets d'art prévues dans le dossier du demandeur ;
+
+– le projet culturel pour lequel le prêt est demandé.
+
+Le prêt ou le dépôt donne lieu à l'établissement d'une convention signée par le directeur du Centre national des arts
+plastiques et le bénéficiaire du prêt ou le dépositaire.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-856 du 29 août 2000 - art. 2 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Décret n°2015-463 du 23 avril 2015 - art. 13
+
+_Modifié par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
 
 _Cité par_:
 
@@ -15415,30 +15396,41 @@ _Cité par_:
   - Code du patrimoine - art. D113-8 (V)
   - Code du patrimoine. - art. D113-3 (M)
 
-_Cite_:
-
-  - Code du patrimoine. - art. D113-24 (V)
-
 
 ###### Article D113-3
 
-Le prêt est consenti pour la durée fixée dans la convention prévue à l'article D. 113-2. Toute prolongation du prêt est
-soumise à l'accord du ministre chargé de la culture et doit faire l'objet d'une demande expresse adressée à celui-ci, un mois
-au moins avant la date prévue pour la fin du prêt.
+La convention de prêt ou de dépôt comporte des stipulations relatives notamment :
+
+– à la description du projet culturel qui a motivé la demande lorsqu'il s'agit d'un prêt ;
+
+– aux dates et lieux d'exposition des œuvres et objets d'art dont le prêt ou le dépôt est demandé ;
+
+– aux garanties de sécurité, de conservation, de mise en valeur prévues pour l'exposition de l'œuvre ou objet d'art ;
+
+– aux conditions d'accrochage, de transport, et d'emballage des œuvres ou objets d'art ;
+
+– aux modalités de prise en charge des frais par le bénéficiaire du prêt ou dépôt ;
+
+– à l'engagement du bénéficiaire d'accepter le contrôle des personnes qualifiées désignées par le ministre chargé de la
+culture ou par le directeur du Centre national des arts plastiques ;
+
+– aux modalités d'assurance des œuvres et objets d'art dans les conditions prévues à l'article D. 113-4 ;
+
+– aux procédures à suivre en cas de vol ou de disparition ;
+
+– aux conditions de restauration des œuvres ou objets d'art ;
+
+– aux motifs de résiliation de la convention.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-856 du 29 août 2000 - art. 3 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
 
 _Cité par_:
 
@@ -15446,88 +15438,64 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du patrimoine. - art. D113-2 (V)
+  - Code du patrimoine - art. D113-4
 
 
 ###### Article D113-4
 
-La convention mentionnée à l'article D. 113-2 prévoit qu'elle transfère à l'emprunteur la responsabilité des œuvres pour les
-cas de vol, perte ou détérioration. 
+Le prêt ou le dépôt donne lieu, préalablement à sa mise en œuvre, à la souscription par le bénéficiaire d'une assurance pour
+le transport et le séjour de l'œuvre ou de l'objet d'art couvrant les risques de vol, de disparition, de détérioration ou de
+destruction, pour un montant défini dans la convention de prêt ou de dépôt.
 
-La convention prévoit la souscription d'une assurance couvrant les risques mentionnés à l'alinéa précédent. Toutefois, le
-ministre chargé de la culture peut dispenser les personnes publiques, au vu des garanties qu'elles présentent, de souscrire
-cette assurance. 
-
-Elle comporte également l'engagement du bénéficiaire du prêt d'accepter un contrôle par toute personne qualifiée désignée par
-le ministre chargé de la culture et d'informer sans délai ce dernier de toute disparition ou détérioration d'une œuvre. 
-
-Elle précise les conditions dans lesquelles peut être prononcé le retrait de l'œuvre par le ministre chargé de la culture et
-entrepris, le cas échéant, les travaux de restauration.
+Toutefois, le ministre chargé de la culture peut dispenser totalement ou partiellement, à sa demande, l'emprunteur ou le
+dépositaire de l'obligation d'assurance pour le séjour de l'œuvre ou de l'objet d'art, au vu des garanties qu'il présente.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-856 du 29 août 2000 - art. 4 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
+
+_Cite_:
+
+  - Code du patrimoine - art. D113-2
 
 _Cité par_:
 
   - Code du patrimoine - art. D113-3 (V)
 
-_Cite_:
-
-  - Code du patrimoine. - art. D113-2 (V)
-
-
-##### Section 2 : Dispositions relatives aux dépôts  applicables à certaines collections publiques<a id=169></a>
-
-##### Sous-section 1 : Dispositions relatives aux collections  du Fonds national d'art contemporain<a id=170></a>
 
 ###### Article D113-5
 
-Les œuvres et objets d'art inscrits sur l'inventaire du Fonds national d'art contemporain peuvent faire l'objet d'un dépôt :
+I. – L'emprunteur ou le dépositaire informe sans délai le Centre national des arts plastiques de toute détérioration,
+disparition ou destruction de l'œuvre ou objet d'art. En cas de détérioration, le Centre national des arts plastiques se
+prononce sur les possibilités de restauration et sur les modalités financières et techniques de prise en charge de cette
+restauration par l'emprunteur ou le dépositaire.
 
-1° Dans les musées de l'Etat ;
+II. – La restauration de l'œuvre ou objet d'art prêté ou déposé est à la charge de l'emprunteur ou du dépositaire et
+diligentée par lui. A défaut, elle donne lieu à l'émission d'un titre de recette correspondant au coût de sa restauration.
+Elle ne peut être effectuée que par une personne désignée par le directeur du Centre national des arts plastiques.
 
-2° Dans les musées relevant des collectivités territoriales ;
+Dans le cas où l'œuvre ou l'objet d'art ne pourrait pas être restauré, le titre de recettes correspond au montant de la
+dépréciation.
 
-3° Dans les musées dépendant de fondations ou d'associations reconnues d'utilité publique ainsi que dans les institutions et
-organismes à but culturel agissant sans but lucratif ;
-
-4° Dans les musées étrangers ;
-
-5° Dans les monuments historiques appartenant à une personne publique, à condition qu'ils soient ouverts au public ;
-
-6° Dans les parcs, jardins et espaces constituant des dépendances du domaine public ;
-
-7° Dans les résidences présidentielles, dans les résidences affectées au Premier ministre, dans les locaux des assemblées
-parlementaires et du Conseil économique, social et environnemental ainsi que dans les ambassades de France et dans les
-préfectures ;
-
-8° Dans les bâtiments affectés aux administrations de l'Etat, aux autorités administratives indépendantes et aux
-établissements publics nationaux.
+III. – Toute disparition ou destruction de l'œuvre ou objet d'art prêté ou déposé donne lieu à l'émission, par le Centre
+national des arts plastiques, d'un titre de recettes correspondant à la valeur de l'œuvre ou objet d'art estimée au moment du
+constat de sa disparition ou destruction.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-856 du 29 août 2000 - art. 5 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
 
 _Cité par_:
 
@@ -15536,188 +15504,255 @@ _Cité par_:
 
 ###### Article D113-6
 
-Les dépôts font l'objet d'une convention passée entre l'Etat et le dépositaire après avis du comité consultatif des prêts et
-dépôts mentionné à l'article D. 113-24.
-
-Le comité apprécie les garanties de sécurité et les conditions de conservation prévues pour le transport et l'exposition
-ainsi que les conditions de mise en valeur des œuvres déposées.
+Le retrait de l'œuvre ou objet d'art, prêté ou mis en dépôt, est prononcé par le directeur du Centre national des arts
+plastiques si les conditions qui ont permis d'octroyer le prêt ou le dépôt ne sont plus réunies ou pour tout autre motif
+tenant à l'inexécution de la convention de prêt ou de dépôt. Les frais de retrait sont à la charge de l'emprunteur ou du
+dépositaire.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-856 du 29 août 2000 - art. 6 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
 
 _Cité par_:
 
+  - Code du patrimoine - art. D113-10 (V)
   - Code du patrimoine - art. D113-25 (V)
   - Code du patrimoine - art. D113-7 (V)
-  - Code du patrimoine. - art. D113-10 (M)
 
 _Cite_:
 
-  - Code du patrimoine. - art. D113-24 (V)
+  - Code du patrimoine - art. D113-24 (V)
 
 
-###### Article D113-7
+###### Article R113-1
 
-La convention prévue à l'article D. 113-6 détermine les conditions du dépôt. Ce dépôt est consenti pour une durée n'excédant
-pas cinq années. Trois mois avant l'expiration de la convention, le dépositaire fait part au ministre chargé de la culture de
-son intention de mettre fin au dépôt ou d'en demander le renouvellement, qui peut être accordé dans les mêmes conditions.
+Les œuvres et objets d'art inscrits sur l'inventaire du Fonds national d'art contemporain sont acquis et gérés par le Centre
+national des arts plastiques dans les conditions fixées par le décret mentionné à l'annexe 3 du présent code.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2000-856 du 29 août 2000 - art. 7 (Ab), alinéa 1.
-
 _Créé par_:
 
-  - Décret n°2011-574 du 24 mai 2011  - art.
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
+
+_Cité par_:
+
+  - Code du patrimoine - art. Annexe 3 aux articles R. 113-1 (V)
+  - Code du patrimoine - art. R740-4 (V)
+  - Code du patrimoine - art. R750-3 (V)
+  - Code du patrimoine - art. R760-3 (V)
+  - Code du patrimoine - art. R770-3 (V)
+
+
+##### Sous-section 2 :  Dispositions spécifiques relatives aux prêts<a id=170></a>
+
+###### Article D113-7
+
+Les œuvres et objets d'art appartenant à l'Etat et confiés à la garde du Centre national des arts plastiques peuvent faire
+l'objet d'un prêt à des personnes publiques ou à des personnes morales de droit privé pour l'organisation d'expositions
+temporaires à caractère culturel en France ou à l'étranger, qui garantissent l'accessibilité au public et valorisent l'œuvre
+et son auteur.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
+
 _Cite_:
 
-  - Code du patrimoine. - art. D113-6 (V)
+  - Code du patrimoine - art. D113-6
 
 
 ###### Article D113-8
 
-La convention comporte pour le bénéficiaire l'engagement : 
+I. – La demande de prêt est adressée au directeur du Centre national des arts plastiques et comprend notamment les éléments
+suivants :
 
-1° De souscrire une assurance ou un engagement de garantie équivalent, la souscription d'une assurance étant obligatoire pour
-les dépôts prévus aux 3° et 4° de l'article D. 113-5 ; 
+– la liste des œuvres et objets d'art pour lesquels le prêt est sollicité ;
 
-2° D'entretenir les œuvres mises en dépôt ; 
+– le projet culturel du demandeur ;
 
-3° D'informer sans délai le ministre chargé de la culture de toute disparition ou détérioration d'une œuvre ; 
+– les garanties de sécurité mises en place pour l'exposition, ainsi que les conditions de conservation prévues pour le
+transport et pendant l'exposition ;
 
-4° De ne pas modifier, sans l'accord du ministre chargé de la culture, les conditions de présentation des œuvres mises en
-dépôt ; 
+– la présentation des actions et documents de valorisation des œuvres ou objets d'art envisagés.
 
-5° De faire parvenir à la fin de chaque année au ministre chargé de la culture un état des œuvres et objets d'art dont il est
-dépositaire ; 
-
-6° D'accepter à tout moment le contrôle et l'inspection des œuvres mises en dépôt par une personne qualifiée désignée par le
-ministre chargé de la culture ; 
-
-7° De restituer les œuvres en vue d'une exposition temporaire.
+II. – Le prêt est consenti pour la durée fixée dans la convention prévue à l'article D. 113-2. Toute prolongation est
+subordonnée à l'accord exprès du directeur du Centre national des arts plastiques sur demande adressée à celui-ci au moins un
+mois avant la date d'échéance du prêt prévue par la convention. Elle donne lieu à la conclusion d'un avenant à la convention
+de prêt.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-856 du 29 août 2000 - art. 7 (Ab), alinéas 2 à 9.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code du patrimoine. - art. D113-5 (V)
+  - Code du patrimoine - art. D113-2
 
+
+##### Sous-section 3 :  Dispositions spécifiques aux dépots<a id=171></a>
 
 ###### Article D113-9
 
-La disparition ou la détérioration d'une œuvre mise en dépôt donne lieu, à l'encontre du dépositaire, à l'émission par le
-ministre chargé de la culture d'un titre de perception correspondant à la valeur de l'œuvre estimée au moment de sa
-disparition ou du montant de la dépréciation de l'œuvre après détérioration.
+Les œuvres et objets d'art appartenant à l'Etat et confiés à la garde du Centre national des arts plastiques peuvent faire
+l'objet d'un dépôt :
 
-La restauration d'une œuvre déposée est à la charge du dépositaire et donne lieu à l'émission par le ministre chargé de la
-culture d'un titre de perception correspondant au coût de la restauration. Elle ne peut être effectuée que par une personne
-désignée par le ministre chargé de la culture.
+1° Dans les musées de l'Etat ou relevant des collectivités territoriales ou de leurs groupements ;
+
+2° Dans les musées gérés par des fondations, associations reconnues d'utilité publique ou institutions et organismes à but
+culturel et non lucratif ;
+
+3° Dans les musées étrangers ;
+
+4° Dans les monuments historiques ouverts au public et appartenant à une personne publique ;
+
+5° Dans les parcs, jardins et espaces constituant des dépendances du domaine public ;
+
+6° Dans les résidences présidentielles, dans les résidences affectées au Premier ministre ;
+
+7° Dans les bâtiments affectés aux administrations de l'Etat en France et à l'étranger, aux autorités administratives
+indépendantes, aux établissements publics nationaux, aux assemblées parlementaires, au Conseil économique, social et
+environnemental et juridictions dès lors que le public y a accès ;
+
+8° Dans les bâtiments affectés aux instances européennes, internationales et intergouvernementales au sein desquelles la
+France est représentée ;
+
+9° Dans les immeubles affectés aux collectivités territoriales, à leurs groupements et à leurs établissements publics dès
+lors que le public y a accès.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-856 du 29 août 2000 - art. 8 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
+
 _Cité par_:
 
-  - Code du patrimoine. - art. D113-10 (M)
+  - Code du patrimoine - art. D113-10 (V)
 
 
 ###### Article D113-10
 
-Le retrait de l'œuvre mise en dépôt peut être immédiatement prononcé si les conditions définies au deuxième alinéa de
-l'article D. 113-6 et aux articles D. 113-7 et D. 113-8 et au deuxième alinéa de l'article D. 113-9 ne sont pas respectées.
+La convention de dépôt peut être conclue pour une période maximale de dix ans, renouvelable.
+
+Six mois avant l'expiration de la période de dépôt, le dépositaire fait part au directeur du Centre national des arts
+plastiques de son intention d'en demander ou non le renouvellement. A défaut, le dépôt cesse de plein droit à la date
+d'échéance de la convention.
+
+Le renouvellement peut être accordé par avenant à la convention de dépôt conclu dans les mêmes conditions que le dépôt
+initial.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-856 du 29 août 2000 - art. 9 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
+
 _Cite_:
 
-  - Code du patrimoine. - art. D113-6 (V)
-  - Code du patrimoine. - art. D113-9 (V)
+  - Code du patrimoine - art. D113-6 (V)
+  - Code du patrimoine - art. D113-9 (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux collections  du Mobilier national<a id=171></a>
+###### Article D113-10-1
+
+Outre les obligations prévues à l'article D. 113-3, le dépositaire s'engage à :
+
+1° Entretenir les œuvres et objets d'art mis en dépôt selon les prescriptions du Centre national des arts plastiques ;
+
+2° Ne pas modifier, sans l'accord du Centre national des arts plastiques les conditions de présentation des œuvres et objets
+d'art mis en dépôt ;
+
+3° Faire parvenir chaque année au Centre national des arts plastiques un inventaire précis des œuvres et objets d'art dont il
+est dépositaire ;
+
+4° Mettre à disposition les œuvres et objets d'art à la demande du Centre national des arts plastiques en vue d'une
+exposition temporaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
+
+_Cite_:
+
+  - Code du patrimoine - art. D113-3
+
+
+###### Article D113-10-2
+
+Les œuvres ou objets d'art déposés peuvent faire l'objet de prêt pour des expositions temporaires. La demande est adressée au
+directeur du Centre national des arts plastiques et instruite dans les conditions prévues aux articles D. 113-2 à D. 113-8.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 2
+
+_Cite_:
+
+  - Code du patrimoine - art. D113-2
+
+
+##### Section 2 : Dispositions relatives aux dépôts des collections du mobilier national<a id=172></a>
 
 ###### Article D113-11
 
 La mise en dépôt des biens inscrits sur les inventaires du Mobilier national est autorisée à des fins d'ameublement par le
-ministre chargé de la culture : 
+ministre chargé de la culture :
 
 1° Pour contribuer à l'aménagement de l'hôtel et des résidences affectés au Premier ministre, des ambassades de France, des
 hôtels ministériels, des hôtels des présidents des assemblées ainsi que des cabinets de travail des chefs des grands corps de
-l'Etat. 
+l'Etat.
 
 Ces dépôts sont limités à l'aménagement des pièces de réception officielles, du bureau personnel et du bureau du directeur du
-cabinet des membres du Gouvernement ; 
+cabinet des membres du Gouvernement ;
 
 2° Dans tous les autres cas, après consultation d'une commission de contrôle dont la composition est fixée à l'article D.
 113-22, sur la demande du ministre dont relève le service ou l'organisme demandeur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
+
 _Cité par_:
 
+  - Code du patrimoine - art. D113-18 (V)
   - Code du patrimoine - art. D113-22 (V)
-  - Code du patrimoine. - art. D113-18 (M)
 
 
 ###### Article D113-12
@@ -15726,13 +15761,13 @@ Seuls les meubles et objets mobiliers fabriqués postérieurement à l'année 18
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
 
 
 ###### Article D113-13
@@ -15743,46 +15778,46 @@ l'administration générale du Mobilier national afin de contrôler la commande 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
 
 
 ###### Article D113-14
 
 Le ministre chargé de la culture peut décider, sur proposition de l'administrateur général du Mobilier national,
 l'inscription des meubles et objets mobiliers en service dans les administrations publiques et n'appartenant pas au Mobilier
-national, en vue de leur sauvegarde : 
+national, en vue de leur sauvegarde :
 
-1° Soit à l'inventaire annexe tenu par l'administration générale du Mobilier national ; 
+1° Soit à l'inventaire annexe tenu par l'administration générale du Mobilier national ;
 
 2° Soit à l'inventaire normal du Mobilier national, en cas exceptionnel et après avis de la commission mentionnée à l'article
-D. 113-22, lorsque leur intérêt artistique ou historique le justifie. 
+D. 113-22, lorsque leur intérêt artistique ou historique le justifie.
 
 L'inscription à l'inventaire annexe est de droit pour tous les meubles et objets mobiliers fabriqués antérieurement à l'année
 1800.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
+
 _Cité par_:
 
-  - Code du patrimoine. - art. D113-16 (M)
+  - Code du patrimoine - art. D113-16 (V)
 
 _Cite_:
 
-  - Code du patrimoine. - art. D113-22 (V)
+  - Code du patrimoine - art. D113-22
 
 
 ###### Article D113-15
@@ -15794,25 +15829,25 @@ peut décider, selon la même procédure, de mettre fin à ce prêt ou à ce dé
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
+
 
 ###### Article D113-16
 
-Sont confiés au Mobilier national : 
+Sont confiés au Mobilier national :
 
 1° Le contrôle de l'inspection technique et des travaux de conservation et de restauration des objets inscrits à l'inventaire
 annexe prévu à l'article D. 113-14, et plus généralement des objets mobiliers de caractère historique ou artistique
 appartenant à l'Etat et déposés dans les services et établissements autres que les musées et les monuments historiques. Les
 ateliers du Mobilier national ont seuls qualité pour exécuter, ou faire exécuter sous leur contrôle, les travaux de
 restauration qui sont effectués dans les conditions stipulées aux devis approuvés par le représentant qualifié du service ou
-de l'établissement affectataire et aux frais de celui-ci ; 
+de l'établissement affectataire et aux frais de celui-ci ;
 
 2° La vérification des propositions de versement à l'administration des domaines des meubles et objets mobiliers appartenant
 à des administrations de l'Etat. La remise à l'administration des domaines des objets mobiliers de toute nature par les
@@ -15822,17 +15857,17 @@ contre décharge régulière, à l'administration générale du Mobilier nationa
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
+
 _Cite_:
 
-  - Code du patrimoine. - art. D113-14 (V)
+  - Code du patrimoine - art. D113-14 (V)
 
 
 ###### Article D113-17
@@ -15843,52 +15878,52 @@ peut leur demander de contracter une assurance pour la valeur de ces objets qu'e
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
 
 
 ###### Article D113-18
 
 La mise en dépôt de meubles et objets mobiliers par l'administration générale du Mobilier national entraîne, pour le
-bénéficiaire, l'engagement : 
+bénéficiaire, l'engagement :
 
-1° De restituer ces pièces sur simple demande du Mobilier national, et aussitôt, lorsqu'elles ne sont plus utilisées ; 
+1° De restituer ces pièces sur simple demande du Mobilier national, et aussitôt, lorsqu'elles ne sont plus utilisées ;
 
 2° De ne pas changer, sans l'accord du Mobilier national, la place qui leur a été attribuée au moment où elles ont été mises
-en dépôt ; 
+en dépôt ;
 
 Tout changement d'affectation des meubles et objets mobiliers inscrits à l'inventaire du Mobilier national intervenant en
 contradiction avec les règles énoncées aux articles D. 113-11 et D. 113-12 entraîne de droit leur retour dans les réserves du
-Mobilier national, sauf dérogation préalable accordée par le ministre chargé de la culture ; 
+Mobilier national, sauf dérogation préalable accordée par le ministre chargé de la culture ;
 
 3° D'assurer leur entretien normal en signalant au Mobilier national leur usure ou leur détérioration dès qu'elle est
-constatée ; 
+constatée ;
 
-4° De ne procéder à aucune réparation ou transformation sans son autorisation préalable ; 
+4° De ne procéder à aucune réparation ou transformation sans son autorisation préalable ;
 
-5° De fournir, sur demande du Mobilier national, l'attestation d'assurance couvrant la valeur desdits objets ; 
+5° De fournir, sur demande du Mobilier national, l'attestation d'assurance couvrant la valeur desdits objets ;
 
 6° De faire parvenir au Mobilier national, à la fin de chaque année, un état des objets dont il est dépositaire ou figurant à
 l'inventaire annexe, avec indication de leur emplacement et de leur état de conservation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
+
 _Cite_:
 
-  - Code du patrimoine. - art. D113-11 (V)
+  - Code du patrimoine - art. D113-11 (V)
 
 
 ###### Article D113-19
@@ -15901,13 +15936,13 @@ rentrée au Mobilier national.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
 
 
 ###### Article D113-20
@@ -15919,13 +15954,13 @@ Mobilier national.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
 
 
 ###### Article D113-21
@@ -15935,45 +15970,45 @@ groupés par service dépositaire, avec l'indication de l'immeuble où ils sont 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
+
 
 ###### Article D113-22
 
-La commission mentionnée au 2° des articles D. 113-11 et D. 113-14 est composée comme suit : 
+La commission mentionnée au 2° des articles D. 113-11 et D. 113-14 est composée comme suit :
 
-1° Un président de chambre ou un conseiller maître à la Cour des comptes, président ; 
+1° Un président de chambre ou un conseiller maître à la Cour des comptes, président ;
 
-2° Un membre du Conseil d'Etat ; 
+2° Un membre du Conseil d'Etat ;
 
-3° Un membre de l'inspection générale des finances ; 
+3° Un membre de l'inspection générale des finances ;
 
-4° Le secrétaire général du ministère chargé de la culture ou son représentant ; 
+4° Le secrétaire général du ministère chargé de la culture ou son représentant ;
 
-5° L'administrateur général du Mobilier national. 
+5° L'administrateur général du Mobilier national.
 
-Le secrétariat de la commission est assuré par un inspecteur du Mobilier national. 
+Le secrétariat de la commission est assuré par un inspecteur du Mobilier national.
 
-Les membres de la commission sont nommés par arrêté du ministre chargé de la culture. 
+Les membres de la commission sont nommés par arrêté du ministre chargé de la culture.
 
 La commission, ou toute personne directement habilitée par elle, a accès aux locaux occupés par les services civils ou
 militaires pour y procéder à toutes les investigations nécessaires à l'accomplissement de sa mission.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
 
 _Cité par_:
 
@@ -15988,16 +16023,76 @@ Mobilier national.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Décret n°2011-574 du 24 mai 2011  - art.
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+**Liens**:
+
+  - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
+
+
+##### Section 3 : Dispositions diverses<a id=173></a>
+
+###### Article D113-24
+
+Le ministre chargé de la culture peut inscrire à l'inventaire du Fonds national d'art contemporain des œuvres ou objets d'art
+préalablement inscrits sur celui d'un service de l'Etat ou d'un établissement public national conservant des collections
+publiques appartenant à l'Etat.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
 
-##### Section 3 : Dispositions diverses<a id=172></a>
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code du patrimoine - art. D113-6 (V)
+  - Code du patrimoine. - art. D113-2 (M)
+
+
+###### Article D113-25
+
+Le ministre chargé de la culture peut radier de l'inventaire du Fonds national d'art contemporain des œuvres ou objets d'art
+pour les faire inscrire sur celui d'un service de l'Etat ou d'un établissement public national conservant des collections
+publiques appartenant à l'Etat qui en aura fait la demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. D113-6
+
+
+###### Article D113-26
+
+Les dépôts d'œuvres et objets d'art inscrits sur l'inventaire du Fonds national d'art contemporain consentis avant le 5
+septembre 2000 peuvent être prorogés au bénéfice des institutions publiques initialement dépositaires, sous réserve du
+respect des obligations définies aux articles D. 113-2 à D. 113-5, D. 113-10 et D. 113-10-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. D113-2
+
 
 ###### Article D113-27
 
@@ -16151,85 +16246,6 @@ _Créé par_:
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-##### Sous-section 1 : Comité consultatif des prêts et dépôts d'œuvres et d'objets d'art  inscrits sur l'inventaire du Fonds national d'art contemporain<a id=173></a>
-
-###### Article D113-24
-
-Le comité consultatif des prêts et dépôts d'œuvres et objets d'art inscrits sur l'inventaire du Fonds national d'art
-contemporain, placé auprès du ministre chargé de la culture, est présidé par le directeur général de la création artistique
-et comprend des représentants des services gestionnaires des collections nationales relevant du ministère chargé de la
-culture et des corps de conservation et d'inspection de ce ministère. La composition et les modalités de fonctionnement du
-comité sont définies par arrêté du ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-856 du 29 août 2000 - art. 10 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine. - art. D113-2 (M)
-  - Code du patrimoine. - art. D113-6 (M)
-
-
-###### Article D113-25
-
-Les dépôts d'œuvres et objets d'art inscrits sur l'inventaire du Fonds national d'art contemporain consentis avant le 5
-septembre 2000 peuvent être prorogés au bénéfice des institutions publiques initialement dépositaires, sous réserve du
-respect des obligations définies aux articles D. 113-6, D. 113-7 et D. 113-8.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-856 du 29 août 2000 - art. 12 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. D113-6 (V)
-
-
-###### Article R113-26
-
-Les œuvres et objets d'art inscrits sur l'inventaire du Fonds national d'art contemporain sont acquis et gérés par le Centre
-national des arts plastiques dans les conditions fixées par le décret mentionné à l'annexe 3 du présent code.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
-
-  - Décret n°2016-1497 du 4 novembre 2016 - art. 4
-
-_Cité par_:
-
-  - Code du patrimoine - art. Annexe 3 aux articles R. 113-26 (M)
 
 
 #### Chapitre IV : Dispositions pénales<a id=174></a>
@@ -43748,9 +43764,25 @@ _Créé par_:
 
 ### TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=409></a>
 
+###### Article D740-1-1
+
+Les dispositions identifiées par un D applicables en Nouvelle-Calédonie en vertu du présent titre sont celles en vigueur dans
+leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2016-1497 du 4 novembre 2016
+
+_Créé par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
+
+
 ###### Article D740-2
 
-Les articles D. 113-1 à D. 113-30 sont applicables de plein droit en Nouvelle-Calédonie.
+Les articles D. 113-2 à D. 113-30 sont applicables de plein droit en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -43758,19 +43790,19 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
 
 _Cite_:
 
-  - Code du patrimoine. - art. D113-1 (V)
+  - Code du patrimoine - art. D113-1
 
 
 ###### Article R740-1
 
-Les dispositions applicables en Nouvelle-Calédonie en vertu du présent titre sont celles en vigueur dans leur rédaction
-résultant du décret n° 2015-318 du 19 mars 2015.
+Les dispositions identifiées par un R applicables en Nouvelle-Calédonie en vertu du présent titre sont celles en vigueur dans
+leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -43780,11 +43812,11 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2015-318 du 19 mars 2015
+  - Décret n°2016-1497 du 4 novembre 2016
 
 _Modifié par_:
 
-  - Décret n°2015-318 du 19 mars 2015 - art. 1
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
 
 
 ###### Article R740-3
@@ -43813,7 +43845,7 @@ _Cite_:
 
 ###### Article R740-4
 
-Les articles R. 221-1 à R. 221-17 et R. 222-1 à R. 222-4 sont applicables de plein droit en Nouvelle-Calédonie.
+Les articles R. 113-1, R. 221-1 à R. 221-17 et R. 222-1 à R. 222-4 sont applicables de plein droit en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -43821,14 +43853,15 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
 
 _Cite_:
 
-  - Code du patrimoine. - art. R221-1 (V)
-  - Code du patrimoine. - art. R222-1 (V)
+  - Code du patrimoine - art. R113-1
+  - Code du patrimoine - art. R221-1
+  - Code du patrimoine - art. R222-1
 
 
 ###### Article R740-5
@@ -44085,9 +44118,25 @@ _Codifié par_:
 
 ### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=410></a>
 
+###### Article D750-1-1
+
+Les dispositions identifiées par un D applicables en Polynésie française en vertu du présent titre sont celles en vigueur
+dans leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2016-1497 du 4 novembre 2016
+
+_Créé par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
+
+
 ###### Article D750-2
 
-Les articles D. 113-1 à D. 113-30 sont applicables de plein droit en Polynésie française.
+Les articles D. 113-2 à D. 113-30 sont applicables de plein droit en Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -44095,38 +44144,38 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
 
 _Cite_:
 
-  - Code du patrimoine. - art. D113-1 (V)
+  - Code du patrimoine - art. D113-1
 
 
 ###### Article R750-1
 
-Les dispositions applicables en Polynésie française en vertu du présent titre sont celles en vigueur dans leur rédaction
-issue du décret n° 2014-119 du 11 février 2014 relatif au livre VII de la partie réglementaire du code du patrimoine.
+Les dispositions identifiées par un R applicables en Polynésie française en vertu du présent titre sont celles en vigueur
+dans leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2014-119 du 11 février 2014 (V)
 
 _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2016-1497 du 4 novembre 2016
+
+_Modifié par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
 
 
 ###### Article R750-3
 
-Les articles R. 221-1 à R. 221-17 et R. 222-1 à R. 222-4 sont applicables de plein droit en Polynésie française.
+Les articles R. 113-1, R. 221-1 à R. 221-17 et R. 222-1 à R. 222-4 sont applicables de plein droit en Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -44134,14 +44183,15 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
 
 _Cite_:
 
-  - Code du patrimoine. - art. R221-1 (V)
-  - Code du patrimoine. - art. R222-1 (V)
+  - Code du patrimoine - art. R113-1
+  - Code du patrimoine - art. R221-1
+  - Code du patrimoine - art. R222-1
 
 
 ###### Article R750-4
@@ -44359,9 +44409,25 @@ _Créé par_:
 
 ### TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=411></a>
 
+###### Article D760-1-1
+
+Les dispositions identifiées par un D applicables dans les îles Wallis et Futuna en vertu du présent titre sont celles en
+vigueur dans leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2016-1497 du 4 novembre 2016
+
+_Créé par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
+
+
 ###### Article D760-2
 
-Les articles D. 113-1 à D. 113-30 sont applicables dans les îles Wallis et Futuna.
+Les articles D. 113-2 à D. 113-30 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -44369,13 +44435,13 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
 
 _Cite_:
 
-  - Code du patrimoine - art. D113-1 (V)
+  - Code du patrimoine - art. D113-1
 
 
 ###### Article D760-4
@@ -44402,28 +44468,27 @@ _Cite_:
 
 ###### Article R760-1
 
-Les dispositions applicables dans les îles Wallis et Futuna en vertu du présent titre sont celles en vigueur dans leur
-rédaction résultant du décret n° 2015-318 du 19 mars 2015.
+Les dispositions identifiées par un R applicables dans les îles Wallis et Futuna en vertu du présent titre sont celles en
+vigueur dans leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2014-119 du 11 février 2014
-  - Décret n°2015-318 du 19 mars 2015
 
 _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
+_Cite_:
+
+  - Décret n°2016-1497 du 4 novembre 2016
+
 _Modifié par_:
 
-  - Décret n°2015-318 du 19 mars 2015 - art. 1
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
 
 
 ###### Article R760-3
 
-Les articles R. 123-1 à R. 123-8 et R. 131-1 à R. 133-1 sont applicables dans les îles Wallis et Futuna.
+Les articles R. 113-1, R. 123-1 à R. 123-8 et R. 131-1 à R. 133-1 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -44435,14 +44500,15 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
 
 _Cite_:
 
-  - Code du patrimoine - art. R123-1 (V)
-  - Code du patrimoine - art. R131-1 (V)
+  - Code du patrimoine - art. R113-1
+  - Code du patrimoine - art. R123-1
+  - Code du patrimoine - art. R131-1
 
 
 ###### Article R760-5
@@ -44679,6 +44745,22 @@ _Créé par_:
 
 ### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=412></a>
 
+###### Article D770-1-1
+
+Les dispositions identifiées par un D applicables dans les Terres australes et antarctiques françaises en vertu du présent
+titre sont celles en vigueur dans leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2016-1497 du 4 novembre 2016
+
+_Créé par_:
+
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
+
+
 ###### Article D770-2
 
 Les articles D. 113-1 à D. 113-30 sont applicables dans les Terres australes et antarctiques françaises.
@@ -44700,28 +44782,27 @@ _Cite_:
 
 ###### Article R770-1
 
-Les dispositions applicables dans les Terres australes et antarctiques françaises en vertu du présent titre sont celles en
-vigueur dans leur rédaction résultant du décret n° 2015-318 du 19 mars 2015.
+Les dispositions identifiées par un R applicables dans les Terres australes et antarctiques françaises en vertu du présent
+titre sont celles en vigueur dans leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2014-119 du 11 février 2014
-  - Décret n°2015-318 du 19 mars 2015
 
 _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
+_Cite_:
+
+  - Décret n°2016-1497 du 4 novembre 2016
+
 _Modifié par_:
 
-  - Décret n°2015-318 du 19 mars 2015 - art. 1
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
 
 
 ###### Article R770-3
 
-Les articles R. 131-1 à R. 133-1 sont applicables dans les Terres australes et antarctiques françaises.
+Les articles R. 113-1, R. 131-1 à R. 133-1 sont applicables dans les Terres australes et antarctiques françaises.
 
 **Liens relatifs à cet article**
 
@@ -44733,13 +44814,14 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
 
 _Cite_:
 
-  - Code du patrimoine - art. R131-1 (V)
+  - Code du patrimoine - art. R113-1
+  - Code du patrimoine - art. R131-1
 
 
 ###### Article R770-4
@@ -46149,50 +46231,47 @@ _Cite_:
   - Code du patrimoine - art. R112-1 (Ab)
 
 
-###### Article Annexe 3 aux articles R. 113-26
+###### Article Annexe 3 aux articles R. 113-1
 
-Annexe 3 
-
-aux articles R. 113-26, D. 132-23, D. 421-5 et R. 423-3
+Annexe 3 aux articles R. 113-1, D. 132-23, D. 421-5 et R. 423-3 
 
 Textes statutaires relatifs aux établissements publics relevant du ministère chargé de la culture mentionnés aux articles ci-
-dessus 
+dessus
 
 Loi n° 75-1 du 3 janvier 1975 portant création du Centre national d'art et de culture Georges Pompidou et décret n° 92-1351
-du 24 décembre 1992 portant statut et organisation du Centre national d'art et de culture Georges Pompidou. 
+du 24 décembre 1992 portant statut et organisation du Centre national d'art et de culture Georges Pompidou.
 
-Décret n° 82-883 du 15 octobre 1982 portant création du Centre national des arts plastiques. 
+décret n° 2015-463 du 23 avril 2015 relatif au Centre national des arts plastiques
 
-Décret n° 92-1338 du 22 décembre 1992 portant création de l'Etablissement public du musée du Louvre. 
+Décret n° 92-1338 du 22 décembre 1992 portant création de l'Etablissement public du musée du Louvre.
 
-Décret n° 93-163 du 2 février 1993 relatif au musée Rodin. 
+Décret n° 93-163 du 2 février 1993 relatif au musée Rodin.
 
-Décret n° 94-3 du 3 janvier 1994 portant création de la Bibliothèque nationale de France. 
+Décret n° 94-3 du 3 janvier 1994 portant création de la Bibliothèque nationale de France.
 
 Décret n° 2003-1300 du 26 décembre 2003 portant création de l'Etablissement public du musée d'Orsay et du musée de
-l'Orangerie. 
+l'Orangerie.
 
-Décret n° 2003-1301 du 26 décembre 2003 portant création de l'Etablissement public du musée des arts asiatiques Guimet. 
+Décret n° 2003-1301 du 26 décembre 2003 portant création de l'Etablissement public du musée des arts asiatiques Guimet.
 
-Décret n° 2004-1350 du 9 décembre 2004 relatif au statut de l'      Etablissement public du musée du quai Branly - Jacques
-Chirac. 
+Décret n° 2004-1350 du 9 décembre 2004 relatif au statut de l'Etablissement public du musée du quai Branly-Jacques Chirac.
 
-Décret n° 2005-538 du 23 mai 2005 relatif à l'Etablissement public du musée national Jean-Jacques Henner. 
+Décret n° 2005-538 du 23 mai 2005 relatif à l'Etablissement public du musée national Jean-Jacques Henner.
 
 Décret n° 2006-1388 du 16 novembre 2006 portant création de l'Etablissement public de la porte Dorée-Cité nationale de
-l'histoire de l'immigration. 
+l'histoire de l'immigration.
 
-Décret n° 2009-279 du 11 mars 2009 créant l'Etablissement public du château de Fontainebleau. 
+Décret n° 2009-279 du 11 mars 2009 créant l'Etablissement public du château de Fontainebleau.
 
-Décret n° 2009-1643 du 24 décembre 2009 portant création de l'Etablissement public Sèvres-Cité de la céramique. 
+Décret n° 2009-1643 du 24 décembre 2009 portant création de l'Etablissement public Sèvres-Cité de la céramique.
 
-Décret n° 2010-669 du 18 juin 2010 portant création de l'Etablissement public du musée national Picasso-Paris. 
+Décret n° 2010-669 du 18 juin 2010 portant création de l'Etablissement public du musée national Picasso-Paris.
 
 Décret n° 2010-1367 du 11 novembre 2010 relatif à l'Etablissement public du château, du musée et du domaine national de
-Versailles. 
+Versailles.
 
 Décret n° 2011-52 du 13 janvier 2011 relatif à l'Etablissement public de la Réunion des musées nationaux et du Grand Palais
-des Champs-Elysées. 
+des Champs-Elysées.
 
 Cette annexe peut être modifiée par arrêté du ministre chargé de la culture.
 
@@ -46201,7 +46280,6 @@ Cette annexe peut être modifiée par arrêté du ministre chargé de la culture
 _Cite_:
 
   - Loi n°75-1 du 3 janvier 1975
-  - Décret n°82-883 du 15 octobre 1982
   - Décret n°92-1338 du 22 décembre 1992
   - Décret n°92-1351 du 24 décembre 1992
   - Décret n°93-163 du 2 février 1993
@@ -46216,9 +46294,10 @@ _Cite_:
   - Décret n°2010-669 du 18 juin 2010
   - Décret n°2010-1367 du 11 novembre 2010
   - Décret n°2011-52 du 13 janvier 2011
+  - Décret n°2015-463 du 23 avril 2015
   - Code du patrimoine - art. D132-23
   - Code du patrimoine - art. D421-5
-  - Code du patrimoine - art. R113-26
+  - Code du patrimoine - art. R113-1
   - Code du patrimoine - art. R423-3
 
 _Codifié par_:
@@ -46227,12 +46306,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-818 du 20 juin 2016 - art. 1
+  - Décret n°2016-1497 du 4 novembre 2016 - art. 5
 
 _Cité par_:
 
   - Code du patrimoine - art. D132-23-3 (V)
-  - Code du patrimoine - art. R113-1 (V)
 
 
 ###### Article Annexe 4 à l'article R. 132-39
