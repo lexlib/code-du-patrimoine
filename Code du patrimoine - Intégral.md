@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-11-20
+Version Consolidée au 2016-11-25
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -158,11 +158,11 @@ Version Consolidée au 2016-11-20
           - [Section 3 : Sortie illicite des biens culturels (art. R111-17 à R111-18)](#155)
           - [Section 4 : Exportation des biens culturels et exportation temporaire  des trésors nationaux vers un Etat non membre  de l'Union européenne (art. R111-19 à R111-21)](#156)
           - [Section 5 : Commission consultative des trésors nationaux (art. D111-24 à R111-23)](#157)
-        - [Chapitre II : Restitution des biens culturels (art. R112-1 à R112-30)](#158)
-          - [Section 1 : Biens culturels se trouvant en France et sortis illicitement  du territoire d'un autre Etat membre de l'Union européenne (art. R112-5 à R112-19)](#159)
+        - [Chapitre II : Restitution des biens culturels (art. R112-2 à R112-30)](#158)
+          - [Section 1 : Biens culturels se trouvant en France et sortis illicitement  du territoire d'un autre Etat membre de l'Union européenne (art. R112-5 à R112-19-1)](#159)
             - [Sous-section 1 : Procédure administrative (art. R112-5 à R112-13)](#160)
             - [Sous-section 2 : Mesures conservatoires (art. R112-14 à R112-15)](#161)
-            - [Sous-section 3 : Procédure judiciaire (art. R112-16 à R112-19)](#162)
+            - [Sous-section 3 : Procédure judiciaire (art. R112-16 à R112-19-1)](#162)
           - [Section 2 : Biens culturels se trouvant sur le territoire d'un autre Etat membre  de l'Union européenne et sortis illicitement du territoire français (art. R112-20 à R112-26)](#163)
             - [Sous-section 1 : Procédure de retour des biens culturels (art. R112-20 à R112-24)](#164)
             - [Sous-section 2 : Conditions de la restitution des biens (art. R112-25 à R112-26)](#165)
@@ -14540,61 +14540,31 @@ _Cité par_:
 
 #### Chapitre II : Restitution des biens culturels<a id=158></a>
 
-###### Article R112-1
-
-Les catégories de biens culturels mentionnées au 1° du deuxième alinéa de l'article L. 112-2 et au 1° de l'article L. 112-11
-sont celles qui figurent à l'annexe 2 du présent code.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-286 du 25 mars 1997 - art. 17 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
-
-  - Décret n°2016-1573 du 22 novembre 2016 - art. 2
-
-_Cité par_:
-
-  - Code du patrimoine - art. Annexe 2 à l'article R. 112-1 (Ab)
-
-_Cite_:
-
-  - Code du patrimoine - art. L112-11
-  - Code du patrimoine - art. L112-2
-
-
 ###### Article R112-2
 
-L'Office central de lutte contre le trafic des biens culturels est désigné comme autorité centrale pour la France en vue
-d'exercer les fonctions relatives à la restitution des biens culturels en application de l'article 3 de la directive (CEE) n°
-93/7 du 15 mars 1993 relative à la restitution de biens culturels ayant quitté illicitement le territoire d'un Etat membre. A
-ce titre, il est chargé de la coopération avec les autorités centrales compétentes des autres Etats membres de l'Union
-européenne. Il est rattaché à la direction centrale de la police judiciaire de la direction générale de la police nationale
-au ministère de l'intérieur.
+L'Office central de lutte contre le trafic des biens culturels et la direction générale des patrimoines du ministère chargé
+de la culture sont désignés comme autorités centrales pour la France en vue d'exercer les fonctions relatives à la
+restitution des biens culturels en application de l'article 4 de la directive 2014/60/UE du Parlement européen et du Conseil
+du 15 mai 2014 relative à la restitution des biens culturels ayant quitté illicitement le territoire d'un Etat membre et
+modifiant le règlement (UE) n° 1024/2012 (refonte).
+
+Les compétences de l'Office central de lutte contre le trafic des biens culturels s'exercent sur les biens culturels se
+trouvant en France et sortis illicitement du territoire d'un autre Etat membre de l'Union européenne conformément aux
+dispositions de la section 1 du présent chapitre.
+
+Les compétences de la direction générale des patrimoines du ministère chargé de la culture s'exercent sur les biens culturels
+se trouvant sur le territoire d'un autre Etat membre de l'Union européenne et sortis illicitement du territoire français
+conformément aux dispositions de la section 2 du présent chapitre.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-286 du 25 mars 1997 - art. 1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1573 du 22 novembre 2016 - art. 3
 
 _Cité par_:
 
@@ -14617,23 +14587,25 @@ biens culturels et la prévention des vols les concernant ;
 3° De faire effectuer ou poursuivre à l'étranger les recherches de biens culturels volés, et celles des auteurs des vols, en
 liaison avec l'Organisation internationale de police criminelle ;
 
-4° D'exercer, en sa qualité d'autorité centrale au sens de la directive (CEE) n° 93/7 du 15 mars 1993 relative à la
-restitution de biens culturels ayant quitté illicitement le territoire d'un Etat membre, les pouvoirs et les compétences
-dévolues à celle-ci par la législation et la réglementation sur la restitution des biens culturels.
+4° D'exercer, pour les biens culturels mentionnés au deuxième alinéa de l'article R. 112-2, en sa qualité d'autorité centrale
+au sens de la directive 2014/60/UE du Parlement européen et du Conseil du 15 mai 2014 relative à la restitution des biens
+culturels ayant quitté illicitement le territoire d'un Etat membre et modifiant le règlement (UE) n° 1024/2012 (refonte), les
+pouvoirs et les compétences dévolues à celles-ci par la législation et la réglementation sur la restitution des biens
+culturels.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°75-432 du 2 juin 1975 - art. 1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1573 du 22 novembre 2016 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. R112-2 (V)
 
 _Cité par_:
 
@@ -14642,24 +14614,24 @@ _Cité par_:
 
 ###### Article R112-4
 
-Les dispositions de l'article R. 112-3 s'appliquent aux biens culturels de toute nature et de toute époque présentant à un
-titre quelconque une valeur artistique ou historique qui les rattache au patrimoine culturel national, que ces biens
-culturels appartiennent à l'Etat, à une collectivité publique ou à une personne de droit public ou privé et qu'ils aient ou
-non été classés ou inscrits au titre des monuments historiques ou classés comme archives historiques.
+Pour être recevable, l'acte introductif de l'action en restitution mentionné aux articles L. 112-6 et L. 112-14 doit être
+accompagné :
+
+1° D'un document décrivant le bien faisant l'objet de la demande et déclarant que celui-ci est un bien culturel au sens des
+articles L. 111-1 ou L. 112-2 ;
+
+2° D'une déclaration des autorités compétentes de l'Etat membre requérant selon laquelle le bien culturel a quitté
+illicitement son territoire.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°75-432 du 2 juin 1975 - art. 3 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1573 du 22 novembre 2016 - art. 5
 
 _Cité par_:
 
@@ -14667,7 +14639,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du patrimoine. - art. R112-3 (V)
+  - Code du patrimoine - art. L111-1
+  - Code du patrimoine - art. L112-14
+  - Code du patrimoine - art. L112-2
+  - Code du patrimoine - art. L112-6
 
 
 ##### Section 1 : Biens culturels se trouvant en France et sortis illicitement  du territoire d'un autre Etat membre de l'Union européenne<a id=159></a>
@@ -14703,10 +14678,11 @@ _Codifié par_:
 ###### Article R112-6
 
 Lorsque l'Office central de lutte contre le trafic des biens culturels constate la présence sur le territoire national d'un
-bien culturel appartenant à l'une des catégories définies à l'article L. 112-2 et dont il présume qu'il est sorti
-illicitement du territoire d'un Etat membre de l'Union européenne, il le notifie, par tout moyen approprié, à l'autorité
-centrale de cet Etat, désignée en application de la directive (CEE) n° 93/7 du 15 mars 1993 relative à la restitution de
-biens culturels ayant quitté illicitement le territoire d'un Etat membre. 
+bien culturel constituant un trésor national au sens de l'article L. 112-2 et dont il présume qu'il est sorti illicitement du
+territoire d'un Etat membre de l'Union européenne, il le notifie, par tout moyen approprié, à l'autorité centrale de cet
+Etat, désignée en application de la directive 2014/60/UE du Parlement européen et du Conseil du 15 mai 2014 relative à la
+restitution des biens culturels ayant quitté illicitement le territoire d'un Etat membre et modifiant le règlement (UE) n°
+1024/2012 (refonte).
 
 La notification comprend la désignation du bien, sa localisation, les éléments qui font présumer sa sortie illicite ainsi que
 l'identité et le domicile du possesseur ou du détenteur. En outre, elle précise, le cas échéant, la nature et la durée des
@@ -14714,21 +14690,17 @@ mesures conservatoires sollicitées par l'office pour assurer la conservation ma
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°97-286 du 25 mars 1997 - art. 2 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2016-1573 du 22 novembre 2016 - art. 6
+
 _Cite_:
 
-  - Code du patrimoine. - art. L112-2 (V)
+  - Code du patrimoine - art. L112-2
 
 _Cité par_:
 
@@ -15062,6 +15034,25 @@ _Cite_:
   - Code du patrimoine. - art. R112-18 (V)
 
 
+###### Article R112-19-1
+
+L'indemnité équitable mentionnée à l'article L. 112-8 du présent code est accordée au possesseur sur sa demande
+reconventionnelle dès lors que, conformément aux dispositions de l'article 1353 du code civil et de l'article 9 du code de
+procédure civile, il prouve avoir exercé la diligence requise, dans les conditions définies par l'article L. 112-8 précité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1573 du 22 novembre 2016 - art. 7
+
+_Cite_:
+
+  - Code de procédure civile - art. 9
+  - Code civil - art. 1353
+  - Code du patrimoine - art. L112-8
+
+
 ##### Section 2 : Biens culturels se trouvant sur le territoire d'un autre Etat membre  de l'Union européenne et sortis illicitement du territoire français<a id=163></a>
 
 ##### Sous-section 1 : Procédure de retour des biens culturels<a id=164></a>
@@ -15069,46 +15060,37 @@ _Cite_:
 ###### Article R112-20
 
 La décision de déclencher l'action tendant au retour d'un bien culturel sur le territoire français est prise par le ministre
-chargé de la culture. Cette demande est transmise par l'Office central de lutte contre le trafic des biens culturels aux
-autorités centrales des autres Etats membres.
+chargé de la culture qui transmet la demande aux autorités centrales des autres Etats membres.
 
 Les demandes de recherche d'un bien culturel, de même que les informations adressées en réponse aux Etats membres qui ont
-notifié la présence d'un bien culturel sur leur territoire, sont adressées à l'autorité centrale de l'Etat concerné par
-l'Office central de lutte contre le trafic des biens culturels.
+notifié la présence d'un bien culturel sur leur territoire, sont adressées à l'autorité centrale de l'Etat concerné par la
+direction générale des patrimoines du ministère chargé de la culture.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°97-286 du 25 mars 1997 - art. 12 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1573 du 22 novembre 2016 - art. 8
 
 
 ###### Article R112-21
 
-L'Office central de lutte contre le trafic des biens culturels informe l'autorité centrale de l'Etat concerné de
+La direction générale des patrimoines du ministère chargé de la culture informe l'autorité centrale de l'Etat concerné de
 l'introduction auprès du tribunal compétent de l'action tendant au retour d'un bien culturel.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°97-286 du 25 mars 1997 - art. 13 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1573 du 22 novembre 2016 - art. 9
 
 
 ###### Article R112-22
@@ -15159,25 +15141,22 @@ _Cite_:
 
 ###### Article R112-24
 
-L'Office central de lutte contre le trafic des biens culturels est habilité, en sa qualité d'autorité centrale au sens de la
-directive (CEE) n° 93/7 du 15 mars 1993 relative à la restitution de biens culturels ayant quitté illicitement le territoire
-d'un Etat membre, à introduire auprès des juridictions françaises et des juridictions des autres Etats membres de l'Union
-européenne les actions prévues par la législation sur la restitution des biens culturels, et notamment l'action tendant au
-retour d'un bien culturel sorti illicitement du territoire français.
+La  direction générale des patrimoines du ministère chargé de la culture  est habilitée, en sa qualité d'autorité centrale au
+sens de la directive  2014/60/UE du Parlement européen et du Conseil du 15 mai 2014 relative  à la restitution des biens
+culturels ayant quitté illicitement le  territoire d'un Etat membre et modifiant le règlement (UE) n° 1024/2012  (refonte), à
+introduire auprès des juridictions françaises et des  juridictions des autres Etats membres de l'Union européenne les actions
+prévues par la législation sur la restitution des biens culturels, et  notamment l'action tendant au retour d'un bien
+culturel sorti  illicitement du territoire français.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°75-432 du 2 juin 1975 - art. 6-1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1573 du 22 novembre 2016 - art. 10
 
 
 ##### Sous-section 2 : Conditions de la restitution des biens<a id=165></a>
@@ -15230,10 +15209,13 @@ _Cite_:
 
 ###### Article R112-27
 
-La transmission des actes, demandes, attestations, certificats et toutes autres pièces entre l'Office central de lutte contre
-le trafic des biens culturels et les autorités centrales des autres Etats membres peut être effectuée par tout moyen
-approprié sous réserve que le contenu du document reçu soit fidèle et conforme à celui du document expédié et que toutes les
-mentions qu'il comporte soient lisibles sans difficulté.
+Sans préjudice de l'application du règlement (UE) n° 1024/2012 du Parlement européen et du Conseil du 25 octobre 2012
+concernant la coopération administrative par l'intermédiaire du système d'information du marché intérieur et abrogeant la
+décision 2008/49/CE de la Commission (" règlement IMI "), la transmission des actes, demandes, attestations, certificats et
+toutes autres pièces entre la direction générale des patrimoines du ministère chargé de la culture ou l'Office central de
+lutte contre le trafic des biens culturels et les autorités centrales des autres Etats membres peut être effectuée par tout
+moyen approprié sous réserve que le contenu du document reçu soit fidèle et conforme à celui du document expédié et que
+toutes les mentions qu'il comporte soient lisibles sans difficulté.
 
 **Liens relatifs à cet article**
 
@@ -15241,13 +15223,17 @@ _Anciens textes_:
 
   - Décret n°97-286 du 25 mars 1997 - art. 18 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1573 du 22 novembre 2016 - art. 11
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2018-630 du 17 juillet 2018 - art. 2
 
 _Nouveaux textes_:
 
@@ -46107,155 +46093,6 @@ _Cité par_:
 _Cite_:
 
   - Code du patrimoine. - art. R111-1 (V)
-
-
-###### Article Annexe 2 à l'article R. 112-1
-
-Catégories de biens culturels mentionnées à l'article R. 112-1
-
-Seuils (en euros) (3) 
-
-1. Objets archéologiques ayant plus de cent ans d'âge provenant de : 
-
-― fouilles et découvertes terrestres et sous-marines ; 
-
-― sites archéologiques ; 
-
-― collections archéologiques : 
-
-Pas de seuil. 
-
-2. Eléments faisant partie intégrante de monuments artistiques, historiques ou religieux et provenant du démembrement de
-ceux-ci, ayant plus de cent ans d'âge : 
-
-Pas de seuil. 
-
-3. Tableaux et peintures, autres que ceux entrant dans les catégories 4 ou 5, faits entièrement à la main, sur tout support
-et en toute matière (1) : 
-
-150 000.
-
-4. Aquarelles, gouaches et pastels faits entièrement à la main sur tout support (1) : 
-
-30 000.
-
-5. Mosaïques, autres que celles entrant dans les catégories 1 ou 2, réalisées entièrement à la main, en toute matière, et
-dessins faits entièrement à la main, sur tout support et en toute matière (1) : 
-
-15 000.
-
-6. Gravures, estampes, sérigraphies et lithographies originales et leurs matrices respectives, ainsi que les affiches
-originales (1) : 
-
-15 000.
-
-7. Productions originales de l'art statuaire ou de la sculpture et copies obtenues par le même procédé que l'original (1),
-autres que celles qui entrent dans la catégorie 1 : 
-
-50 000.
-
-8. Photographies, films et leurs négatifs (1) : 
-
-15 000.
-
-9. Incunables et manuscrits, y compris les cartes géographiques et les partitions musicales, isolées ou en collection (1) : 
-
-Pas de seuil. 
-
-10. Livres ayant plus de cent ans d'âge isolés ou en collection : 
-
-50 000.
-
-11. Cartes géographiques imprimées ayant plus de deux cents ans d'âge : 
-
-15 000.
-
-12. Archives de toute nature comportant des éléments de plus de cinquante ans d'âge, quel que soit leur support : 
-
-Pas de seuil. 
-
-13. a) Collections (2) et spécimens provenant de collections de zoologie, de botanique, de minéralogie, d'anatomie : 
-
-50 000. 
-
-b) Collections (2) présentant un intérêt historique, paléontologique, ethnographique ou numismatique : 
-
-50 000.
-
-14. Moyens de transport ayant plus de soixante-quinze ans d'âge : 
-
-50 000.
-
-15. Tout autre objet d'antiquité non compris dans les catégories 1 à 14 : 
-
-a) Ayant entre cinquante ans d'âge et cent ans d'âge : 
-
-50 000 : 
-
-― jouets, jeux ; 
-
-― verrerie ; 
-
-― articles d'orfèvrerie ; 
-
-― meubles et objets d'ameublement ; 
-
-― instruments d'optique, de photographie ou de cinématographie ; 
-
-― instruments de musique ; 
-
-― horlogerie ; 
-
-― ouvrages en bois ; 
-
-― poteries ; 
-
-― tapisseries ; 
-
-― tapis ; 
-
-― papiers peints ; 
-
-― armes. 
-
-b) Ayant plus de cent ans d'âge : 
-
-50 000. 
-
-<font size="1" color="#808080">
-  <font color="#000000" size="1">(1) Ayant plus de cinquante ans d'âge et n'appartenant pas à leurs auteurs. (2) Telles que
-définies par la Cour de justice, dans son arrêt 252/84, comme suit : " Les objets pour collections au sens de la position
-97.05 du TDC sont ceux qui présentent les qualités requises pour être admis au sein d'une collection, c'est-à-dire les objets
-qui sont relativement rares, ne sont pas normalement utilisés conformément à leur destination initiale, font l'objet de
-transactions spéciales en dehors du commerce habituel des objets similaires utilisables et ont une valeur élevée. " (3) A
-l'égard des Etats membres dont la monnaie n'est pas l'euro, les valeurs exprimées en euros dans l'annexe sont converties et
-exprimées en monnaies nationales au taux de change du 31 décembre 2001 publié au Journal officiel des Communautés
-européennes. Ces contre-valeurs en monnaies nationales sont révisées tous les deux ans avec effet au 31 décembre 2001. Le
-calcul de ces contre-valeurs est fondé sur la moyenne de la valeur quotidienne de ces monnaies, exprimées en euros, durant
-les vingt-quatre mois qui se terminent le dernier jour du mois d'août qui précède la révision prenant effet le 31 décembre.
-Cette méthode de calcul est réexaminée sur proposition de la Commission, par le comité consultatif des biens culturels, en
-principe deux ans après la première application. Pour chaque révision, les valeurs exprimées en euros et leurs contre-valeurs
-en monnaies nationales sont publiées au Journal officiel des Communautés européennes périodiquement dès les premiers jours du
-mois de novembre précédant la date à laquelle la révision prend effet.</font>
-</font>
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
-
-  - Décret n°2016-1573 du 22 novembre 2016 - art. 2
-
-_Cite_:
-
-  - Code du patrimoine - art. R112-1 (Ab)
 
 
 ###### Article Annexe 3 aux articles R. 113-1
