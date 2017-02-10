@@ -1,143 +1,63 @@
 # Article Annexe 6 à l'article R. 545-16
 
-Ressort territorial et siège des commissions interrégionales de la recherche archéologique
+Ressort territorial des commissions territoriales de la recherche archéologique
 
-<table border="1">
-    <tbody>
-      <tr>
-        <th>COMMISSION INTERRÉGIONALE 
+<table align="center" border="1">
+  <tbody>
+    <tr>
+      <th>COMMISSION TERRITORIALE</th>
+      <th>RESSORT</th>
+    </tr>
+    <tr>
+      <td>
 
-</th>
-        <th>
+Commission Centre-Nord</td>
+      <td>
 
-RESSORT 
+Centre-Val de Loire, Ile-de-France, Hauts-de-France</td>
+    </tr>
+    <tr>
+      <td>
 
-</th>
-        <th>
+Commission Ouest</td>
+      <td>
 
-SIÈGE 
+Bretagne, Normandie, Pays de la Loire</td>
+    </tr>
+    <tr>
+      <td>
 
-</th>
-      </tr>
-      <tr>
-        <td align="center">
+Commission Est</td>
+      <td>
 
-Commission Centre-Est 
+Grand Est, Bourgogne-Franche-Comté</td>
+    </tr>
+    <tr>
+      <td>
 
-</td>
-        <td align="center">
+Commission Sud-Est</td>
+      <td>
 
-Auvergne, Rhône-Alpes 
+Auvergne-Rhône-Alpes, Provence-Alpes-Côte d'Azur, Corse</td>
+    </tr>
+    <tr>
+      <td>
 
-</td>
-        <td align="center">
+Commission Sud-Ouest</td>
+      <td>
 
-Lyon 
+Nouvelle-Aquitaine, Occitanie</td>
+    </tr>
+    <tr>
+      <td>
 
-</td>
-      </tr>
-      <tr>
-        <td align="center">
+Commission de l'outre-mer</td>
+      <td>
 
-Commission Centre-Nord 
-
-</td>
-        <td align="center">
-
-Centre, Ile-de-France, Nord-Pas-de-Calais, Picardie 
-
-</td>
-        <td align="center">
-
-Orléans 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Commission Ouest 
-
-</td>
-        <td align="center">
-
-Bretagne, Basse-Normandie, Haute-Normandie, Pays de la Loire 
-
-</td>
-        <td align="center">
-
-Rennes 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Commission Est 
-
-</td>
-        <td align="center">
-
-Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine 
-
-</td>
-        <td align="center">
-
-Dijon 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Commission Sud-Est 
-
-</td>
-        <td align="center">
-
-Corse, Languedoc-Roussillon, Provence-Alpes-Côte d'Azur 
-
-</td>
-        <td align="center">
-
-Marseille 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Commission Sud-Ouest 
-
-</td>
-        <td align="center">
-
-Aquitaine, Limousin, Midi-Pyrénées, Poitou-Charentes 
-
-</td>
-        <td align="center">
-
-Bordeaux 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Commission de l'outre-mer 
-
-</td>
-        <td align="center">
-
-Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin 
-
-</td>
-        <td align="center">
-
-Fort-de-France</td>
-      </tr>
-    </tbody>
-  </table>
+Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -147,4 +67,4 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art. 5
+  - Décret n°2017-156 du 8 février 2017 - art. 13
