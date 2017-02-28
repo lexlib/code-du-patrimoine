@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2017-02-11
+Version Consolidée au 2017-03-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -12762,28 +12762,33 @@ _Cite_:
 
 ###### Article L632-2
 
-I.-Le permis de construire, le permis de démolir, le permis d'aménager, l'absence d'opposition à déclaration préalable ou
-l'autorisation prévue au titre des sites classés en application de l'article L. 341-10 du code de l'environnement tient lieu
-de l'autorisation prévue à l'article L. 632-1 du présent code si l'architecte des Bâtiments de France a donné son accord, le
-cas échéant assorti de prescriptions motivées. A ce titre, il s'assure du respect de l'intérêt public attaché au patrimoine,
-à l'architecture, au paysage naturel ou urbain, à la qualité des constructions et à leur insertion harmonieuse dans le milieu
-environnant. Il s'assure, le cas échéant, du respect des règles du plan de sauvegarde et de mise en valeur ou du plan de
-valorisation de l'architecture et du patrimoine. 
+I. – Le permis de construire, le permis de démolir, le permis d'aménager, l'absence d'opposition à déclaration préalable,
+l'autorisation environnementale prévue par l'article L. 181-1 du code de l'environnement ou l'autorisation prévue au titre
+des sites classés en application de l'article L. 341-10 du même code tient lieu de l'autorisation prévue à l'article L. 632-1
+du présent code si l'architecte des Bâtiments de France a donné son accord, le cas échéant assorti de prescriptions motivées.
+A ce titre, il s'assure du respect de l'intérêt public attaché au patrimoine, à l'architecture, au paysage naturel ou urbain,
+à la qualité des constructions et à leur insertion harmonieuse dans le milieu environnant. Il s'assure, le cas échéant, du
+respect des règles du plan de sauvegarde et de mise en valeur ou du plan de valorisation de l'architecture et du patrimoine.
 
-En cas de silence de l'architecte des Bâtiments de France, cet accord est réputé donné. 
+En cas de silence de l'architecte des Bâtiments de France, cet accord est réputé donné.
 
-L'autorisation délivrée énonce, le cas échéant, les prescriptions motivées auxquelles le demandeur doit se conformer. 
+L'autorisation délivrée énonce, le cas échéant, les prescriptions motivées auxquelles le demandeur doit se conformer.
 
-II.-En cas de désaccord avec l'architecte des Bâtiments de France, l'autorité compétente pour délivrer l'autorisation
+II. – En cas de désaccord avec l'architecte des Bâtiments de France, l'autorité compétente pour délivrer l'autorisation
 transmet le dossier accompagné de son projet de décision à l'autorité administrative, qui statue après avis de la commission
 régionale du patrimoine et de l'architecture. En cas de silence, l'autorité administrative est réputée avoir rejeté ce projet
-de décision. 
+de décision.
 
-III.-Un recours peut être exercé par le demandeur à l'occasion du refus d'autorisation de travaux. Il est alors adressé à
+III. – Un recours peut être exercé par le demandeur à l'occasion du refus d'autorisation de travaux. Il est alors adressé à
 l'autorité administrative, qui statue. En cas de silence, l'autorité administrative est réputée avoir confirmé la décision de
-l'autorité compétente pour délivrer l'autorisation. 
+l'autorité compétente pour délivrer l'autorisation.
 
-IV.-Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+IV. – Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Nota:**
+
+Conformément à l'article 15 de l'ordonnance n° 2017-80 du 26 janvier 2017, ces dispositions entrent en vigueur le 1er mars
+2017 sous réserves des dispositions citées audit article.
 
 **Liens relatifs à cet article**
 
@@ -12795,14 +12800,15 @@ _Cité par_:
   - Code du patrimoine - art. L611-2 (MMN)
   - Code du patrimoine - art. L621-32 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+  - Ordonnance n°2017-80 du 26 janvier 2017 - art. 11
 
 _Cite_:
 
+  - Code de l'environnement - art. L181-1 (V)
   - Code de l'environnement - art. L341-10 (V)
-  - Code du patrimoine - art. L632-1 (V)
+  - Code du patrimoine - art. L632-1
 
 
 ###### Article L632-3
