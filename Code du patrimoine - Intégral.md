@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2017-03-31
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -336,7 +336,7 @@ Version Consolidée au 2017-03-01
             - [Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines (art. R545-12 à R545-15)](#333)
           - [Section 2 : Commissions interrégionales de la recherche archéologique (art. R545-16 à R545-23)](#334)
           - [Section 3 : Institut national de recherches archéologiques préventives (art. R545-24 à R545-59)](#335)
-    - [LIVRE VI : MONUMENTS HISTORIQUES,  SITES ET ESPACES PROTÉGÉS (art. R611-1 à D643-1)](#336)
+    - [LIVRE VI : MONUMENTS HISTORIQUES,  SITES ET ESPACES PROTÉGÉS (art. R611-1 à R650-7)](#336)
       - [TITRE Ier : INSTITUTIONS (art. R611-1 à D612-18)](#337)
         - [Chapitre Ier : Institutions nationales (art. R611-1 à D611-17)](#338)
           - [Section 1 : Commission nationale des monuments historiques (art. R611-1 à R611-16)](#339)
@@ -405,17 +405,18 @@ Version Consolidée au 2017-03-01
           - [Section 3 : Régime des travaux dans une aire (art. D642-11 à R642-22)](#402)
           - [Section 4 : Sanctions pénales (art. R642-29)](#403)
         - [Chapitre III : Dispositions fiscales (art. D643-1)](#404)
-    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R710-1 à R790-19)](#405)
-      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION (art. R710-1 à R710-10)](#406)
-      - [TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON (art. D720-2 à R720-16)](#407)
-      - [TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R730-1 à R730-11)](#408)
-      - [TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D740-1-1 à R740-15)](#409)
-      - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D750-1-1 à R750-13)](#410)
-      - [TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D760-1-1 à R760-14)](#411)
-      - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-1-1 à R770-11)](#412)
-      - [TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY (art. D780-2 à R780-20)](#413)
-      - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. D790-2 à R790-19)](#414)
-    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 6 à l'article R. 545-16)](#415)
+      - [TITRE V : QUALITÉ ARCHITECTURALE (art. R650-1 à R650-7)](#405)
+    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R710-1 à R790-19)](#406)
+      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION (art. R710-1 à R710-10)](#407)
+      - [TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON (art. D720-2 à R720-16)](#408)
+      - [TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R730-1 à R730-11)](#409)
+      - [TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D740-1-1 à R740-15)](#410)
+      - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D750-1-1 à R750-13)](#411)
+      - [TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D760-1-1 à R760-14)](#412)
+      - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-1-1 à R770-11)](#413)
+      - [TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY (art. D780-2 à R780-20)](#414)
+      - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. D790-2 à R790-19)](#415)
+    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 6 à l'article R. 545-16)](#416)
 # Partie législative<a id=1></a>
 
 ###### Article L1
@@ -42613,9 +42614,171 @@ _Cité par_:
   - Code du patrimoine. - art. D720-12 (M)
 
 
-## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=405></a>
+### TITRE V : QUALITÉ ARCHITECTURALE<a id=405></a>
 
-### TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION<a id=406></a>
+###### Article R650-1
+
+Le label “ Architecture contemporaine remarquable ”, mentionné à l'article L. 650-1, est attribué aux immeubles, aux
+ensembles architecturaux, aux ouvrages d'art et aux aménagements, parmi les réalisations de moins de cent ans d'âge, dont la
+conception présente un intérêt architectural ou technique suffisant. Cet intérêt s'apprécie au regard des critères suivants :
+
+1° La singularité de l'œuvre ;
+
+2° Le caractère innovant ou expérimental de la conception architecturale, urbaine, paysagère ou de la réalisation technique,
+ou sa place dans l'histoire des techniques ;
+
+3° La notoriété de l'œuvre eu égard notamment aux publications dont elle a fait l'objet ou la mentionnant ;
+
+4° L'exemplarité de l'œuvre dans la participation à une politique publique ;
+
+5° La valeur de manifeste de l'œuvre en raison de son appartenance à un mouvement architectural ou d'idées reconnu ;
+
+6° L'appartenance à un ensemble ou à une œuvre dont l'auteur fait l'objet d'une reconnaissance nationale ou locale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code du patrimoine - art. L650-1 (V)
+
+
+###### Article R650-2
+
+La demande d'attribution du label est présentée par le propriétaire, ou par toute personne y ayant intérêt au préfet de la
+région où se situe le bien.
+
+L'initiative peut également être prise par le préfet de région.
+
+Un arrêté du ministre chargé de la culture fixe la composition du dossier de demande.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+
+###### Article R650-3
+
+I. - Le préfet de région accuse réception du dossier de demande dès lors que celui-ci est complet, ou, le cas échéant,
+informe le demandeur des pièces manquantes. En l'absence d'une telle information dans un délai de quinze jours suivant la
+saisine, le dossier de demande est réputé complet.
+
+II. - Lorsque le demandeur n'est pas le propriétaire, le préfet de région recueille l'avis de celui-ci avant examen de la
+demande par la commission régionale du patrimoine et de l'architecture.
+
+III. - Le préfet de région notifie au propriétaire sa décision, après avis de la commission régionale du patrimoine et de
+l'architecture.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+
+###### Article R650-4
+
+La décision d'attribution du label mentionne : 
+
+1° Les motifs de l'attribution du label ; 
+
+2° La date de construction du bien, le cas échéant arrêtée par la commission régionale du patrimoine et de l'architecture
+compétente, et la date d'expiration du label ; 
+
+3° La dénomination ou la désignation du bien ; 
+
+4° Le nom de l'architecte ou du concepteur de l'ouvrage ; 
+
+5° L'adresse ou la localisation du bien et le nom de la commune où il est situé ; 
+
+6° L'étendue du label avec les références cadastrales des parcelles, en précisant, le cas échéant, les parties du bien
+auxquelles il s'applique ; 
+
+7° Le nom et le domicile du ou des propriétaires. 
+
+La décision d'attribution du label rappelle au propriétaire les obligations d'information prévues à l'article R. 650-6.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code du patrimoine - art. R650-6 (V)
+
+
+###### Article R650-5
+
+Une copie de la décision d'attribution du label est adressée à l'autorité compétente pour délivrer les autorisations
+d'urbanisme et au maire de la commune dans laquelle se situe le bien lorsqu'il n'est pas l'autorité compétente pour délivrer
+les autorisations d'urbanisme. L'architecte ou le concepteur de l'ouvrage ou leurs ayants droit sont informés de la décision
+d'attribution du label.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+
+###### Article R650-6
+
+I. – Lorsque le bien faisant l'objet du label n'est pas protégé au titre des abords et des sites patrimoniaux remarquables ou
+identifié en application de l'article L. 151-19 du code de l'urbanisme, le propriétaire de ce bien informe par lettre
+recommandée avec demande d'avis de réception le préfet de région, deux mois au moins avant le dépôt d'une demande de permis
+ou d'une déclaration préalable, de son intention de réaliser des travaux susceptibles de le modifier. Il joint à sa lettre
+une notice descriptive présentant la nature et l'impact des travaux envisagés sur le bien. Un arrêté du ministre chargé de la
+culture précise le contenu de cette notice.
+
+S'il le juge utile, le préfet de région formule des observations et recommandations au propriétaire dans les deux mois
+suivant la réception de la lettre du propriétaire, le cas échéant après avis de la commission régionale du patrimoine et de
+l'architecture.
+
+II. – Le propriétaire d'un bien faisant l'objet d'un label informe le préfet de région de toute mutation de propriété
+concernant ce bien dans un délai fixé par un arrêté du ministère de la culture.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L151-19 (V)
+
+_Cité par_:
+
+  - Code du patrimoine - art. R650-4 (V)
+
+
+###### Article R650-7
+
+Hors les cas de retrait de plein droit dans les conditions régies par le premier alinéa du I de l'article L. 650-1, le préfet
+de région prononce le retrait du label, après avis de la commission régionale du patrimoine et de l'architecture, lorsque le
+bien est dégradé au point de perdre l'intérêt ayant justifié l'attribution du label.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code du patrimoine - art. L650-1 (V)
+
+
+## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=406></a>
+
+### TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION<a id=407></a>
 
 ###### Article R710-1
 
@@ -42954,7 +43117,7 @@ _Abrogé par_:
   - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 
-### TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON<a id=407></a>
+### TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON<a id=408></a>
 
 ###### Article D720-2
 
@@ -43375,7 +43538,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE<a id=408></a>
+### TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE<a id=409></a>
 
 ###### Article R730-1
 
@@ -43677,7 +43840,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=409></a>
+### TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=410></a>
 
 ###### Article D740-1-1
 
@@ -44031,7 +44194,7 @@ _Codifié par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=410></a>
+### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=411></a>
 
 ###### Article D750-1-1
 
@@ -44322,7 +44485,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=411></a>
+### TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=412></a>
 
 ###### Article D760-1-1
 
@@ -44658,7 +44821,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=412></a>
+### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=413></a>
 
 ###### Article D770-1-1
 
@@ -44926,7 +45089,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY<a id=413></a>
+### TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY<a id=414></a>
 
 ###### Article D780-2
 
@@ -45421,7 +45584,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=414></a>
+### TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=415></a>
 
 ###### Article D790-2
 
@@ -45878,7 +46041,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-## Annexes<a id=415></a>
+## Annexes<a id=416></a>
 
 ###### Article Annexe 1 aux articles R. 111-1
 
