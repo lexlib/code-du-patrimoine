@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-04-03
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -261,7 +261,7 @@ Version Consolidée au 2017-04-01
             - [Sous-section 2 : Réseaux et conventions (art. D442-12)](#258)
             - [Sous-section 3 : Contrôle scientifique et technique (art. D442-13 à D442-16)](#259)
       - [TITRE V : COLLECTIONS DES MUSÉES DE FRANCE (art. D451-1 à R452-13)](#260)
-        - [Chapitre Ier : Statut des collections (art. D451-1 à R451-34)](#261)
+        - [Chapitre Ier : Statut des collections (art. D451-1 à R451-38)](#261)
           - [Section 1 : Acquisitions (art. D451-1 à D451-14)](#262)
             - [Sous-section 1 : Dispositions générales (art. D451-1 à R451-2)](#263)
             - [Sous-section 2 : Dispositions applicables à la Commission scientifique nationale  des musées de France (art. D451-4 à R451-3)](#264)
@@ -272,157 +272,153 @@ Version Consolidée au 2017-04-01
               - [Paragraphe unique : Normes techniques relatives à la tenue de l'inventaire  et du registre des dépôts (art. D451-16 à D451-21)](#269)
             - [Sous-section 2 : Collections publiques (art. D451-22 à R451-24)](#270)
             - [Sous-section 3 : Collections privées (art. R451-25)](#271)
-          - [Section 3 : Prêts et dépôts (art. R451-26 à R451-34)](#272)
+          - [Section 3 : Prêts et dépôts (art. R451-26 à R451-38)](#272)
             - [Sous-section 1 : Prêts et dépôts consentis par les musées (art. R451-26 à R451-28)](#273)
             - [Sous-section 2 : Dépôts consentis par des personnes privées  aux musées de France (art. R451-29 à R451-34)](#274)
-        - [Chapitre II : Conservation et restauration (art. R452-1 à R452-13)](#275)
-          - [Section 1 : Dispositions générales (art. R452-1 à R452-2)](#276)
-          - [Section 2 : Instances scientifiques compétentes en matière de restauration (art. D452-3 à R452-6)](#277)
-          - [Section 3 : Qualifications requises en matière de restauration (art. R452-10 à R452-13)](#278)
-    - [LIVRE V : ARCHÉOLOGIE (art. R522-1 à R545-59)](#279)
-      - [TITRE II : ARCHÉOLOGIE PRÉVENTIVE (art. R522-1 à R524-36)](#280)
-        - [Chapitre II : Répartition des compétences :  Etat et collectivités territoriales (art. R522-1 à R522-13)](#281)
-          - [Section 1 : Rôle de l'Etat (art. R522-1)](#282)
-          - [Section 2 : Rôle des collectivités territoriales (art. R522-2)](#283)
-          - [Section 3 : Carte archéologique nationale (art. R522-3 à R522-6)](#284)
-          - [Section 4 : Agrément des opérateurs d'archéologie préventive (art. R522-7 à R522-13)](#285)
-            - [Sous-section 1 : Agrément pour la réalisation des diagnostics (art. R522-7)](#286)
-            - [Sous-section 2 : Agrément pour la réalisation des fouilles (art. R522-8)](#287)
-            - [Sous-section 3 : Dispositions communes (art. R522-9 à R522-13)](#288)
-        - [Chapitre III : Mise en œuvre des opérations d'archéologie préventive (art. R523-1 à R523-68)](#289)
-          - [Section 1 : Champ d'application (art. R523-1 à R523-8)](#290)
-          - [Section 2 : Modes de saisine (art. R523-9 à R523-14)](#291)
-          - [Section 3 : Mesures d'archéologie préventive (art. R523-15 à R523-16)](#292)
-          - [Section 4 : Régime des prescriptions (art. R523-17 à R523-21)](#293)
-          - [Section 5 : Responsabilité scientifique des opérations (art. R523-22)](#294)
-          - [Section 6 : Mise en œuvre des diagnostics (art. R523-23 à R523-38)](#295)
-            - [Sous-section 1 : Le contenu des prescriptions de diagnostic (art. R523-23)](#296)
-            - [Sous-section 2 : La désignation de l'opérateur chargé du diagnostic (art. R523-24 à R523-29)](#297)
-            - [Sous-section 3 : Les conditions de réalisation du diagnostic (art. R523-30 à R523-38)](#298)
-          - [Section 7 : Mise en œuvre des fouilles (art. R523-39 à R523-59)](#299)
-            - [Sous-section 1 : Le contenu des prescriptions de fouilles (art. R523-39)](#300)
-            - [Sous-section 2 : Les conditions de réalisation des fouilles (art. R523-40 à R523-51)](#301)
-            - [Sous-section 3 : La procédure d'arbitrage (art. R523-52 à R523-58)](#302)
-            - [Sous-section 4 : Achèvement des fouilles (art. R523-59)](#303)
-          - [Section 8 : Le contrôle des opérations d'archéologie préventive (art. R523-60 à R523-61)](#304)
-          - [Section 9 : Dispositions relatives aux rapports d'opérations,  à la documentation scientifique et aux objets mobiliers (art. R523-62 à R523-68)](#305)
-        - [Chapitre IV : Financement de l'archéologie préventive (art. R524-3 à R524-36)](#306)
-          - [Section 1 : Dispositions relatives  à la redevance d'archéologie préventive (art. R524-3 à R524-10)](#307)
-          - [Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive (art. R524-17 à R524-33)](#308)
-            - [Sous-section 2 : Les subventions du Fonds national  pour l'archéologie préventive (art. R524-17 à R524-23)](#309)
-            - [Sous-section 3 : La prise en charge des fouilles (art. R524-24 à R524-33)](#310)
-          - [Section 3 : Dispositions relatives aux subventions accordées aux services des collectivités territoriales (art. R524-34 à R524-36)](#311)
-      - [TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES (art. R531-1 à R532-19)](#312)
-        - [Chapitre Ier : Archéologie terrestre et subaquatique (art. R531-1 à R531-19)](#313)
-          - [Section 1 : Autorisation de fouilles par l'Etat (art. R531-1 à R531-4)](#314)
-          - [Section 2 : Exécution de fouilles par l'Etat (art. R531-5 à R531-7)](#315)
-          - [Section 3 : Découvertes fortuites (art. R531-8 à R531-10)](#316)
-          - [Section 4 : Objets (art. R531-11 à R531-19)](#317)
-        - [Chapitre II : Biens culturels maritimes (art. R532-1 à R532-19)](#318)
-          - [Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes (art. R532-1 à R532-4)](#319)
-          - [Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2 (art. R532-5)](#320)
-          - [Section 3 : Recherche archéologique sous-marine (art. R532-6 à R532-19)](#321)
-      - [TITRE IV : DISPOSITIONS DIVERSES (art. R541-1 à R545-59)](#322)
-        - [Chapitre Ier : Régime de propriété des vestiges immobiliers (art. R541-1 à R541-6)](#323)
-        - [Chapitre II : Utilisation des détecteurs de métaux (art. R542-1 à R542-2)](#324)
-        - [Chapitre IV : Dispositions pénales (art. R544-1 à R544-4)](#325)
-          - [Section 1 : Dispositions relatives aux biens culturels maritimes (art. R544-1 à R544-2)](#326)
-          - [Section 2 : Dispositions relatives aux détecteurs de métaux (art. R544-3 à R544-4)](#327)
-        - [Chapitre V : Dispositions diverses (art. R545-1 à R545-59)](#328)
-          - [Section 1 : Conseil national de la recherche archéologique (art. R545-1 à R545-15)](#329)
-            - [Sous-section 1 : Formation plénière du Conseil national  de la recherche archéologique (art. R545-1 à R545-6)](#330)
-            - [Sous-section 2 : Délégation permanente du Conseil national  de la recherche archéologique (art. R545-7 à R545-9)](#331)
-            - [Sous-section 3 : Commission des opérations sous-marines (art. R545-10 à R545-11)](#332)
-            - [Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines (art. R545-12 à R545-15)](#333)
-          - [Section 2 : Commissions interrégionales de la recherche archéologique (art. R545-16 à R545-23)](#334)
-          - [Section 3 : Institut national de recherches archéologiques préventives (art. R545-24 à R545-59)](#335)
-    - [LIVRE VI : MONUMENTS HISTORIQUES,  SITES ET ESPACES PROTÉGÉS (art. R621-1 à R650-7)](#336)
-      - [TITRE II : MONUMENTS HISTORIQUES (art. R621-1 à R624-2)](#337)
-        - [Chapitre Ier : Immeubles (art. R621-1 à R621-99)](#338)
-          - [Section 1 : Classement des immeubles (art. R621-1 à R621-52)](#339)
-            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R621-1 à R621-10)](#340)
-            - [Sous-section 2 : Travaux sur un immeuble classé (art. R621-11 à R621-17)](#341)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R621-18 à R621-24)](#342)
-            - [Sous-section 4 : Maîtrise d'œuvre (art. R621-25 à R621-44)](#343)
-            - [Sous-section 5 : Travaux d'office (art. R621-45 à R621-48)](#344)
-            - [Sous-section 6 : Servitude conventionnelle (art. R621-49)](#345)
-            - [Sous-section 7 : Expropriation pour cause d'utilité publique (art. R621-50 à R621-51)](#346)
-            - [Sous-section 8 : Aliénation (art. R621-52)](#347)
-          - [Section 2 : Inscription des immeubles (art. R621-53 à R621-68)](#348)
-            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R621-53 à R621-59)](#349)
-            - [Sous-section 2 : Travaux sur un immeuble inscrit (art. R621-60 à R621-62)](#350)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R621-63 à R621-68)](#351)
-          - [Section 3 : Dispositions communes  aux immeubles classés et aux immeubles inscrits (art. R621-69 à R621-91-1)](#352)
-            - [Sous-section 1 : Conservateurs des monuments historiques relevant du ministère  chargé de la culture et de ses établissements publics (art. R621-69)](#353)
-            - [Sous-section 2 : Assistance à maîtrise d'ouvrage (art. R621-70 à R621-77)](#354)
-            - [Sous-section 3 : Subventions (art. R621-78 à R621-79)](#355)
-            - [Sous-section 4 : Publicité des mesures de protection (art. R621-80 à R621-81)](#356)
-            - [Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration (art. R621-82)](#357)
-            - [Sous-section 6 : Découverte fortuite (art. R621-83)](#358)
-            - [Sous-section 7 : Aliénation (art. R621-84 à R621-84-1)](#359)
-            - [Sous-section 8 : Notification (art. R621-85)](#360)
-            - [Sous-section 9 : Autorisation d'affichage (art. R621-86 à R621-91)](#361)
-            - [Sous-section 10 : Détachement d'un effet mobilier attaché à perpétuelle demeure (art. R621-91-1)](#362)
-          - [Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits (art.  à R621-91-1)](#363)
-            - [Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit (art.  à R621-91-1)](#364)
-          - [Section 4 : Abords (art. R621-92 à R621-96-17)](#365)
-            - [Sous-section 1 : Création et modification du périmètre délimité des abords (art. R621-92 à R621-95)](#366)
-            - [Sous-section 2 : Régime des travaux en abords (art. R621-96 à R621-96-17)](#367)
-          - [Section 5 : Dispositions diverses (art. R621-97)](#368)
-          - [Section 6 : Domaines nationaux (art. R621-98 à R621-99)](#369)
-        - [Chapitre II : Objets mobiliers (art. R622-1 à R622-61)](#370)
-          - [Section 1 : Classement des objets mobiliers (art. R622-1 à R622-31)](#371)
-            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R622-1 à R622-10)](#372)
-            - [Sous-section 2 : Travaux sur un objet mobilier classé (art. R622-11 à R622-17)](#373)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-18 à R622-25)](#374)
-            - [Sous-section 4 : Mesures conservatoires (art. R622-26 à R622-27)](#375)
-            - [Sous-section 5 : Aliénation (art. R622-28 à R622-31)](#376)
-          - [Section 2 : Inscription des objets mobiliers (art. R622-32 à R622-44)](#377)
-            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R622-32 à R622-38)](#378)
-            - [Sous-section 2 : Travaux sur un objet mobilier inscrit (art. R622-39)](#379)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-40 à R622-42)](#380)
-            - [Sous-section 4 : Aliénation (art. R622-43 à R622-44)](#381)
-          - [Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits (art. R622-45 à R622-61)](#382)
-            - [Sous-section 1 : Assistance à maîtrise d'ouvrage (art. R622-45 à R622-52)](#383)
-            - [Sous-section 2 : Subventions (art. R622-53 à R622-55)](#384)
-            - [Sous-section 3 : Découverte fortuite (art. R622-56)](#385)
-            - [Sous-section 4 : Déplacement (art. R622-57)](#386)
-            - [Sous-section 5 : Notification (art. R622-58)](#387)
-            - [Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues (art. R622-59 à R622-61)](#388)
-        - [Chapitre III : Dispositions fiscales (art. D623-1 à D623-2)](#389)
-        - [Chapitre IV : Dispositions pénales (art. R624-1 à R624-2)](#390)
-      - [TITRE V : QUALITÉ ARCHITECTURALE (art. R650-1 à R650-7)](#391)
-    - [LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE (art. R611-1 à R642-1)](#392)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. R611-1 à R613-2)](#393)
-        - [Chapitre Ier : Institutions (art. R611-1 à D611-31)](#394)
-          - [Section 1 : Commission nationale du patrimoine et de l'architecture (art. R611-1 à R611-16)](#395)
-          - [Section 2 : Commission régionale du patrimoine et de l'architecture (art. R611-17 à R611-30)](#396)
-          - [Section 3 : Conseil des sites de Corse (art. D611-31)](#397)
-        - [Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial (art. R612-1 à R612-2)](#398)
-        - [Chapitre III : Dispositions diverses (art. D613-1 à R613-2)](#399)
-      - [TITRE II : MONUMENTS HISTORIQUES (art.  à R613-2)](#400)
-      - [TITRE III : SITES PATRIMONIAUX REMARQUABLES (art. D631-5 à D633-1)](#401)
-        - [Chapitre Ier : Classement au titre des sites patrimoniaux remarquables (art. D631-5 à D631-14)](#402)
-          - [Section 1 : Procédure de classement et de modifications (art. D631-5 à R631-4)](#403)
-          - [Section 2 : Procédure d'élaboration, révision et modification du plan de valorisation de l'architecture et du patrimoine (art. D631-7 à R631-6)](#404)
-          - [Section 3 : Contenu du plan de valorisation de l'architecture et du patrimoine (art. D631-12 à D631-14)](#405)
-        - [Chapitre II : Régime des travaux (art. D632-1)](#406)
-        - [Chapitre III : Dispositions fiscales (art. D633-1)](#407)
-      - [TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES (art. R641-1 à R642-1)](#408)
-        - [Chapitre Ier : Dispositions pénales (art. R641-1)](#409)
-        - [Chapitre II : Sanctions administratives (art. R642-1)](#410)
-      - [TITRE V : QUALITÉ ARCHITECTURALE (art.  à R642-1)](#411)
-    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R710-1 à R790-19)](#412)
-      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION (art. R710-1 à R710-7)](#413)
-      - [TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON (art. D720-2 à R720-16)](#414)
-      - [TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R730-1 à R730-11)](#415)
-      - [TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D740-1-1 à R740-15)](#416)
-      - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D750-1-1 à R750-13)](#417)
-      - [TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D760-1-1 à R760-14)](#418)
-      - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-1-1 à R770-11)](#419)
-      - [TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY (art. D780-2 à R780-20)](#420)
-      - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. D790-2 à R790-19)](#421)
-    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 6 à l'article R. 545-16)](#422)
+            - [Sous-section 3 : Conditions d'attribution et de retrait des labels “ Pôle national de référence ” et “ Pôle national de référence numérique ” (art. R451-35 à R451-38)](#275)
+        - [Chapitre II : Conservation et restauration (art. R452-1 à R452-13)](#276)
+          - [Section 1 : Dispositions générales (art. R452-1 à R452-2)](#277)
+          - [Section 2 : Instances scientifiques compétentes en matière de restauration (art. D452-3 à R452-6)](#278)
+          - [Section 3 : Qualifications requises en matière de restauration (art. R452-10 à R452-13)](#279)
+    - [LIVRE V : ARCHÉOLOGIE (art. R522-1 à R545-59)](#280)
+      - [TITRE II : ARCHÉOLOGIE PRÉVENTIVE (art. R522-1 à R524-36)](#281)
+        - [Chapitre II : Répartition des compétences :  Etat et collectivités territoriales (art. R522-1 à R522-13)](#282)
+          - [Section 1 : Rôle de l'Etat (art. R522-1)](#283)
+          - [Section 2 : Rôle des collectivités territoriales (art. R522-2)](#284)
+          - [Section 3 : Carte archéologique nationale (art. R522-3 à R522-6)](#285)
+          - [Section 4 : Agrément des opérateurs d'archéologie préventive (art. R522-7 à R522-13)](#286)
+            - [Sous-section 1 : Agrément pour la réalisation des diagnostics (art. R522-7)](#287)
+            - [Sous-section 2 : Agrément pour la réalisation des fouilles (art. R522-8)](#288)
+            - [Sous-section 3 : Dispositions communes (art. R522-9 à R522-13)](#289)
+        - [Chapitre III : Mise en œuvre des opérations d'archéologie préventive (art. R523-1 à R523-68)](#290)
+          - [Section 1 : Champ d'application (art. R523-1 à R523-8)](#291)
+          - [Section 2 : Modes de saisine (art. R523-9 à R523-14)](#292)
+          - [Section 3 : Mesures d'archéologie préventive (art. R523-15 à R523-16)](#293)
+          - [Section 4 : Régime des prescriptions (art. R523-17 à R523-21)](#294)
+          - [Section 5 : Responsabilité scientifique des opérations (art. R523-22)](#295)
+          - [Section 6 : Mise en œuvre des diagnostics (art. R523-23 à R523-38)](#296)
+            - [Sous-section 1 : Le contenu des prescriptions de diagnostic (art. R523-23)](#297)
+            - [Sous-section 2 : La désignation de l'opérateur chargé du diagnostic (art. R523-24 à R523-29)](#298)
+            - [Sous-section 3 : Les conditions de réalisation du diagnostic (art. R523-30 à R523-38)](#299)
+          - [Section 7 : Mise en œuvre des fouilles (art. R523-39 à R523-59)](#300)
+            - [Sous-section 1 : Le contenu des prescriptions de fouilles (art. R523-39)](#301)
+            - [Sous-section 2 : Les conditions de réalisation des fouilles (art. R523-40 à R523-51)](#302)
+            - [Sous-section 3 : La procédure d'arbitrage (art. R523-52 à R523-58)](#303)
+            - [Sous-section 4 : Achèvement des fouilles (art. R523-59)](#304)
+          - [Section 8 : Le contrôle des opérations d'archéologie préventive (art. R523-60 à R523-61)](#305)
+          - [Section 9 : Dispositions relatives aux rapports d'opérations,  à la documentation scientifique et aux objets mobiliers (art. R523-62 à R523-68)](#306)
+        - [Chapitre IV : Financement de l'archéologie préventive (art. R524-3 à R524-36)](#307)
+          - [Section 1 : Dispositions relatives  à la redevance d'archéologie préventive (art. R524-3 à R524-10)](#308)
+          - [Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive (art. R524-17 à R524-33)](#309)
+            - [Sous-section 2 : Les subventions du Fonds national  pour l'archéologie préventive (art. R524-17 à R524-23)](#310)
+            - [Sous-section 3 : La prise en charge des fouilles (art. R524-24 à R524-33)](#311)
+          - [Section 3 : Dispositions relatives aux subventions accordées aux services des collectivités territoriales (art. R524-34 à R524-36)](#312)
+      - [TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES (art. R531-1 à R532-19)](#313)
+        - [Chapitre Ier : Archéologie terrestre et subaquatique (art. R531-1 à R531-19)](#314)
+          - [Section 1 : Autorisation de fouilles par l'Etat (art. R531-1 à R531-4)](#315)
+          - [Section 2 : Exécution de fouilles par l'Etat (art. R531-5 à R531-7)](#316)
+          - [Section 3 : Découvertes fortuites (art. R531-8 à R531-10)](#317)
+          - [Section 4 : Objets (art. R531-11 à R531-19)](#318)
+        - [Chapitre II : Biens culturels maritimes (art. R532-1 à R532-19)](#319)
+          - [Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes (art. R532-1 à R532-4)](#320)
+          - [Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2 (art. R532-5)](#321)
+          - [Section 3 : Recherche archéologique sous-marine (art. R532-6 à R532-19)](#322)
+      - [TITRE IV : DISPOSITIONS DIVERSES (art. R541-1 à R545-59)](#323)
+        - [Chapitre Ier : Régime de propriété des vestiges immobiliers (art. R541-1 à R541-6)](#324)
+        - [Chapitre II : Utilisation des détecteurs de métaux (art. R542-1 à R542-2)](#325)
+        - [Chapitre IV : Dispositions pénales (art. R544-1 à R544-4)](#326)
+          - [Section 1 : Dispositions relatives aux biens culturels maritimes (art. R544-1 à R544-2)](#327)
+          - [Section 2 : Dispositions relatives aux détecteurs de métaux (art. R544-3 à R544-4)](#328)
+        - [Chapitre V : Dispositions diverses (art. R545-1 à R545-59)](#329)
+          - [Section 1 : Conseil national de la recherche archéologique (art. R545-1 à R545-15)](#330)
+            - [Sous-section 1 : Formation plénière du Conseil national  de la recherche archéologique (art. R545-1 à R545-6)](#331)
+            - [Sous-section 2 : Délégation permanente du Conseil national  de la recherche archéologique (art. R545-7 à R545-9)](#332)
+            - [Sous-section 3 : Commission des opérations sous-marines (art. R545-10 à R545-11)](#333)
+            - [Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines (art. R545-12 à R545-15)](#334)
+          - [Section 2 : Commissions interrégionales de la recherche archéologique (art. R545-16 à R545-23)](#335)
+          - [Section 3 : Institut national de recherches archéologiques préventives (art. R545-24 à R545-59)](#336)
+    - [LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE (art. R611-1 à R650-7)](#337)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. R611-1 à R613-2)](#338)
+        - [Chapitre Ier : Institutions (art. R611-1 à D611-31)](#339)
+          - [Section 1 : Commission nationale du patrimoine et de l'architecture (art. R611-1 à R611-16)](#340)
+          - [Section 2 : Commission régionale du patrimoine et de l'architecture (art. R611-17 à R611-30)](#341)
+          - [Section 3 : Conseil des sites de Corse (art. D611-31)](#342)
+        - [Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial (art. R612-1 à R612-2)](#343)
+        - [Chapitre III : Dispositions diverses (art. D613-1 à R613-2)](#344)
+      - [TITRE II : MONUMENTS HISTORIQUES (art. R621-1 à R624-2)](#345)
+        - [Chapitre Ier : Immeubles (art. R621-1 à R621-99)](#346)
+          - [Section 1 : Classement des immeubles (art. R621-1 à R621-52)](#347)
+            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R621-1 à R621-10)](#348)
+            - [Sous-section 2 : Travaux sur un immeuble classé (art. R621-11 à R621-17)](#349)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R621-18 à R621-24)](#350)
+            - [Sous-section 4 : Maîtrise d'œuvre (art. R621-25 à R621-44)](#351)
+            - [Sous-section 5 : Travaux d'office (art. R621-45 à R621-48)](#352)
+            - [Sous-section 6 : Servitude conventionnelle (art. R621-49)](#353)
+            - [Sous-section 7 : Expropriation pour cause d'utilité publique (art. R621-50 à R621-51)](#354)
+            - [Sous-section 8 : Aliénation (art. R621-52)](#355)
+          - [Section 2 : Inscription des immeubles (art. R621-53 à R621-68)](#356)
+            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R621-53 à R621-59)](#357)
+            - [Sous-section 2 : Travaux sur un immeuble inscrit (art. R621-60 à R621-62)](#358)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R621-63 à R621-68)](#359)
+          - [Section 3 : Dispositions communes  aux immeubles classés et aux immeubles inscrits (art. R621-69 à R621-91-1)](#360)
+            - [Sous-section 1 : Conservateurs des monuments historiques relevant du ministère  chargé de la culture et de ses établissements publics (art. R621-69)](#361)
+            - [Sous-section 2 : Assistance à maîtrise d'ouvrage (art. R621-70 à R621-77)](#362)
+            - [Sous-section 3 : Subventions (art. R621-78 à R621-79)](#363)
+            - [Sous-section 4 : Publicité des mesures de protection (art. R621-80 à R621-81)](#364)
+            - [Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration (art. R621-82)](#365)
+            - [Sous-section 6 : Découverte fortuite (art. R621-83)](#366)
+            - [Sous-section 7 : Aliénation (art. R621-84 à R621-84-1)](#367)
+            - [Sous-section 8 : Notification (art. R621-85)](#368)
+            - [Sous-section 9 : Autorisation d'affichage (art. R621-86 à R621-91)](#369)
+            - [Sous-section 10 : Détachement d'un effet mobilier attaché à perpétuelle demeure (art. R621-91-1)](#370)
+          - [Section 4 : Abords (art. R621-92 à R621-96-17)](#371)
+            - [Sous-section 1 : Création et modification du périmètre délimité des abords (art. R621-92 à R621-95)](#372)
+            - [Sous-section 2 : Régime des travaux en abords (art. R621-96 à R621-96-17)](#373)
+          - [Section 5 : Dispositions diverses (art. R621-97)](#374)
+          - [Section 6 : Domaines nationaux (art. R621-98 à R621-99)](#375)
+        - [Chapitre II : Objets mobiliers (art. R622-1 à R622-61)](#376)
+          - [Section 1 : Classement des objets mobiliers (art. R622-1 à R622-31)](#377)
+            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R622-1 à R622-10)](#378)
+            - [Sous-section 2 : Travaux sur un objet mobilier classé (art. R622-11 à R622-17)](#379)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-18 à R622-25)](#380)
+            - [Sous-section 4 : Mesures conservatoires (art. R622-26 à R622-27)](#381)
+            - [Sous-section 5 : Aliénation (art. R622-28 à R622-31)](#382)
+          - [Section 2 : Inscription des objets mobiliers (art. R622-32 à R622-44)](#383)
+            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R622-32 à R622-38)](#384)
+            - [Sous-section 2 : Travaux sur un objet mobilier inscrit (art. R622-39)](#385)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-40 à R622-42)](#386)
+            - [Sous-section 4 : Aliénation (art. R622-43 à R622-44)](#387)
+          - [Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits (art. R622-45 à R622-61)](#388)
+            - [Sous-section 1 : Assistance à maîtrise d'ouvrage (art. R622-45 à R622-52)](#389)
+            - [Sous-section 2 : Subventions (art. R622-53 à R622-55)](#390)
+            - [Sous-section 3 : Découverte fortuite (art. R622-56)](#391)
+            - [Sous-section 4 : Déplacement (art. R622-57)](#392)
+            - [Sous-section 5 : Notification (art. R622-58)](#393)
+            - [Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues (art. R622-59 à R622-61)](#394)
+        - [Chapitre III : Dispositions fiscales (art. D623-1 à D623-2)](#395)
+        - [Chapitre IV : Dispositions pénales (art. R624-1 à R624-2)](#396)
+      - [TITRE III : SITES PATRIMONIAUX REMARQUABLES (art. D631-5 à D633-1)](#397)
+        - [Chapitre Ier : Classement au titre des sites patrimoniaux remarquables (art. D631-5 à D631-14)](#398)
+          - [Section 1 : Procédure de classement et de modifications (art. D631-5 à R631-4)](#399)
+          - [Section 2 : Procédure d'élaboration, révision et modification du plan de valorisation de l'architecture et du patrimoine (art. D631-7 à R631-6)](#400)
+          - [Section 3 : Contenu du plan de valorisation de l'architecture et du patrimoine (art. D631-12 à D631-14)](#401)
+        - [Chapitre II : Régime des travaux (art. D632-1)](#402)
+        - [Chapitre III : Dispositions fiscales (art. D633-1)](#403)
+      - [TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES (art. R641-1 à R642-1)](#404)
+        - [Chapitre Ier : Dispositions pénales (art. R641-1)](#405)
+        - [Chapitre II : Sanctions administratives (art. R642-1)](#406)
+      - [TITRE V : QUALITÉ ARCHITECTURALE (art. R650-1 à R650-7)](#407)
+    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R710-1 à R790-19)](#408)
+      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION (art. R710-1 à R710-7)](#409)
+      - [TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON (art. D720-2 à R720-16)](#410)
+      - [TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R730-1 à R730-11)](#411)
+      - [TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D740-1-1 à R740-15)](#412)
+      - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D750-1-1 à R750-13)](#413)
+      - [TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D760-1-1 à R760-14)](#414)
+      - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-1-1 à R770-11)](#415)
+      - [TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY (art. D780-2 à R780-20)](#416)
+      - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. D790-2 à R790-19)](#417)
+    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 6 à l'article R. 545-16)](#418)
 # Partie législative<a id=1></a>
 
 ###### Article L1
@@ -28156,9 +28152,127 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre II : Conservation et restauration<a id=275></a>
+##### Sous-section 3 : Conditions d'attribution et de retrait des labels “ Pôle national de référence ” et “ Pôle national de référence numérique ”<a id=275></a>
 
-##### Section 1 : Dispositions générales<a id=276></a>
+###### Article R451-35
+
+Le label “ Pôle national de référence ” ou “ Pôle national de référence numérique ” est attribué, dans le but de rassembler,
+conserver et valoriser des collections non présentées au public, à une personne morale bénéficiant de l'appellation “ musée
+de France ” qui en fait la demande et qui remplit les conditions suivantes :
+
+1° Présenter un projet scientifique et culturel spécifique justifiant la création d'un pôle national de référence à partir de
+l'un des thèmes dominants de la collection du musée de France ;
+
+2° Disposer d'une personne responsable du pôle qui présente les qualifications requises pour exercer des missions de
+conservation au sens de l'article R. 442-5 ou de l'article R. 442-6 ou justifiant d'une expertise scientifique liée à la
+collection objet de la demande ;
+
+3° Pour le label “ Pôle national de référence numérique ” :
+
+a) Avoir numérisé la collection dont il est propriétaire et pour laquelle il sollicite le label sur un site internet en
+assurant une reproduction haute définition et autoriser l'accès à ce site à partir du portail du catalogue collectif des
+musées de France ;
+
+b) S'engager à numériser les collections mises à sa disposition par d'autres musées de France pour lesquelles il sollicite le
+label dans un délai précisé dans le projet scientifique et culturel.
+
+Le label est attribué pour une durée de dix ans.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-469 du 31 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code du patrimoine - art. R442-5
+
+_Cité par_:
+
+  - Code du patrimoine - art. R451-37 (V)
+
+
+###### Article R451-36
+
+La personne morale qui sollicite le label “ Pôle national de référence ” ou “ Pôle national de référence numérique ” adresse
+une demande au ministre chargé de la culture.
+
+La demande est accompagnée :
+
+1° D'un projet scientifique et culturel spécifique exposant le programme, les thématiques et les moyens alloués pour la
+constitution du pôle ;
+
+2° D'un inventaire des biens de la collection objet de la demande ;
+
+3° Pour une demande d'attribution du label “ Pôle national de référence ”, de la liste et des justificatifs des prêts ou
+dépôts consentis par d'autres musées de France pour concourir à la constitution du pôle ;
+
+4° Pour une demande d'attribution du label “ Pôle national de référence numérique ”, des justificatifs établissant l'accord
+des propriétaires pour la reproduction et la diffusion de l'image de leurs œuvres sur le site internet du musée, dans le
+respect des droits d'auteur applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-469 du 31 mars 2017 - art. 1
+
+_Cité par_:
+
+  - Code du patrimoine - art. R451-37 (V)
+
+
+###### Article R451-37
+
+I. – Le ministre chargé de la culture accuse réception du dossier de demande dès lors qu'il contient les éléments définis à
+l'article R. 451-36 ou, le cas échéant, informe le demandeur des pièces manquantes. En l'absence d'une telle information dans
+un délai d'un mois suivant la saisine du ministre, le dossier de demande est réputé complet.
+
+II. – Dans un délai de quatre mois au plus tard à compter de la réception du dossier complet, le grand département
+patrimonial concerné établit un rapport sur la conformité de la demande de label aux conditions fixées à l'article R. 451-35.
+
+III. – Dans un délai de huit mois au plus tard à compter de la réception du dossier complet, le Haut Conseil des musées de
+France rend son avis sur la demande de label. Passé ce délai, il est réputé avoir émis un avis favorable.
+
+IV. – Dans un délai de neuf mois au plus tard à compter de la réception du dossier complet, le ministre chargé de la culture
+notifie au demandeur sa décision.
+
+V. – L'arrêté du ministre chargé de la culture attribuant le label précise la dénomination de celui-ci en fonction de la
+thématique choisie par le musée de France. Il est publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-469 du 31 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code du patrimoine - art. R451-35
+  - Code du patrimoine - art. R451-36
+
+
+###### Article R451-38
+
+Le ministre chargé de la culture peut retirer, par arrêté, le label après avis motivé du Haut Conseil des musées de France :
+
+1° Soit de sa propre initiative, lorsqu'il est constaté que les conditions ayant permis leur attribution ne sont plus
+remplies. Dans ce cas, un rapport est établi par le grand département patrimonial. Il est transmis au bénéficiaire du label
+qui dispose de la possibilité de faire valoir ses observations préalablement à l'avis du Haut Conseil des musées de France ;
+
+2° Soit à la demande du musée de France attributaire du label.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-469 du 31 mars 2017 - art. 1
+
+
+#### Chapitre II : Conservation et restauration<a id=276></a>
+
+##### Section 1 : Dispositions générales<a id=277></a>
 
 ###### Article R452-1
 
@@ -28205,7 +28319,7 @@ _Cite_:
   - Code du patrimoine. - art. L452-2 (V)
 
 
-##### Section 2 : Instances scientifiques compétentes en matière de restauration<a id=277></a>
+##### Section 2 : Instances scientifiques compétentes en matière de restauration<a id=278></a>
 
 ###### Article D452-3
 
@@ -28404,7 +28518,7 @@ _Cité par_:
   - Code du patrimoine - art. D452-7 (V)
 
 
-##### Section 3 : Qualifications requises en matière de restauration<a id=278></a>
+##### Section 3 : Qualifications requises en matière de restauration<a id=279></a>
 
 ###### Article R452-10
 
@@ -28612,13 +28726,13 @@ _Cite_:
   - Code du patrimoine - art. R452-11
 
 
-## LIVRE V : ARCHÉOLOGIE<a id=279></a>
+## LIVRE V : ARCHÉOLOGIE<a id=280></a>
 
-### TITRE II : ARCHÉOLOGIE PRÉVENTIVE<a id=280></a>
+### TITRE II : ARCHÉOLOGIE PRÉVENTIVE<a id=281></a>
 
-#### Chapitre II : Répartition des compétences :  Etat et collectivités territoriales<a id=281></a>
+#### Chapitre II : Répartition des compétences :  Etat et collectivités territoriales<a id=282></a>
 
-##### Section 1 : Rôle de l'Etat<a id=282></a>
+##### Section 1 : Rôle de l'Etat<a id=283></a>
 
 ###### Article R522-1
 
@@ -28640,7 +28754,7 @@ _Modifié par_:
   - Décret n°2017-156 du 8 février 2017 - art. 14
 
 
-##### Section 2 : Rôle des collectivités territoriales<a id=283></a>
+##### Section 2 : Rôle des collectivités territoriales<a id=284></a>
 
 ###### Article R522-2
 
@@ -28674,7 +28788,7 @@ _Cite_:
   - Code du patrimoine - art. R522-7 (Ab)
 
 
-##### Section 3 : Carte archéologique nationale<a id=284></a>
+##### Section 3 : Carte archéologique nationale<a id=285></a>
 
 ###### Article R522-3
 
@@ -28780,9 +28894,9 @@ _Cite_:
   - Code du patrimoine. - art. L522-5 (V)
 
 
-##### Section 4 : Agrément des opérateurs d'archéologie préventive<a id=285></a>
+##### Section 4 : Agrément des opérateurs d'archéologie préventive<a id=286></a>
 
-##### Sous-section 1 : Agrément pour la réalisation des diagnostics<a id=286></a>
+##### Sous-section 1 : Agrément pour la réalisation des diagnostics<a id=287></a>
 
 ###### Article R522-7
 
@@ -28822,7 +28936,7 @@ _Cité par_:
   - Code du patrimoine - art. R522-9 (V)
 
 
-##### Sous-section 2 : Agrément pour la réalisation des fouilles<a id=287></a>
+##### Sous-section 2 : Agrément pour la réalisation des fouilles<a id=288></a>
 
 ###### Article R522-8
 
@@ -28845,7 +28959,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 3 : Dispositions communes<a id=288></a>
+##### Sous-section 3 : Dispositions communes<a id=289></a>
 
 ###### Article R522-9
 
@@ -29023,9 +29137,9 @@ _Cite_:
   - Code du patrimoine. - art. R523-61 (V)
 
 
-#### Chapitre III : Mise en œuvre des opérations d'archéologie préventive<a id=289></a>
+#### Chapitre III : Mise en œuvre des opérations d'archéologie préventive<a id=290></a>
 
-##### Section 1 : Champ d'application<a id=290></a>
+##### Section 1 : Champ d'application<a id=291></a>
 
 ###### Article R523-1
 
@@ -29342,7 +29456,7 @@ _Cite_:
   - Code du patrimoine - art. R523-7 (V)
 
 
-##### Section 2 : Modes de saisine<a id=291></a>
+##### Section 2 : Modes de saisine<a id=292></a>
 
 ###### Article R523-9
 
@@ -29570,7 +29684,7 @@ _Cite_:
   - Code du patrimoine - art. R523-15 (V)
 
 
-##### Section 3 : Mesures d'archéologie préventive<a id=292></a>
+##### Section 3 : Mesures d'archéologie préventive<a id=293></a>
 
 ###### Article R523-15
 
@@ -29645,7 +29759,7 @@ _Cite_:
   - Code du patrimoine - art. R523-1 (V)
 
 
-##### Section 4 : Régime des prescriptions<a id=293></a>
+##### Section 4 : Régime des prescriptions<a id=294></a>
 
 ###### Article R523-17
 
@@ -29816,7 +29930,7 @@ _Cite_:
   - Code du patrimoine - art. R523-15 (V)
 
 
-##### Section 5 : Responsabilité scientifique des opérations<a id=294></a>
+##### Section 5 : Responsabilité scientifique des opérations<a id=295></a>
 
 ###### Article R523-22
 
@@ -29840,9 +29954,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 6 : Mise en œuvre des diagnostics<a id=295></a>
+##### Section 6 : Mise en œuvre des diagnostics<a id=296></a>
 
-##### Sous-section 1 : Le contenu des prescriptions de diagnostic<a id=296></a>
+##### Sous-section 1 : Le contenu des prescriptions de diagnostic<a id=297></a>
 
 ###### Article R523-23
 
@@ -29875,7 +29989,7 @@ _Cite_:
   - Code du patrimoine - art. R523-15 (V)
 
 
-##### Sous-section 2 : La désignation de l'opérateur chargé du diagnostic<a id=297></a>
+##### Sous-section 2 : La désignation de l'opérateur chargé du diagnostic<a id=298></a>
 
 ###### Article R523-24
 
@@ -30042,7 +30156,7 @@ _Cite_:
   - Code du patrimoine - art. R523-28 (V)
 
 
-##### Sous-section 3 : Les conditions de réalisation du diagnostic<a id=298></a>
+##### Sous-section 3 : Les conditions de réalisation du diagnostic<a id=299></a>
 
 ###### Article R523-30
 
@@ -30305,9 +30419,9 @@ _Cite_:
   - Code du patrimoine. - art. L531-14 (V)
 
 
-##### Section 7 : Mise en œuvre des fouilles<a id=299></a>
+##### Section 7 : Mise en œuvre des fouilles<a id=300></a>
 
-##### Sous-section 1 : Le contenu des prescriptions de fouilles<a id=300></a>
+##### Sous-section 1 : Le contenu des prescriptions de fouilles<a id=301></a>
 
 ###### Article R523-39
 
@@ -30351,7 +30465,7 @@ _Cite_:
   - Code du patrimoine - art. R523-19 (V)
 
 
-##### Sous-section 2 : Les conditions de réalisation des fouilles<a id=301></a>
+##### Sous-section 2 : Les conditions de réalisation des fouilles<a id=302></a>
 
 ###### Article R523-40
 
@@ -30706,7 +30820,7 @@ _Cité par_:
   - Code du patrimoine - art. R523-52 (V)
 
 
-##### Sous-section 3 : La procédure d'arbitrage<a id=302></a>
+##### Sous-section 3 : La procédure d'arbitrage<a id=303></a>
 
 ###### Article R523-52
 
@@ -30881,7 +30995,7 @@ _Cite_:
   - Code du patrimoine - art. R523-57 (V)
 
 
-##### Sous-section 4 : Achèvement des fouilles<a id=303></a>
+##### Sous-section 4 : Achèvement des fouilles<a id=304></a>
 
 ###### Article R523-59
 
@@ -30911,7 +31025,7 @@ _Cité par_:
   - Code du patrimoine. - art. R524-31 (V)
 
 
-##### Section 8 : Le contrôle des opérations d'archéologie préventive<a id=304></a>
+##### Section 8 : Le contrôle des opérations d'archéologie préventive<a id=305></a>
 
 ###### Article R523-60
 
@@ -30985,7 +31099,7 @@ _Cité par_:
   - Code du patrimoine. - art. R522-13 (M)
 
 
-##### Section 9 : Dispositions relatives aux rapports d'opérations,  à la documentation scientifique et aux objets mobiliers<a id=305></a>
+##### Section 9 : Dispositions relatives aux rapports d'opérations,  à la documentation scientifique et aux objets mobiliers<a id=306></a>
 
 ###### Article R523-62
 
@@ -31213,9 +31327,9 @@ _Abrogé par_:
   - Décret n°2017-925 du 9 mai 2017 - art. 11
 
 
-#### Chapitre IV : Financement de l'archéologie préventive<a id=306></a>
+#### Chapitre IV : Financement de l'archéologie préventive<a id=307></a>
 
-##### Section 1 : Dispositions relatives  à la redevance d'archéologie préventive<a id=307></a>
+##### Section 1 : Dispositions relatives  à la redevance d'archéologie préventive<a id=308></a>
 
 ###### Article R524-3
 
@@ -31398,9 +31512,9 @@ _Cite_:
   - Code du patrimoine. - art. L524-7 (V)
 
 
-##### Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive<a id=308></a>
+##### Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive<a id=309></a>
 
-##### Sous-section 2 : Les subventions du Fonds national  pour l'archéologie préventive<a id=309></a>
+##### Sous-section 2 : Les subventions du Fonds national  pour l'archéologie préventive<a id=310></a>
 
 ###### Article R524-17
 
@@ -31576,7 +31690,7 @@ _Cite_:
   - Code du patrimoine. - art. R523-59 (V)
 
 
-##### Sous-section 3 : La prise en charge des fouilles<a id=310></a>
+##### Sous-section 3 : La prise en charge des fouilles<a id=311></a>
 
 ###### Article R524-24
 
@@ -31902,7 +32016,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 3 : Dispositions relatives aux subventions accordées aux services des collectivités territoriales<a id=311></a>
+##### Section 3 : Dispositions relatives aux subventions accordées aux services des collectivités territoriales<a id=312></a>
 
 ###### Article R524-34
 
@@ -31970,11 +32084,11 @@ _Créé par_:
   - Décret n°2016-1485 du 2 novembre 2016 - art. 1
 
 
-### TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES<a id=312></a>
+### TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES<a id=313></a>
 
-#### Chapitre Ier : Archéologie terrestre et subaquatique<a id=313></a>
+#### Chapitre Ier : Archéologie terrestre et subaquatique<a id=314></a>
 
-##### Section 1 : Autorisation de fouilles par l'Etat<a id=314></a>
+##### Section 1 : Autorisation de fouilles par l'Etat<a id=315></a>
 
 ###### Article R531-1
 
@@ -32083,7 +32197,7 @@ _Cite_:
   - Code du patrimoine - art. L531-4
 
 
-##### Section 2 : Exécution de fouilles par l'Etat<a id=315></a>
+##### Section 2 : Exécution de fouilles par l'Etat<a id=316></a>
 
 ###### Article R531-5
 
@@ -32162,7 +32276,7 @@ _Cite_:
   - Code du patrimoine. - art. L531-13 (V)
 
 
-##### Section 3 : Découvertes fortuites<a id=316></a>
+##### Section 3 : Découvertes fortuites<a id=317></a>
 
 ###### Article R531-8
 
@@ -32229,7 +32343,7 @@ _Cite_:
   - Code du patrimoine - art. L531-16
 
 
-##### Section 4 : Objets<a id=317></a>
+##### Section 4 : Objets<a id=318></a>
 
 ###### Article R531-11
 
@@ -32537,9 +32651,9 @@ _Cite_:
   - Code du patrimoine - art. L531-16
 
 
-#### Chapitre II : Biens culturels maritimes<a id=318></a>
+#### Chapitre II : Biens culturels maritimes<a id=319></a>
 
-##### Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes<a id=319></a>
+##### Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes<a id=320></a>
 
 ###### Article R532-1
 
@@ -32659,7 +32773,7 @@ _Cite_:
   - Code du patrimoine. - art. L532-6 (V)
 
 
-##### Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2<a id=320></a>
+##### Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2<a id=321></a>
 
 ###### Article R532-5
 
@@ -32700,7 +32814,7 @@ _Cite_:
   - Code du patrimoine. - art. L532-2 (V)
 
 
-##### Section 3 : Recherche archéologique sous-marine<a id=321></a>
+##### Section 3 : Recherche archéologique sous-marine<a id=322></a>
 
 ###### Article R532-6
 
@@ -33101,9 +33215,9 @@ _Cité par_:
   - Code du patrimoine - art. R760-11 (VD)
 
 
-### TITRE IV : DISPOSITIONS DIVERSES<a id=322></a>
+### TITRE IV : DISPOSITIONS DIVERSES<a id=323></a>
 
-#### Chapitre Ier : Régime de propriété des vestiges immobiliers<a id=323></a>
+#### Chapitre Ier : Régime de propriété des vestiges immobiliers<a id=324></a>
 
 ###### Article R541-1
 
@@ -33286,7 +33400,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre II : Utilisation des détecteurs de métaux<a id=324></a>
+#### Chapitre II : Utilisation des détecteurs de métaux<a id=325></a>
 
 ###### Article R542-1
 
@@ -33344,9 +33458,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre IV : Dispositions pénales<a id=325></a>
+#### Chapitre IV : Dispositions pénales<a id=326></a>
 
-##### Section 1 : Dispositions relatives aux biens culturels maritimes<a id=326></a>
+##### Section 1 : Dispositions relatives aux biens culturels maritimes<a id=327></a>
 
 ###### Article R544-1
 
@@ -33400,7 +33514,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 2 : Dispositions relatives aux détecteurs de métaux<a id=327></a>
+##### Section 2 : Dispositions relatives aux détecteurs de métaux<a id=328></a>
 
 ###### Article R544-3
 
@@ -33453,11 +33567,11 @@ _Cite_:
   - Code du patrimoine. - art. L542-2 (V)
 
 
-#### Chapitre V : Dispositions diverses<a id=328></a>
+#### Chapitre V : Dispositions diverses<a id=329></a>
 
-##### Section 1 : Conseil national de la recherche archéologique<a id=329></a>
+##### Section 1 : Conseil national de la recherche archéologique<a id=330></a>
 
-##### Sous-section 1 : Formation plénière du Conseil national  de la recherche archéologique<a id=330></a>
+##### Sous-section 1 : Formation plénière du Conseil national  de la recherche archéologique<a id=331></a>
 
 ###### Article R545-1
 
@@ -33673,7 +33787,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 2 : Délégation permanente du Conseil national  de la recherche archéologique<a id=331></a>
+##### Sous-section 2 : Délégation permanente du Conseil national  de la recherche archéologique<a id=332></a>
 
 ###### Article R545-7
 
@@ -33759,7 +33873,7 @@ _Cite_:
   - Code du patrimoine. - art. R522-11 (V)
 
 
-##### Sous-section 3 : Commission des opérations sous-marines<a id=332></a>
+##### Sous-section 3 : Commission des opérations sous-marines<a id=333></a>
 
 ###### Article R545-10
 
@@ -33841,7 +33955,7 @@ _Cite_:
   - Code du patrimoine. - art. R541-4 (V)
 
 
-##### Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines<a id=333></a>
+##### Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines<a id=334></a>
 
 ###### Article R545-12
 
@@ -33937,7 +34051,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 2 : Commissions interrégionales de la recherche archéologique<a id=334></a>
+##### Section 2 : Commissions interrégionales de la recherche archéologique<a id=335></a>
 
 ###### Article R545-16
 
@@ -34232,7 +34346,7 @@ _Cite_:
   - Code du patrimoine. - art. R523-48 (V)
 
 
-##### Section 3 : Institut national de recherches archéologiques préventives<a id=335></a>
+##### Section 3 : Institut national de recherches archéologiques préventives<a id=336></a>
 
 ###### Article R545-24
 
@@ -35264,5352 +35378,13 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-## LIVRE VI : MONUMENTS HISTORIQUES,  SITES ET ESPACES PROTÉGÉS<a id=336></a>
+## LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE<a id=337></a>
 
-### TITRE II : MONUMENTS HISTORIQUES<a id=337></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=338></a>
 
-#### Chapitre Ier : Immeubles<a id=338></a>
+#### Chapitre Ier : Institutions<a id=339></a>
 
-##### Section 1 : Classement des immeubles<a id=339></a>
-
-##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=340></a>
-
-###### Article R621-1
-
-Lorsque le propriétaire de l'immeuble ou, pour tout immeuble appartenant à l'Etat, son affectataire domanial y consent, le
-classement au titre des monuments historiques est prononcé par arrêté du ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 9 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-61 (V)
-
-
-###### Article R621-2
-
-La demande de classement d'un immeuble est présentée par le propriétaire ou par toute personne y ayant intérêt. La demande de
-classement d'un immeuble appartenant à l'Etat peut en outre être présentée par le préfet après consultation de l'affectataire
-domanial.
-
-L'initiative d'une proposition de classement d'immeuble peut également être prise par le ministre chargé de la culture ou par
-le préfet de région.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 10 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R720-10 (M)
-
-
-###### Article R621-3
-
-Les demandes de classement d'un immeuble sont adressées au préfet de la région dans laquelle est situé l'immeuble.
-
-La demande est accompagnée de la description de l'immeuble, d'éléments relatifs à son histoire et à son architecture, ainsi
-que des photographies et des documents graphiques le représentant dans sa totalité et sous ses aspects les plus intéressants
-du point de vue de l'histoire et de l'art.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 11 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-4
-
-Le préfet de région recueille l'avis de la commission régionale du patrimoine et de l'architecture ou de sa délégation
-permanente sur les demandes dont il est saisi, après avoir vérifié le caractère complet du dossier, ainsi que sur les
-propositions de classement dont il prend l'initiative.
-
-Après avis de la commission régionale du patrimoine et de l'architecture réunie en formation plénière, il peut soit proposer
-au ministre chargé de la culture une mesure de classement, soit inscrire l'immeuble au titre des monuments historiques. Dans
-tous les cas, il informe le demandeur de sa décision.
-
-Lorsque le préfet de région propose au ministre le classement de tout ou partie d'un immeuble, il peut au même moment prendre
-un arrêté d'inscription à l'égard de cet immeuble.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 1
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-85 (V)
-
-
-###### Article R621-5
-
-Le ministre statue, après avoir recueilli l'avis de la Commission nationale du patrimoine et de l'architecture, sur la
-proposition du préfet de région ainsi que sur toute proposition de classement dont il prend l'initiative. Il informe la
-Commission, avant qu'elle ne rende son avis, de l'avis du propriétaire ou de l'affectataire domanial sur la proposition de
-classement. Le ministre ne peut prendre une décision de classement qu'au vu d'un dossier comportant l'accord du propriétaire
-sur cette mesure.
-
-Il notifie l'avis de la Commission et sa décision au préfet de région.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 1
-
-
-###### Article R621-6
-
-Lorsque le ministre chargé de la culture décide d'ouvrir une instance de classement en application de l'article L. 621-7, il
-notifie l'instance de classement au propriétaire de l'immeuble en l'avisant qu'il dispose d'un délai de deux mois pour
-présenter ses observations écrites. La notification est faite à l'affectataire domanial dans le cas d'un immeuble appartenant
-à l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 14 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-7 (V)
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R622-5 (V)
-
-
-###### Article R621-7
-
-La décision de classement mentionne :
-
-1° La dénomination ou la désignation de l'immeuble ;
-
-2° L'adresse ou la localisation de l'immeuble et le nom de la commune où il est situé ;
-
-3° L'étendue totale ou partielle du classement avec les références cadastrales des parcelles, en précisant, si le classement
-est partiel, les parties de l'immeuble auxquelles il s'applique ;
-
-4° Le nom et le domicile du propriétaire avec la désignation de l'acte de propriété.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 15 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-8
-
-La décision de classement de l'immeuble est notifiée par le préfet de région au propriétaire. Celui-ci est tenu d'en informer
-les affectataires ou occupants successifs. 
-
-Cette décision est notifiée avec l'indication de l'étendue de la servitude de protection au maire et, le cas échéant, au
-président de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, qui
-l'annexe à ce plan, lorsqu'il existe, dans les conditions prévues à l'article L. 153-60 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 16 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L153-60
-
-_Cité par_:
-
-  - Code du patrimoine - art. R720-13 (V)
-  - Code du patrimoine - art. R780-17 (V)
-  - Code du patrimoine - art. R790-16 (V)
-
-
-###### Article R621-9
-
-La demande d'indemnité formée par le propriétaire d'un immeuble classé d'office en application du troisième alinéa de
-l'article L. 621-6 est adressée au préfet de la région dans laquelle le bien est situé. 
-
-A défaut d'accord amiable dans un délai de six mois à compter de la date de la demande, le juge de l'expropriation peut être
-saisi dans les conditions prévues au second alinéa de l'article R. 311-9 du code de l'expropriation pour cause d'utilité
-publique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
-
-_Cite_:
-
-  - Code de l'expropriation pour cause d'utilité pu... - art. R311-9 (V)
-  - Code du patrimoine - art. L621-6
-
-
-###### Article R621-10
-
-L'autorité administrative compétente pour proposer le déclassement d'un immeuble classé au titre des monuments historiques
-est le ministre chargé de la culture. Le déclassement a lieu après avoir recueilli les observations du propriétaire, s'il
-n'est pas à l'origine de la proposition, et après avis de la      commission régionale du patrimoine et de l'architecture
-ainsi que de la Commission nationale du patrimoine et de l'architecture recueillis dans les mêmes conditions que pour le
-classement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 1
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R720-10 (M)
-
-
-##### Sous-section 2 : Travaux sur un immeuble classé<a id=341></a>
-
-###### Article R621-11
-
-Les travaux soumis à autorisation en application du premier alinéa de l'article L. 621-9 sont les constructions ou travaux,
-de quelque nature que ce soit, qui sont de nature soit à affecter la consistance ou l'aspect de la partie classée de
-l'immeuble, soit à compromettre la conservation de cet immeuble. Constituent notamment de tels travaux :
-
-1° Les affouillements ou les exhaussements dans un terrain classé ;
-
-2° Le déboisement ou le défrichement sur un terrain classé ;
-
-3° Les travaux qui ont pour objet ou pour effet de mettre hors d'eau, consolider, aménager, restaurer, mettre aux normes,
-mettre en valeur, dégager ou assainir un immeuble classé ainsi que les travaux de couvertures provisoires ou d'étaiement,
-sauf en cas de péril immédiat ;
-
-4° Les travaux de ravalement ;
-
-5° Les travaux sur les parties intérieures classées des édifices, notamment la modification des volumes ou des distributions
-horizontales ou verticales, la modification, la restauration, la restitution ou la création d'éléments de second œuvre ou de
-décors, sols, menuiseries, peintures murales, badigeons, vitraux ou sculptures ;
-
-6° Les travaux ayant pour objet d'installer à perpétuelle demeure un objet mobilier dans un immeuble classé ainsi que ceux
-visant à placer des installations soit sur les façades, soit sur la toiture de l'immeuble ;
-
-7° Les travaux de mise en place d'installations ou de constructions temporaires d'une surface supérieure à vingt mètres
-carrés et d'une durée supérieure à un mois sur un terrain classé.
-
-Pour les fouilles archéologiques prévues au 1°, l'autorisation prévue à l'article L. 523-9 ou à l'article L. 531-1 tient lieu
-de celle prévue à l'article L. 621-9.
-
-Ne sont pas soumis à autorisation les travaux et réparations d'entretien.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. L531-1
-  - Code du patrimoine - art. L621-9
-  - Code du patrimoine - art. R523-9
-
-_Cité par_:
-
-  - Code du patrimoine - art. R621-91-1 (V)
-  - Code du patrimoine. - art. R621-32 (V)
-
-
-###### Article R621-12
-
-La demande d'autorisation pour les travaux sur un immeuble classé prévue à l'article L. 621-9 est présentée par le
-propriétaire ou son mandataire ou par une personne justifiant d'un titre l'habilitant à y exécuter les travaux projetés ou
-ayant qualité pour bénéficier de l'expropriation pour cause d'utilité publique.
-
-La demande et le dossier qui l'accompagne sont adressés, en quatre exemplaires, au service déconcentré chargé de
-l'architecture et du patrimoine.
-
-Ce dossier comprend :
-
-1° Le programme d'opération décrivant et justifiant les travaux projetés et l'avant-projet définitif contenant un rapport de
-présentation, un descriptif quantitatif détaillé et l'ensemble des documents graphiques et photographiques permettant la
-compréhension des travaux prévus ;
-
-2° Les études scientifiques et techniques préalables à la réalisation des travaux, en fonction de la nature, de l'importance
-et de la complexité de ceux-ci.
-
-Un arrêté du ministre chargé de la culture fixe, selon l'objet des travaux, les modèles de demande et précise la liste des
-pièces à joindre au dossier.
-
-Le service déconcentré chargé de l'architecture et du patrimoine transmet sans délai deux exemplaires de la demande et du
-dossier au préfet de région pour examen au titre du présent livre et, lorsque les travaux requièrent son accord, un
-exemplaire à l'autorité compétente pour statuer sur les demandes de permis de construire.
-
-Si le préfet de région estime que le dossier est incomplet, il fait connaître au demandeur, dans le délai d'un mois à partir
-de la réception de la demande par le service déconcentré chargé de l'architecture et du patrimoine, la liste et le contenu
-des pièces complémentaires à fournir. A défaut d'une demande de pièces complémentaires dans ce délai, le dossier est réputé
-complet.
-
-Lorsque le dossier est complet, le préfet de région fait connaître au demandeur ainsi qu'à l'autorité compétente pour statuer
-sur les demandes de permis de construire, la date et le numéro d'enregistrement de la demande par le service déconcentré
-chargé de l'architecture et du patrimoine. Lorsque des pièces complémentaires ont été demandées dans le délai d'un mois prévu
-au précédent alinéa, à défaut de réception de ces pièces dans un délai de deux mois, la demande fait l'objet d'une décision
-tacite de rejet.
-
-L'accord de l'autorité compétente pour statuer sur les demandes de permis de construire, portant le cas échéant dérogation
-aux règles du plan local d'urbanisme, en application  de l'article L. 152-4 du code de l'urbanisme, est transmis au préfet de
-région dans le délai de deux mois à compter de la réception du dossier complet par cette autorité. Faute de réponse de cette
-autorité à l'expiration du délai fixé, son accord est réputé donné.
-
-Toute modification de la nature et de l'importance des travaux doit faire l'objet d'une demande d'autorisation nouvelle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L123-5
-  - Code du patrimoine - art. L621-9
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-13 (V)
-  - Code du patrimoine. - art. R621-15 (V)
-  - Code du patrimoine. - art. R621-60 (V)
-  - Code du patrimoine. - art. R621-92 (M)
-
-
-###### Article R621-13
-
-L'autorisation de travaux sur un immeuble classé est délivrée par le préfet de région, à moins que le ministre chargé de la
-culture n'ait décidé d'évoquer le dossier.
-
-Le préfet de région se prononce dans le délai de six mois suivant la date d'enregistrement notifiée en application du
-neuvième alinéa de l'article R. 621-12. Toutefois, si le ministre chargé de la culture a décidé, dans le délai ainsi imparti
-au préfet de région, d'évoquer le dossier, l'autorisation est délivrée par lui dans le délai de douze mois à compter de la
-même date. Il en informe le demandeur. Faute de réponse du préfet de région ou du ministre à l'expiration du délai fixé,
-l'autorisation est réputée accordée.
-
-La décision d'autorisation peut être assortie de prescriptions, de réserves ou de conditions pour l'exercice du contrôle
-scientifique et technique sur l'opération par les services chargés des monuments historiques. Elle prend en compte les
-prescriptions éventuellement formulées par l'autorité compétente pour statuer sur les demandes de permis de construire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 21 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R621-12 (V)
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-14 (V)
-  - Code du patrimoine. - art. R621-15 (V)
-  - Code du patrimoine. - art. R621-88 (V)
-
-
-###### Article R621-14
-
-Après l'expiration du délai fixé par l'article R. 621-13, le préfet de région ou le ministre délivre à toute personne
-intéressée qui en fait la demande, dans le délai d'un mois suivant sa réception, une attestation certifiant, selon le cas,
-qu'une décision négative ou positive est intervenue et précisant, le cas échéant, les prescriptions mentionnées dans la
-décision accordant l'autorisation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 22 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R621-13 (V)
-
-
-###### Article R621-15
-
-Par dérogation aux dispositions des articles R. 621-12 et R. 621-13, si le projet de travaux de mise en place d'installations
-ou de constructions temporaires d'une surface supérieure à vingt mètres carrés et d'une durée supérieure à un mois n'entre
-pas dans le champ du permis de construire, du permis de démolir, du permis d'aménager ou de la déclaration préalable, la
-demande et le dossier sont adressés en deux exemplaires au service déconcentré chargé de l'architecture et du patrimoine.
-Celui-ci transmet un exemplaire au préfet de région qui se prononce dans le délai d'un mois. Faute de réponse du préfet de
-région à l'expiration de ce délai, l'autorisation est réputée accordée.
-
-Dans les autres cas, la demande portant sur un projet de travaux de mise en place d'installations ou de constructions
-temporaires d'une surface supérieure à vingt mètres carrés et d'une durée supérieure à un mois est présentée et instruite
-dans les conditions fixées à l'article R. 621-12 et la décision est prise dans les conditions fixées à l'article R. 621-13.
-Toutefois, le préfet de région se prononce alors dans un délai de trois mois.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 23 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R621-12 (V)
-  - Code du patrimoine. - art. R621-13 (V)
-
-
-###### Article R621-16
-
-L'autorisation de travaux sur un immeuble classé, prévue à l'article L. 621-9, est affichée sur le terrain, de manière
-visible de l'extérieur, par les soins du bénéficiaire, dès la notification de l'autorisation, pendant toute la durée du
-chantier.
-
-Un arrêté du ministre chargé de la culture règle les formes de l'affichage.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 24 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-9 (V)
-
-
-###### Article R621-16-1
-
-I. – L'autorisation de travaux sur un immeuble classé est périmée si les travaux ne sont pas entrepris dans le délai de trois
-ans à compter de la notification de la décision ou de la date à laquelle la décision tacite est intervenue. Lorsque le
-commencement des travaux est subordonné à une autorisation ou à une procédure prévue par une autre législation, ce délai
-court à compter de la date à laquelle les travaux peuvent commencer en application de cette législation si cette date est
-postérieure à ladite notification.
-
-L'autorisation est également périmée si, passé ce délai, les travaux sont interrompus pendant un délai supérieur à une année.
-
-II. – L'autorisation peut être prorogée pour une année, sur demande de son bénéficiaire.
-
-La demande de prorogation est adressée par pli recommandé ou déposée au service déconcentré chargé de l'architecture et du
-patrimoine quatre mois au moins avant l'expiration du délai de validité.
-
-La prorogation est acquise au bénéficiaire de l'autorisation si aucune décision contraire ne lui a été adressée dans le délai
-de deux mois suivant la date de l'avis de réception postal ou de la décharge de l'autorité compétente pour statuer sur la
-demande. La prorogation prend effet au terme de la validité de la décision initiale.
-
-III. – Les délais mentionnés aux I et II sont suspendus en cas de recours contentieux contre l'autorisation.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 12
-
-
-###### Article R621-17
-
-La conformité des travaux réalisés sur un immeuble classé à l'autorisation donnée est constatée par les services déconcentrés
-du ministre chargé de la culture dans le délai de six mois suivant leur achèvement. Elle donne lieu, le cas échéant, à une
-attestation du préfet de région pour le versement du solde des subventions publiques.
-
-Lors de l'achèvement des travaux, le dossier documentaire des ouvrages exécutés est remis en quatre exemplaires par le maître
-d'œuvre au maître d'ouvrage, qui en transmet trois exemplaires au service déconcentré chargé de l'architecture et du
-patrimoine. Ce dossier comprend un mémoire descriptif accompagné de documents graphiques et photographiques, une copie des
-mémoires réglés aux entreprises ainsi que les attachements figurés éventuellement fournis par elles, les rapports des
-intervenants spécialisés, la liste des matériaux utilisés et leur provenance. S'agissant des interventions sur les œuvres
-d'art, peintures murales, sculptures, vitraux incorporés à l'immeuble, le dossier documentaire inclut des copies des
-protocoles d'intervention des restaurateurs mentionnant les produits utilisés et des documents figurés présentant l'œuvre
-avant, pendant et après restauration. Les documents préparatoires, études scientifiques ou techniques et diagnostics sont
-joints au dossier s'ils éclairent utilement les travaux réalisés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 25 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-23 (V)
-
-
-##### Sous-section 3 : Contrôle scientifique et technique<a id=342></a>
-
-###### Article R621-18
-
-Le contrôle scientifique et technique assuré par les services de l'Etat chargés des monuments historiques est destiné à :
-
-1° Vérifier périodiquement l'état des monuments historiques classés et les conditions de leur conservation de façon que leur
-pérennité soit assurée ;
-
-2° Vérifier et garantir que les interventions sur les immeubles classés, prévues à l'article L. 621-9 sont compatibles avec
-le statut de monument historique reconnu à ces immeubles en application de cette section, ne portent pas atteinte à l'intérêt
-d'art ou d'histoire ayant justifié leur classement au titre des monuments historiques et ne compromettent pas leur bonne
-conservation en vue de leur transmission aux générations futures.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 1 (Ab), alinéas 1 à 3, ecqc les immeubles classés.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-9 (V)
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-29 (V)
-
-
-###### Article R621-19
-
-Les services de l'Etat chargés des monuments historiques définissent, en fonction des caractéristiques des immeubles
-concernés, les conditions scientifiques et techniques selon lesquelles les interventions sur ces monuments historiques sont
-étudiées, conduites et font l'objet de la documentation appropriée. Ils veillent à leur mise en œuvre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 2 (Ab), ecqc les immeubles classés.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-44 (V)
-
-
-###### Article R621-20
-
-Lorsqu'il porte sur des travaux, le contrôle scientifique et technique des services de l'Etat chargés des monuments
-historiques s'exerce dès le début des études documentaires et techniques préparatoires menées, si elles ont été prescrites,
-avant la demande d'autorisation, puis tout au long des travaux autorisés jusqu'à leur achèvement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 3 (Ab), ecqc les immeubles classés.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-21
-
-Lorsque le propriétaire, l'affectataire, son mandataire ou toute personne justifiant d'un titre l'habilitant à faire réaliser
-des travaux fait part au préfet de région de son intention de réaliser un projet de travaux sur un immeuble classé, le préfet
-de région met à sa disposition l'état des connaissances dont il dispose sur l'immeuble en cause et lui indique les
-contraintes réglementaires, architecturales et techniques que le projet devra respecter.
-
-Le préfet de région lui précise, en fonction de la nature, de l'importance et de la complexité des travaux envisagés, les
-études scientifiques et techniques qui devront être réalisées préalablement à la détermination du programme d'opération.
-
-Le préfet de région lui indique également les compétences et expériences que devront présenter les architectes candidats à la
-maîtrise d'œuvre de ces travaux, définies au regard des particularités de l'opération en vertu de l'article R. 621-29.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 4 (Ab), ecqc les immeubles classés.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R621-29 (V)
-
-
-###### Article R621-22
-
-Avant de déposer une demande pour obtenir l'autorisation prévue à l'article L. 621-9, le maître d'ouvrage transmet au préfet
-de région le projet de programme accompagné du diagnostic de l'opération. Après, le cas échéant, un débat contradictoire, le
-préfet de région lui fait part de ses observations et recommandations.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 5 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-9 (V)
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-32 (V)
-
-
-###### Article R621-23
-
-Le contrôle scientifique et technique sur les travaux en cours d'exécution sur l'immeuble classé s'exerce sur pièces et sur
-place jusqu'au constat de conformité prévu par le premier alinéa de l'article R. 621-17.
-
-Les services de l'Etat chargés des monuments historiques sont tenus informés par le maître d'ouvrage de la date de début des
-travaux et des réunions de chantier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 7 (Ab), ecqc les immeubles classés.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R621-17 (V)
-
-
-###### Article R621-24
-
-Pour l'exercice du contrôle scientifique et technique par les services de l'Etat chargés des monuments historiques, soit dans
-le cadre de leur mission de surveillance des immeubles classés, soit lors de la réalisation de travaux sur les immeubles
-classés, les propriétaires ou les affectataires sont tenus de permettre aux agents de ces services d'accéder aux lieux.
-
-Le contrôle sur place des immeubles classés s'effectue en présence du propriétaire, de l'affectataire ou de leur
-représentant. En cas d'absence, il s'effectue avec leur accord.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 8 (Ab), alinéas 1 et 3, ecqc les immeubles classés.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-##### Sous-section 4 : Maîtrise d'œuvre<a id=343></a>
-
-###### Article R621-25
-
-Les travaux de réparation des immeubles classés appartenant à l'Etat, qu'ils soient ou non mis à la disposition
-d'établissements publics, sont proposés, en accord avec le bénéficiaire de la mise à disposition de l'immeuble, par
-l'architecte des Bâtiments de France territorialement compétent. Celui-ci en assure la maîtrise d'œuvre.
-
-Toutefois :
-
-1° Pour les immeubles classés mis à la disposition d'un service à compétence nationale ou d'un établissement public, la
-maîtrise d'œuvre peut également être assurée par un architecte urbaniste de l'Etat spécialité " patrimoine " affecté à ce
-service ou à cet établissement ;
-
-2° Pour les monuments historiques classés mis à la disposition d'autres ministères que le ministère chargé de la culture, la
-maîtrise d'œuvre peut également être assurée par un architecte fonctionnaire titulaire du diplôme de spécialisation et
-d'approfondissement en architecture mention " architecture et patrimoine ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 13
-
-
-###### Article R621-26
-
-La maîtrise d'œuvre des travaux de réparation des immeubles classés n'appartenant pas à l'Etat est confiée à un architecte
-titulaire du diplôme de spécialisation et d'approfondissement en architecture mention " architecture et patrimoine " ou de
-tout autre diplôme reconnu de niveau équivalent.
-
-Sur demande du propriétaire ou de l'affectataire domanial et sur décision du préfet de région, l'architecte des Bâtiments de
-France peut assurer la maîtrise d'œuvre de ces travaux sous réserve que soit établie soit la situation de péril pour les
-immeubles ou de danger imminent pour les personnes, soit la carence de l'offre privée ou publique. Cette carence ne peut être
-établie, pour les personnes soumises au code des marchés publics ou à l'ordonnance n° 2005-649 du 6 juin 2005 relative aux
-marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics, qu'après mise en œuvre
-des procédures de publicité et de concurrence prévues par ces textes et selon les modalités qu'ils prévoient.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°2005-649 du 6 juin 2005 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 2 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-27
-
-L'architecte en chef des monuments historiques territorialement compétent assure la maîtrise d'œuvre des travaux de
-restauration des immeubles classés appartenant à l'Etat,           qu'ils soient ou non mis à la disposition d'un
-établissement public, dont il assure la surveillance en application du II de l'article 3 du décret n° 2007-1405 du 28
-septembre 2007 portant statut particulier du corps des architectes en chef des monuments historiques et adaptation au droit
-communautaire des règles applicables à la restauration des immeubles classés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2007-1405 du 28 septembre 2007 - art. 3
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 14
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-38 (V)
-  - Code du patrimoine. - art. R621-44 (V)
-
-
-###### Article R621-28
-
-La maîtrise d'œuvre des travaux de restauration sur les immeubles classés n'appartenant pas à l'Etat est assurée soit par un
-architecte en chef des monuments historiques, soit par un architecte ressortissant d'un Etat membre de l'Union européenne ou
-partie à l'accord sur l'Espace économique européen, établi dans l'un de ces Etats et présentant les conditions requises pour
-se présenter aux épreuves du concours institué par le 2° du I de l'article 2 du décret n° 2007-1405 du 28 septembre 2007
-portant statut particulier du corps des architectes en chef des monuments historiques et adaptation au droit communautaire
-des règles applicables à la restauration des immeubles classés ainsi que celles requises pour être inscrit à un tableau
-régional de l'ordre des architectes en vertu des dispositions de l'article 10 de la loi n° 77-2 du 3 janvier 1977 sur
-l'architecture. Pour chaque opération, le propriétaire ou l'affectataire précise expressément les compétences requises du
-maître d'œuvre.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°77-2 du 3 janvier 1977 - art. 10 (M)
-  - Décret n°2007-1405 du 28 septembre 2007 - art. 2 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 4 (Ab), alinéa 1 phrases 1 et 2.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-29
-
-Pour l'exercice du contrôle scientifique et technique défini par les articles R. 621-18 et R. 621-21, le préfet de région
-s'assure que les justifications produites sont de nature à permettre de conduire l'opération dans des conditions conformes à
-la bonne conservation de l'immeuble en cause.
-
-A cet effet, le propriétaire ou l'affectataire communique au préfet de région les justifications de nature à établir que la
-formation et l'expérience professionnelle du maître d'œuvre choisi attestent des connaissances historiques, architecturales
-et techniques nécessaires à la conception et la conduite des travaux sur l'immeuble faisant l'objet de l'opération de
-restauration.
-
-Cette information intervient, dans tous les cas, avant le dépôt de l'autorisation de travaux délivrée en application de
-l'article L. 621-9 et préalablement à la passation du contrat de maîtrise d'œuvre. Pour les maîtres d'ouvrage soumis aux
-dispositions du code des marchés publics, cette information est transmise avant l'achèvement de la procédure prévue aux
-articles 79 et 80 du code des marchés publics, aux articles 44 et 45 du décret n° 2005-1308 du 20 octobre 2005 relatif aux
-marchés passés par les entités adjudicatrices mentionnées à l'article 4 de l'ordonnance n° 2005-649 du 6 juin 2005 relative
-aux marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics et aux articles 45
-et 46 du décret n° 2005-1742 du 30 décembre 2005 fixant les règles applicables aux marchés passés par les pouvoirs
-adjudicateurs mentionnés à l'article 3 de cette ordonnance.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2005-1742 du 30 décembre 2005 - art. 45 (V)
-  - Code des marchés publics - art. 79 (V)
-  - Code du patrimoine - art. L621-9 (V)
-  - Code du patrimoine - art. R621-21 (V)
-  - Code du patrimoine. - art. R621-18 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 4 (Ab), alinéa 1 phrase 3 et alinéas 2 et 3
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-30
-
-Lorsque l'architecte ne dispose pas de toutes les compétences nécessaires pour l'exercice de sa mission de maîtrise d'œuvre,
-il peut faire appel à des spécialistes soit en sous-traitance, soit en constituant un groupement dont il est le mandataire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 4 (Ab), alinéa 4.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-38 (V)
-
-
-###### Article R621-31
-
-L'architecte en chef des monuments historiques territorialement compétent assure également la maîtrise d'œuvre des travaux
-sur les monuments historiques classés n'appartenant pas à l'Etat, lorsque aucun maître d'œuvre, notamment parmi ceux
-mentionnés à l'article 5 du décret n° 2007-1405 du 28 septembre 2007 portant statut particulier du corps des architectes en
-chef des monuments historiques et adaptation au droit communautaire des règles applicables à la restauration des immeubles
-classés et aux articles R. 621-28 et R. 621-30, n'a pu être retenu par le maître d'ouvrage.
-
-En ce cas, les personnes soumises au code des marchés publics ou à l'ordonnance n° 2005-649 du 6 juin 2005 relative aux
-marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics doivent au préalable
-avoir mis en œuvre les procédures de publicité et de mise en concurrence prévues par ces textes et les avoir déclarées
-infructueuses en raison de l'absence d'offre ou du caractère inapproprié de ces offres.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°2005-649 du 6 juin 2005 (V)
-  - Décret n°2007-1405 du 28 septembre 2007 - art. 5 (M)
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 5 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-44 (V)
-
-
-###### Article R621-32
-
-Les opérations de restauration sur les immeubles classés font l'objet :
-
-1° D'une étude d'évaluation, lorsque l'ampleur de la restauration envisagée nécessite un aperçu général de l'état de
-l'immeuble. Elle comprend l'identification architecturale et historique du monument, son bilan sanitaire, et est accompagnée
-d'une proposition pluriannuelle de travaux ainsi que d'un recueil des études documentaires scientifiques, techniques et
-historiques dont il a fait l'objet ;
-
-2° D'une étude de diagnostic pour chaque opération programmée, complétée d'expertises techniques, scientifiques et
-historiques si la nature, l'importance et la complexité des travaux le justifient ;
-
-3° D'une mission de maîtrise d'œuvre dont les éléments sont énoncés à l'article R. 621-34.
-
-Le projet de programme accompagné du diagnostic de l'opération et, le cas échéant, de l'étude d'évaluation est soumis pour
-observations au préfet de région dans les conditions prévues par l'article R. 621-22.
-
-L'avant-projet définitif est soumis à son autorisation avant tout commencement de travaux, dans les conditions prévues par
-les articles R. 621-11, R. 621-12, R. 621-13, R. 621-14, R. 621-15, R. 621-16 et R. 621-17.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 6 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R621-11 (V)
-  - Code du patrimoine. - art. R621-22 (V)
-  - Code du patrimoine. - art. R621-34 (V)
-
-
-###### Article R621-33
-
-La maîtrise d'œuvre est la réponse architecturale, technique et économique au programme du maître d'ouvrage.
-
-La maîtrise d'œuvre des travaux de restauration sur les immeubles classés comprend l'exécution d'éléments de mission
-indissociables et éventuellement d'éléments de mission indépendants.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 7 (Ab), alinéas 1 et 2.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Arrêté du 18 septembre 2014 - art. 9 (V)
-  - Code du patrimoine. - art. R621-36 (V)
-
-
-###### Article R621-34
-
-Pour chaque opération, le maître d'œuvre se voit confier une mission de base dont les éléments indissociables sont les
-suivants :
-
-1° Les études d'avant-projet, décomposées en avant-projet sommaire et avant-projet définitif ;
-
-2° Les études de projet ;
-
-3° L'assistance apportée au maître d'ouvrage pour la passation du ou des contrats de travaux ;
-
-4° L'examen de la conformité au projet des études d'exécution faites par l'entrepreneur et leur visa ;
-
-5° La direction de l'exécution du ou des contrats de travaux ;
-
-6° L'assistance apportée au maître d'ouvrage lors des opérations de réception et pendant la période de garantie de parfait
-achèvement.
-
-Ces éléments peuvent, en fonction de la nature des travaux ou du niveau de complexité de l'opération, être regroupés en une
-seule ou plusieurs phases. Ils font l'objet d'un contrat unique.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 7 (Ab), alinéas 3 à 10.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-32 (V)
-
-
-###### Article R621-35
-
-Le maître d'œuvre peut être chargé de l'élément de mission ordonnancement, coordination et pilotage du chantier (OPC).
-
-En outre, il peut être chargé de tout ou partie de l'étude d'évaluation préalable ainsi que, le cas échéant, des études de
-diagnostic.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 7 (Ab), alinéas 11 et 12.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-36
-
-A l'exception de l'étude d'évaluation, le contenu des éléments mentionnés aux articles R. 621-33, R. 621-34 et R. 621-35 est
-celui défini dans la sous-section 2 du décret n° 93-1268 du 29 novembre 1993 relatif aux missions de maîtrise d'œuvre
-confiées par des maîtres d'ouvrage publics à des prestataires de droit privé.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°93-1268 du 29 novembre 1993 -  Sous-section 2 Eléments de mission de maîtrise ... (V)
-  - Code du patrimoine. - art. R621-33 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 7 (Ab), alinéa 13.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-37
-
-Lorsqu'en cas de défaillance d'un maître d'œuvre, titulaire d'une mission de base, le maître d'ouvrage confie une mission
-partielle à un autre maître d'œuvre afin de poursuivre l'opération, l'ensemble des éléments de mission, ceux effectués par le
-titulaire du premier contrat et ceux confiés au nouveau maître d'œuvre, doit respecter le contenu de la mission de base.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 7 (Ab), alinéa 14.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-38
-
-Lorsque les travaux de restauration à réaliser sur les parties classées d'un immeuble atteignent une partie inscrite qui en
-est indivisible, la mission de maîtrise d'œuvre sur les parties inscrites est confiée à l'architecte spécialisé tel que
-défini aux articles R. 621-27, R. 621-28, R. 621-29, R. 621-30 et R. 621-31.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 8 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R621-27 (V)
-  - Code du patrimoine. - art. R621-30 (V)
-
-
-###### Article R621-39
-
-Le contrat de maîtrise d'œuvre précise, d'une part, les modalités selon lesquelles est arrêté le coût prévisionnel des
-travaux assorti d'un seuil de tolérance, sur lequel s'engage le maître d'œuvre, et, d'autre part, les conséquences, pour
-celui-ci, des engagements souscrits.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 9 (Ab), alinéa 1.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-40
-
-Le contrat de maîtrise d'œuvre prévoit l'engagement du maître d'œuvre à respecter le coût prévisionnel des travaux arrêté au
-plus tard avant le lancement de la procédure de passation du ou des contrats de travaux. Le respect de cet engagement est
-contrôlé à l'issue de la consultation des entreprises de travaux. En cas de dépassement du seuil de tolérance, le maître
-d'ouvrage peut demander au maître d'œuvre d'adapter ses études, sans rémunération complémentaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 9 (Ab), alinéa 2.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-41
-
-Le contrat de maîtrise d'œuvre prévoit également un engagement du maître d'œuvre à respecter le coût des travaux, assorti
-d'un nouveau seuil de tolérance, qui résulte des contrats de travaux passés par le maître d'ouvrage. Le respect de cet
-engagement est contrôlé après exécution complète des travaux nécessaires à la réalisation de l'ouvrage en tenant compte du
-coût total définitif des travaux résultant des décomptes finaux et factures des entreprises.
-
-Pour contrôler le respect de l'engagement, le contrat de maîtrise d'œuvre prévoit les modalités de prise en compte des
-variations des conditions économiques.
-
-En cas de dépassement excédant le seuil de tolérance fixé par le contrat de maîtrise d'œuvre, la rémunération de la maîtrise
-d'œuvre est réduite. Le contrat de maîtrise d'œuvre détermine les modalités de calcul de cette réduction, qui ne peut excéder
-15 % de la rémunération du maître d'œuvre correspondant aux éléments de missions postérieurs à l'attribution des contrats de
-travaux.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 9 (Ab), alinéas 3 à 5.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-42
-
-En cas de modification de programme ou de prestations décidées par le maître d'ouvrage, notamment à la suite de découvertes
-fortuites, le contrat de maîtrise d'œuvre fait l'objet d'un avenant qui arrête le programme modifié et le coût prévisionnel
-des travaux concerné par cette modification, et adapte en conséquence la rémunération du maître d'œuvre et les modalités de
-son engagement sur le coût prévisionnel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 9 (Ab), alinéa 6.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-43
-
-Le contrat de maîtrise d'œuvre fixe la rémunération forfaitaire du maître d'œuvre.
-
-La rémunération correspondant à la mission de base de maîtrise d'œuvre, décomposée en éléments de mission, tient compte :
-
-1° De l'étendue de la mission, appréciée notamment au regard du nombre et du volume des prestations demandées, de l'ampleur
-des moyens à mettre en œuvre, du mode de dévolution des travaux, des délais impartis et des engagements souscrits par le
-maître d'œuvre de respecter le coût prévisionnel des travaux ;
-
-2° Du degré de complexité de cette mission, apprécié notamment au regard du type et de la technicité de l'ouvrage, des
-exigences et contraintes du programme ;
-
-3° Du coût prévisionnel des travaux basé soit sur l'estimation prévisionnelle provisoire des travaux établie par le maître
-d'œuvre lors des études d'avant-projet sommaire, soit sur l'estimation prévisionnelle définitive des travaux établie lors des
-études d'avant-projet définitif.
-
-Lorsque le coût prévisionnel des travaux n'est pas encore connu au moment de la passation du contrat avec le maître d'œuvre,
-le montant provisoire de la rémunération de ce dernier est basé sur la partie affectée aux travaux de l'enveloppe financière
-prévisionnelle fixée par le maître d'ouvrage. Son montant définitif est fixé lors de l'engagement du maître d'œuvre à
-respecter le coût prévisionnel des travaux.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 10 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-44
-
-Lorsque les travaux envisagés par un propriétaire ou un affectataire public incluent une modification au sens de l'article L.
-621-9 : 
-
-1° Si la part de travaux neufs est accessoire, ces travaux sont inclus dans la mission de l'architecte spécialisé tel que
-défini aux articles R. 621-27, R. 621-28 et R. 621-31 ;
-
-2° Si les travaux neufs sont prépondérants, les missions de maîtrise d'œuvre correspondant à ces travaux sont attribuées par
-le maître d'ouvrage à un maître d'œuvre de son choix dans le respect des règles applicables. Lorsqu'ils sont de nature à
-avoir un impact sur l'intérêt protégé de l'immeuble, en application de l'article R. 621-19, les services de l'Etat
-définissent les contraintes architecturales et historiques à respecter.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-749 du 22 juin 2009 - art. 11 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-9 (V)
-  - Code du patrimoine. - art. R621-19 (V)
-  - Code du patrimoine. - art. R621-27 (V)
-  - Code du patrimoine. - art. R621-31 (V)
-
-
-##### Sous-section 5 : Travaux d'office<a id=344></a>
-
-###### Article R621-45
-
-Pour l'application de l'article L. 621-11, l'autorité administrative compétente est le préfet de région.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 26 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-11 (V)
-
-
-###### Article R621-46
-
-En application de l'article L. 621-12, lorsque la conservation d'un immeuble classé au titre des monuments historiques est
-gravement compromise par l'inexécution de travaux de réparation ou d'entretien, le ministre chargé de la culture fait établir
-un rapport constatant la nécessité des travaux à réaliser, décrivant et estimant ces travaux et recueille l'avis de la
-Commission nationale du patrimoine et de l'architecture.
-
-L'arrêté de mise en demeure donne au propriétaire un délai de quinze jours pour choisir le maître d'œuvre chargé d'assurer
-l'exécution des travaux. A défaut, le ministre chargé de la culture procède à sa désignation.
-
-L'arrêté fixe les délais dans lesquels, à compter de la date d'approbation du projet, les travaux devront être entrepris et
-exécutés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 1
-
-_Cite_:
-
-  - Code du patrimoine - art. L621-12
-
-
-###### Article R621-47
-
-Lorsque le ministre chargé de la culture décide, conformément aux dispositions de l'article L. 621-13, de faire exécuter les
-travaux d'office, il notifie sa décision au propriétaire.
-
-Le propriétaire d'un immeuble classé dispose d'un délai d'un mois à compter de la notification prévue à l'alinéa précédent
-pour demander au préfet d'engager la procédure d'expropriation prévue à l'article L. 621-13. La demande comporte l'indication
-du prix proposé pour la cession de son immeuble. Le préfet instruit la demande dans les conditions prévues par l'article R.
-10 du code du domaine de l'Etat et statue dans un délai maximum de six mois à compter de sa réception. A l'expiration de ce
-délai, l'absence de réponse vaut décision de rejet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 28 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-13 (V)
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-85 (V)
-
-
-###### Article R621-48
-
-En cas de mutation à titre onéreux d'un immeuble classé dans lequel des travaux ont été exécutés d'office, le préfet de
-région fait savoir au propriétaire si l'Etat accepte la substitution de l'acquéreur dans ses obligations de débiteur de
-l'Etat au titre de l'exécution de ces travaux.
-
-Lorsque le propriétaire souhaite s'exonérer de sa dette en faisant abandon de son immeuble à l'Etat, en application des
-dispositions du second alinéa de l'article L. 621-14, il adresse au préfet de région une déclaration d'abandon par laquelle
-il s'engage à signer l'acte administratif authentifiant cette déclaration. L'Etat procède à la purge des hypothèques et des
-privilèges régulièrement inscrits sur l'immeuble abandonné, dans la limite de la valeur vénale de cet immeuble.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 29 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-14 (V)
-
-
-##### Sous-section 6 : Servitude conventionnelle<a id=345></a>
-
-###### Article R621-49
-
-L'agrément prévu au deuxième alinéa de l'article L. 621-16, nécessaire à l'établissement d'une servitude par convention sur
-un immeuble classé, relève de la compétence du préfet de région. En l'absence de cet agrément, le ministre chargé de la
-culture exerce l'action en nullité.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 30 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-16 (V)
-
-
-##### Sous-section 7 : Expropriation pour cause d'utilité publique<a id=346></a>
-
-###### Article R621-50
-
-En application de l'article L. 621-20, l'autorité administrative compétente pour présenter ses observations avant l'inclusion
-d'un immeuble classé ou proposé pour le classement dans une enquête aux fins d'expropriation pour cause d'utilité publique
-est le préfet de région, sauf si le ministre a décidé d'évoquer le dossier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 31 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-20 (V)
-
-
-###### Article R621-51
-
-Lorsque le préfet décide de recourir à l'expropriation d'un immeuble classé en application de l'article L. 621-13 ou de
-l'article L. 621-18, l'indemnité est fixée, à défaut d'accord amiable, par la juridiction compétente en matière
-d'expropriation.
-
-Si des travaux ont été exécutés d'office en application des articles L. 621-12 et L. 621-14, la part des frais engagés par
-l'Etat est déduite du montant de l'indemnité d'expropriation ainsi fixé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 32 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-12 (V)
-  - Code du patrimoine. - art. L621-13 (V)
-  - Code du patrimoine. - art. L621-18 (V)
-
-
-##### Sous-section 8 : Aliénation<a id=347></a>
-
-###### Article R621-52
-
-En cas de projet d'aliénation d'un immeuble classé appartenant à une collectivité territoriale ou à l'un de ses
-établissements publics, le préfet de région présente ses observations dans le délai de deux mois suivant la notification
-faite par le propriétaire de l'immeuble, en application de l'article L. 621-22.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. L621-22
-
-
-##### Section 2 : Inscription des immeubles<a id=348></a>
-
-##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=349></a>
-
-###### Article R621-53
-
-La demande d'inscription d'un immeuble est présentée par le propriétaire ou par toute personne y ayant intérêt. La demande
-d'inscription d'un immeuble appartenant à l'Etat peut en outre être présentée par le préfet après consultation de
-l'affectataire domanial.
-
-L'initiative d'une proposition d'inscription d'immeuble peut également être prise par le ministre chargé de la culture, la
-Commission nationale du patrimoine et de l'architecture ou le préfet de région.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 1
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R720-10 (M)
-
-
-###### Article R621-54
-
-L'inscription d'un immeuble au titre des monuments historiques est prononcée par arrêté du préfet de région après avis de la
-commission régionale du patrimoine et de l'architecture réunie en formation plénière.
-
-Toutefois, lorsque l'initiative de l'inscription émane du ministre chargé de la culture ou de la Commission nationale du
-patrimoine et de l'architecture ou lorsque les différentes parties d'un même immeuble font à la fois l'objet, les unes d'une
-proposition de classement, les autres d'une proposition d'inscription, la décision est prise par arrêté de ce ministre, après
-consultation de la Commission nationale du patrimoine et de l'architecture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 1
-
-
-###### Article R621-55
-
-Les demandes d'inscription d'un immeuble au titre des monuments historiques sont adressées au préfet de la région dans
-laquelle est situé l'immeuble.
-
-La demande est accompagnée de la description de l'immeuble, d'éléments relatifs à son histoire et à son architecture, ainsi
-que des photographies et des documents graphiques le représentant dans sa totalité et sous ses aspects les plus intéressants
-du point de vue de l'histoire et de l'art.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 36 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-56
-
-Le préfet de région recueille l'avis de la commission régionale du patrimoine et de l'architecture ou de sa délégation
-permanente sur les demandes dont il est saisi, après avoir vérifié le caractère complet du dossier, et sur les propositions
-d'inscription dont il prend l'initiative.
-
-S'il prend une décision de rejet, le préfet de région en informe le demandeur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 1
-
-
-###### Article R621-57
-
-La décision d'inscription mentionne :
-
-1° La dénomination ou la désignation de l'immeuble ;
-
-2° L'adresse ou la localisation de l'immeuble et le nom de la commune où il est situé ;
-
-3° L'étendue totale ou partielle de l'inscription avec les références cadastrales des parcelles, en précisant, si
-l'inscription est partielle, les parties de l'immeuble auxquelles elle s'applique ;
-
-4° Le nom et le domicile du propriétaire avec la désignation de l'acte de propriété.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 38 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-58
-
-La décision d'inscription de l'immeuble est notifiée par le préfet de région au propriétaire. Celui-ci est tenu d'en informer
-les affectataires ou occupants successifs. 
-
-Cette décision est notifiée avec l'indication de l'étendue de la servitude de protection au maire et, le cas échéant, au
-président de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme qui l'annexe
-à ce plan, lorsqu'il existe, dans les conditions prévues à l'article L. 153-60 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 39 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L153-60 (V)
-
-_Cité par_:
-
-  - Code du patrimoine - art. R720-13 (V)
-  - Code du patrimoine - art. R780-17 (V)
-  - Code du patrimoine - art. R790-16 (V)
-
-
-###### Article R621-59
-
-La radiation de l'inscription d'un immeuble est prononcée et notifiée selon la même procédure et dans les mêmes formes que
-l'inscription.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 40 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R720-10 (M)
-
-
-##### Sous-section 2 : Travaux sur un immeuble inscrit<a id=350></a>
-
-###### Article R621-60
-
-Lorsqu'il est envisagé de réaliser sur un immeuble inscrit des constructions ou travaux autres que, d'une part, des travaux
-d'entretien ou de réparations ordinaires qui sont dispensés de toute formalité et, d'autre part, des constructions ou travaux
-mentionnés au deuxième alinéa de l'article L. 621-27, la déclaration prévue au premier alinéa du même article est souscrite
-quatre mois au moins avant la date de leur réalisation.
-
-Cette déclaration est notifiée en deux exemplaires au service déconcentré chargé de l'architecture et du patrimoine du lieu
-où l'immeuble se trouve par le propriétaire de l'immeuble, son mandataire ou par toute personne justifiant d'un titre
-l'habilitant à y faire les travaux projetés ou ayant qualité pour bénéficier de l'expropriation pour cause d'utilité
-publique. Le service déconcentré chargé de l'architecture et du patrimoine transmet sans délai un exemplaire de la
-déclaration et du dossier au préfet de région.
-
-Les pièces à joindre à la déclaration sont celles mentionnées au 1° de l'article R. 621-12.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 41 (Ab), alinéas 1 à 3.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-27 (V)
-  - Code du patrimoine. - art. R621-12 (V)
-
-
-###### Article R621-61
-
-Le délai de quatre mois mentionné au premier alinéa de l'article L. 621-27 court à compter de la date d'enregistrement de la
-déclaration. Pour s'opposer à ces travaux, le préfet de région doit, avant l'expiration du délai de quatre mois, engager la
-procédure de classement prévue aux articles R. 621-1 et suivants. Il en informe le demandeur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 41 (Ab), alinéa 4.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-27 (V)
-  - Code du patrimoine. - art. R621-1 (V)
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R621-62 (V)
-
-
-###### Article R621-62
-
-Pour les fouilles archéologiques sur un terrain inscrit, la déclaration prévue à l'article R. 621-61 est réputée avoir été
-faite lorsque l'autorisation prévue à l'article L. 523-9 ou à l'article L. 531-1 a été accordée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 41 (Ab), alinéa 5.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L523-9 (V)
-  - Code du patrimoine. - art. L531-1 (V)
-  - Code du patrimoine. - art. R621-61 (V)
-
-
-##### Sous-section 3 : Contrôle scientifique et technique<a id=351></a>
-
-###### Article R621-63
-
-Le contrôle scientifique et technique assuré par les services de l'Etat chargés des monuments historiques est destiné à :
-
-1° Vérifier périodiquement l'état des monuments historiques inscrits et les conditions de leur conservation de façon que leur
-pérennité soit assurée ;
-
-2° Vérifier et garantir que les interventions sur les immeubles inscrits, prévues à l'article L. 621-27, sont compatibles
-avec le statut de monument historique reconnu à ces immeubles en application du présent code, ne portent pas atteinte à
-l'intérêt d'art ou d'histoire ayant justifié leur inscription au titre des monuments historiques et ne compromettent pas leur
-bonne conservation en vue de leur transmission aux générations futures.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 1 (Ab), ecqc les immeubles inscrits.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-27 (V)
-
-
-###### Article R621-64
-
-Les services de l'Etat chargés des monuments historiques définissent, en fonction des caractéristiques des immeubles inscrits
-concernés, les conditions scientifiques et techniques selon lesquelles les interventions sur ces monuments historiques sont
-étudiées, conduites, et font l'objet de la documentation appropriée. Ils veillent à leur mise en œuvre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 2 (Ab), ecqc les immeubles inscrits.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-65
-
-Le contrôle scientifique et technique des services de l'Etat chargés des monuments historiques s'exerce tout au long des
-travaux autorisés jusqu'à leur achèvement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 17
-
-
-###### Article R621-66
-
-Lorsque le propriétaire, l'affectataire, son mandataire ou toute personne justifiant d'un titre l'habilitant à faire réaliser
-des travaux fait part au préfet de région de son intention de réaliser un projet de travaux sur un immeuble inscrit, le
-préfet de région met à sa disposition l'état des connaissances dont il dispose sur le bien en cause et lui indique les
-contraintes réglementaires, architecturales et techniques que le projet devra respecter.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 4 (Ab), ecqc les immeubles inscrits.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-67
-
-Le contrôle scientifique et technique sur les travaux en cours d'exécution s'exerce sur pièces et sur place jusqu'au
-récolement prévu pour les immeubles inscrits par le a de l'article R. 462-7 du code de l'urbanisme.
-
-Les services de l'Etat chargés des monuments historiques sont tenus informés par le maître d'ouvrage de la date de début des
-travaux et des réunions de chantier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 7 (Ab), ecqc les immeubles inscrits.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code de l'urbanisme - art. R462-7 (V)
-
-_Cité par_:
-
-  - Code du patrimoine - art. R720-13 (V)
-  - Code du patrimoine - art. R780-17 (V)
-  - Code du patrimoine - art. R790-16 (V)
-
-
-###### Article R621-68
-
-Pour l'exercice du contrôle scientifique et technique par les services chargés des monuments historiques, soit dans le cadre
-de leur mission de surveillance des immeubles inscrits, soit lors de la réalisation de travaux sur les immeubles inscrits,
-les propriétaires ou les affectataires sont tenus de permettre aux agents de ces services d'accéder aux lieux.
-
-Le contrôle sur place des immeubles inscrits s'effectue en présence du propriétaire, de l'affectataire ou de leur
-représentant. En cas d'absence, il s'effectue avec leur accord.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 8 (Ab), alinéas 1 et 3, ecqc les immeubles inscrits.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-##### Section 3 : Dispositions communes  aux immeubles classés et aux immeubles inscrits<a id=352></a>
-
-##### Sous-section 1 : Conservateurs des monuments historiques relevant du ministère  chargé de la culture et de ses établissements publics<a id=353></a>
-
-###### Article R621-69
-
-Le conservateur de l'immeuble protégé appartenant à l'Etat, mis à la disposition du ministère chargé de la culture ou d'un
-établissement public placé sous sa tutelle, est désigné, parmi les architectes des Bâtiments de France en fonctions au sein
-du service déconcentré chargé de l'architecture et du patrimoine territorialement compétent, par décision du préfet de
-région, sur proposition du directeur régional des affaires culturelles émise après avis du chef du service déconcentré chargé
-de l'architecture et du patrimoine. Il est notamment chargé du suivi de la réalisation des travaux d'entretien et de
-réparation ordinaire ou de réparation d'entretien de ces immeubles.
-
-Un architecte urbaniste de l'Etat spécialité " patrimoine ", affecté à un établissement public ou à un service à compétence
-nationale relevant du ministère chargé de la culture, peut être conservateur d'un ou plusieurs monuments mis à la disposition
-de l'établissement ou du service.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 18
-
-
-##### Sous-section 2 : Assistance à maîtrise d'ouvrage<a id=354></a>
-
-###### Article R621-70
-
-La mission d'assistance à titre gratuit prévue au deuxième alinéa de l'article L. 621-29-2 est exercée par les services de
-l'Etat chargés des monuments historiques dans les conditions définies aux articles R. 621-71, R. 621-75, R. 621-76 et R.
-621-77, sous la forme d'une conduite d'opération totale ou partielle, telle qu'elle est définie à l'article 6 de la loi n°
-85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée, auprès
-des propriétaires et des affectataires domaniaux d'immeubles protégés au titre des monuments historiques.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°85-704 du 12 juillet 1985 - art. 6 (M)
-  - Code du patrimoine. - art. L621-29-2 (V)
-  - Code du patrimoine. - art. R621-71 (V)
-  - Code du patrimoine. - art. R621-77 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 1 (Ab), ecqc les immeubles.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-71
-
-L'assistance à maîtrise d'ouvrage peut être accordée à titre gratuit au propriétaire ou à l'affectataire domanial :
-
-1° En cas d'insuffisance des ressources du demandeur, qui s'apprécient :
-
-a) S'il s'agit d'une collectivité territoriale ou d'un groupement, au regard de son potentiel fiscal, tel que défini à
-l'article L. 2334-4 du code général des collectivités territoriales, du nombre de monuments historiques sur son territoire et
-de tout autre élément matériel et économique significatif ;
-
-b) S'il s'agit d'un propriétaire privé, au regard de ses revenus relatifs aux trois années précédant la demande ;
-
-c) S'il s'agit d'un établissement public, au regard des éléments relatifs à la situation financière de l'établissement ;
-
-2° En cas de complexité de l'opération, appréciée, au vu des moyens dont dispose le propriétaire ou l'affectataire, au regard
-de la nécessité et du degré d'intervention sur les structures ou sur les éléments caractéristiques ayant justifié la
-protection de l'immeuble au titre du présent livre et à raison de la complexité technique ou du caractère innovant des
-techniques utilisées, ainsi que de l'existence de risques ou de nuisances particulièrement importants pour le voisinage ou
-pour l'environnement bâti.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 2 (Ab), alinéas 1 à 7, ecqc les immeubles.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L2334-4 (M)
-
-_Cité par_:
-
-  - Code du patrimoine - art. R780-18 (V)
-  - Code du patrimoine - art. R790-17 (V)
-  - Code du patrimoine. - art. R621-70 (V)
-  - Code du patrimoine. - art. R621-75 (V)
-  - Code du patrimoine. - art. R720-14 (V)
-
-
-###### Article R621-72
-
-L'assistance à maîtrise d'ouvrage qui peut, en vertu du troisième alinéa de l'article L. 621-29, être accordée aux
-propriétaires ou affectataires domaniaux ne remplissant pas les conditions pour bénéficier d'une assistance à maîtrise
-d'ouvrage gratuite est assurée par les services de l'Etat chargés des monuments historiques, sous la forme d'une conduite
-d'opération totale ou partielle, telle qu'elle est définie à l'article 6 de la loi n° 85-704 du 12 juillet 1985 relative à la
-maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée, en contrepartie d'une rémunération fixée dans
-les conditions prévues à l'article R. 621-73. Cette assistance ne peut être accordée aux propriétaires ou affectataires
-domaniaux que dans la limite de la disponibilité des moyens de l'Etat et sous réserve qu'ils établissent la carence de toute
-offre privée ou publique, compétente en matière de monuments historiques, à satisfaire leur besoin. Cette carence ne peut
-être établie, pour les personnes soumises au code des marchés publics ou à l'ordonnance n° 2005-649 du 6 juin 2005 relative
-aux marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics qu'après mise en
-œuvre des procédures de publicité et de concurrence prévues par ces textes et selon les modalités qu'ils prévoient.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°85-704 du 12 juillet 1985 - art. 6 (M)
-  - Ordonnance n°2005-649 du 6 juin 2005 (V)
-  - Code du patrimoine. - art. L621-29 (V)
-  - Code du patrimoine. - art. R621-73 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 3 (Ab), ecqc les immeubles.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-73
-
-La rémunération de la prestation prévue à l'article R. 621-72 donne lieu à application d'un barème établi à proportion des
-coûts comprenant :
-
-a) Les coûts matériels et salariaux liés à l'exécution de la prestation ;
-
-b) La fraction des frais généraux des services de l'Etat qui sont imputables à l'opération.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 4 (Ab), ecqc les immeubles.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine - art. R621-72 (V)
-
-
-###### Article R621-74
-
-Les recettes tirées de la rémunération des missions d'assistance à maîtrise d'ouvrage assurées par les services de l'Etat
-chargés des monuments historiques font l'objet d'une procédure d'attribution de produits par décret pris sur le rapport du
-ministre chargé des finances selon les modalités prévues au III de l'article 17 de la loi organique n° 2001-692 du 1er août
-2001 relative aux lois de finances.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi organique n°2001-692 du 1 août 2001 - art. 17 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 5 (Ab), ecqc les immeubles.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-75
-
-La demande d'assistance des services de l'Etat chargés des monuments historiques doit être adressée au préfet de région par
-le propriétaire ou par l'affectataire domanial, par lettre motivée.
-
-Le préfet de région décide au cas par cas du contenu des missions d'assistance pouvant être assurées par l'Etat à titre
-gratuit ou à titre onéreux, selon les conditions définies aux articles R. 621-71 et R. 621-72.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 6 (Ab), ecqc les immeubles.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R621-71 (V)
-
-
-###### Article R621-76
-
-Les rapports entre le maître d'ouvrage et l'Etat sont définis par un contrat écrit qui prévoit notamment :
-
-a) L'ouvrage et les travaux qui font l'objet du contrat ;
-
-b) Les missions de conduite d'opération prises en charge par l'Etat ;
-
-c) Les conditions dans lesquelles le maître d'ouvrage constate l'achèvement des missions exercées par les services de
-l'Etat ;
-
-d) Les modalités de résiliation du contrat ;
-
-e) Le cas échéant, les modalités de rémunération des services de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 7 (Ab), ecqc les immeubles.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-77
-
-L'exercice des missions définies aux articles R. 621-70 et R. 621-72 est assuré par les services déconcentrés du ministère
-chargé des monuments historiques, sur décision du préfet de région ou par un service à compétence nationale, sur décision du
-ministre chargé des monuments historiques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 8 (Ab), ecqc les immeubles.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R621-70 (V)
-
-
-##### Sous-section 3 : Subventions<a id=355></a>
-
-###### Article R621-78
-
-Par dérogation aux dispositions du décret n° 99-1060 du 16 décembre 1999 relatif aux subventions de l'Etat pour des projets
-d'investissement :
-
-a) Une avance peut être versée lors du commencement d'exécution de chaque tranche d'une opération de travaux réalisés sur des
-monuments historiques et peut excéder 5 % dans la limite de 30 % du montant prévisionnel de la subvention ;
-
-b) Lorsque les travaux subventionnés sont des travaux de consolidation d'urgence du monument ou que les travaux sont financés
-par l'Etat au titre de l'article 4 de la loi n° 2009-122 du 4 février 2009 de finances rectificative pour 2009, le montant de
-l'avance peut atteindre 50 % du montant prévisionnel de la subvention.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°99-1060 du 16 décembre 1999 (V)
-  - Loi n°2009-122  du 4 février 2009 - art. 4 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 9 (Ab), alinéas 1 à 3, ecqc les immeubles.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-79
-
-Le solde de la subvention est versé après l'établissement du certificat de conformité pour les immeubles classés et après le
-récolement pour les immeubles inscrits.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 9 (Ab), alinéa 4, ecqc les immeubles.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-##### Sous-section 4 : Publicité des mesures de protection<a id=356></a>
-
-###### Article R621-80
-
-Les décisions de classement ou de déclassement sont publiées par le ministre chargé de la culture au Bulletin officiel du
-ministère. Les arrêtés d'inscription ou de radiation d'inscription sont publiés au recueil des actes administratifs de la
-préfecture de région.
-
-La liste des immeubles classés, déclassés, inscrits ou radiés au cours d'une année est publiée au Journal officiel de la
-République française avant l'expiration du premier semestre de l'année suivante.
-
-Les décisions de classement ou d'inscription, de déclassement ou de radiation d'inscription sont publiées par les soins du
-préfet de région au fichier immobilier de la situation de l'immeuble classé ou inscrit. Cette publication, qui ne donne lieu
-à aucune perception au profit du Trésor, est faite dans les formes et de la manière prescrites par les lois et règlements
-concernant la publicité foncière.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
-
-
-###### Article R621-81
-
-La liste générale des immeubles classés et inscrits, établie et publiée par le ministère chargé de la culture, comprend :
-
-1° La dénomination ou la désignation de l'immeuble ;
-
-2° Le nom de la commune où il est situé ;
-
-3° L'étendue totale ou partielle du classement ou de l'inscription avec les références cadastrales des parcelles,
-lorsqu'elles sont disponibles, en précisant, si le classement ou l'inscription est partiel, les parties de l'immeuble
-auxquelles la protection s'applique ;
-
-4° La qualité de personne publique ou privée du propriétaire et pour un immeuble appartenant à l'Etat, le bénéficiaire de la
-mise à disposition ;
-
-5° La date et la nature de la décision portant classement ou inscription.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 19
-
-
-##### Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration<a id=357></a>
-
-###### Article R621-82
-
-Lorsque l'Etat participe financièrement à des travaux d'entretien, de réparation ou de restauration d'un immeuble classé ou
-inscrit, l'importance de son concours est fixée en tenant compte des caractéristiques particulières de cet immeuble, de son
-état actuel, de la nature des travaux projetés et, enfin, des efforts consentis par le propriétaire ou toute autre personne
-intéressée à la conservation du monument.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 44 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-##### Sous-section 6 : Découverte fortuite<a id=358></a>
-
-###### Article R621-83
-
-Toute découverte faite fortuitement ou à l'occasion de travaux sur un immeuble classé ou inscrit et portant sur un élément
-nouveau relatif à l'histoire, à l'architecture ou au décor de l'immeuble est signalée immédiatement au préfet de région qui
-peut, selon le cas, décider ou conseiller des mesures de sauvegarde.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 45 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-##### Sous-section 7 : Aliénation<a id=359></a>
-
-###### Article R621-84
-
-Toute aliénation d'un immeuble classé ou inscrit est notifiée, dans les quinze jours de sa date, au préfet de région, par
-celui qui l'a consentie. La notification mentionne le nom et le domicile du nouveau propriétaire ainsi que la date de
-l'aliénation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 46 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-84-1
-
-En cas de projet d'aliénation d'un immeuble classé ou inscrit appartenant à l'Etat ou à l'un de ses établissements publics,
-le ministre chargé de la culture présente ses observations, après avis de la Commission nationale du patrimoine et de
-l'architecture, dans le délai de six mois suivant la notification faite par le ministre chargé du domaine, en application de
-l'article L. 621-29-9.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. L621-29-9
-
-
-##### Sous-section 8 : Notification<a id=360></a>
-
-###### Article R621-85
-
-La notification des décisions, informations, attestations ou demandes prévues aux articles R. 621-4, R. 621-6, R. 621-8,
-premier alinéa, R. 621-10, R. 621-12, deuxième, huitième et neuvième alinéas, R. 621-13, deuxième alinéa, R. 621-14, R.
-621-15, R. 621-17, R. 621-47, R. 621-48, R. 621-49, R. 621-57, R. 621-59, R. 621-60, R. 621-61, R. 621-62, R. 621-63, R.
-621-83 et R. 621-84 s'effectue, au choix de l'expéditeur, par remise directe à son destinataire qui en délivre récépissé ou
-par lettre remise contre signature.
-
-Lorsque le destinataire a préalablement et expressément accepté de la recevoir à une adresse électronique, elle peut
-également être adressée par courrier électronique. Dans ce cas, le destinataire est réputé avoir reçu cette notification à la
-date à laquelle il la consulte à l'aide de la procédure électronique. Un accusé de réception électronique est adressé à
-l'autorité compétente au moment de la consultation du document. L'ouverture de la page associée contenant la notification ou
-le certificat vaut accusé de réception. A défaut de consultation à l'issue d'un délai de huit jours après son envoi, le
-destinataire est réputé avoir reçu cette notification.
-
-Un arrêté du ministre chargé de la culture fixe les caractéristiques techniques de la procédure électronique de transmission,
-garantissant la fiabilité de l'identification du demandeur et de l'autorité compétente, ainsi que l'intégrité des documents
-adressés, la sécurité et la confidentialité des échanges.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 47 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R621-4 (V)
-  - Code du patrimoine. - art. R621-47 (V)
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R622-58 (V)
-
-
-##### Sous-section 9 : Autorisation d'affichage<a id=361></a>
-
-###### Article R621-86
-
-L'autorisation d'affichage prévue à l'article L. 621-29-8 peut être délivrée à l'occasion de travaux extérieurs sur des
-immeubles classés ou inscrits nécessitant la pose d'échafaudage. La demande est présentée par le maître d'ouvrage, le cas
-échéant après accord du propriétaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-645 du 30 avril 2007 - art. 1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L621-29-8 (V)
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R624-2 (V)
-
-
-###### Article R621-87
-
-L'autorité compétente pour autoriser cet affichage est le préfet de région ou le ministre chargé de la culture en cas
-d'évocation du dossier. La décision est prise après consultation du préfet et, le cas échéant, accord de l'affectataire
-cultuel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-645 du 30 avril 2007 - art. 2 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-88
-
-Lorsque les travaux portent sur un immeuble classé, la demande d'autorisation d'affichage est adressée en deux exemplaires,
-conjointement au dossier d'autorisation de travaux sur immeubles classés, au service déconcentré chargé de l'architecture et
-du patrimoine, qui en transmet sans délai un exemplaire au préfet de région. La décision est prise dans les délais prévus à
-l'article R. 621-13. 
-
-Lorsque les travaux portent sur un immeuble inscrit, la demande d'autorisation d'affichage est adressée en deux exemplaires,
-conjointement au dossier d'accord pour travaux sur immeubles inscrits, à l'autorité mentionnée à l'article R*. 423-1 du code
-de l'urbanisme, qui en transmet sans délai un exemplaire au service déconcentré chargé de l'architecture et du patrimoine et
-un exemplaire au préfet de région. La décision est prise dans le délai prévu à l'article R*. 423-66 du même code.
-
-Lorsque la demande d'autorisation d'affichage n'a pu être déposée en même temps que le dossier d'autorisation ou d'accord
-pour travaux ou lorsqu'il est envisagé de modifier l'affichage autorisé, la demande est adressée en deux exemplaires au
-service déconcentré chargé de l'architecture et du patrimoine et instruite dans les mêmes conditions. La décision est adoptée
-dans un délai de deux mois suivant la réception de la demande.
-
-Dans tous les cas, faute de réponse dans les délais impartis, la demande est réputée rejetée.
-
-La décision est notifiée au maire par le préfet de région.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-645 du 30 avril 2007 - art. 3 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code de l'urbanisme - art. R*423-1 (V)
-  - Code de l'urbanisme - art. R*423-66 (V)
-  - Code du patrimoine. - art. R621-13 (V)
-
-_Cité par_:
-
-  - Code du patrimoine - art. R720-13 (V)
-  - Code du patrimoine - art. R780-17 (V)
-  - Code du patrimoine - art. R790-16 (V)
-
-
-###### Article R621-89
-
-La demande d'autorisation d'affichage comporte l'indication de l'emplacement de l'échafaudage, de sa surface et de sa durée
-d'installation, l'indication de l'emplacement des bâches, le nom et l'adresse ou bien la dénomination ou la raison sociale
-des personnes désirant apposer ou faire apposer un message et le montant attendu des recettes de l'affichage, ainsi que les
-esquisses ou photos des messages envisagés et l'indication de l'emplacement envisagé pour ceux-ci sur les bâches.
-
-En cas d'utilisations successives du même espace par plusieurs messages, elle comporte ces informations pour chaque message.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-645 du 30 avril 2007 - art. 4 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-90
-
-L'autorisation d'affichage est délivrée au vu de la compatibilité du contenu de l'affichage, de son volume et de son
-graphisme avec le caractère historique et artistique du monument et de son environnement, sa destination et son utilisation
-par le public, en tenant compte des contraintes de sécurité.
-
-Elle peut être assortie de prescriptions ou d'un cahier des charges. Elle détermine en particulier, selon les dimensions de
-l'échafaudage et du monument, les limites de la surface consacrée à l'affichage, qui ne peut excéder 50 % de la surface
-totale de la bâche de support, l'emplacement de l'affichage sur la bâche ainsi que la durée de son utilisation, qui ne peut
-excéder l'utilisation effective des échafaudages.
-
-Elle peut prescrire que la bâche reproduise, sur les surfaces laissées libres, l'image du monument occulté par les travaux.
-
-Les références de cette autorisation ainsi que l'indication des dates et surfaces visées au deuxième alinéa doivent être
-mentionnées sur l'échafaudage, de manière visible de la voie publique, pendant toute la durée de son utilisation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-645 du 30 avril 2007 - art. 5 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R621-91
-
-Les subventions publiques sont calculées après que le montant des recettes perçues au titre de l'affichage ou, lorsqu'une
-partie des travaux ne bénéficie pas de subvention publique, la partie de ces recettes correspondant au prorata du montant des
-travaux subventionnés par rapport au montant total des travaux entrepris, a été déduit du montant des travaux éligibles.
-
-Si les recettes perçues au titre de l'affichage laissent apparaître, en fin d'opération, un excédent par rapport à
-l'estimation initiale, elles sont réparties selon les mêmes principes pour le versement du solde des subventions qui peuvent
-donner lieu à reversement en cas de trop-perçu.
-
-Si le total des recettes d'affichage encaissées est supérieur au montant des travaux, cet excédent est pris en compte lors de
-l'examen de demande de subventions pour des travaux ultérieurs sur le même immeuble.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-645 du 30 avril 2007 - art. 6 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-##### Sous-section 10 : Détachement d'un effet mobilier attaché à perpétuelle demeure<a id=362></a>
-
-###### Article R621-91-1
-
-Les autorisations prévues au deuxième alinéa de l'article L. 621-9 et au troisième alinéa de l'article L. 621-27 sont
-délivrées par le préfet de région dans les conditions prévues aux articles R. 621-11 à R. 621-23.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. L621-27
-  - Code du patrimoine - art. L621-9
-  - Code du patrimoine - art. R621-11 (V)
-
-
-##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits<a id=363></a>
-
-##### Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit<a id=364></a>
-
-##### Section 4 : Abords<a id=365></a>
-
-##### Sous-section 1 : Création et modification du périmètre délimité des abords<a id=366></a>
-
-###### Article R621-92
-
-Préalablement à l'inscription d'un immeuble au titre des monuments historiques, le préfet de région saisit l'architecte des
-Bâtiments de France afin qu'il propose, le cas échéant, un projet de périmètre délimité des abords.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 48 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. L621-30
-
-_Cité par_:
-
-  - Code du patrimoine - art. R720-12-1 (V)
-  - Code du patrimoine - art. R780-17 (V)
-
-
-###### Article R621-93
-
-I. – Lorsque la commune ou l'établissement public de coopération intercommunale compétent élabore, modifie ou révise au sens
-du 1° de l'article L. 153-31 du code de l'urbanisme le plan local d'urbanisme ou le document d'urbanisme en tenant lieu ou
-lorsqu'il élabore ou révise la carte communale, le préfet saisit l'architecte des Bâtiments de France afin qu'il propose, le
-cas échéant, un projet de périmètre délimité des abords. 
-
-II. – L'organe délibérant de l'autorité compétente se prononce sur le projet de périmètre délimité des abords en même temps
-qu'il arrête le projet de plan local d'urbanisme conformément à l'article L. 153-14 du code de l'urbanisme après avoir
-consulté, le cas échéant, la ou les communes concernées. Lorsqu'il s'est prononcé favorablement, l'enquête publique prévue
-par l'article L. 153-19 du même code porte à la fois sur le projet de plan local d'urbanisme et sur le projet de périmètre
-délimité des abords. 
-
-Lors de l'élaboration ou de la révision d'une carte communale, l'organe délibérant de l'autorité compétente se prononce sur
-le projet de périmètre délimité des abords après avoir consulté, le cas échéant, la ou les communes concernées. Lorsqu'il
-s'est prononcé favorablement, l'enquête publique prévue par l'article L. 163-5 du code de l'urbanisme porte à la fois sur le
-projet de carte communale et sur le projet de périmètre délimité des abords. 
-
-Lors de la modification d'un plan local d'urbanisme ou d'un document en tenant lieu, l'organe délibérant de l'autorité
-compétente se prononce sur le projet de périmètre délimité des abords après avoir consulté, le cas échéant, la ou les
-communes concernées. Lorsqu'il s'est prononcé favorablement, le maire ou le président de l'établissement public de
-coopération intercommunale compétent diligente une enquête publique unique portant à la fois sur le projet de modification du
-document d'urbanisme et sur le projet de périmètre délimité des abords. 
-
-Dans tous les autres cas, le préfet organise une enquête publique dans les conditions fixées par le chapitre III du titre II
-du livre Ier du code de l'environnement. 
-
-III. – Lorsque le projet de périmètre délimité des abords concerne plusieurs départements, l'enquête peut être ouverte et
-organisée par une décision conjointe des préfets concernés pour ouvrir et organiser l'enquête. Dans ce cas, le préfet chargé
-de coordonner l'organisation de l'enquête et d'en centraliser les résultats est désigné conformément aux dispositions de
-l'article 69 du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des
-services de l'Etat dans les régions et départements. 
-
-IV. – Le commissaire enquêteur consulte le propriétaire ou l'affectataire domanial des monuments historiques concernés. Le
-résultat de cette consultation figure dans le rapport du commissaire enquêteur. 
-
-Après avoir reçu le rapport et les conclusions motivées du commissaire enquêteur ou de la commission d'enquête, le préfet
-demande à l'autorité compétente en matière de plan local d'urbanisme, de document d'urbanisme en tenant lieu et de carte
-communale un accord sur le projet de périmètre délimité des abords, éventuellement modifié pour tenir compte des conclusions
-de l'enquête publique. En cas de modification du projet de périmètre délimité des abords, l'autorité compétente consulte, le
-cas échéant, à nouveau la ou les communes concernées. 
-
-A défaut de réponse dans les trois mois suivant la saisine, l'autorité compétente est réputée avoir donné son accord. 
-
-En cas de modification du projet de périmètre délimité des abords, l'architecte des Bâtiments de France est également
-consulté.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2004-374 du 29 avril 2004 - art. 69
-  - Code de l'urbanisme - art. L153-14
-  - Code de l'urbanisme - art. L153-19
-  - Code de l'urbanisme - art. L153-31
-  - Code de l'urbanisme - art. L163-5
-  - Code de l'environnement -  Chapitre III : Participation du public aux déci... (V)
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 49 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cité par_:
-
-  - Code du patrimoine - art. R780-17 (M)
-  - Code du patrimoine - art. R780-18-1 (V)
-  - Code du patrimoine - art. R790-16 (M)
-
-
-###### Article R621-94
-
-En cas d'accord de la commune ou de l'établissement public de coopération intercommunale compétent en matière de plan local
-d'urbanisme, de document d'urbanisme en tenant lieu et de carte communale, le périmètre délimité des abords est créé par
-arrêté du préfet de région. 
-
-A défaut d'accord de l'autorité compétente en matière de plan local d'urbanisme, de document d'urbanisme en tenant lieu et de
-carte communale, le périmètre délimité des abords est créé par arrêté du préfet de région ou par décret en Conseil d'Etat
-dans les conditions prévues au deuxième alinéa de l'article L. 621-31.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 50 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Décret n°2015-1782 du 28 décembre 2015 (V)
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. L621-31
-
-
-###### Article R621-95
-
-La décision de création d'un périmètre délimité des abords est notifiée par le préfet de région à la commune ou à
-l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, de document d'urbanisme
-en tenant lieu et de carte communale. 
-
-Elle fait l'objet des mesures de publicité et d'information prévues à l'article R. 153-21 du code de l'urbanisme. 
-
-Lorsque le territoire concerné est couvert par un plan local d'urbanisme, un document d'urbanisme en tenant lieu ou une carte
-communale, l'autorité compétente annexe le tracé des nouveaux périmètres à ce plan, dans les conditions prévues aux articles
-L. 153-60 ou L. 163-10 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L153-60
-  - Code de l'urbanisme - art. L163-10
-  - Code de l'urbanisme - art. R153-21
-
-_Cité par_:
-
-  - Code du patrimoine - art. R780-17 (M)
-  - Code du patrimoine - art. R790-16 (M)
-  - Code du patrimoine. - art. R720-13 (M)
-
-
-##### Sous-section 2 : Régime des travaux en abords<a id=367></a>
-
-###### Article R621-96
-
-L'autorisation prévue à l'article L. 621-32 pour les travaux situés en abords de monuments historiques non soumis à
-autorisation au titre du code de l'environnement ou du code de l'urbanisme est régie par la présente sous-section.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. L621-32
-
-
-###### Article R621-96-1
-
-La demande d'autorisation de travaux est adressée par lettre recommandée avec demande d'avis de réception ou déposée à la
-mairie de la commune dans laquelle les travaux sont envisagés :
-
-1° Par le propriétaire du terrain, son mandataire ou une personne attestant être autorisée par eux à exécuter les travaux ;
-
-2° En cas d'indivision, par un ou plusieurs co-indivisaires ou leur mandataire ;
-
-3° Par une personne ayant qualité pour bénéficier de l'expropriation pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-_Cité par_:
-
-  - Code du patrimoine - art. R621-96-2 (V)
-
-
-###### Article R621-96-2
-
-Un arrêté du ministre chargé de la culture fixe le modèle national de la demande d'autorisation. La demande d'autorisation
-précise :
-
-1° L'identité du ou des demandeurs ;
-
-2° La localisation et la superficie du ou des terrains ;
-
-3° La nature des travaux envisagés.
-
-La demande comporte également l'attestation du ou des déclarants qu'ils remplissent les conditions fixées à l'article R.
-621-96-1.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-_Cite_:
-
-  - Code du patrimoine - art. R621-96-1
-
-
-###### Article R621-96-3
-
-Le dossier joint à la demande d'autorisation comprend :
-
-a) Une notice de présentation des travaux envisagés indiquant les matériaux utilisés et les modes d'exécution des travaux ;
-
-b) Un plan permettant de connaître la situation du terrain à l'intérieur de la commune ;
-
-c) Un plan de masse faisant apparaître les constructions, les clôtures, la végétation et les éléments paysagers existants et
-projetés lorsque les travaux portent sur l'aménagement ou la modification du terrain ;
-
-d) Deux documents photographiques permettant de situer le terrain respectivement dans l'environnement proche et dans le
-paysage lointain.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. L621-30
-  - Code forestier (nouveau) - art. L214-13
-  - Code forestier (nouveau) - art. L341-3
-
-
-###### Article R621-96-4
-
-La demande d'autorisation et le dossier qui l'accompagne sont établis en trois exemplaires.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cité par_:
-
-  - Code du patrimoine - art. R621-96-8 (V)
-
-
-###### Article R621-96-5
-
-Le maire affecte un numéro d'enregistrement à la demande et en délivre récépissé dans les conditions prévues par un arrêté du
-ministre chargé de la culture.
-
-Le récépissé précise le numéro d'enregistrement, ainsi que les conditions et délais dans lesquels la décision de l'autorité
-compétente est prise, selon que le dossier est complet ou non, par application de l'article R. 621-96-9.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-_Cite_:
-
-  - Code du patrimoine - art. R621-96-9
-
-
-###### Article R621-96-6
-
-Lorsque la demande précise que le demandeur accepte de recevoir à une adresse électronique les réponses de l'autorité
-compétente, les notifications peuvent lui être adressées par courrier électronique.
-
-Dans ce cas, le demandeur est réputé avoir reçu ces notifications à la date à laquelle il les consulte à l'aide de la
-procédure électronique. Un accusé de réception électronique est adressé à l'autorité compétente au moment de la consultation
-du document. A défaut de consultation à l'issue d'un délai de huit jours après leur envoi, le demandeur est réputé avoir reçu
-ces notifications.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-
-###### Article R621-96-7
-
-Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire procède à
-l'affichage en mairie d'un avis de dépôt de demande d'autorisation précisant les caractéristiques essentielles du projet,
-dans des conditions prévues par arrêté du ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-
-###### Article R621-96-8
-
-Le maire conserve un exemplaire du dossier et transmet, dans la semaine qui suit le dépôt de la demande, un exemplaire de la
-demande et du dossier à l'architecte des Bâtiments de France et un exemplaire au préfet.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. R621-96-4 (V)
-
-
-###### Article R621-96-9
-
-Lorsque le dossier est complet, le silence gardé par le préfet pendant deux mois à compter du dépôt de la demande vaut
-autorisation en application de l'article L. 231-1 du code des relations entre le public et l'administration. 
-
-Lorsque le dossier est incomplet, le préfet avise le demandeur, dans un délai d'un mois à compter de l'enregistrement de la
-demande, des pièces manquant à son dossier. Dans ce cas, le délai mentionné à l'alinéa précédent court à compter du dépôt de
-ces pièces. A défaut pour le demandeur de déposer ces pièces auprès du maire dans un délai de trois mois à compter de la
-réception de cet avis, la demande est réputée rejetée.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cité par_:
-
-  - Décret n°2019-37 du 23 janvier 2019 - art. 4 (V)
-  - Code du patrimoine - art. R621-96-10 (V)
-  - Code du patrimoine - art. R621-96-12 (Ab)
-  - Code du patrimoine - art. R621-96-5 (V)
-
-_Cite_:
-
-  - Code des relations entre le public et l'administration - art. L231-1
-
-
-###### Article R621-96-10
-
-L'architecte des Bâtiments de France dispose d'un délai d'un mois à compter de sa saisine pour se prononcer. A défaut, il est
-réputé avoir donné son accord.
-
-S'il estime que le dossier est incomplet, il en avise le préfet, dans le délai de quinze jours à compter de sa saisine. Le
-préfet fait alors application du deuxième alinéa de l'article R. 621-96-9.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cité par_:
-
-  - Décret n°2019-37 du 23 janvier 2019 - art. 4 (V)
-
-_Cite_:
-
-  - Code du patrimoine - art. R621-96-9
-
-
-###### Article R621-96-11
-
-Le maire adresse au chef du service déconcentré de l'Etat chargé de l'architecture et du patrimoine son avis sur chaque
-demande. Cet avis est réputé favorable s'il n'est pas intervenu dans le délai d'un mois à compter du dépôt de la demande à la
-mairie. 
-
-L'architecte des bâtiments de France adresse un projet de décision au préfet.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-
-###### Article R621-96-13
-
-Toute décision expresse prise par le préfet statuant sur la demande d'autorisation, comportant refus ou prescriptions, est
-motivée.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-
-###### Article R621-96-14
-
-La décision du préfet est notifiée au demandeur par lettre recommandée avec demande d'avis de réception, ou par transmission
-électronique avec demande d'accusé de réception.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-
-###### Article R621-96-15
-
-Mention de l'autorisation doit être affichée sur le terrain, de manière visible de l'extérieur, par les soins de son
-bénéficiaire, dès la notification de l'arrêté ou dès la date à laquelle l'autorisation est acquise et pendant toute la durée
-du chantier.
-
-En outre, dans les huit jours de la délivrance de l'autorisation, un extrait de cette autorisation est publié par voie
-d'affichage à la mairie pendant deux mois. L'exécution de cette formalité fait l'objet d'une mention au registre
-chronologique des actes de publication et de notification des arrêtés du maire prévu à l'article R. 2122-7 du code général
-des collectivités territoriales.
-
-Le contenu et les formes de l'affichage de l'autorisation sont fixés par arrêté du ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. R2122-7
-
-
-###### Article R621-96-16
-
-L'autorisation est périmée si les travaux ne sont pas entrepris dans le délai de deux ans à compter de la notification de la
-décision ou de la date à laquelle la décision tacite est intervenue. Lorsque le commencement des travaux est subordonné à une
-autorisation ou à une procédure prévue par une autre législation, ce délai court à compter de la date à laquelle les travaux
-peuvent commencer en application de cette législation si cette date est postérieure à ladite notification.
-
-L'autorisation est également périmée si, passé ce délai, les travaux sont interrompus pendant plus d'une année.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-
-###### Article R621-96-17
-
-L'autorisation peut être prorogée pour une année, sur demande de son bénéficiaire.
-
-La demande de prorogation est établie en deux exemplaires et adressée par pli recommandé ou déposée à la mairie deux mois au
-moins avant l'expiration du délai de validité.
-
-La prorogation est acquise au bénéficiaire de l'autorisation si aucune décision ne lui a été adressée dans le délai de deux
-mois suivant la date de l'avis de réception postal ou de la décharge de l'autorité compétente pour statuer sur la demande. La
-prorogation prend effet au terme de la validité de la décision initiale.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-
-##### Section 5 : Dispositions diverses<a id=368></a>
-
-###### Article R621-97
-
-L'autorité administrative mentionnée aux premier et deuxième alinéas de l'article L. 621-33 est le préfet de région. 
-
-L'autorité administrative mentionnée aux troisième et quatrième alinéas de l'article L. 621-33 est le ministre chargé de la
-culture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. L621-33
-
-
-##### Section 6 : Domaines nationaux<a id=369></a>
-
-###### Article R621-98
-
-Le ministre chargé de la culture peut exercer le droit de préemption prévu à l'article L. 621-39 dans les conditions et selon
-les modalités définies aux articles L. 213-2 et R. 213-4 à D. 213-13-4 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2017-720 du 2 mai 2017 - art. 1
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L213-2
-  - Code de l'urbanisme - art. R213-4
-  - Code du patrimoine - art. L621-39
-
-_Nouveaux textes_:
-
-  - Code du patrimoine - art. R621-99 (V)
-
-_Cité par_:
-
-  - Code du patrimoine - art. R641-1 (V)
-  - Code du patrimoine - art. R720-13 (V)
-  - Code du patrimoine - art. R780-17 (V)
-  - Code du patrimoine - art. R790-16 (V)
-
-
-###### Article R621-99
-
-Les conditions financières de l'utilisation commerciale de l'image d'éléments des domaines nationaux appartenant à l'Etat et
-confiés à un établissement public sont fixées par l'autorité compétente de l'établissement.
-
-Dans les autres cas, le préfet fixe les conditions financières des actes unilatéraux ou contrats relatifs à l'utilisation à
-des fins commerciales de l'image des biens appartenant à l'Etat qui sont inclus dans le périmètre d'un domaine national.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2017-720 du 2 mai 2017 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du patrimoine - art. R621-100 (V)
-
-
-#### Chapitre II : Objets mobiliers<a id=370></a>
-
-##### Section 1 : Classement des objets mobiliers<a id=371></a>
-
-##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=372></a>
-
-###### Article R622-1
-
-Le classement des objets mobiliers et des ensembles historiques mobiliers appartenant à l'Etat ou à un établissement public
-de l'Etat est prononcé par arrêté du ministre chargé de la culture. Le classement devient définitif si le ministre intéressé
-ou l'établissement public propriétaire ou affectataire n'a pas fait part de son désaccord dans le délai de six mois à dater
-de la notification de l'arrêté. En cas de désaccord, le classement d'office peut être prononcé par décret en Conseil d'Etat
-sur proposition du ministre chargé de la culture. Toutefois, à compter du jour de la notification, tous les effets du
-classement s'appliquent de plein droit à l'objet mobilier ou à l'ensemble historique mobilier considéré.
-
-Le classement des objets mobiliers et des ensembles historiques mobiliers n'appartenant pas à l'Etat ou à l'un de ses
-établissements publics est prononcé par arrêté du ministre chargé de la culture lorsque leur propriétaire y consent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-
-###### Article R622-1-2
-
-L'autorité administrative mentionnée au premier alinéa de l'article L. 622-1-2 est le ministre chargé de la culture. 
-
-L'autorité administrative mentionnée au deuxième alinéa du même article est le préfet de région. 
-
-La décision d'autorisation mentionne la durée du déplacement autorisé.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. L622-1-2
-
-
-###### Article R622-2
-
-La demande de classement d'un objet mobilier ou d'un ensemble historique mobilier peut être présentée par son propriétaire ou
-par toute personne y ayant intérêt.
-
-La demande de création d'une servitude de maintien dans les lieux est présentée par le propriétaire. 
-
-L'initiative d'une proposition de classement d'un objet mobilier ou d'un ensemble historique mobilier, ou de la création
-d'une servitude de maintien dans les lieux peut également être prise par le ministre chargé de la culture ou par le préfet de
-région. Ce dernier ne peut proposer l'une de ces mesures pour des biens appartenant à l'Etat qu'après consultation de
-l'affectataire domanial.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R720-10 (M)
-
-
-###### Article R622-3
-
-La demande de classement d'un objet mobilier ou d'un ensemble historique mobilier, ou la demande de création d'une servitude
-de maintien dans les lieux est adressée au préfet de la région dans laquelle sont conservés les biens concernés.
-
-La demande est accompagnée de la description des biens et de photographies.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-
-###### Article R622-4
-
-I. – Le préfet de région soumet pour avis à la commission régionale du patrimoine et de l'architecture les demandes de
-classements d'objets mobiliers et d'ensembles historiques mobiliers et les demandes de création de servitudes de maintien
-dans les lieux dont il est saisi, après avoir vérifié le caractère complet du dossier, ainsi que les propositions de
-classement ou de création de servitudes de maintien dans les lieux dont il prend l'initiative. Au vu de l'avis de la
-commission régionale du patrimoine et de l'architecture, le préfet de région peut transmettre le dossier au ministre chargé
-de la culture, en vue d'un éventuel classement, ou d'une éventuelle création de servitude de maintien dans les lieux. Dans
-tous les cas, il en informe le demandeur et le propriétaire.
-
-Lorsque la demande ou la proposition de classement porte sur un orgue, le préfet de région la transmet au ministre chargé de
-la culture qui recueille l'avis de la Commission nationale du patrimoine et de l'architecture. Le préfet de région peut
-préalablement recueillir l'avis de la commission régionale du patrimoine et de l'architecture.
-
-II. – Le ministre chargé de la culture, saisi par le préfet de région d'une demande ou d'une proposition de classement ou de
-création d'une servitude de maintien dans les lieux, statue après avoir recueilli l'avis de la Commission nationale du
-patrimoine et de l'architecture.
-
-Il consulte également la Commission nationale du patrimoine et de l'architecture lorsqu'il prend l'initiative d'un classement
-ou de la création d'une servitude de maintien dans les lieux.
-
-Il informe la commission, avant qu'elle ne rende son avis, de l'avis du propriétaire ou de l'affectataire domanial.
-
-Le ministre informe le préfet de région de l'avis de la commission et de sa décision.
-
-III. – Le ministre ne peut classer un objet ou un ensemble historique mobilier n'appartenant pas à l'Etat ou créer une
-servitude de maintien dans les lieux qu'au vu d'un dossier contenant l'accord du propriétaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cité par_:
-
-  - Code du patrimoine - art. R622-58 (V)
-
-
-###### Article R622-5
-
-La notification d'une décision d'ouverture d'une instance de classement relative à un objet mobilier prise en application de
-l'article L. 622-5 est effectuée selon les modalités prévues à l'article R. 621-6.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 57 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L622-5 (V)
-  - Code du patrimoine. - art. R621-6 (V)
-
-
-###### Article R622-6
-
-La décision de classement d'un objet mobilier ou d'un ensemble historique mobilier ou la décision de création d'une servitude
-de maintien dans les lieux mentionne :
-
-1° La dénomination ou la désignation et les principales caractéristiques de l'objet ou de l'ensemble historique mobilier et,
-lorsqu'il s'agit d'un ensemble historique mobilier, l'inventaire détaillé des objets le composant ;
-
-2° L'adresse ou la localisation de l'immeuble et le nom de la commune où il est conservé ;
-
-3° Le nom et le domicile du propriétaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-
-###### Article R622-7
-
-La décision de classement de l'objet mobilier ou de l'ensemble historique mobilier est notifiée par le préfet de région au
-propriétaire. Celui-ci est tenu d'en informer l'affectataire ou le dépositaire.
-
-La décision de création de la servitude de maintien dans les lieux est notifiée par le préfet de région au propriétaire.
-Celui-ci est tenu d'en informer l'affectataire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-
-###### Article R622-8
-
-Le déclassement d'un objet mobilier ou d'un ensemble historique mobilier, ou l'autorisation de division ou d'aliénation
-prévue au deuxième alinéa de l'article L. 622-1-1 est prononcé selon la même procédure et dans les mêmes formes que le
-classement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. L622-1-1
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R720-10 (M)
-
-
-###### Article R622-9
-
-La liste générale des objets mobiliers et des ensembles historiques mobiliers classés, établie et publiée par le ministère
-chargé de la culture, comprend :
-
-1° La dénomination ou la désignation et les principales caractéristiques de ces objets et ensembles historiques mobiliers ;
-
-2° L'indication de l'immeuble et de la commune où ils sont conservés, et, le cas échéant, de la servitude de maintien dans
-les lieux attachée à l'objet mobilier ou à l'ensemble historique mobilier concerné. Toutefois, si l'objet mobilier ou
-l'ensemble historique mobilier appartient à un propriétaire privé, celui-ci peut demander que seule l'indication du
-département soit mentionnée ;
-
-3° La qualité de personne publique ou privée de leur propriétaire et, s'il y a lieu, l'affectataire domanial ;
-
-4° La date de la décision de classement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cité par_:
-
-  - Code du patrimoine - art. R622-30 (V)
-  - Code du patrimoine - art. R622-38 (V)
-
-
-###### Article R622-10
-
-En application de l'article L. 622-5, tous les effets du classement s'appliquent de plein droit à l'objet mobilier considéré
-à compter du jour où le ministre chargé de la culture notifie au propriétaire l'instance de classement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L622-5 (V)
-
-
-##### Sous-section 2 : Travaux sur un objet mobilier classé<a id=373></a>
-
-###### Article R622-11
-
-L'autorisation de travaux sur un objet mobilier classé prévue à l'article L. 622-7 est délivrée par le préfet de région, à
-moins que le ministre chargé de la culture n'ait décidé d'évoquer le dossier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 62 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L622-7 (V)
-
-
-###### Article R622-12
-
-La demande d'autorisation de travaux sur un objet mobilier classé autre qu'un orgue est adressée en deux exemplaires par le
-propriétaire, l'affectataire domanial, le dépositaire ou le détenteur de l'objet au conservateur des antiquités et des objets
-d'art du département. Elle est accompagnée d'un dossier décrivant les travaux projetés qui comprend le constat d'état, le
-diagnostic et les propositions d'intervention ainsi que des photographies permettant d'apprécier l'état de l'objet et le
-projet de travaux.
-
-La demande d'autorisation de travaux sur un orgue classé est adressée en deux exemplaires par le propriétaire ou
-l'affectataire de l'orgue au service déconcentré chargé de l'architecture et du patrimoine. Elle est accompagnée d'un dossier
-qui comprend le programme d'opération décrivant et justifiant les travaux projetés et le projet technique, qui comporte les
-éléments suivants : un rapport de présentation, un descriptif quantitatif détaillé, l'ensemble des documents graphiques et
-photographiques nécessaires à la compréhension des travaux prévus. Il comprend les études scientifiques et techniques
-nécessaires à la réalisation des travaux et le bilan de l'état sanitaire de l'orgue.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 63 (Ab), alinéas 1 et 2.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine - art. R622-58 (V)
-  - Code du patrimoine. - art. R622-13 (V)
-  - Code du patrimoine. - art. R622-39 (V)
-
-
-###### Article R622-13
-
-Un arrêté du ministre chargé de la culture fixe, selon l'objet des travaux, les modèles de demande et précise la liste des
-pièces à joindre au dossier prévu à l'article R. 622-12.
-
-Le conservateur des antiquités et des objets d'art ou le service déconcentré chargé de l'architecture et du patrimoine
-transmet sans délai un exemplaire de la demande et du dossier au préfet de région.
-
-Si le préfet de région estime que le dossier est incomplet, il fait connaître au demandeur, dans le délai d'un mois à partir
-de la réception de la demande, la liste et le contenu des pièces complémentaires à fournir. A défaut d'une demande de pièces
-complémentaires dans ce délai, le dossier est réputé complet.
-
-Lorsque le dossier est complet, le préfet de région fait connaître au demandeur la date et le numéro d'enregistrement de sa
-demande. Lorsque des pièces complémentaires ont été demandées dans le délai d'un mois prévu au précédent alinéa, à défaut de
-réception de ces pièces dans un délai de trois mois, la demande fait l'objet d'une décision tacite de rejet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 63 (Ab), alinéas 3 à 6.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R622-12 (V)
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R622-15 (V)
-
-
-###### Article R622-14
-
-Toute modification de la nature et de l'importance des travaux fait l'objet d'une demande d'autorisation nouvelle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 63 (Ab), alinéa 7.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-15
-
-Lorsque la demande d'autorisation porte sur un objet mobilier classé autre qu'un orgue, le préfet de région se prononce dans
-le délai de six mois à compter de la date d'enregistrement de la demande notifiée conformément au quatrième alinéa de
-l'article R. 622-13. Toutefois, si le ministre chargé de la culture a décidé, dans ce délai, d'évoquer le dossier,
-l'autorisation est délivrée par lui dans le délai de douze mois à compter de la même date. Il en informe le demandeur.
-
-Lorsque la demande d'autorisation porte sur un orgue classé, le préfet de région ou le ministre chargé de la culture, s'il a
-décidé d'évoquer le dossier, se prononce dans le délai de douze mois à compter de la date d'enregistrement de la demande.
-
-Faute de réponse du préfet de région ou du ministre à l'expiration du délai fixé, l'autorisation est réputée accordée.
-
-La décision d'autorisation peut être assortie de prescriptions, de réserves ou de conditions pour l'exercice du contrôle
-scientifique ou technique sur l'opération des services chargés des monuments historiques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 64 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R622-13 (V)
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R622-16 (V)
-
-
-###### Article R622-16
-
-Après l'expiration du délai qui lui est imparti à l'article R. 622-15, le préfet de région ou le ministre délivre à toute
-personne intéressée au projet qui en fait la demande, dans le délai d'un mois suivant sa réception, une attestation
-certifiant, selon le cas, qu'une décision négative ou positive est intervenue assortie, le cas échéant, d'une attestation
-indiquant les prescriptions mentionnées dans la décision accordant l'autorisation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 65 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R622-15 (V)
-
-
-###### Article R622-17
-
-La conformité des travaux réalisés sur un objet mobilier classé à l'autorisation donnée est constatée par les services
-déconcentrés du ministre chargé de la culture dans le délai de six mois suivant leur achèvement. Elle donne lieu, le cas
-échéant, à une attestation du préfet de région pour le versement du solde des subventions publiques.
-
-Lors de l'achèvement des travaux, trois exemplaires du dossier documentaire des travaux exécutés sont remis par le maître
-d'ouvrage au conservateur des antiquités et des objets d'art ou au service déconcentré chargé de l'architecture et du
-patrimoine s'il s'agit de travaux sur un orgue classé. Ce dossier comprend une copie des mémoires réglés aux entreprises et
-une copie des protocoles d'intervention des restaurateurs mentionnant les produits utilisés et des documents figurés
-présentant l'œuvre avant, pendant et après restauration. Les documents préparatoires, études scientifiques ou techniques et
-diagnostics sont joints au dossier s'ils éclairent utilement les travaux réalisés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 66 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R622-23 (V)
-
-
-##### Sous-section 3 : Contrôle scientifique et technique<a id=374></a>
-
-###### Article R622-18
-
-Le contrôle scientifique et technique assuré par les services de l'Etat chargés des monuments historiques est destiné à :
-
-1° Vérifier et garantir que les interventions sur les objets mobiliers classés, prévues aux articles L. 622-7 et L. 622-8
-sont compatibles avec le statut de monument historique reconnu à ces biens en application du présent code, ne portent pas
-atteinte à l'intérêt d'art ou d'histoire ayant justifié leur classement au titre des monuments historiques et ne
-compromettent pas leur bonne conservation en vue de leur transmission aux générations futures ;
-
-2° Vérifier que le déplacement des objets mobiliers classés se déroule dans des conditions assurant leur bonne conservation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 22
-
-_Cite_:
-
-  - Code du patrimoine - art. L622-7
-
-
-###### Article R622-19
-
-Les services de l'Etat chargés des monuments historiques définissent, en fonction des caractéristiques des objets mobiliers
-classés concernés, les conditions scientifiques et techniques selon lesquelles les interventions sur ces monuments
-historiques sont étudiées, conduites, et font l'objet de la documentation appropriée. Ils veillent à leur mise en œuvre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 2 (Ab), ecqc les objets classés.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-20
-
-Lorsqu'il porte sur des travaux, le contrôle scientifique et technique des services de l'Etat chargés des monuments
-historiques s'exerce dès le début des études documentaires et techniques préparatoires menées, si elles ont été prescrites,
-avant la demande d'autorisation, puis tout au long des travaux autorisés jusqu'à leur achèvement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 3 (Ab), ecqc les objets classés.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-21
-
-Lorsque le propriétaire, l'affectataire, son mandataire ou toute personne justifiant d'un titre l'habilitant à faire réaliser
-des travaux fait part au préfet de région de son intention de réaliser un projet de travaux sur un objet mobilier ou un orgue
-classé, le préfet de région met à sa disposition l'état des connaissances dont il dispose sur le bien en cause et lui indique
-les contraintes réglementaires, architecturales et techniques que le projet devra respecter.
-
-Le préfet de région lui indique, en fonction de la nature, de l'importance et de la complexité des travaux envisagés, les
-études scientifiques et techniques qui devront être réalisées préalablement à la détermination du programme d'opération.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 4 (Ab), alinéas 1 et 2, ecqc les objets classés.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-22
-
-Avant de déposer une demande pour obtenir l'autorisation prévue à l'article L. 622-7, le maître d'ouvrage transmet au préfet
-de région le cahier des charges de l'opération, s'il s'agit d'un objet mobilier classé, ou le projet de programme de
-l'opération, s'il s'agit d'un orgue classé. Après, le cas échéant, un débat contradictoire, le préfet de région lui fait part
-de ses observations et recommandations.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 6 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L622-7 (V)
-
-
-###### Article R622-23
-
-Le contrôle scientifique et technique sur les travaux en cours d'exécution s'exerce sur pièces et sur place jusqu'au constat
-de conformité prévu pour les objets mobiliers classés, par le premier alinéa de l'article R. 622-17.
-
-Les services de l'Etat chargés des monuments historiques sont tenus informés par le maître d'ouvrage de la date de début des
-travaux et des réunions de chantier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 7 (Ab), ecqc les objets classés.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R622-17 (V)
-
-
-###### Article R622-24
-
-La présentation des objets mobiliers classés, faite à la demande des services de l'Etat chargés des monuments historiques en
-application du deuxième alinéa de l'article L. 622-8, s'effectue sur leur lieu habituel de conservation. Toutefois, les
-propriétaires, affectataires, détenteurs ou dépositaires de ces objets peuvent demander que cette présentation s'effectue
-dans un autre lieu.
-
-Le contrôle sur place des biens protégés s'effectue en présence du propriétaire, de l'affectataire ou de leur représentant.
-En cas d'absence, il s'effectue avec leur accord.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 8 (Ab), alinéas 1 et 3, ecqc les objets classés.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L622-8 (V)
-
-
-###### Article R622-25
-
-Le conservateur des antiquités et des objets d'art procède au moins tous les cinq ans au récolement des objets mobiliers
-classés.
-
-Le préfet du département accrédite les agents auxquels les propriétaires ou détenteurs de ces objets sont tenus, en
-application du second alinéa de l'article L. 622-8, de les présenter.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 67 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L622-8 (V)
-
-
-##### Sous-section 4 : Mesures conservatoires<a id=375></a>
-
-###### Article R622-26
-
-Le préfet peut prendre d'office, en application du troisième alinéa de l'article L. 622-9, les mesures nécessaires lorsque la
-garde ou la conservation d'un objet mobilier classé et appartenant à une collectivité territoriale ou à l'un de ses
-établissements publics est compromise.
-
-Cette décision intervient après une mise en demeure du préfet restée sans effet à l'expiration d'un délai d'un mois suivant
-sa réception.
-
-L'inscription d'office des dépenses correspondantes au budget de la collectivité territoriale considérée a lieu en
-application des dispositions des articles L. 1612-15 et L. 1612-16 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 68 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L1612-15 (V)
-  - Code du patrimoine. - art. L622-9 (V)
-
-_Cité par_:
-
-  - Code du patrimoine - art. R622-58 (V)
-  - Code général des collectivités territoriales - art. D1421-8 (V)
-
-
-###### Article R622-27
-
-Lorsque la conservation ou la sécurité d'un objet mobilier classé appartenant à une collectivité territoriale ou à un
-établissement public est mise en péril, le préfet prescrit, aux frais de l'Etat, les mesures conservatoires ou le transfert
-provisoire de cet objet prévus par l'article L. 622-10. L'arrêté est notifié à la collectivité territoriale ou à
-l'établissement public et, s'il y a lieu, à l'affectataire ou au dépositaire.
-
-Dans le cas d'un transfert provisoire de l'objet, la collectivité territoriale ou l'établissement public et, s'il y a lieu,
-l'affectataire ou le dépositaire, sont invités à assister à son déplacement.
-
-Les conditions nécessaires pour la garde et la conservation de l'objet dans son emplacement primitif sont arrêtées par le
-préfet après accord de la commission prévue à l'article L. 612-2 dans un délai de trois mois à compter de ce transfert
-provisoire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 69 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L612-2 (V)
-  - Code du patrimoine. - art. L622-10 (V)
-
-
-##### Sous-section 5 : Aliénation<a id=376></a>
-
-###### Article R622-28
-
-L'objet mobilier classé appartenant à une collectivité territoriale ou à un établissement public ou d'utilité publique ne
-peut être aliéné sans l'accord du préfet de région.
-
-La déclaration d'intention d'aliéner lui est transmise deux mois à l'avance.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 70 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-29
-
-Toute aliénation d'un objet mobilier classé est notifiée, dans les quinze jours de sa date, au préfet de région par celui qui
-l'a consentie. La notification mentionne le nom et le domicile du nouveau propriétaire ainsi que la date de l'aliénation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 71 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-30
-
-Le préfet de région informe le ministre chargé de la culture de toute aliénation intéressant un objet mobilier classé ainsi
-que de tout transfert de cet objet d'un lieu dans un autre. Ces modifications sont reportées sur la liste générale des objets
-classés mentionnée à l'article R. 622-9.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 72 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine - art. R622-9 (V)
-
-
-###### Article R622-31
-
-L'autorité administrative compétente pour exercer les actions en nullité ou en revendication prévues par l'article L. 622-17
-est le ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 73 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. L622-17 (V)
-
-
-##### Section 2 : Inscription des objets mobiliers<a id=377></a>
-
-##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=378></a>
-
-###### Article R622-32
-
-L'autorité compétente pour inscrire un objet mobilier au titre des monuments historiques est le préfet de la région dans
-laquelle est conservé l'objet mobilier. Il prend sa décision après que l'avis, selon le cas, de la    commission régionale du
-patrimoine et de l'architecture ou de la Commission nationale du patrimoine et de l'architecture, a été recueilli. Si cet
-objet appartient à une personne privée, l'arrêté d'inscription ne peut être pris qu'au vu d'un dossier comportant l'accord du
-propriétaire sur la mesure d'inscription.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 1
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-
-###### Article R622-33
-
-La demande d'inscription d'un objet mobilier est présentée par le propriétaire ou par toute personne y ayant intérêt.
-
-L'initiative d'une proposition d'inscription d'un objet mobilier peut également être prise par le ministre chargé de la
-culture ou par le préfet de région. Lorsqu'elle porte sur un objet mobilier appartenant à l'Etat, elle est présentée après
-consultation de l'affectataire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R720-10 (M)
-
-
-###### Article R622-34
-
-La demande d'inscription d'un objet mobilier au titre des monuments historiques est adressée au préfet de la région dans
-laquelle est conservé l'objet mobilier. 
-
-La demande est accompagnée de la description de l'objet mobilier et de photographies. 
-
-Le préfet recueille l'avis de la    commission régionale du patrimoine et de l'architecture sur les demandes d'inscription
-d'objets mobiliers autres qu'un orgue dont il est saisi, après avoir vérifié le caractère complet du dossier, ainsi que sur
-les propositions d'inscription des mêmes objets dont il prend l'initiative. 
-
-Lorsque le préfet reçoit une demande d'inscription d'un orgue au titre des monuments historiques ou prend l'initiative de
-cette inscription, il transmet la demande au ministre chargé de la culture qui recueille l'avis de la Commission nationale du
-patrimoine et de l'architecture. Le préfet peut préalablement recueillir l'avis de la    commission régionale du patrimoine
-et de l'architecture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 1
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-
-###### Article R622-35
-
-La décision d'inscription d'un objet mobilier au titre des monuments historiques mentionne :
-
-1° La dénomination ou la désignation et les principales caractéristiques de l'objet ;
-
-2° L'adresse ou la localisation de l'immeuble et le nom de la commune où il est conservé ;
-
-3° Le nom et le domicile du propriétaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 77 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-36
-
-La décision d'inscription de l'objet mobilier est notifiée par le préfet de région au propriétaire. Celui-ci est tenu d'en
-informer l'affectataire ou le dépositaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cité par_:
-
-  - Code du patrimoine - art. R622-58 (V)
-
-
-###### Article R622-37
-
-La radiation de l'inscription d'un objet mobilier est prononcée par arrêté du préfet de région selon la même procédure et
-dans les mêmes formes que l'inscription.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cité par_:
-
-  - Code du patrimoine. - art. R720-10 (M)
-
-
-###### Article R622-38
-
-Le préfet de région dresse une liste des objets mobiliers inscrits de la région qui contient les mêmes renseignements que
-ceux énumérés à l'article R. 622-9.
-
-Un exemplaire de cette liste, tenue à jour, est déposé au ministère chargé de la culture, à la direction régionale des
-affaires culturelles et auprès du conservateur des antiquités et des objets d'art.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. R622-9 (V)
-
-
-##### Sous-section 2 : Travaux sur un objet mobilier inscrit<a id=379></a>
-
-###### Article R622-39
-
-La déclaration préalable de travaux de modification, de réparation ou de restauration portant sur un objet mobilier inscrit
-est adressée deux mois à l'avance au conservateur des antiquités et objets d'art du département qui en avise le préfet de
-région. Elle est accompagnée d'un dossier décrivant les travaux projetés qui comprend le constat d'état, le diagnostic et les
-propositions d'intervention ainsi que des photographies permettant d'apprécier l'état de l'objet et le projet de travaux.
-
-La déclaration préalable de travaux de modification, réparation ou restauration portant sur un orgue inscrit est adressée
-deux mois à l'avance au service déconcentré chargé de l'architecture et du patrimoine qui en avise le préfet de région. Elle
-est accompagnée d'un dossier comprenant les éléments mentionnés au second alinéa de l'article R. 622-12.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 81 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R622-12 (V)
-
-
-##### Sous-section 3 : Contrôle scientifique et technique<a id=380></a>
-
-###### Article R622-40
-
-Le contrôle scientifique et technique assuré par les services de l'Etat chargés des monuments historiques est destiné à :
-
-1° Vérifier et garantir que les interventions sur les objets mobiliers inscrits sont compatibles avec le statut de monument
-historique reconnu à ces biens en application du présent code, ne portent pas atteinte à l'intérêt d'art ou d'histoire ayant
-justifié leur inscription au titre des monuments historiques et ne compromettent pas leur bonne conservation en vue de leur
-transmission aux générations futures ;
-
-2° Vérifier que le déplacement des objets mobiliers inscrits, lorsqu'il est effectué par les propriétaires, affectataires,
-détenteurs ou dépositaires, se déroule dans des conditions assurant leur bonne conservation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 1 (Ab), alinéas 1, 3 et 4, ecqc les objets inscrits.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-41
-
-Les services de l'Etat chargés des monuments historiques définissent, en fonction des caractéristiques des objets mobiliers
-concernés, les conditions scientifiques et techniques selon lesquelles les interventions sur ces monuments historiques sont
-étudiées, conduites, et font l'objet de la documentation appropriée. Ils veillent à leur mise en œuvre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 2 (Ab), ecqc les objets inscrits.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-42
-
-Lorsque le propriétaire, l'affectataire, son mandataire ou toute personne justifiant d'un titre l'habilitant à faire réaliser
-des travaux fait part au préfet de région de son intention de réaliser un projet de travaux sur un objet mobilier ou un orgue
-inscrit, le préfet de région met à sa disposition l'état des connaissances dont il dispose sur le bien en cause et lui
-indique les contraintes réglementaires, architecturales et techniques que le projet devra respecter.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-750 du 22 juin 2009 - art. 4 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-##### Sous-section 4 : Aliénation<a id=381></a>
-
-###### Article R622-43
-
-L'aliénation d'un objet mobilier inscrit au titre des monuments historiques appartenant à une collectivité territoriale ou à
-l'un de ses établissements publics ne peut avoir lieu sans que le préfet de région n'en soit informé deux mois à l'avance. En
-l'absence de cette déclaration, le ministre chargé de la culture exerce l'action en nullité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-_Cité par_:
-
-  - Code du patrimoine - art. R622-58 (V)
-
-
-###### Article R622-44
-
-Toute aliénation d'un objet mobilier inscrit est notifiée, dans les quinze jours de sa date, au préfet de région par celui
-qui l'a consentie. La notification mentionne le nom et le domicile du nouveau propriétaire ainsi que la date de l'aliénation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-
-##### Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits<a id=382></a>
-
-##### Sous-section 1 : Assistance à maîtrise d'ouvrage<a id=383></a>
-
-###### Article R622-45
-
-La mission d'assistance à titre gratuit prévue à l'article L. 622-25 est exercée par les services de l'Etat chargés des
-monuments historiques dans les conditions définies aux articles R. 622-46, R. 622-50, R. 622-51 et R. 622-52, sous la forme
-d'une conduite d'opération totale ou partielle, telle qu'elle est définie à l'article 6 de la loi n° 85-704 du 12 juillet
-1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée, auprès des propriétaires et
-des affectataires domaniaux d'objets protégés au titre des monuments historiques.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°85-704 du 12 juillet 1985 - art. 6 (M)
-  - Code du patrimoine - art. R622-46 (V)
-  - Code du patrimoine - art. R622-50 (V)
-  - Code du patrimoine - art. R622-51 (V)
-  - Code du patrimoine - art. R622-52 (V)
-  - Code du patrimoine. - art. L622-25 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 1 (Ab), ecqc les objets.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-46
-
-L'assistance à maîtrise d'ouvrage peut être accordée à titre gratuit au propriétaire ou à l'affectataire domanial :
-
-1° En cas d'insuffisance des ressources du demandeur, qui s'apprécient :
-
-a) S'il s'agit d'une collectivité territoriale ou d'un groupement, au regard de son potentiel fiscal, tel que défini à
-l'article L. 2334-4 du code général des collectivités territoriales, du nombre de monuments historiques sur son territoire et
-de tout autre élément matériel et économique significatif ;
-
-b) S'il s'agit d'un propriétaire privé, au regard de ses revenus relatifs aux trois années précédant la demande ;
-
-c) S'il s'agit d'un établissement public, au regard des éléments relatifs à la situation financière de l'établissement ;
-
-2° En cas de complexité de l'opération, appréciée, au vu des moyens dont dispose le propriétaire ou l'affectataire, au regard
-de la nécessité et du degré d'intervention sur les structures ou sur les éléments caractéristiques ayant justifié la
-protection de l'objet ou de l'orgue, au titre du présent code et à raison de l'importance des interventions à mener, de la
-mise en œuvre éventuelle de nouvelles technologies d'études et de traitements et du nombre d'intervenants spécialisés à
-solliciter.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 2 (Ab), alinéas 1 à 6 et 8, ecqc les objets.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L2334-4 (M)
-
-_Cité par_:
-
-  - Code du patrimoine - art. R622-45 (V)
-  - Code du patrimoine - art. R622-50 (V)
-  - Code du patrimoine - art. R780-18 (V)
-  - Code du patrimoine - art. R790-17 (V)
-  - Code du patrimoine. - art. R720-14 (V)
-
-
-###### Article R622-47
-
-L'assistance à maîtrise d'ouvrage qui peut être accordée aux propriétaires ou affectataires domaniaux ne remplissant pas les
-conditions pour bénéficier d'une assistance à maîtrise d'ouvrage gratuite est assurée par les services de l'Etat chargés des
-monuments historiques, sous la forme d'une conduite d'opération totale ou partielle, telle qu'elle est définie à l'article 6
-de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre
-privée, en contrepartie d'une rémunération fixée dans les conditions prévues à l'article R. 622-48. Cette assistance ne peut
-être accordée aux propriétaires ou affectataires domaniaux que dans la limite de la disponibilité des moyens de l'Etat et
-sous réserve qu'ils établissent la carence de toute offre privée ou publique, compétente en matière de monuments historiques,
-à satisfaire leur besoin. Cette carence ne peut être établie, pour les personnes soumises au code des marchés publics ou à
-l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises
-au code des marchés publics, qu'après mise en œuvre des procédures de publicité et de concurrence prévues par ces textes et
-selon les modalités qu'ils prévoient.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°85-704 du 12 juillet 1985 - art. 6 (M)
-  - Ordonnance n°2005-649 du 6 juin 2005 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 3 (Ab), ecqc les objets.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine - art. R622-48 (V)
-  - Code du patrimoine - art. R622-50 (V)
-  - Code du patrimoine - art. R622-52 (V)
-
-
-###### Article R622-48
-
-La rémunération de la prestation prévue à l'article R. 622-47 donne lieu à application d'un barème établi à proportion des
-coûts comprenant :
-
-a) Les coûts matériels et salariaux liés à l'exécution de la prestation ;
-
-b) La fraction des frais généraux des services de l'Etat qui sont imputables à l'opération.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 4 (Ab), ecqc les objets.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine - art. R622-47 (V)
-
-
-###### Article R622-49
-
-Les recettes tirées de la rémunération des missions d'assistance à maîtrise d'ouvrage assurées par les services de l'Etat
-chargés des monuments historiques font l'objet d'une procédure d'attribution de produits conformément au III de l'article 17
-de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi organique n°2001-692 du 1 août 2001 - art. 17 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 5 (Ab), ecqc les objets.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-50
-
-La demande d'assistance des services de l'Etat chargés des monuments historiques doit être adressée au préfet de région par
-le propriétaire ou par l'affectataire domanial, par lettre motivée.
-
-Le préfet de région décide au cas par cas du contenu des missions d'assistance pouvant être assurées par l'Etat à titre
-gratuit ou à titre onéreux, selon les conditions définies aux articles R. 622-46 et R. 622-47.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 6 (Ab), ecqc les objets.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine - art. R622-45 (V)
-
-_Cite_:
-
-  - Code du patrimoine - art. R622-46 (V)
-  - Code du patrimoine - art. R622-47 (V)
-
-
-###### Article R622-51
-
-Les rapports entre le maître d'ouvrage et l'Etat sont définis par un contrat écrit qui prévoit notamment :
-
-a) L'ouvrage et les travaux qui font l'objet du contrat ;
-
-b) Les missions de conduite d'opération prises en charge par l'Etat ;
-
-c) Les conditions dans lesquelles le maître d'ouvrage constate l'achèvement des missions exercées par les services de
-l'Etat ;
-
-d) Les modalités de résiliation du contrat ;
-
-e) Le cas échéant, les modalités de rémunération des services de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 7 (Ab), ecqc les objets.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine - art. R622-45 (V)
-
-
-###### Article R622-52
-
-L'exercice des missions définies aux articles R. 622-45 et R. 622-47 est assuré par les services déconcentrés du ministère
-chargé des monuments historiques, sur décision du préfet de région ou par un service à compétence nationale sur décision du
-ministre chargé des monuments historiques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 8 (Ab), ecqc les objets.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine - art. R622-45 (V)
-  - Code du patrimoine - art. R622-47 (V)
-
-
-##### Sous-section 2 : Subventions<a id=384></a>
-
-###### Article R622-53
-
-Lorsque l'Etat participe financièrement à des travaux de réparation ou de restauration d'un objet mobilier classé ou inscrit,
-l'importance de son concours est fixée en tenant compte des caractéristiques particulières de cet objet, de son état actuel,
-de la nature des travaux prévus, de l'existence d'un projet de mise en valeur avec une présentation de cet objet au public et
-enfin des efforts consentis par le propriétaire ou toute autre personne intéressée à la conservation de l'objet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 84 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-54
-
-Par dérogation aux dispositions du décret n° 99-1060 du 16 décembre 1999 relatif aux subventions de l'Etat pour des projets
-d'investissement :
-
-a) Une avance peut être versée lors du commencement d'exécution de chaque tranche d'une opération de travaux réalisés sur des
-monuments historiques et peut excéder 5 % dans la limite de 30 % du montant prévisionnel de la subvention ;
-
-b) Lorsque les travaux subventionnés sont des travaux de consolidation d'urgence du monument ou que les travaux sont financés
-par l'Etat au titre de l'article 4 de la loi n° 2009-122 du 4 février 2009 de finances rectificative pour 2009, le montant de
-l'avance peut atteindre 50 % du montant prévisionnel de la subvention.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°99-1060 du 16 décembre 1999 (V)
-  - Loi n°2009-122  du 4 février 2009 - art. 4 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 9 (Ab), alinéas 1 à 3, ecqc les objets.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R622-55
-
-Le solde de la subvention est versé après l'établissement du certificat de conformité pour les objets mobiliers et orgues
-classés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-748 du 22 juin 2009 - art. 9 (Ab), alinéa4, ecqc les objets.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-##### Sous-section 3 : Découverte fortuite<a id=385></a>
-
-###### Article R622-56
-
-Toute découverte faite fortuitement ou à l'occasion de travaux sur un objet mobilier classé ou inscrit et portant sur un
-élément nouveau est signalée immédiatement au préfet qui peut, selon le cas, décider ou conseiller des mesures de sauvegarde.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 85 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cité par_:
-
-  - Code du patrimoine - art. R622-58 (V)
-
-
-##### Sous-section 4 : Déplacement<a id=386></a>
-
-###### Article R622-57
-
-Le propriétaire, l'affectataire ou le dépositaire d'un objet mobilier classé ou inscrit au titre des monuments historiques
-qui a l'intention de déplacer cet objet d'un lieu dans un autre est tenu d'en informer deux mois à l'avance le préfet. La
-déclaration indique les conditions du transport, les conditions de conservation et de sécurité dans le nouvel immeuble où
-l'objet sera déposé ainsi que le nom et le domicile du propriétaire, affectataire ou occupant de cet immeuble.
-
-Ce délai est porté à quatre mois lorsque la déclaration est formulée par le propriétaire à l'occasion d'une demande de prêt
-pour une exposition temporaire.
-
-Si les conditions du transport ou de conservation et de sécurité sur place ne sont pas satisfaisantes pour la préservation de
-l'objet classé au titre des monuments historiques, le préfet de région prescrit les travaux conservatoires préalables au
-transport de l'objet ainsi que les conditions particulières de son transport et de sa présentation.
-
-S'il s'agit d'un objet inscrit au titre des monuments historiques, le préfet prescrit les mesures prévues au précédent alinéa
-dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 86 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-##### Sous-section 5 : Notification<a id=387></a>
-
-###### Article R622-58
-
-La notification des décisions, informations, attestations ou demandes prévues aux articles R. 622-4, premier alinéa, R.
-622-5, R. 622-7, R. 622-8, R. 622-12, R. 622-13, R. 622-14, R. 622-15, R. 622-16, R. 622-17, R. 622-26, R. 622-27, R. 622-28,
-R. 622-29, R. 622-36, R. 622-37, R. 622-39, R. 622-43, R. 622-44, R. 622-56 et R. 622-57 s'effectue selon l'une des modalités
-prévues par l'article R. 621-85.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 87 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine - art. R622-12 (V)
-  - Code du patrimoine - art. R622-26 (V)
-  - Code du patrimoine - art. R622-36 (V)
-  - Code du patrimoine - art. R622-4 (V)
-  - Code du patrimoine - art. R622-43 (V)
-  - Code du patrimoine - art. R622-56 (V)
-  - Code du patrimoine. - art. R621-85 (V)
-
-
-##### Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues<a id=388></a>
-
-###### Article R622-59
-
-I. – La maîtrise d'œuvre des travaux de réparation, de relevage et de restauration entrepris sur les buffets et parties
-phoniques des orgues classés et inscrits ainsi que sur les parties non protégées des orgues partiellement protégés est
-assurée :
-
-1° Soit par un technicien-conseil agréé par l'Etat dans les conditions prévues par décret ;
-
-2° Soit, sur une opération donnée, par un ressortissant français, ou par un ressortissant d'un autre Etat membre de l'Union
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen établi dans un de ces Etats, dont la
-formation et l'expérience professionnelle, à temps plein ou à temps partiel, acquise sur des opérations récentes de
-réparation, relevage et restauration d'orgues à caractère patrimonial en France ou à l'étranger, attestent des connaissances
-historiques, techniques et administratives nécessaires à la conception et à la conduite des travaux faisant l'objet du
-contrat de maîtrise d'œuvre. Lorsque ni l'activité, ni la formation conduisant à cette activité ne sont réglementées dans
-l'Etat dans lequel ils sont légalement établis, ils doivent l'avoir exercée dans un ou plusieurs Etats membres pendant au
-moins un an au cours des dix années qui précèdent la prestation.
-
-Dans les cas mentionnés au 2°, l'intéressé fait, préalablement à sa première prestation, une déclaration auprès du ministre
-chargé de la culture. Cette déclaration est renouvelée une fois par an si le prestataire envisage d'exercer son activité
-professionnelle de façon occasionnelle au cours de l'année concernée ou en cas de changement matériel dans sa situation. Le
-contenu et les modalités de dépôt de cette déclaration sont fixés par arrêté du ministre chargé de la culture.
-
-II. – Un accès partiel à une activité professionnelle relevant de la profession de techniciens-conseils agréés pour les
-orgues protégés au titre des monuments historiques, profession réglementée au sens de la directive 2005/36/CE du Parlement
-européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, en application
-des dispositions du présent article, peut être accordé au cas par cas aux ressortissants d'un Etat membre de l'Union
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen par le ministre chargé de la culture lorsque
-les trois conditions suivantes sont remplies :
-
-1° Le professionnel est pleinement qualifié pour exercer, dans l'Etat d'origine, l'activité professionnelle pour laquelle
-l'accès partiel est sollicité ;
-
-2° Les différences entre l'activité professionnelle légalement exercée dans l'Etat d'origine et la profession réglementée en
-France de techniciens-conseils agréés pour les orgues protégés au titre des monuments historiques sont si importantes que
-l'application de mesures de compensation reviendrait à imposer au demandeur de suivre le programme complet d'enseignement et
-de formation requis en France pour avoir pleinement accès à la profession réglementée ;
-
-3° L'activité professionnelle est distincte de la ou des autres activités relevant de la profession réglementée, notamment
-dans la mesure où elle est exercée de manière autonome dans l'Etat d'origine.
-
-L'accès partiel peut être refusé pour des raisons impérieuses d'intérêt général, si ce refus est proportionné à la protection
-de cet intérêt.
-
-Les demandes aux fins d'accès partiel sont examinées, selon le cas, comme des demandes à fin d'établissement ou de libre
-prestation de services temporaire et occasionnelle de la profession concernée.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-831 du 22 juin 2016 - art. 1
-
-_Cité par_:
-
-  - Arrêté du 23 février 2017 - art. 8 (V)
-  - Code du patrimoine - art. R622-61 (V)
-
-_Cite_:
-
-  - Code des marchés publics - art. 35
-
-
-###### Article R622-59-1
-
-I. – Lorsque le propriétaire, le bénéficiaire de la mise à disposition de l'immeuble abritant l'orgue, son mandataire ou
-toute personne justifiant d'un titre l'habilitant à faire réaliser des travaux fait part au préfet de région de son intention
-de réaliser un projet de travaux sur un orgue protégé, le préfet de région lui indique les compétences et expériences que
-devront présenter les candidats à la maîtrise d'œuvre de ces travaux, définies au regard des particularités de l'opération.
-
-II. – En cas de carence de candidature compétente ou d'urgence, le maître d'ouvrage fait appel à un technicien-conseil agréé
-par l'Etat territorialement compétent qui est alors tenu d'assurer la maîtrise d'œuvre des travaux de restauration. Lorsque
-le maître d'ouvrage est un pouvoir adjudicateur, l'urgence doit être qualifiée d'impérieuse résultant de circonstances
-imprévisibles pour le pouvoir adjudicateur et n'étant pas de son fait.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2016-831 du 22 juin 2016 - art. 2
-
-
-###### Article R622-60
-
-La maîtrise d'œuvre des travaux de réparation, de relevage et de restauration sur les orgues protégés au titre des monuments
-historiques ainsi que sur les parties non protégées des orgues partiellement protégés comprend, pour chaque opération, les
-éléments de mission suivants :
-
-1° L'étude préalable à l'opération de travaux de relevage ou de restauration ;
-
-2° Les éléments de missions indissociables suivants :
-
-a) L'établissement du projet technique et du dossier de consultation des entreprises ;
-
-b) L'assistance au maître d'ouvrage pour la passation des marchés de travaux ;
-
-c) L'examen de la conformité au projet des études d'exécution faites par le facteur d'orgues et les entrepreneurs ou
-prestataires associés ;
-
-d) La direction de l'exécution des marchés de travaux, leur comptabilité et la vérification des décomptes ;
-
-e) L'assistance au maître d'ouvrage lors des opérations de réception de travaux et leur règlement définitif et pendant toute
-la période de garantie de parfait achèvement ;
-
-f) La constitution d'un dossier documentaire des ouvrages exécutés.
-
-Ces éléments de mission peuvent, en fonction de la nature des travaux ou du niveau de complexité de l'opération, être
-exécutés en une seule ou plusieurs phases. Leur contenu est défini par un arrêté du ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1314 du 31 octobre 2014 - art. 23
-
-
-###### Article R622-61
-
-La rémunération des missions de maîtrise d'œuvre exercées pour le compte de l'Etat mentionnées aux articles R. 622-59 et R.
-622-60, ainsi que de celles exercées en application du II de l'article R. 622-59-1, est calculée dans des conditions fixées
-par arrêté conjoint des ministres chargés de la culture et du budget.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-831 du 22 juin 2016 - art. 3
-
-_Cite_:
-
-  - Code du patrimoine - art. R622-59
-
-
-#### Chapitre III : Dispositions fiscales<a id=389></a>
-
-###### Article D623-1
-
-Les règles relatives aux charges déductibles afférentes aux biens meubles et immeubles visés par le présent titre sont fixées
-au I de la section 2 du chapitre I du titre I de la première partie du livre I de l'annexe III au code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code général des impôts, annexe 3, CGIAN3. -  I : Monuments historiques - Charges déductibles (V)
-
-_Cité par_:
-
-  - Code du patrimoine - art. D720-12 (V)
-  - Code du patrimoine - art. D780-12 (V)
-  - Code du patrimoine - art. D790-11 (V)
-
-
-###### Article D623-2
-
-Les règles relatives aux régimes spéciaux et exonérations afférents aux biens meubles et immeubles visés par le présent titre
-sont fixées aux articles 281 bis et 281 ter de l'annexe III au code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 281 bis (Ab)
-
-
-#### Chapitre IV : Dispositions pénales<a id=390></a>
-
-###### Article R624-1
-
-Est puni de l'amende prévue pour les contraventions de cinquième classe le fait de ne pas afficher sur le terrain
-l'autorisation de travaux sur un immeuble classé, en méconnaissance de l'article R. 621-16. 
-
-La récidive de cette contravention est punie conformément aux dispositions des articles 132-11 et 132-15 du code pénal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-487 du 30 mars 2007 - art. 88 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code pénal - art. 132-11 (V)
-  - Code pénal - art. 132-15 (V)
-  - Code du patrimoine. - art. L621-16 (V)
-
-
-###### Article R624-2
-
-Est puni de l'amende prévue pour les contraventions de cinquième classe le fait de procéder à un affichage non conforme à
-l'autorisation d'affichage accordée en application des articles R. 621-86, R. 621-87, R. 621-88, R. 621-89 et R. 621-90.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2007-645 du 30 avril 2007 - art. 7 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Cite_:
-
-  - Code du patrimoine. - art. R621-86 (V)
-
-
-### TITRE V : QUALITÉ ARCHITECTURALE<a id=391></a>
-
-###### Article R650-1
-
-Le label “ Architecture contemporaine remarquable ”, mentionné à l'article L. 650-1, est attribué aux immeubles, aux
-ensembles architecturaux, aux ouvrages d'art et aux aménagements, parmi les réalisations de moins de cent ans d'âge, dont la
-conception présente un intérêt architectural ou technique suffisant. Cet intérêt s'apprécie au regard des critères suivants :
-
-1° La singularité de l'œuvre ;
-
-2° Le caractère innovant ou expérimental de la conception architecturale, urbaine, paysagère ou de la réalisation technique,
-ou sa place dans l'histoire des techniques ;
-
-3° La notoriété de l'œuvre eu égard notamment aux publications dont elle a fait l'objet ou la mentionnant ;
-
-4° L'exemplarité de l'œuvre dans la participation à une politique publique ;
-
-5° La valeur de manifeste de l'œuvre en raison de son appartenance à un mouvement architectural ou d'idées reconnu ;
-
-6° L'appartenance à un ensemble ou à une œuvre dont l'auteur fait l'objet d'une reconnaissance nationale ou locale.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-_Cite_:
-
-  - Code du patrimoine - art. L650-1 (V)
-
-
-###### Article R650-2
-
-La demande d'attribution du label est présentée par le propriétaire, ou par toute personne y ayant intérêt au préfet de la
-région où se situe le bien.
-
-L'initiative peut également être prise par le préfet de région.
-
-Un arrêté du ministre chargé de la culture fixe la composition du dossier de demande.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-
-###### Article R650-3
-
-I. - Le préfet de région accuse réception du dossier de demande dès lors que celui-ci est complet, ou, le cas échéant,
-informe le demandeur des pièces manquantes. En l'absence d'une telle information dans un délai de quinze jours suivant la
-saisine, le dossier de demande est réputé complet.
-
-II. - Lorsque le demandeur n'est pas le propriétaire, le préfet de région recueille l'avis de celui-ci avant examen de la
-demande par la commission régionale du patrimoine et de l'architecture.
-
-III. - Le préfet de région notifie au propriétaire sa décision, après avis de la commission régionale du patrimoine et de
-l'architecture.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-
-###### Article R650-4
-
-La décision d'attribution du label mentionne : 
-
-1° Les motifs de l'attribution du label ; 
-
-2° La date de construction du bien, le cas échéant arrêtée par la commission régionale du patrimoine et de l'architecture
-compétente, et la date d'expiration du label ; 
-
-3° La dénomination ou la désignation du bien ; 
-
-4° Le nom de l'architecte ou du concepteur de l'ouvrage ; 
-
-5° L'adresse ou la localisation du bien et le nom de la commune où il est situé ; 
-
-6° L'étendue du label avec les références cadastrales des parcelles, en précisant, le cas échéant, les parties du bien
-auxquelles il s'applique ; 
-
-7° Le nom et le domicile du ou des propriétaires. 
-
-La décision d'attribution du label rappelle au propriétaire les obligations d'information prévues à l'article R. 650-6.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-_Cite_:
-
-  - Code du patrimoine - art. R650-6 (V)
-
-
-###### Article R650-5
-
-Une copie de la décision d'attribution du label est adressée à l'autorité compétente pour délivrer les autorisations
-d'urbanisme et au maire de la commune dans laquelle se situe le bien lorsqu'il n'est pas l'autorité compétente pour délivrer
-les autorisations d'urbanisme. L'architecte ou le concepteur de l'ouvrage ou leurs ayants droit sont informés de la décision
-d'attribution du label.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-
-###### Article R650-6
-
-I. – Lorsque le bien faisant l'objet du label n'est pas protégé au titre des abords et des sites patrimoniaux remarquables ou
-identifié en application de l'article L. 151-19 du code de l'urbanisme, le propriétaire de ce bien informe par lettre
-recommandée avec demande d'avis de réception le préfet de région, deux mois au moins avant le dépôt d'une demande de permis
-ou d'une déclaration préalable, de son intention de réaliser des travaux susceptibles de le modifier. Il joint à sa lettre
-une notice descriptive présentant la nature et l'impact des travaux envisagés sur le bien. Un arrêté du ministre chargé de la
-culture précise le contenu de cette notice.
-
-S'il le juge utile, le préfet de région formule des observations et recommandations au propriétaire dans les deux mois
-suivant la réception de la lettre du propriétaire, le cas échéant après avis de la commission régionale du patrimoine et de
-l'architecture.
-
-II. – Le propriétaire d'un bien faisant l'objet d'un label informe le préfet de région de toute mutation de propriété
-concernant ce bien dans un délai fixé par un arrêté du ministère de la culture.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L151-19 (V)
-
-_Cité par_:
-
-  - Code du patrimoine - art. R650-4 (V)
-
-
-###### Article R650-7
-
-Hors les cas de retrait de plein droit dans les conditions régies par le premier alinéa du I de l'article L. 650-1, le préfet
-de région prononce le retrait du label, après avis de la commission régionale du patrimoine et de l'architecture, lorsque le
-bien est dégradé au point de perdre l'intérêt ayant justifié l'attribution du label.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-_Cite_:
-
-  - Code du patrimoine - art. L650-1 (V)
-
-
-## LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE<a id=392></a>
-
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=393></a>
-
-#### Chapitre Ier : Institutions<a id=394></a>
-
-##### Section 1 : Commission nationale du patrimoine et de l'architecture<a id=395></a>
+##### Section 1 : Commission nationale du patrimoine et de l'architecture<a id=340></a>
 
 ###### Article R611-1
 
@@ -41231,7 +36006,7 @@ _Modifié par_:
   - Décret n°2017-456 du 29 mars 2017 - art. 3
 
 
-##### Section 2 : Commission régionale du patrimoine et de l'architecture<a id=396></a>
+##### Section 2 : Commission régionale du patrimoine et de l'architecture<a id=341></a>
 
 ###### Article R611-17
 
@@ -41594,7 +36369,7 @@ _Créé par_:
   - Décret n°2017-456 du 29 mars 2017 - art. 3
 
 
-##### Section 3 : Conseil des sites de Corse<a id=397></a>
+##### Section 3 : Conseil des sites de Corse<a id=342></a>
 
 ###### Article D611-31
 
@@ -41612,7 +36387,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R4421-1
 
 
-#### Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial<a id=398></a>
+#### Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial<a id=343></a>
 
 ###### Article R612-1
 
@@ -41683,7 +36458,7 @@ _Cité par_:
   - Code du patrimoine. - art. R730-7 (M)
 
 
-#### Chapitre III : Dispositions diverses<a id=399></a>
+#### Chapitre III : Dispositions diverses<a id=344></a>
 
 ###### Article D613-1
 
@@ -41718,13 +36493,5182 @@ _Cite_:
   - Code du patrimoine - art. L611-1
 
 
-### TITRE II : MONUMENTS HISTORIQUES<a id=400></a>
+### TITRE II : MONUMENTS HISTORIQUES<a id=345></a>
 
-### TITRE III : SITES PATRIMONIAUX REMARQUABLES<a id=401></a>
+#### Chapitre Ier : Immeubles<a id=346></a>
 
-#### Chapitre Ier : Classement au titre des sites patrimoniaux remarquables<a id=402></a>
+##### Section 1 : Classement des immeubles<a id=347></a>
 
-##### Section 1 : Procédure de classement et de modifications<a id=403></a>
+##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=348></a>
+
+###### Article R621-1
+
+Lorsque le propriétaire de l'immeuble ou, pour tout immeuble appartenant à l'Etat, son affectataire domanial y consent, le
+classement au titre des monuments historiques est prononcé par arrêté du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 9 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-61 (V)
+
+
+###### Article R621-2
+
+La demande de classement d'un immeuble est présentée par le propriétaire ou par toute personne y ayant intérêt. La demande de
+classement d'un immeuble appartenant à l'Etat peut en outre être présentée par le préfet après consultation de l'affectataire
+domanial.
+
+L'initiative d'une proposition de classement d'immeuble peut également être prise par le ministre chargé de la culture ou par
+le préfet de région.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 10 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R720-10 (M)
+
+
+###### Article R621-3
+
+Les demandes de classement d'un immeuble sont adressées au préfet de la région dans laquelle est situé l'immeuble.
+
+La demande est accompagnée de la description de l'immeuble, d'éléments relatifs à son histoire et à son architecture, ainsi
+que des photographies et des documents graphiques le représentant dans sa totalité et sous ses aspects les plus intéressants
+du point de vue de l'histoire et de l'art.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 11 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-4
+
+Le préfet de région recueille l'avis de la commission régionale du patrimoine et de l'architecture ou de sa délégation
+permanente sur les demandes dont il est saisi, après avoir vérifié le caractère complet du dossier, ainsi que sur les
+propositions de classement dont il prend l'initiative.
+
+Après avis de la commission régionale du patrimoine et de l'architecture réunie en formation plénière, il peut soit proposer
+au ministre chargé de la culture une mesure de classement, soit inscrire l'immeuble au titre des monuments historiques. Dans
+tous les cas, il informe le demandeur de sa décision.
+
+Lorsque le préfet de région propose au ministre le classement de tout ou partie d'un immeuble, il peut au même moment prendre
+un arrêté d'inscription à l'égard de cet immeuble.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 1
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-85 (V)
+
+
+###### Article R621-5
+
+Le ministre statue, après avoir recueilli l'avis de la Commission nationale du patrimoine et de l'architecture, sur la
+proposition du préfet de région ainsi que sur toute proposition de classement dont il prend l'initiative. Il informe la
+Commission, avant qu'elle ne rende son avis, de l'avis du propriétaire ou de l'affectataire domanial sur la proposition de
+classement. Le ministre ne peut prendre une décision de classement qu'au vu d'un dossier comportant l'accord du propriétaire
+sur cette mesure.
+
+Il notifie l'avis de la Commission et sa décision au préfet de région.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 1
+
+
+###### Article R621-6
+
+Lorsque le ministre chargé de la culture décide d'ouvrir une instance de classement en application de l'article L. 621-7, il
+notifie l'instance de classement au propriétaire de l'immeuble en l'avisant qu'il dispose d'un délai de deux mois pour
+présenter ses observations écrites. La notification est faite à l'affectataire domanial dans le cas d'un immeuble appartenant
+à l'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 14 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-7 (V)
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R622-5 (V)
+
+
+###### Article R621-7
+
+La décision de classement mentionne :
+
+1° La dénomination ou la désignation de l'immeuble ;
+
+2° L'adresse ou la localisation de l'immeuble et le nom de la commune où il est situé ;
+
+3° L'étendue totale ou partielle du classement avec les références cadastrales des parcelles, en précisant, si le classement
+est partiel, les parties de l'immeuble auxquelles il s'applique ;
+
+4° Le nom et le domicile du propriétaire avec la désignation de l'acte de propriété.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 15 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-8
+
+La décision de classement de l'immeuble est notifiée par le préfet de région au propriétaire. Celui-ci est tenu d'en informer
+les affectataires ou occupants successifs. 
+
+Cette décision est notifiée avec l'indication de l'étendue de la servitude de protection au maire et, le cas échéant, au
+président de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, qui
+l'annexe à ce plan, lorsqu'il existe, dans les conditions prévues à l'article L. 153-60 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 16 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L153-60
+
+_Cité par_:
+
+  - Code du patrimoine - art. R720-13 (V)
+  - Code du patrimoine - art. R780-17 (V)
+  - Code du patrimoine - art. R790-16 (V)
+
+
+###### Article R621-9
+
+La demande d'indemnité formée par le propriétaire d'un immeuble classé d'office en application du troisième alinéa de
+l'article L. 621-6 est adressée au préfet de la région dans laquelle le bien est situé. 
+
+A défaut d'accord amiable dans un délai de six mois à compter de la date de la demande, le juge de l'expropriation peut être
+saisi dans les conditions prévues au second alinéa de l'article R. 311-9 du code de l'expropriation pour cause d'utilité
+publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-9 (V)
+  - Code du patrimoine - art. L621-6
+
+
+###### Article R621-10
+
+L'autorité administrative compétente pour proposer le déclassement d'un immeuble classé au titre des monuments historiques
+est le ministre chargé de la culture. Le déclassement a lieu après avoir recueilli les observations du propriétaire, s'il
+n'est pas à l'origine de la proposition, et après avis de la      commission régionale du patrimoine et de l'architecture
+ainsi que de la Commission nationale du patrimoine et de l'architecture recueillis dans les mêmes conditions que pour le
+classement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 1
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R720-10 (M)
+
+
+##### Sous-section 2 : Travaux sur un immeuble classé<a id=349></a>
+
+###### Article R621-11
+
+Les travaux soumis à autorisation en application du premier alinéa de l'article L. 621-9 sont les constructions ou travaux,
+de quelque nature que ce soit, qui sont de nature soit à affecter la consistance ou l'aspect de la partie classée de
+l'immeuble, soit à compromettre la conservation de cet immeuble. Constituent notamment de tels travaux :
+
+1° Les affouillements ou les exhaussements dans un terrain classé ;
+
+2° Le déboisement ou le défrichement sur un terrain classé ;
+
+3° Les travaux qui ont pour objet ou pour effet de mettre hors d'eau, consolider, aménager, restaurer, mettre aux normes,
+mettre en valeur, dégager ou assainir un immeuble classé ainsi que les travaux de couvertures provisoires ou d'étaiement,
+sauf en cas de péril immédiat ;
+
+4° Les travaux de ravalement ;
+
+5° Les travaux sur les parties intérieures classées des édifices, notamment la modification des volumes ou des distributions
+horizontales ou verticales, la modification, la restauration, la restitution ou la création d'éléments de second œuvre ou de
+décors, sols, menuiseries, peintures murales, badigeons, vitraux ou sculptures ;
+
+6° Les travaux ayant pour objet d'installer à perpétuelle demeure un objet mobilier dans un immeuble classé ainsi que ceux
+visant à placer des installations soit sur les façades, soit sur la toiture de l'immeuble ;
+
+7° Les travaux de mise en place d'installations ou de constructions temporaires d'une surface supérieure à vingt mètres
+carrés et d'une durée supérieure à un mois sur un terrain classé.
+
+Pour les fouilles archéologiques prévues au 1°, l'autorisation prévue à l'article L. 523-9 ou à l'article L. 531-1 tient lieu
+de celle prévue à l'article L. 621-9.
+
+Ne sont pas soumis à autorisation les travaux et réparations d'entretien.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. L531-1
+  - Code du patrimoine - art. L621-9
+  - Code du patrimoine - art. R523-9
+
+_Cité par_:
+
+  - Code du patrimoine - art. R621-91-1 (V)
+  - Code du patrimoine. - art. R621-32 (V)
+
+
+###### Article R621-12
+
+La demande d'autorisation pour les travaux sur un immeuble classé prévue à l'article L. 621-9 est présentée par le
+propriétaire ou son mandataire ou par une personne justifiant d'un titre l'habilitant à y exécuter les travaux projetés ou
+ayant qualité pour bénéficier de l'expropriation pour cause d'utilité publique.
+
+La demande et le dossier qui l'accompagne sont adressés, en quatre exemplaires, au service déconcentré chargé de
+l'architecture et du patrimoine.
+
+Ce dossier comprend :
+
+1° Le programme d'opération décrivant et justifiant les travaux projetés et l'avant-projet définitif contenant un rapport de
+présentation, un descriptif quantitatif détaillé et l'ensemble des documents graphiques et photographiques permettant la
+compréhension des travaux prévus ;
+
+2° Les études scientifiques et techniques préalables à la réalisation des travaux, en fonction de la nature, de l'importance
+et de la complexité de ceux-ci.
+
+Un arrêté du ministre chargé de la culture fixe, selon l'objet des travaux, les modèles de demande et précise la liste des
+pièces à joindre au dossier.
+
+Le service déconcentré chargé de l'architecture et du patrimoine transmet sans délai deux exemplaires de la demande et du
+dossier au préfet de région pour examen au titre du présent livre et, lorsque les travaux requièrent son accord, un
+exemplaire à l'autorité compétente pour statuer sur les demandes de permis de construire.
+
+Si le préfet de région estime que le dossier est incomplet, il fait connaître au demandeur, dans le délai d'un mois à partir
+de la réception de la demande par le service déconcentré chargé de l'architecture et du patrimoine, la liste et le contenu
+des pièces complémentaires à fournir. A défaut d'une demande de pièces complémentaires dans ce délai, le dossier est réputé
+complet.
+
+Lorsque le dossier est complet, le préfet de région fait connaître au demandeur ainsi qu'à l'autorité compétente pour statuer
+sur les demandes de permis de construire, la date et le numéro d'enregistrement de la demande par le service déconcentré
+chargé de l'architecture et du patrimoine. Lorsque des pièces complémentaires ont été demandées dans le délai d'un mois prévu
+au précédent alinéa, à défaut de réception de ces pièces dans un délai de deux mois, la demande fait l'objet d'une décision
+tacite de rejet.
+
+L'accord de l'autorité compétente pour statuer sur les demandes de permis de construire, portant le cas échéant dérogation
+aux règles du plan local d'urbanisme, en application  de l'article L. 152-4 du code de l'urbanisme, est transmis au préfet de
+région dans le délai de deux mois à compter de la réception du dossier complet par cette autorité. Faute de réponse de cette
+autorité à l'expiration du délai fixé, son accord est réputé donné.
+
+Toute modification de la nature et de l'importance des travaux doit faire l'objet d'une demande d'autorisation nouvelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L123-5
+  - Code du patrimoine - art. L621-9
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-13 (V)
+  - Code du patrimoine. - art. R621-15 (V)
+  - Code du patrimoine. - art. R621-60 (V)
+  - Code du patrimoine. - art. R621-92 (M)
+
+
+###### Article R621-13
+
+L'autorisation de travaux sur un immeuble classé est délivrée par le préfet de région, à moins que le ministre chargé de la
+culture n'ait décidé d'évoquer le dossier.
+
+Le préfet de région se prononce dans le délai de six mois suivant la date d'enregistrement notifiée en application du
+neuvième alinéa de l'article R. 621-12. Toutefois, si le ministre chargé de la culture a décidé, dans le délai ainsi imparti
+au préfet de région, d'évoquer le dossier, l'autorisation est délivrée par lui dans le délai de douze mois à compter de la
+même date. Il en informe le demandeur. Faute de réponse du préfet de région ou du ministre à l'expiration du délai fixé,
+l'autorisation est réputée accordée.
+
+La décision d'autorisation peut être assortie de prescriptions, de réserves ou de conditions pour l'exercice du contrôle
+scientifique et technique sur l'opération par les services chargés des monuments historiques. Elle prend en compte les
+prescriptions éventuellement formulées par l'autorité compétente pour statuer sur les demandes de permis de construire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 21 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R621-12 (V)
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-14 (V)
+  - Code du patrimoine. - art. R621-15 (V)
+  - Code du patrimoine. - art. R621-88 (V)
+
+
+###### Article R621-14
+
+Après l'expiration du délai fixé par l'article R. 621-13, le préfet de région ou le ministre délivre à toute personne
+intéressée qui en fait la demande, dans le délai d'un mois suivant sa réception, une attestation certifiant, selon le cas,
+qu'une décision négative ou positive est intervenue et précisant, le cas échéant, les prescriptions mentionnées dans la
+décision accordant l'autorisation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 22 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R621-13 (V)
+
+
+###### Article R621-15
+
+Par dérogation aux dispositions des articles R. 621-12 et R. 621-13, si le projet de travaux de mise en place d'installations
+ou de constructions temporaires d'une surface supérieure à vingt mètres carrés et d'une durée supérieure à un mois n'entre
+pas dans le champ du permis de construire, du permis de démolir, du permis d'aménager ou de la déclaration préalable, la
+demande et le dossier sont adressés en deux exemplaires au service déconcentré chargé de l'architecture et du patrimoine.
+Celui-ci transmet un exemplaire au préfet de région qui se prononce dans le délai d'un mois. Faute de réponse du préfet de
+région à l'expiration de ce délai, l'autorisation est réputée accordée.
+
+Dans les autres cas, la demande portant sur un projet de travaux de mise en place d'installations ou de constructions
+temporaires d'une surface supérieure à vingt mètres carrés et d'une durée supérieure à un mois est présentée et instruite
+dans les conditions fixées à l'article R. 621-12 et la décision est prise dans les conditions fixées à l'article R. 621-13.
+Toutefois, le préfet de région se prononce alors dans un délai de trois mois.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 23 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R621-12 (V)
+  - Code du patrimoine. - art. R621-13 (V)
+
+
+###### Article R621-16
+
+L'autorisation de travaux sur un immeuble classé, prévue à l'article L. 621-9, est affichée sur le terrain, de manière
+visible de l'extérieur, par les soins du bénéficiaire, dès la notification de l'autorisation, pendant toute la durée du
+chantier.
+
+Un arrêté du ministre chargé de la culture règle les formes de l'affichage.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 24 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-9 (V)
+
+
+###### Article R621-16-1
+
+I. – L'autorisation de travaux sur un immeuble classé est périmée si les travaux ne sont pas entrepris dans le délai de trois
+ans à compter de la notification de la décision ou de la date à laquelle la décision tacite est intervenue. Lorsque le
+commencement des travaux est subordonné à une autorisation ou à une procédure prévue par une autre législation, ce délai
+court à compter de la date à laquelle les travaux peuvent commencer en application de cette législation si cette date est
+postérieure à ladite notification.
+
+L'autorisation est également périmée si, passé ce délai, les travaux sont interrompus pendant un délai supérieur à une année.
+
+II. – L'autorisation peut être prorogée pour une année, sur demande de son bénéficiaire.
+
+La demande de prorogation est adressée par pli recommandé ou déposée au service déconcentré chargé de l'architecture et du
+patrimoine quatre mois au moins avant l'expiration du délai de validité.
+
+La prorogation est acquise au bénéficiaire de l'autorisation si aucune décision contraire ne lui a été adressée dans le délai
+de deux mois suivant la date de l'avis de réception postal ou de la décharge de l'autorité compétente pour statuer sur la
+demande. La prorogation prend effet au terme de la validité de la décision initiale.
+
+III. – Les délais mentionnés aux I et II sont suspendus en cas de recours contentieux contre l'autorisation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 12
+
+
+###### Article R621-17
+
+La conformité des travaux réalisés sur un immeuble classé à l'autorisation donnée est constatée par les services déconcentrés
+du ministre chargé de la culture dans le délai de six mois suivant leur achèvement. Elle donne lieu, le cas échéant, à une
+attestation du préfet de région pour le versement du solde des subventions publiques.
+
+Lors de l'achèvement des travaux, le dossier documentaire des ouvrages exécutés est remis en quatre exemplaires par le maître
+d'œuvre au maître d'ouvrage, qui en transmet trois exemplaires au service déconcentré chargé de l'architecture et du
+patrimoine. Ce dossier comprend un mémoire descriptif accompagné de documents graphiques et photographiques, une copie des
+mémoires réglés aux entreprises ainsi que les attachements figurés éventuellement fournis par elles, les rapports des
+intervenants spécialisés, la liste des matériaux utilisés et leur provenance. S'agissant des interventions sur les œuvres
+d'art, peintures murales, sculptures, vitraux incorporés à l'immeuble, le dossier documentaire inclut des copies des
+protocoles d'intervention des restaurateurs mentionnant les produits utilisés et des documents figurés présentant l'œuvre
+avant, pendant et après restauration. Les documents préparatoires, études scientifiques ou techniques et diagnostics sont
+joints au dossier s'ils éclairent utilement les travaux réalisés.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 25 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-23 (V)
+
+
+##### Sous-section 3 : Contrôle scientifique et technique<a id=350></a>
+
+###### Article R621-18
+
+Le contrôle scientifique et technique assuré par les services de l'Etat chargés des monuments historiques est destiné à :
+
+1° Vérifier périodiquement l'état des monuments historiques classés et les conditions de leur conservation de façon que leur
+pérennité soit assurée ;
+
+2° Vérifier et garantir que les interventions sur les immeubles classés, prévues à l'article L. 621-9 sont compatibles avec
+le statut de monument historique reconnu à ces immeubles en application de cette section, ne portent pas atteinte à l'intérêt
+d'art ou d'histoire ayant justifié leur classement au titre des monuments historiques et ne compromettent pas leur bonne
+conservation en vue de leur transmission aux générations futures.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 1 (Ab), alinéas 1 à 3, ecqc les immeubles classés.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-9 (V)
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-29 (V)
+
+
+###### Article R621-19
+
+Les services de l'Etat chargés des monuments historiques définissent, en fonction des caractéristiques des immeubles
+concernés, les conditions scientifiques et techniques selon lesquelles les interventions sur ces monuments historiques sont
+étudiées, conduites et font l'objet de la documentation appropriée. Ils veillent à leur mise en œuvre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 2 (Ab), ecqc les immeubles classés.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-44 (V)
+
+
+###### Article R621-20
+
+Lorsqu'il porte sur des travaux, le contrôle scientifique et technique des services de l'Etat chargés des monuments
+historiques s'exerce dès le début des études documentaires et techniques préparatoires menées, si elles ont été prescrites,
+avant la demande d'autorisation, puis tout au long des travaux autorisés jusqu'à leur achèvement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 3 (Ab), ecqc les immeubles classés.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-21
+
+Lorsque le propriétaire, l'affectataire, son mandataire ou toute personne justifiant d'un titre l'habilitant à faire réaliser
+des travaux fait part au préfet de région de son intention de réaliser un projet de travaux sur un immeuble classé, le préfet
+de région met à sa disposition l'état des connaissances dont il dispose sur l'immeuble en cause et lui indique les
+contraintes réglementaires, architecturales et techniques que le projet devra respecter.
+
+Le préfet de région lui précise, en fonction de la nature, de l'importance et de la complexité des travaux envisagés, les
+études scientifiques et techniques qui devront être réalisées préalablement à la détermination du programme d'opération.
+
+Le préfet de région lui indique également les compétences et expériences que devront présenter les architectes candidats à la
+maîtrise d'œuvre de ces travaux, définies au regard des particularités de l'opération en vertu de l'article R. 621-29.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 4 (Ab), ecqc les immeubles classés.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R621-29 (V)
+
+
+###### Article R621-22
+
+Avant de déposer une demande pour obtenir l'autorisation prévue à l'article L. 621-9, le maître d'ouvrage transmet au préfet
+de région le projet de programme accompagné du diagnostic de l'opération. Après, le cas échéant, un débat contradictoire, le
+préfet de région lui fait part de ses observations et recommandations.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-9 (V)
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-32 (V)
+
+
+###### Article R621-23
+
+Le contrôle scientifique et technique sur les travaux en cours d'exécution sur l'immeuble classé s'exerce sur pièces et sur
+place jusqu'au constat de conformité prévu par le premier alinéa de l'article R. 621-17.
+
+Les services de l'Etat chargés des monuments historiques sont tenus informés par le maître d'ouvrage de la date de début des
+travaux et des réunions de chantier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 7 (Ab), ecqc les immeubles classés.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R621-17 (V)
+
+
+###### Article R621-24
+
+Pour l'exercice du contrôle scientifique et technique par les services de l'Etat chargés des monuments historiques, soit dans
+le cadre de leur mission de surveillance des immeubles classés, soit lors de la réalisation de travaux sur les immeubles
+classés, les propriétaires ou les affectataires sont tenus de permettre aux agents de ces services d'accéder aux lieux.
+
+Le contrôle sur place des immeubles classés s'effectue en présence du propriétaire, de l'affectataire ou de leur
+représentant. En cas d'absence, il s'effectue avec leur accord.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 8 (Ab), alinéas 1 et 3, ecqc les immeubles classés.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+##### Sous-section 4 : Maîtrise d'œuvre<a id=351></a>
+
+###### Article R621-25
+
+Les travaux de réparation des immeubles classés appartenant à l'Etat, qu'ils soient ou non mis à la disposition
+d'établissements publics, sont proposés, en accord avec le bénéficiaire de la mise à disposition de l'immeuble, par
+l'architecte des Bâtiments de France territorialement compétent. Celui-ci en assure la maîtrise d'œuvre.
+
+Toutefois :
+
+1° Pour les immeubles classés mis à la disposition d'un service à compétence nationale ou d'un établissement public, la
+maîtrise d'œuvre peut également être assurée par un architecte urbaniste de l'Etat spécialité " patrimoine " affecté à ce
+service ou à cet établissement ;
+
+2° Pour les monuments historiques classés mis à la disposition d'autres ministères que le ministère chargé de la culture, la
+maîtrise d'œuvre peut également être assurée par un architecte fonctionnaire titulaire du diplôme de spécialisation et
+d'approfondissement en architecture mention " architecture et patrimoine ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 13
+
+
+###### Article R621-26
+
+La maîtrise d'œuvre des travaux de réparation des immeubles classés n'appartenant pas à l'Etat est confiée à un architecte
+titulaire du diplôme de spécialisation et d'approfondissement en architecture mention " architecture et patrimoine " ou de
+tout autre diplôme reconnu de niveau équivalent.
+
+Sur demande du propriétaire ou de l'affectataire domanial et sur décision du préfet de région, l'architecte des Bâtiments de
+France peut assurer la maîtrise d'œuvre de ces travaux sous réserve que soit établie soit la situation de péril pour les
+immeubles ou de danger imminent pour les personnes, soit la carence de l'offre privée ou publique. Cette carence ne peut être
+établie, pour les personnes soumises au code des marchés publics ou à l'ordonnance n° 2005-649 du 6 juin 2005 relative aux
+marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics, qu'après mise en œuvre
+des procédures de publicité et de concurrence prévues par ces textes et selon les modalités qu'ils prévoient.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°2005-649 du 6 juin 2005 (V)
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-27
+
+L'architecte en chef des monuments historiques territorialement compétent assure la maîtrise d'œuvre des travaux de
+restauration des immeubles classés appartenant à l'Etat,           qu'ils soient ou non mis à la disposition d'un
+établissement public, dont il assure la surveillance en application du II de l'article 3 du décret n° 2007-1405 du 28
+septembre 2007 portant statut particulier du corps des architectes en chef des monuments historiques et adaptation au droit
+communautaire des règles applicables à la restauration des immeubles classés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2007-1405 du 28 septembre 2007 - art. 3
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 14
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-38 (V)
+  - Code du patrimoine. - art. R621-44 (V)
+
+
+###### Article R621-28
+
+La maîtrise d'œuvre des travaux de restauration sur les immeubles classés n'appartenant pas à l'Etat est assurée soit par un
+architecte en chef des monuments historiques, soit par un architecte ressortissant d'un Etat membre de l'Union européenne ou
+partie à l'accord sur l'Espace économique européen, établi dans l'un de ces Etats et présentant les conditions requises pour
+se présenter aux épreuves du concours institué par le 2° du I de l'article 2 du décret n° 2007-1405 du 28 septembre 2007
+portant statut particulier du corps des architectes en chef des monuments historiques et adaptation au droit communautaire
+des règles applicables à la restauration des immeubles classés ainsi que celles requises pour être inscrit à un tableau
+régional de l'ordre des architectes en vertu des dispositions de l'article 10 de la loi n° 77-2 du 3 janvier 1977 sur
+l'architecture. Pour chaque opération, le propriétaire ou l'affectataire précise expressément les compétences requises du
+maître d'œuvre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°77-2 du 3 janvier 1977 - art. 10 (M)
+  - Décret n°2007-1405 du 28 septembre 2007 - art. 2 (V)
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 4 (Ab), alinéa 1 phrases 1 et 2.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-29
+
+Pour l'exercice du contrôle scientifique et technique défini par les articles R. 621-18 et R. 621-21, le préfet de région
+s'assure que les justifications produites sont de nature à permettre de conduire l'opération dans des conditions conformes à
+la bonne conservation de l'immeuble en cause.
+
+A cet effet, le propriétaire ou l'affectataire communique au préfet de région les justifications de nature à établir que la
+formation et l'expérience professionnelle du maître d'œuvre choisi attestent des connaissances historiques, architecturales
+et techniques nécessaires à la conception et la conduite des travaux sur l'immeuble faisant l'objet de l'opération de
+restauration.
+
+Cette information intervient, dans tous les cas, avant le dépôt de l'autorisation de travaux délivrée en application de
+l'article L. 621-9 et préalablement à la passation du contrat de maîtrise d'œuvre. Pour les maîtres d'ouvrage soumis aux
+dispositions du code des marchés publics, cette information est transmise avant l'achèvement de la procédure prévue aux
+articles 79 et 80 du code des marchés publics, aux articles 44 et 45 du décret n° 2005-1308 du 20 octobre 2005 relatif aux
+marchés passés par les entités adjudicatrices mentionnées à l'article 4 de l'ordonnance n° 2005-649 du 6 juin 2005 relative
+aux marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics et aux articles 45
+et 46 du décret n° 2005-1742 du 30 décembre 2005 fixant les règles applicables aux marchés passés par les pouvoirs
+adjudicateurs mentionnés à l'article 3 de cette ordonnance.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2005-1742 du 30 décembre 2005 - art. 45 (V)
+  - Code des marchés publics - art. 79 (V)
+  - Code du patrimoine - art. L621-9 (V)
+  - Code du patrimoine - art. R621-21 (V)
+  - Code du patrimoine. - art. R621-18 (V)
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 4 (Ab), alinéa 1 phrase 3 et alinéas 2 et 3
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-30
+
+Lorsque l'architecte ne dispose pas de toutes les compétences nécessaires pour l'exercice de sa mission de maîtrise d'œuvre,
+il peut faire appel à des spécialistes soit en sous-traitance, soit en constituant un groupement dont il est le mandataire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 4 (Ab), alinéa 4.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-38 (V)
+
+
+###### Article R621-31
+
+L'architecte en chef des monuments historiques territorialement compétent assure également la maîtrise d'œuvre des travaux
+sur les monuments historiques classés n'appartenant pas à l'Etat, lorsque aucun maître d'œuvre, notamment parmi ceux
+mentionnés à l'article 5 du décret n° 2007-1405 du 28 septembre 2007 portant statut particulier du corps des architectes en
+chef des monuments historiques et adaptation au droit communautaire des règles applicables à la restauration des immeubles
+classés et aux articles R. 621-28 et R. 621-30, n'a pu être retenu par le maître d'ouvrage.
+
+En ce cas, les personnes soumises au code des marchés publics ou à l'ordonnance n° 2005-649 du 6 juin 2005 relative aux
+marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics doivent au préalable
+avoir mis en œuvre les procédures de publicité et de mise en concurrence prévues par ces textes et les avoir déclarées
+infructueuses en raison de l'absence d'offre ou du caractère inapproprié de ces offres.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°2005-649 du 6 juin 2005 (V)
+  - Décret n°2007-1405 du 28 septembre 2007 - art. 5 (M)
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-44 (V)
+
+
+###### Article R621-32
+
+Les opérations de restauration sur les immeubles classés font l'objet :
+
+1° D'une étude d'évaluation, lorsque l'ampleur de la restauration envisagée nécessite un aperçu général de l'état de
+l'immeuble. Elle comprend l'identification architecturale et historique du monument, son bilan sanitaire, et est accompagnée
+d'une proposition pluriannuelle de travaux ainsi que d'un recueil des études documentaires scientifiques, techniques et
+historiques dont il a fait l'objet ;
+
+2° D'une étude de diagnostic pour chaque opération programmée, complétée d'expertises techniques, scientifiques et
+historiques si la nature, l'importance et la complexité des travaux le justifient ;
+
+3° D'une mission de maîtrise d'œuvre dont les éléments sont énoncés à l'article R. 621-34.
+
+Le projet de programme accompagné du diagnostic de l'opération et, le cas échéant, de l'étude d'évaluation est soumis pour
+observations au préfet de région dans les conditions prévues par l'article R. 621-22.
+
+L'avant-projet définitif est soumis à son autorisation avant tout commencement de travaux, dans les conditions prévues par
+les articles R. 621-11, R. 621-12, R. 621-13, R. 621-14, R. 621-15, R. 621-16 et R. 621-17.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 6 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R621-11 (V)
+  - Code du patrimoine. - art. R621-22 (V)
+  - Code du patrimoine. - art. R621-34 (V)
+
+
+###### Article R621-33
+
+La maîtrise d'œuvre est la réponse architecturale, technique et économique au programme du maître d'ouvrage.
+
+La maîtrise d'œuvre des travaux de restauration sur les immeubles classés comprend l'exécution d'éléments de mission
+indissociables et éventuellement d'éléments de mission indépendants.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 7 (Ab), alinéas 1 et 2.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Arrêté du 18 septembre 2014 - art. 9 (V)
+  - Code du patrimoine. - art. R621-36 (V)
+
+
+###### Article R621-34
+
+Pour chaque opération, le maître d'œuvre se voit confier une mission de base dont les éléments indissociables sont les
+suivants :
+
+1° Les études d'avant-projet, décomposées en avant-projet sommaire et avant-projet définitif ;
+
+2° Les études de projet ;
+
+3° L'assistance apportée au maître d'ouvrage pour la passation du ou des contrats de travaux ;
+
+4° L'examen de la conformité au projet des études d'exécution faites par l'entrepreneur et leur visa ;
+
+5° La direction de l'exécution du ou des contrats de travaux ;
+
+6° L'assistance apportée au maître d'ouvrage lors des opérations de réception et pendant la période de garantie de parfait
+achèvement.
+
+Ces éléments peuvent, en fonction de la nature des travaux ou du niveau de complexité de l'opération, être regroupés en une
+seule ou plusieurs phases. Ils font l'objet d'un contrat unique.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 7 (Ab), alinéas 3 à 10.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-32 (V)
+
+
+###### Article R621-35
+
+Le maître d'œuvre peut être chargé de l'élément de mission ordonnancement, coordination et pilotage du chantier (OPC).
+
+En outre, il peut être chargé de tout ou partie de l'étude d'évaluation préalable ainsi que, le cas échéant, des études de
+diagnostic.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 7 (Ab), alinéas 11 et 12.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-36
+
+A l'exception de l'étude d'évaluation, le contenu des éléments mentionnés aux articles R. 621-33, R. 621-34 et R. 621-35 est
+celui défini dans la sous-section 2 du décret n° 93-1268 du 29 novembre 1993 relatif aux missions de maîtrise d'œuvre
+confiées par des maîtres d'ouvrage publics à des prestataires de droit privé.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°93-1268 du 29 novembre 1993 -  Sous-section 2 Eléments de mission de maîtrise ... (V)
+  - Code du patrimoine. - art. R621-33 (V)
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 7 (Ab), alinéa 13.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-37
+
+Lorsqu'en cas de défaillance d'un maître d'œuvre, titulaire d'une mission de base, le maître d'ouvrage confie une mission
+partielle à un autre maître d'œuvre afin de poursuivre l'opération, l'ensemble des éléments de mission, ceux effectués par le
+titulaire du premier contrat et ceux confiés au nouveau maître d'œuvre, doit respecter le contenu de la mission de base.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 7 (Ab), alinéa 14.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-38
+
+Lorsque les travaux de restauration à réaliser sur les parties classées d'un immeuble atteignent une partie inscrite qui en
+est indivisible, la mission de maîtrise d'œuvre sur les parties inscrites est confiée à l'architecte spécialisé tel que
+défini aux articles R. 621-27, R. 621-28, R. 621-29, R. 621-30 et R. 621-31.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 8 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R621-27 (V)
+  - Code du patrimoine. - art. R621-30 (V)
+
+
+###### Article R621-39
+
+Le contrat de maîtrise d'œuvre précise, d'une part, les modalités selon lesquelles est arrêté le coût prévisionnel des
+travaux assorti d'un seuil de tolérance, sur lequel s'engage le maître d'œuvre, et, d'autre part, les conséquences, pour
+celui-ci, des engagements souscrits.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 9 (Ab), alinéa 1.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-40
+
+Le contrat de maîtrise d'œuvre prévoit l'engagement du maître d'œuvre à respecter le coût prévisionnel des travaux arrêté au
+plus tard avant le lancement de la procédure de passation du ou des contrats de travaux. Le respect de cet engagement est
+contrôlé à l'issue de la consultation des entreprises de travaux. En cas de dépassement du seuil de tolérance, le maître
+d'ouvrage peut demander au maître d'œuvre d'adapter ses études, sans rémunération complémentaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 9 (Ab), alinéa 2.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-41
+
+Le contrat de maîtrise d'œuvre prévoit également un engagement du maître d'œuvre à respecter le coût des travaux, assorti
+d'un nouveau seuil de tolérance, qui résulte des contrats de travaux passés par le maître d'ouvrage. Le respect de cet
+engagement est contrôlé après exécution complète des travaux nécessaires à la réalisation de l'ouvrage en tenant compte du
+coût total définitif des travaux résultant des décomptes finaux et factures des entreprises.
+
+Pour contrôler le respect de l'engagement, le contrat de maîtrise d'œuvre prévoit les modalités de prise en compte des
+variations des conditions économiques.
+
+En cas de dépassement excédant le seuil de tolérance fixé par le contrat de maîtrise d'œuvre, la rémunération de la maîtrise
+d'œuvre est réduite. Le contrat de maîtrise d'œuvre détermine les modalités de calcul de cette réduction, qui ne peut excéder
+15 % de la rémunération du maître d'œuvre correspondant aux éléments de missions postérieurs à l'attribution des contrats de
+travaux.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 9 (Ab), alinéas 3 à 5.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-42
+
+En cas de modification de programme ou de prestations décidées par le maître d'ouvrage, notamment à la suite de découvertes
+fortuites, le contrat de maîtrise d'œuvre fait l'objet d'un avenant qui arrête le programme modifié et le coût prévisionnel
+des travaux concerné par cette modification, et adapte en conséquence la rémunération du maître d'œuvre et les modalités de
+son engagement sur le coût prévisionnel.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 9 (Ab), alinéa 6.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-43
+
+Le contrat de maîtrise d'œuvre fixe la rémunération forfaitaire du maître d'œuvre.
+
+La rémunération correspondant à la mission de base de maîtrise d'œuvre, décomposée en éléments de mission, tient compte :
+
+1° De l'étendue de la mission, appréciée notamment au regard du nombre et du volume des prestations demandées, de l'ampleur
+des moyens à mettre en œuvre, du mode de dévolution des travaux, des délais impartis et des engagements souscrits par le
+maître d'œuvre de respecter le coût prévisionnel des travaux ;
+
+2° Du degré de complexité de cette mission, apprécié notamment au regard du type et de la technicité de l'ouvrage, des
+exigences et contraintes du programme ;
+
+3° Du coût prévisionnel des travaux basé soit sur l'estimation prévisionnelle provisoire des travaux établie par le maître
+d'œuvre lors des études d'avant-projet sommaire, soit sur l'estimation prévisionnelle définitive des travaux établie lors des
+études d'avant-projet définitif.
+
+Lorsque le coût prévisionnel des travaux n'est pas encore connu au moment de la passation du contrat avec le maître d'œuvre,
+le montant provisoire de la rémunération de ce dernier est basé sur la partie affectée aux travaux de l'enveloppe financière
+prévisionnelle fixée par le maître d'ouvrage. Son montant définitif est fixé lors de l'engagement du maître d'œuvre à
+respecter le coût prévisionnel des travaux.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 10 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-44
+
+Lorsque les travaux envisagés par un propriétaire ou un affectataire public incluent une modification au sens de l'article L.
+621-9 : 
+
+1° Si la part de travaux neufs est accessoire, ces travaux sont inclus dans la mission de l'architecte spécialisé tel que
+défini aux articles R. 621-27, R. 621-28 et R. 621-31 ;
+
+2° Si les travaux neufs sont prépondérants, les missions de maîtrise d'œuvre correspondant à ces travaux sont attribuées par
+le maître d'ouvrage à un maître d'œuvre de son choix dans le respect des règles applicables. Lorsqu'ils sont de nature à
+avoir un impact sur l'intérêt protégé de l'immeuble, en application de l'article R. 621-19, les services de l'Etat
+définissent les contraintes architecturales et historiques à respecter.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-749 du 22 juin 2009 - art. 11 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-9 (V)
+  - Code du patrimoine. - art. R621-19 (V)
+  - Code du patrimoine. - art. R621-27 (V)
+  - Code du patrimoine. - art. R621-31 (V)
+
+
+##### Sous-section 5 : Travaux d'office<a id=352></a>
+
+###### Article R621-45
+
+Pour l'application de l'article L. 621-11, l'autorité administrative compétente est le préfet de région.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 26 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-11 (V)
+
+
+###### Article R621-46
+
+En application de l'article L. 621-12, lorsque la conservation d'un immeuble classé au titre des monuments historiques est
+gravement compromise par l'inexécution de travaux de réparation ou d'entretien, le ministre chargé de la culture fait établir
+un rapport constatant la nécessité des travaux à réaliser, décrivant et estimant ces travaux et recueille l'avis de la
+Commission nationale du patrimoine et de l'architecture.
+
+L'arrêté de mise en demeure donne au propriétaire un délai de quinze jours pour choisir le maître d'œuvre chargé d'assurer
+l'exécution des travaux. A défaut, le ministre chargé de la culture procède à sa désignation.
+
+L'arrêté fixe les délais dans lesquels, à compter de la date d'approbation du projet, les travaux devront être entrepris et
+exécutés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code du patrimoine - art. L621-12
+
+
+###### Article R621-47
+
+Lorsque le ministre chargé de la culture décide, conformément aux dispositions de l'article L. 621-13, de faire exécuter les
+travaux d'office, il notifie sa décision au propriétaire.
+
+Le propriétaire d'un immeuble classé dispose d'un délai d'un mois à compter de la notification prévue à l'alinéa précédent
+pour demander au préfet d'engager la procédure d'expropriation prévue à l'article L. 621-13. La demande comporte l'indication
+du prix proposé pour la cession de son immeuble. Le préfet instruit la demande dans les conditions prévues par l'article R.
+10 du code du domaine de l'Etat et statue dans un délai maximum de six mois à compter de sa réception. A l'expiration de ce
+délai, l'absence de réponse vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 28 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-13 (V)
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-85 (V)
+
+
+###### Article R621-48
+
+En cas de mutation à titre onéreux d'un immeuble classé dans lequel des travaux ont été exécutés d'office, le préfet de
+région fait savoir au propriétaire si l'Etat accepte la substitution de l'acquéreur dans ses obligations de débiteur de
+l'Etat au titre de l'exécution de ces travaux.
+
+Lorsque le propriétaire souhaite s'exonérer de sa dette en faisant abandon de son immeuble à l'Etat, en application des
+dispositions du second alinéa de l'article L. 621-14, il adresse au préfet de région une déclaration d'abandon par laquelle
+il s'engage à signer l'acte administratif authentifiant cette déclaration. L'Etat procède à la purge des hypothèques et des
+privilèges régulièrement inscrits sur l'immeuble abandonné, dans la limite de la valeur vénale de cet immeuble.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 29 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-14 (V)
+
+
+##### Sous-section 6 : Servitude conventionnelle<a id=353></a>
+
+###### Article R621-49
+
+L'agrément prévu au deuxième alinéa de l'article L. 621-16, nécessaire à l'établissement d'une servitude par convention sur
+un immeuble classé, relève de la compétence du préfet de région. En l'absence de cet agrément, le ministre chargé de la
+culture exerce l'action en nullité.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 30 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-16 (V)
+
+
+##### Sous-section 7 : Expropriation pour cause d'utilité publique<a id=354></a>
+
+###### Article R621-50
+
+En application de l'article L. 621-20, l'autorité administrative compétente pour présenter ses observations avant l'inclusion
+d'un immeuble classé ou proposé pour le classement dans une enquête aux fins d'expropriation pour cause d'utilité publique
+est le préfet de région, sauf si le ministre a décidé d'évoquer le dossier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 31 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-20 (V)
+
+
+###### Article R621-51
+
+Lorsque le préfet décide de recourir à l'expropriation d'un immeuble classé en application de l'article L. 621-13 ou de
+l'article L. 621-18, l'indemnité est fixée, à défaut d'accord amiable, par la juridiction compétente en matière
+d'expropriation.
+
+Si des travaux ont été exécutés d'office en application des articles L. 621-12 et L. 621-14, la part des frais engagés par
+l'Etat est déduite du montant de l'indemnité d'expropriation ainsi fixé.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 32 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-12 (V)
+  - Code du patrimoine. - art. L621-13 (V)
+  - Code du patrimoine. - art. L621-18 (V)
+
+
+##### Sous-section 8 : Aliénation<a id=355></a>
+
+###### Article R621-52
+
+En cas de projet d'aliénation d'un immeuble classé appartenant à une collectivité territoriale ou à l'un de ses
+établissements publics, le préfet de région présente ses observations dans le délai de deux mois suivant la notification
+faite par le propriétaire de l'immeuble, en application de l'article L. 621-22.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. L621-22
+
+
+##### Section 2 : Inscription des immeubles<a id=356></a>
+
+##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=357></a>
+
+###### Article R621-53
+
+La demande d'inscription d'un immeuble est présentée par le propriétaire ou par toute personne y ayant intérêt. La demande
+d'inscription d'un immeuble appartenant à l'Etat peut en outre être présentée par le préfet après consultation de
+l'affectataire domanial.
+
+L'initiative d'une proposition d'inscription d'immeuble peut également être prise par le ministre chargé de la culture, la
+Commission nationale du patrimoine et de l'architecture ou le préfet de région.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 1
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R720-10 (M)
+
+
+###### Article R621-54
+
+L'inscription d'un immeuble au titre des monuments historiques est prononcée par arrêté du préfet de région après avis de la
+commission régionale du patrimoine et de l'architecture réunie en formation plénière.
+
+Toutefois, lorsque l'initiative de l'inscription émane du ministre chargé de la culture ou de la Commission nationale du
+patrimoine et de l'architecture ou lorsque les différentes parties d'un même immeuble font à la fois l'objet, les unes d'une
+proposition de classement, les autres d'une proposition d'inscription, la décision est prise par arrêté de ce ministre, après
+consultation de la Commission nationale du patrimoine et de l'architecture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 1
+
+
+###### Article R621-55
+
+Les demandes d'inscription d'un immeuble au titre des monuments historiques sont adressées au préfet de la région dans
+laquelle est situé l'immeuble.
+
+La demande est accompagnée de la description de l'immeuble, d'éléments relatifs à son histoire et à son architecture, ainsi
+que des photographies et des documents graphiques le représentant dans sa totalité et sous ses aspects les plus intéressants
+du point de vue de l'histoire et de l'art.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 36 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-56
+
+Le préfet de région recueille l'avis de la commission régionale du patrimoine et de l'architecture ou de sa délégation
+permanente sur les demandes dont il est saisi, après avoir vérifié le caractère complet du dossier, et sur les propositions
+d'inscription dont il prend l'initiative.
+
+S'il prend une décision de rejet, le préfet de région en informe le demandeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 1
+
+
+###### Article R621-57
+
+La décision d'inscription mentionne :
+
+1° La dénomination ou la désignation de l'immeuble ;
+
+2° L'adresse ou la localisation de l'immeuble et le nom de la commune où il est situé ;
+
+3° L'étendue totale ou partielle de l'inscription avec les références cadastrales des parcelles, en précisant, si
+l'inscription est partielle, les parties de l'immeuble auxquelles elle s'applique ;
+
+4° Le nom et le domicile du propriétaire avec la désignation de l'acte de propriété.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 38 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-58
+
+La décision d'inscription de l'immeuble est notifiée par le préfet de région au propriétaire. Celui-ci est tenu d'en informer
+les affectataires ou occupants successifs. 
+
+Cette décision est notifiée avec l'indication de l'étendue de la servitude de protection au maire et, le cas échéant, au
+président de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme qui l'annexe
+à ce plan, lorsqu'il existe, dans les conditions prévues à l'article L. 153-60 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 39 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L153-60 (V)
+
+_Cité par_:
+
+  - Code du patrimoine - art. R720-13 (V)
+  - Code du patrimoine - art. R780-17 (V)
+  - Code du patrimoine - art. R790-16 (V)
+
+
+###### Article R621-59
+
+La radiation de l'inscription d'un immeuble est prononcée et notifiée selon la même procédure et dans les mêmes formes que
+l'inscription.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 40 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R720-10 (M)
+
+
+##### Sous-section 2 : Travaux sur un immeuble inscrit<a id=358></a>
+
+###### Article R621-60
+
+Lorsqu'il est envisagé de réaliser sur un immeuble inscrit des constructions ou travaux autres que, d'une part, des travaux
+d'entretien ou de réparations ordinaires qui sont dispensés de toute formalité et, d'autre part, des constructions ou travaux
+mentionnés au deuxième alinéa de l'article L. 621-27, la déclaration prévue au premier alinéa du même article est souscrite
+quatre mois au moins avant la date de leur réalisation.
+
+Cette déclaration est notifiée en deux exemplaires au service déconcentré chargé de l'architecture et du patrimoine du lieu
+où l'immeuble se trouve par le propriétaire de l'immeuble, son mandataire ou par toute personne justifiant d'un titre
+l'habilitant à y faire les travaux projetés ou ayant qualité pour bénéficier de l'expropriation pour cause d'utilité
+publique. Le service déconcentré chargé de l'architecture et du patrimoine transmet sans délai un exemplaire de la
+déclaration et du dossier au préfet de région.
+
+Les pièces à joindre à la déclaration sont celles mentionnées au 1° de l'article R. 621-12.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 41 (Ab), alinéas 1 à 3.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-27 (V)
+  - Code du patrimoine. - art. R621-12 (V)
+
+
+###### Article R621-61
+
+Le délai de quatre mois mentionné au premier alinéa de l'article L. 621-27 court à compter de la date d'enregistrement de la
+déclaration. Pour s'opposer à ces travaux, le préfet de région doit, avant l'expiration du délai de quatre mois, engager la
+procédure de classement prévue aux articles R. 621-1 et suivants. Il en informe le demandeur.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 41 (Ab), alinéa 4.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-27 (V)
+  - Code du patrimoine. - art. R621-1 (V)
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R621-62 (V)
+
+
+###### Article R621-62
+
+Pour les fouilles archéologiques sur un terrain inscrit, la déclaration prévue à l'article R. 621-61 est réputée avoir été
+faite lorsque l'autorisation prévue à l'article L. 523-9 ou à l'article L. 531-1 a été accordée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 41 (Ab), alinéa 5.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L523-9 (V)
+  - Code du patrimoine. - art. L531-1 (V)
+  - Code du patrimoine. - art. R621-61 (V)
+
+
+##### Sous-section 3 : Contrôle scientifique et technique<a id=359></a>
+
+###### Article R621-63
+
+Le contrôle scientifique et technique assuré par les services de l'Etat chargés des monuments historiques est destiné à :
+
+1° Vérifier périodiquement l'état des monuments historiques inscrits et les conditions de leur conservation de façon que leur
+pérennité soit assurée ;
+
+2° Vérifier et garantir que les interventions sur les immeubles inscrits, prévues à l'article L. 621-27, sont compatibles
+avec le statut de monument historique reconnu à ces immeubles en application du présent code, ne portent pas atteinte à
+l'intérêt d'art ou d'histoire ayant justifié leur inscription au titre des monuments historiques et ne compromettent pas leur
+bonne conservation en vue de leur transmission aux générations futures.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 1 (Ab), ecqc les immeubles inscrits.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-27 (V)
+
+
+###### Article R621-64
+
+Les services de l'Etat chargés des monuments historiques définissent, en fonction des caractéristiques des immeubles inscrits
+concernés, les conditions scientifiques et techniques selon lesquelles les interventions sur ces monuments historiques sont
+étudiées, conduites, et font l'objet de la documentation appropriée. Ils veillent à leur mise en œuvre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 2 (Ab), ecqc les immeubles inscrits.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-65
+
+Le contrôle scientifique et technique des services de l'Etat chargés des monuments historiques s'exerce tout au long des
+travaux autorisés jusqu'à leur achèvement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 17
+
+
+###### Article R621-66
+
+Lorsque le propriétaire, l'affectataire, son mandataire ou toute personne justifiant d'un titre l'habilitant à faire réaliser
+des travaux fait part au préfet de région de son intention de réaliser un projet de travaux sur un immeuble inscrit, le
+préfet de région met à sa disposition l'état des connaissances dont il dispose sur le bien en cause et lui indique les
+contraintes réglementaires, architecturales et techniques que le projet devra respecter.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 4 (Ab), ecqc les immeubles inscrits.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-67
+
+Le contrôle scientifique et technique sur les travaux en cours d'exécution s'exerce sur pièces et sur place jusqu'au
+récolement prévu pour les immeubles inscrits par le a de l'article R. 462-7 du code de l'urbanisme.
+
+Les services de l'Etat chargés des monuments historiques sont tenus informés par le maître d'ouvrage de la date de début des
+travaux et des réunions de chantier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 7 (Ab), ecqc les immeubles inscrits.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R462-7 (V)
+
+_Cité par_:
+
+  - Code du patrimoine - art. R720-13 (V)
+  - Code du patrimoine - art. R780-17 (V)
+  - Code du patrimoine - art. R790-16 (V)
+
+
+###### Article R621-68
+
+Pour l'exercice du contrôle scientifique et technique par les services chargés des monuments historiques, soit dans le cadre
+de leur mission de surveillance des immeubles inscrits, soit lors de la réalisation de travaux sur les immeubles inscrits,
+les propriétaires ou les affectataires sont tenus de permettre aux agents de ces services d'accéder aux lieux.
+
+Le contrôle sur place des immeubles inscrits s'effectue en présence du propriétaire, de l'affectataire ou de leur
+représentant. En cas d'absence, il s'effectue avec leur accord.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 8 (Ab), alinéas 1 et 3, ecqc les immeubles inscrits.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+##### Section 3 : Dispositions communes  aux immeubles classés et aux immeubles inscrits<a id=360></a>
+
+##### Sous-section 1 : Conservateurs des monuments historiques relevant du ministère  chargé de la culture et de ses établissements publics<a id=361></a>
+
+###### Article R621-69
+
+Le conservateur de l'immeuble protégé appartenant à l'Etat, mis à la disposition du ministère chargé de la culture ou d'un
+établissement public placé sous sa tutelle, est désigné, parmi les architectes des Bâtiments de France en fonctions au sein
+du service déconcentré chargé de l'architecture et du patrimoine territorialement compétent, par décision du préfet de
+région, sur proposition du directeur régional des affaires culturelles émise après avis du chef du service déconcentré chargé
+de l'architecture et du patrimoine. Il est notamment chargé du suivi de la réalisation des travaux d'entretien et de
+réparation ordinaire ou de réparation d'entretien de ces immeubles.
+
+Un architecte urbaniste de l'Etat spécialité " patrimoine ", affecté à un établissement public ou à un service à compétence
+nationale relevant du ministère chargé de la culture, peut être conservateur d'un ou plusieurs monuments mis à la disposition
+de l'établissement ou du service.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 18
+
+
+##### Sous-section 2 : Assistance à maîtrise d'ouvrage<a id=362></a>
+
+###### Article R621-70
+
+La mission d'assistance à titre gratuit prévue au deuxième alinéa de l'article L. 621-29-2 est exercée par les services de
+l'Etat chargés des monuments historiques dans les conditions définies aux articles R. 621-71, R. 621-75, R. 621-76 et R.
+621-77, sous la forme d'une conduite d'opération totale ou partielle, telle qu'elle est définie à l'article 6 de la loi n°
+85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée, auprès
+des propriétaires et des affectataires domaniaux d'immeubles protégés au titre des monuments historiques.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°85-704 du 12 juillet 1985 - art. 6 (M)
+  - Code du patrimoine. - art. L621-29-2 (V)
+  - Code du patrimoine. - art. R621-71 (V)
+  - Code du patrimoine. - art. R621-77 (V)
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 1 (Ab), ecqc les immeubles.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-71
+
+L'assistance à maîtrise d'ouvrage peut être accordée à titre gratuit au propriétaire ou à l'affectataire domanial :
+
+1° En cas d'insuffisance des ressources du demandeur, qui s'apprécient :
+
+a) S'il s'agit d'une collectivité territoriale ou d'un groupement, au regard de son potentiel fiscal, tel que défini à
+l'article L. 2334-4 du code général des collectivités territoriales, du nombre de monuments historiques sur son territoire et
+de tout autre élément matériel et économique significatif ;
+
+b) S'il s'agit d'un propriétaire privé, au regard de ses revenus relatifs aux trois années précédant la demande ;
+
+c) S'il s'agit d'un établissement public, au regard des éléments relatifs à la situation financière de l'établissement ;
+
+2° En cas de complexité de l'opération, appréciée, au vu des moyens dont dispose le propriétaire ou l'affectataire, au regard
+de la nécessité et du degré d'intervention sur les structures ou sur les éléments caractéristiques ayant justifié la
+protection de l'immeuble au titre du présent livre et à raison de la complexité technique ou du caractère innovant des
+techniques utilisées, ainsi que de l'existence de risques ou de nuisances particulièrement importants pour le voisinage ou
+pour l'environnement bâti.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 2 (Ab), alinéas 1 à 7, ecqc les immeubles.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2334-4 (M)
+
+_Cité par_:
+
+  - Code du patrimoine - art. R780-18 (V)
+  - Code du patrimoine - art. R790-17 (V)
+  - Code du patrimoine. - art. R621-70 (V)
+  - Code du patrimoine. - art. R621-75 (V)
+  - Code du patrimoine. - art. R720-14 (V)
+
+
+###### Article R621-72
+
+L'assistance à maîtrise d'ouvrage qui peut, en vertu du troisième alinéa de l'article L. 621-29, être accordée aux
+propriétaires ou affectataires domaniaux ne remplissant pas les conditions pour bénéficier d'une assistance à maîtrise
+d'ouvrage gratuite est assurée par les services de l'Etat chargés des monuments historiques, sous la forme d'une conduite
+d'opération totale ou partielle, telle qu'elle est définie à l'article 6 de la loi n° 85-704 du 12 juillet 1985 relative à la
+maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée, en contrepartie d'une rémunération fixée dans
+les conditions prévues à l'article R. 621-73. Cette assistance ne peut être accordée aux propriétaires ou affectataires
+domaniaux que dans la limite de la disponibilité des moyens de l'Etat et sous réserve qu'ils établissent la carence de toute
+offre privée ou publique, compétente en matière de monuments historiques, à satisfaire leur besoin. Cette carence ne peut
+être établie, pour les personnes soumises au code des marchés publics ou à l'ordonnance n° 2005-649 du 6 juin 2005 relative
+aux marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics qu'après mise en
+œuvre des procédures de publicité et de concurrence prévues par ces textes et selon les modalités qu'ils prévoient.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°85-704 du 12 juillet 1985 - art. 6 (M)
+  - Ordonnance n°2005-649 du 6 juin 2005 (V)
+  - Code du patrimoine. - art. L621-29 (V)
+  - Code du patrimoine. - art. R621-73 (V)
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 3 (Ab), ecqc les immeubles.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-73
+
+La rémunération de la prestation prévue à l'article R. 621-72 donne lieu à application d'un barème établi à proportion des
+coûts comprenant :
+
+a) Les coûts matériels et salariaux liés à l'exécution de la prestation ;
+
+b) La fraction des frais généraux des services de l'Etat qui sont imputables à l'opération.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 4 (Ab), ecqc les immeubles.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine - art. R621-72 (V)
+
+
+###### Article R621-74
+
+Les recettes tirées de la rémunération des missions d'assistance à maîtrise d'ouvrage assurées par les services de l'Etat
+chargés des monuments historiques font l'objet d'une procédure d'attribution de produits par décret pris sur le rapport du
+ministre chargé des finances selon les modalités prévues au III de l'article 17 de la loi organique n° 2001-692 du 1er août
+2001 relative aux lois de finances.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi organique n°2001-692 du 1 août 2001 - art. 17 (V)
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 5 (Ab), ecqc les immeubles.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-75
+
+La demande d'assistance des services de l'Etat chargés des monuments historiques doit être adressée au préfet de région par
+le propriétaire ou par l'affectataire domanial, par lettre motivée.
+
+Le préfet de région décide au cas par cas du contenu des missions d'assistance pouvant être assurées par l'Etat à titre
+gratuit ou à titre onéreux, selon les conditions définies aux articles R. 621-71 et R. 621-72.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 6 (Ab), ecqc les immeubles.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R621-71 (V)
+
+
+###### Article R621-76
+
+Les rapports entre le maître d'ouvrage et l'Etat sont définis par un contrat écrit qui prévoit notamment :
+
+a) L'ouvrage et les travaux qui font l'objet du contrat ;
+
+b) Les missions de conduite d'opération prises en charge par l'Etat ;
+
+c) Les conditions dans lesquelles le maître d'ouvrage constate l'achèvement des missions exercées par les services de
+l'Etat ;
+
+d) Les modalités de résiliation du contrat ;
+
+e) Le cas échéant, les modalités de rémunération des services de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 7 (Ab), ecqc les immeubles.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-77
+
+L'exercice des missions définies aux articles R. 621-70 et R. 621-72 est assuré par les services déconcentrés du ministère
+chargé des monuments historiques, sur décision du préfet de région ou par un service à compétence nationale, sur décision du
+ministre chargé des monuments historiques.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 8 (Ab), ecqc les immeubles.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R621-70 (V)
+
+
+##### Sous-section 3 : Subventions<a id=363></a>
+
+###### Article R621-78
+
+Par dérogation aux dispositions du décret n° 99-1060 du 16 décembre 1999 relatif aux subventions de l'Etat pour des projets
+d'investissement :
+
+a) Une avance peut être versée lors du commencement d'exécution de chaque tranche d'une opération de travaux réalisés sur des
+monuments historiques et peut excéder 5 % dans la limite de 30 % du montant prévisionnel de la subvention ;
+
+b) Lorsque les travaux subventionnés sont des travaux de consolidation d'urgence du monument ou que les travaux sont financés
+par l'Etat au titre de l'article 4 de la loi n° 2009-122 du 4 février 2009 de finances rectificative pour 2009, le montant de
+l'avance peut atteindre 50 % du montant prévisionnel de la subvention.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°99-1060 du 16 décembre 1999 (V)
+  - Loi n°2009-122  du 4 février 2009 - art. 4 (V)
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 9 (Ab), alinéas 1 à 3, ecqc les immeubles.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-79
+
+Le solde de la subvention est versé après l'établissement du certificat de conformité pour les immeubles classés et après le
+récolement pour les immeubles inscrits.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 9 (Ab), alinéa 4, ecqc les immeubles.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+##### Sous-section 4 : Publicité des mesures de protection<a id=364></a>
+
+###### Article R621-80
+
+Les décisions de classement ou de déclassement sont publiées par le ministre chargé de la culture au Bulletin officiel du
+ministère. Les arrêtés d'inscription ou de radiation d'inscription sont publiés au recueil des actes administratifs de la
+préfecture de région.
+
+La liste des immeubles classés, déclassés, inscrits ou radiés au cours d'une année est publiée au Journal officiel de la
+République française avant l'expiration du premier semestre de l'année suivante.
+
+Les décisions de classement ou d'inscription, de déclassement ou de radiation d'inscription sont publiées par les soins du
+préfet de région au fichier immobilier de la situation de l'immeuble classé ou inscrit. Cette publication, qui ne donne lieu
+à aucune perception au profit du Trésor, est faite dans les formes et de la manière prescrites par les lois et règlements
+concernant la publicité foncière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
+
+
+###### Article R621-81
+
+La liste générale des immeubles classés et inscrits, établie et publiée par le ministère chargé de la culture, comprend :
+
+1° La dénomination ou la désignation de l'immeuble ;
+
+2° Le nom de la commune où il est situé ;
+
+3° L'étendue totale ou partielle du classement ou de l'inscription avec les références cadastrales des parcelles,
+lorsqu'elles sont disponibles, en précisant, si le classement ou l'inscription est partiel, les parties de l'immeuble
+auxquelles la protection s'applique ;
+
+4° La qualité de personne publique ou privée du propriétaire et pour un immeuble appartenant à l'Etat, le bénéficiaire de la
+mise à disposition ;
+
+5° La date et la nature de la décision portant classement ou inscription.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 19
+
+
+##### Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration<a id=365></a>
+
+###### Article R621-82
+
+Lorsque l'Etat participe financièrement à des travaux d'entretien, de réparation ou de restauration d'un immeuble classé ou
+inscrit, l'importance de son concours est fixée en tenant compte des caractéristiques particulières de cet immeuble, de son
+état actuel, de la nature des travaux projetés et, enfin, des efforts consentis par le propriétaire ou toute autre personne
+intéressée à la conservation du monument.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 44 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+##### Sous-section 6 : Découverte fortuite<a id=366></a>
+
+###### Article R621-83
+
+Toute découverte faite fortuitement ou à l'occasion de travaux sur un immeuble classé ou inscrit et portant sur un élément
+nouveau relatif à l'histoire, à l'architecture ou au décor de l'immeuble est signalée immédiatement au préfet de région qui
+peut, selon le cas, décider ou conseiller des mesures de sauvegarde.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 45 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+##### Sous-section 7 : Aliénation<a id=367></a>
+
+###### Article R621-84
+
+Toute aliénation d'un immeuble classé ou inscrit est notifiée, dans les quinze jours de sa date, au préfet de région, par
+celui qui l'a consentie. La notification mentionne le nom et le domicile du nouveau propriétaire ainsi que la date de
+l'aliénation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 46 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-84-1
+
+En cas de projet d'aliénation d'un immeuble classé ou inscrit appartenant à l'Etat ou à l'un de ses établissements publics,
+le ministre chargé de la culture présente ses observations, après avis de la Commission nationale du patrimoine et de
+l'architecture, dans le délai de six mois suivant la notification faite par le ministre chargé du domaine, en application de
+l'article L. 621-29-9.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. L621-29-9
+
+
+##### Sous-section 8 : Notification<a id=368></a>
+
+###### Article R621-85
+
+La notification des décisions, informations, attestations ou demandes prévues aux articles R. 621-4, R. 621-6, R. 621-8,
+premier alinéa, R. 621-10, R. 621-12, deuxième, huitième et neuvième alinéas, R. 621-13, deuxième alinéa, R. 621-14, R.
+621-15, R. 621-17, R. 621-47, R. 621-48, R. 621-49, R. 621-57, R. 621-59, R. 621-60, R. 621-61, R. 621-62, R. 621-63, R.
+621-83 et R. 621-84 s'effectue, au choix de l'expéditeur, par remise directe à son destinataire qui en délivre récépissé ou
+par lettre remise contre signature.
+
+Lorsque le destinataire a préalablement et expressément accepté de la recevoir à une adresse électronique, elle peut
+également être adressée par courrier électronique. Dans ce cas, le destinataire est réputé avoir reçu cette notification à la
+date à laquelle il la consulte à l'aide de la procédure électronique. Un accusé de réception électronique est adressé à
+l'autorité compétente au moment de la consultation du document. L'ouverture de la page associée contenant la notification ou
+le certificat vaut accusé de réception. A défaut de consultation à l'issue d'un délai de huit jours après son envoi, le
+destinataire est réputé avoir reçu cette notification.
+
+Un arrêté du ministre chargé de la culture fixe les caractéristiques techniques de la procédure électronique de transmission,
+garantissant la fiabilité de l'identification du demandeur et de l'autorité compétente, ainsi que l'intégrité des documents
+adressés, la sécurité et la confidentialité des échanges.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 47 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R621-4 (V)
+  - Code du patrimoine. - art. R621-47 (V)
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R622-58 (V)
+
+
+##### Sous-section 9 : Autorisation d'affichage<a id=369></a>
+
+###### Article R621-86
+
+L'autorisation d'affichage prévue à l'article L. 621-29-8 peut être délivrée à l'occasion de travaux extérieurs sur des
+immeubles classés ou inscrits nécessitant la pose d'échafaudage. La demande est présentée par le maître d'ouvrage, le cas
+échéant après accord du propriétaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-645 du 30 avril 2007 - art. 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L621-29-8 (V)
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R624-2 (V)
+
+
+###### Article R621-87
+
+L'autorité compétente pour autoriser cet affichage est le préfet de région ou le ministre chargé de la culture en cas
+d'évocation du dossier. La décision est prise après consultation du préfet et, le cas échéant, accord de l'affectataire
+cultuel.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-645 du 30 avril 2007 - art. 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-88
+
+Lorsque les travaux portent sur un immeuble classé, la demande d'autorisation d'affichage est adressée en deux exemplaires,
+conjointement au dossier d'autorisation de travaux sur immeubles classés, au service déconcentré chargé de l'architecture et
+du patrimoine, qui en transmet sans délai un exemplaire au préfet de région. La décision est prise dans les délais prévus à
+l'article R. 621-13. 
+
+Lorsque les travaux portent sur un immeuble inscrit, la demande d'autorisation d'affichage est adressée en deux exemplaires,
+conjointement au dossier d'accord pour travaux sur immeubles inscrits, à l'autorité mentionnée à l'article R*. 423-1 du code
+de l'urbanisme, qui en transmet sans délai un exemplaire au service déconcentré chargé de l'architecture et du patrimoine et
+un exemplaire au préfet de région. La décision est prise dans le délai prévu à l'article R*. 423-66 du même code.
+
+Lorsque la demande d'autorisation d'affichage n'a pu être déposée en même temps que le dossier d'autorisation ou d'accord
+pour travaux ou lorsqu'il est envisagé de modifier l'affichage autorisé, la demande est adressée en deux exemplaires au
+service déconcentré chargé de l'architecture et du patrimoine et instruite dans les mêmes conditions. La décision est adoptée
+dans un délai de deux mois suivant la réception de la demande.
+
+Dans tous les cas, faute de réponse dans les délais impartis, la demande est réputée rejetée.
+
+La décision est notifiée au maire par le préfet de région.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-645 du 30 avril 2007 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-1 (V)
+  - Code de l'urbanisme - art. R*423-66 (V)
+  - Code du patrimoine. - art. R621-13 (V)
+
+_Cité par_:
+
+  - Code du patrimoine - art. R720-13 (V)
+  - Code du patrimoine - art. R780-17 (V)
+  - Code du patrimoine - art. R790-16 (V)
+
+
+###### Article R621-89
+
+La demande d'autorisation d'affichage comporte l'indication de l'emplacement de l'échafaudage, de sa surface et de sa durée
+d'installation, l'indication de l'emplacement des bâches, le nom et l'adresse ou bien la dénomination ou la raison sociale
+des personnes désirant apposer ou faire apposer un message et le montant attendu des recettes de l'affichage, ainsi que les
+esquisses ou photos des messages envisagés et l'indication de l'emplacement envisagé pour ceux-ci sur les bâches.
+
+En cas d'utilisations successives du même espace par plusieurs messages, elle comporte ces informations pour chaque message.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-645 du 30 avril 2007 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-90
+
+L'autorisation d'affichage est délivrée au vu de la compatibilité du contenu de l'affichage, de son volume et de son
+graphisme avec le caractère historique et artistique du monument et de son environnement, sa destination et son utilisation
+par le public, en tenant compte des contraintes de sécurité.
+
+Elle peut être assortie de prescriptions ou d'un cahier des charges. Elle détermine en particulier, selon les dimensions de
+l'échafaudage et du monument, les limites de la surface consacrée à l'affichage, qui ne peut excéder 50 % de la surface
+totale de la bâche de support, l'emplacement de l'affichage sur la bâche ainsi que la durée de son utilisation, qui ne peut
+excéder l'utilisation effective des échafaudages.
+
+Elle peut prescrire que la bâche reproduise, sur les surfaces laissées libres, l'image du monument occulté par les travaux.
+
+Les références de cette autorisation ainsi que l'indication des dates et surfaces visées au deuxième alinéa doivent être
+mentionnées sur l'échafaudage, de manière visible de la voie publique, pendant toute la durée de son utilisation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-645 du 30 avril 2007 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R621-91
+
+Les subventions publiques sont calculées après que le montant des recettes perçues au titre de l'affichage ou, lorsqu'une
+partie des travaux ne bénéficie pas de subvention publique, la partie de ces recettes correspondant au prorata du montant des
+travaux subventionnés par rapport au montant total des travaux entrepris, a été déduit du montant des travaux éligibles.
+
+Si les recettes perçues au titre de l'affichage laissent apparaître, en fin d'opération, un excédent par rapport à
+l'estimation initiale, elles sont réparties selon les mêmes principes pour le versement du solde des subventions qui peuvent
+donner lieu à reversement en cas de trop-perçu.
+
+Si le total des recettes d'affichage encaissées est supérieur au montant des travaux, cet excédent est pris en compte lors de
+l'examen de demande de subventions pour des travaux ultérieurs sur le même immeuble.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-645 du 30 avril 2007 - art. 6 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+##### Sous-section 10 : Détachement d'un effet mobilier attaché à perpétuelle demeure<a id=370></a>
+
+###### Article R621-91-1
+
+Les autorisations prévues au deuxième alinéa de l'article L. 621-9 et au troisième alinéa de l'article L. 621-27 sont
+délivrées par le préfet de région dans les conditions prévues aux articles R. 621-11 à R. 621-23.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. L621-27
+  - Code du patrimoine - art. L621-9
+  - Code du patrimoine - art. R621-11 (V)
+
+
+##### Section 4 : Abords<a id=371></a>
+
+##### Sous-section 1 : Création et modification du périmètre délimité des abords<a id=372></a>
+
+###### Article R621-92
+
+Préalablement à l'inscription d'un immeuble au titre des monuments historiques, le préfet de région saisit l'architecte des
+Bâtiments de France afin qu'il propose, le cas échéant, un projet de périmètre délimité des abords.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 48 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. L621-30
+
+_Cité par_:
+
+  - Code du patrimoine - art. R720-12-1 (V)
+  - Code du patrimoine - art. R780-17 (V)
+
+
+###### Article R621-93
+
+I. – Lorsque la commune ou l'établissement public de coopération intercommunale compétent élabore, modifie ou révise au sens
+du 1° de l'article L. 153-31 du code de l'urbanisme le plan local d'urbanisme ou le document d'urbanisme en tenant lieu ou
+lorsqu'il élabore ou révise la carte communale, le préfet saisit l'architecte des Bâtiments de France afin qu'il propose, le
+cas échéant, un projet de périmètre délimité des abords. 
+
+II. – L'organe délibérant de l'autorité compétente se prononce sur le projet de périmètre délimité des abords en même temps
+qu'il arrête le projet de plan local d'urbanisme conformément à l'article L. 153-14 du code de l'urbanisme après avoir
+consulté, le cas échéant, la ou les communes concernées. Lorsqu'il s'est prononcé favorablement, l'enquête publique prévue
+par l'article L. 153-19 du même code porte à la fois sur le projet de plan local d'urbanisme et sur le projet de périmètre
+délimité des abords. 
+
+Lors de l'élaboration ou de la révision d'une carte communale, l'organe délibérant de l'autorité compétente se prononce sur
+le projet de périmètre délimité des abords après avoir consulté, le cas échéant, la ou les communes concernées. Lorsqu'il
+s'est prononcé favorablement, l'enquête publique prévue par l'article L. 163-5 du code de l'urbanisme porte à la fois sur le
+projet de carte communale et sur le projet de périmètre délimité des abords. 
+
+Lors de la modification d'un plan local d'urbanisme ou d'un document en tenant lieu, l'organe délibérant de l'autorité
+compétente se prononce sur le projet de périmètre délimité des abords après avoir consulté, le cas échéant, la ou les
+communes concernées. Lorsqu'il s'est prononcé favorablement, le maire ou le président de l'établissement public de
+coopération intercommunale compétent diligente une enquête publique unique portant à la fois sur le projet de modification du
+document d'urbanisme et sur le projet de périmètre délimité des abords. 
+
+Dans tous les autres cas, le préfet organise une enquête publique dans les conditions fixées par le chapitre III du titre II
+du livre Ier du code de l'environnement. 
+
+III. – Lorsque le projet de périmètre délimité des abords concerne plusieurs départements, l'enquête peut être ouverte et
+organisée par une décision conjointe des préfets concernés pour ouvrir et organiser l'enquête. Dans ce cas, le préfet chargé
+de coordonner l'organisation de l'enquête et d'en centraliser les résultats est désigné conformément aux dispositions de
+l'article 69 du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des
+services de l'Etat dans les régions et départements. 
+
+IV. – Le commissaire enquêteur consulte le propriétaire ou l'affectataire domanial des monuments historiques concernés. Le
+résultat de cette consultation figure dans le rapport du commissaire enquêteur. 
+
+Après avoir reçu le rapport et les conclusions motivées du commissaire enquêteur ou de la commission d'enquête, le préfet
+demande à l'autorité compétente en matière de plan local d'urbanisme, de document d'urbanisme en tenant lieu et de carte
+communale un accord sur le projet de périmètre délimité des abords, éventuellement modifié pour tenir compte des conclusions
+de l'enquête publique. En cas de modification du projet de périmètre délimité des abords, l'autorité compétente consulte, le
+cas échéant, à nouveau la ou les communes concernées. 
+
+A défaut de réponse dans les trois mois suivant la saisine, l'autorité compétente est réputée avoir donné son accord. 
+
+En cas de modification du projet de périmètre délimité des abords, l'architecte des Bâtiments de France est également
+consulté.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2004-374 du 29 avril 2004 - art. 69
+  - Code de l'urbanisme - art. L153-14
+  - Code de l'urbanisme - art. L153-19
+  - Code de l'urbanisme - art. L153-31
+  - Code de l'urbanisme - art. L163-5
+  - Code de l'environnement -  Chapitre III : Participation du public aux déci... (V)
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 49 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cité par_:
+
+  - Code du patrimoine - art. R780-17 (M)
+  - Code du patrimoine - art. R780-18-1 (V)
+  - Code du patrimoine - art. R790-16 (M)
+
+
+###### Article R621-94
+
+En cas d'accord de la commune ou de l'établissement public de coopération intercommunale compétent en matière de plan local
+d'urbanisme, de document d'urbanisme en tenant lieu et de carte communale, le périmètre délimité des abords est créé par
+arrêté du préfet de région. 
+
+A défaut d'accord de l'autorité compétente en matière de plan local d'urbanisme, de document d'urbanisme en tenant lieu et de
+carte communale, le périmètre délimité des abords est créé par arrêté du préfet de région ou par décret en Conseil d'Etat
+dans les conditions prévues au deuxième alinéa de l'article L. 621-31.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 50 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Décret n°2015-1782 du 28 décembre 2015 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. L621-31
+
+
+###### Article R621-95
+
+La décision de création d'un périmètre délimité des abords est notifiée par le préfet de région à la commune ou à
+l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, de document d'urbanisme
+en tenant lieu et de carte communale. 
+
+Elle fait l'objet des mesures de publicité et d'information prévues à l'article R. 153-21 du code de l'urbanisme. 
+
+Lorsque le territoire concerné est couvert par un plan local d'urbanisme, un document d'urbanisme en tenant lieu ou une carte
+communale, l'autorité compétente annexe le tracé des nouveaux périmètres à ce plan, dans les conditions prévues aux articles
+L. 153-60 ou L. 163-10 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L153-60
+  - Code de l'urbanisme - art. L163-10
+  - Code de l'urbanisme - art. R153-21
+
+_Cité par_:
+
+  - Code du patrimoine - art. R780-17 (M)
+  - Code du patrimoine - art. R790-16 (M)
+  - Code du patrimoine. - art. R720-13 (M)
+
+
+##### Sous-section 2 : Régime des travaux en abords<a id=373></a>
+
+###### Article R621-96
+
+L'autorisation prévue à l'article L. 621-32 pour les travaux situés en abords de monuments historiques non soumis à
+autorisation au titre du code de l'environnement ou du code de l'urbanisme est régie par la présente sous-section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. L621-32
+
+
+###### Article R621-96-1
+
+La demande d'autorisation de travaux est adressée par lettre recommandée avec demande d'avis de réception ou déposée à la
+mairie de la commune dans laquelle les travaux sont envisagés :
+
+1° Par le propriétaire du terrain, son mandataire ou une personne attestant être autorisée par eux à exécuter les travaux ;
+
+2° En cas d'indivision, par un ou plusieurs co-indivisaires ou leur mandataire ;
+
+3° Par une personne ayant qualité pour bénéficier de l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+
+_Cité par_:
+
+  - Code du patrimoine - art. R621-96-2 (V)
+
+
+###### Article R621-96-2
+
+Un arrêté du ministre chargé de la culture fixe le modèle national de la demande d'autorisation. La demande d'autorisation
+précise :
+
+1° L'identité du ou des demandeurs ;
+
+2° La localisation et la superficie du ou des terrains ;
+
+3° La nature des travaux envisagés.
+
+La demande comporte également l'attestation du ou des déclarants qu'ils remplissent les conditions fixées à l'article R.
+621-96-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+
+_Cite_:
+
+  - Code du patrimoine - art. R621-96-1
+
+
+###### Article R621-96-3
+
+Le dossier joint à la demande d'autorisation comprend :
+
+a) Une notice de présentation des travaux envisagés indiquant les matériaux utilisés et les modes d'exécution des travaux ;
+
+b) Un plan permettant de connaître la situation du terrain à l'intérieur de la commune ;
+
+c) Un plan de masse faisant apparaître les constructions, les clôtures, la végétation et les éléments paysagers existants et
+projetés lorsque les travaux portent sur l'aménagement ou la modification du terrain ;
+
+d) Deux documents photographiques permettant de situer le terrain respectivement dans l'environnement proche et dans le
+paysage lointain.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. L621-30
+  - Code forestier (nouveau) - art. L214-13
+  - Code forestier (nouveau) - art. L341-3
+
+
+###### Article R621-96-4
+
+La demande d'autorisation et le dossier qui l'accompagne sont établis en trois exemplaires.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cité par_:
+
+  - Code du patrimoine - art. R621-96-8 (V)
+
+
+###### Article R621-96-5
+
+Le maire affecte un numéro d'enregistrement à la demande et en délivre récépissé dans les conditions prévues par un arrêté du
+ministre chargé de la culture.
+
+Le récépissé précise le numéro d'enregistrement, ainsi que les conditions et délais dans lesquels la décision de l'autorité
+compétente est prise, selon que le dossier est complet ou non, par application de l'article R. 621-96-9.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+
+_Cite_:
+
+  - Code du patrimoine - art. R621-96-9
+
+
+###### Article R621-96-6
+
+Lorsque la demande précise que le demandeur accepte de recevoir à une adresse électronique les réponses de l'autorité
+compétente, les notifications peuvent lui être adressées par courrier électronique.
+
+Dans ce cas, le demandeur est réputé avoir reçu ces notifications à la date à laquelle il les consulte à l'aide de la
+procédure électronique. Un accusé de réception électronique est adressé à l'autorité compétente au moment de la consultation
+du document. A défaut de consultation à l'issue d'un délai de huit jours après leur envoi, le demandeur est réputé avoir reçu
+ces notifications.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+
+
+###### Article R621-96-7
+
+Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire procède à
+l'affichage en mairie d'un avis de dépôt de demande d'autorisation précisant les caractéristiques essentielles du projet,
+dans des conditions prévues par arrêté du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+
+
+###### Article R621-96-8
+
+Le maire conserve un exemplaire du dossier et transmet, dans la semaine qui suit le dépôt de la demande, un exemplaire de la
+demande et du dossier à l'architecte des Bâtiments de France et un exemplaire au préfet.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. R621-96-4 (V)
+
+
+###### Article R621-96-9
+
+Lorsque le dossier est complet, le silence gardé par le préfet pendant deux mois à compter du dépôt de la demande vaut
+autorisation en application de l'article L. 231-1 du code des relations entre le public et l'administration. 
+
+Lorsque le dossier est incomplet, le préfet avise le demandeur, dans un délai d'un mois à compter de l'enregistrement de la
+demande, des pièces manquant à son dossier. Dans ce cas, le délai mentionné à l'alinéa précédent court à compter du dépôt de
+ces pièces. A défaut pour le demandeur de déposer ces pièces auprès du maire dans un délai de trois mois à compter de la
+réception de cet avis, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cité par_:
+
+  - Décret n°2019-37 du 23 janvier 2019 - art. 4 (V)
+  - Code du patrimoine - art. R621-96-10 (V)
+  - Code du patrimoine - art. R621-96-12 (Ab)
+  - Code du patrimoine - art. R621-96-5 (V)
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. L231-1
+
+
+###### Article R621-96-10
+
+L'architecte des Bâtiments de France dispose d'un délai d'un mois à compter de sa saisine pour se prononcer. A défaut, il est
+réputé avoir donné son accord.
+
+S'il estime que le dossier est incomplet, il en avise le préfet, dans le délai de quinze jours à compter de sa saisine. Le
+préfet fait alors application du deuxième alinéa de l'article R. 621-96-9.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cité par_:
+
+  - Décret n°2019-37 du 23 janvier 2019 - art. 4 (V)
+
+_Cite_:
+
+  - Code du patrimoine - art. R621-96-9
+
+
+###### Article R621-96-11
+
+Le maire adresse au chef du service déconcentré de l'Etat chargé de l'architecture et du patrimoine son avis sur chaque
+demande. Cet avis est réputé favorable s'il n'est pas intervenu dans le délai d'un mois à compter du dépôt de la demande à la
+mairie. 
+
+L'architecte des bâtiments de France adresse un projet de décision au préfet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+
+
+###### Article R621-96-13
+
+Toute décision expresse prise par le préfet statuant sur la demande d'autorisation, comportant refus ou prescriptions, est
+motivée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+
+
+###### Article R621-96-14
+
+La décision du préfet est notifiée au demandeur par lettre recommandée avec demande d'avis de réception, ou par transmission
+électronique avec demande d'accusé de réception.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+
+
+###### Article R621-96-15
+
+Mention de l'autorisation doit être affichée sur le terrain, de manière visible de l'extérieur, par les soins de son
+bénéficiaire, dès la notification de l'arrêté ou dès la date à laquelle l'autorisation est acquise et pendant toute la durée
+du chantier.
+
+En outre, dans les huit jours de la délivrance de l'autorisation, un extrait de cette autorisation est publié par voie
+d'affichage à la mairie pendant deux mois. L'exécution de cette formalité fait l'objet d'une mention au registre
+chronologique des actes de publication et de notification des arrêtés du maire prévu à l'article R. 2122-7 du code général
+des collectivités territoriales.
+
+Le contenu et les formes de l'affichage de l'autorisation sont fixés par arrêté du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. R2122-7
+
+
+###### Article R621-96-16
+
+L'autorisation est périmée si les travaux ne sont pas entrepris dans le délai de deux ans à compter de la notification de la
+décision ou de la date à laquelle la décision tacite est intervenue. Lorsque le commencement des travaux est subordonné à une
+autorisation ou à une procédure prévue par une autre législation, ce délai court à compter de la date à laquelle les travaux
+peuvent commencer en application de cette législation si cette date est postérieure à ladite notification.
+
+L'autorisation est également périmée si, passé ce délai, les travaux sont interrompus pendant plus d'une année.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+
+
+###### Article R621-96-17
+
+L'autorisation peut être prorogée pour une année, sur demande de son bénéficiaire.
+
+La demande de prorogation est établie en deux exemplaires et adressée par pli recommandé ou déposée à la mairie deux mois au
+moins avant l'expiration du délai de validité.
+
+La prorogation est acquise au bénéficiaire de l'autorisation si aucune décision ne lui a été adressée dans le délai de deux
+mois suivant la date de l'avis de réception postal ou de la décharge de l'autorité compétente pour statuer sur la demande. La
+prorogation prend effet au terme de la validité de la décision initiale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+
+
+##### Section 5 : Dispositions diverses<a id=374></a>
+
+###### Article R621-97
+
+L'autorité administrative mentionnée aux premier et deuxième alinéas de l'article L. 621-33 est le préfet de région. 
+
+L'autorité administrative mentionnée aux troisième et quatrième alinéas de l'article L. 621-33 est le ministre chargé de la
+culture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. L621-33
+
+
+##### Section 6 : Domaines nationaux<a id=375></a>
+
+###### Article R621-98
+
+Le ministre chargé de la culture peut exercer le droit de préemption prévu à l'article L. 621-39 dans les conditions et selon
+les modalités définies aux articles L. 213-2 et R. 213-4 à D. 213-13-4 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-720 du 2 mai 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L213-2
+  - Code de l'urbanisme - art. R213-4
+  - Code du patrimoine - art. L621-39
+
+_Nouveaux textes_:
+
+  - Code du patrimoine - art. R621-99 (V)
+
+_Cité par_:
+
+  - Code du patrimoine - art. R641-1 (V)
+  - Code du patrimoine - art. R720-13 (V)
+  - Code du patrimoine - art. R780-17 (V)
+  - Code du patrimoine - art. R790-16 (V)
+
+
+###### Article R621-99
+
+Les conditions financières de l'utilisation commerciale de l'image d'éléments des domaines nationaux appartenant à l'Etat et
+confiés à un établissement public sont fixées par l'autorité compétente de l'établissement.
+
+Dans les autres cas, le préfet fixe les conditions financières des actes unilatéraux ou contrats relatifs à l'utilisation à
+des fins commerciales de l'image des biens appartenant à l'Etat qui sont inclus dans le périmètre d'un domaine national.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-720 du 2 mai 2017 - art. 1
+
+_Nouveaux textes_:
+
+  - Code du patrimoine - art. R621-100 (V)
+
+
+#### Chapitre II : Objets mobiliers<a id=376></a>
+
+##### Section 1 : Classement des objets mobiliers<a id=377></a>
+
+##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=378></a>
+
+###### Article R622-1
+
+Le classement des objets mobiliers et des ensembles historiques mobiliers appartenant à l'Etat ou à un établissement public
+de l'Etat est prononcé par arrêté du ministre chargé de la culture. Le classement devient définitif si le ministre intéressé
+ou l'établissement public propriétaire ou affectataire n'a pas fait part de son désaccord dans le délai de six mois à dater
+de la notification de l'arrêté. En cas de désaccord, le classement d'office peut être prononcé par décret en Conseil d'Etat
+sur proposition du ministre chargé de la culture. Toutefois, à compter du jour de la notification, tous les effets du
+classement s'appliquent de plein droit à l'objet mobilier ou à l'ensemble historique mobilier considéré.
+
+Le classement des objets mobiliers et des ensembles historiques mobiliers n'appartenant pas à l'Etat ou à l'un de ses
+établissements publics est prononcé par arrêté du ministre chargé de la culture lorsque leur propriétaire y consent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+
+###### Article R622-1-2
+
+L'autorité administrative mentionnée au premier alinéa de l'article L. 622-1-2 est le ministre chargé de la culture. 
+
+L'autorité administrative mentionnée au deuxième alinéa du même article est le préfet de région. 
+
+La décision d'autorisation mentionne la durée du déplacement autorisé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. L622-1-2
+
+
+###### Article R622-2
+
+La demande de classement d'un objet mobilier ou d'un ensemble historique mobilier peut être présentée par son propriétaire ou
+par toute personne y ayant intérêt.
+
+La demande de création d'une servitude de maintien dans les lieux est présentée par le propriétaire. 
+
+L'initiative d'une proposition de classement d'un objet mobilier ou d'un ensemble historique mobilier, ou de la création
+d'une servitude de maintien dans les lieux peut également être prise par le ministre chargé de la culture ou par le préfet de
+région. Ce dernier ne peut proposer l'une de ces mesures pour des biens appartenant à l'Etat qu'après consultation de
+l'affectataire domanial.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R720-10 (M)
+
+
+###### Article R622-3
+
+La demande de classement d'un objet mobilier ou d'un ensemble historique mobilier, ou la demande de création d'une servitude
+de maintien dans les lieux est adressée au préfet de la région dans laquelle sont conservés les biens concernés.
+
+La demande est accompagnée de la description des biens et de photographies.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+
+###### Article R622-4
+
+I. – Le préfet de région soumet pour avis à la commission régionale du patrimoine et de l'architecture les demandes de
+classements d'objets mobiliers et d'ensembles historiques mobiliers et les demandes de création de servitudes de maintien
+dans les lieux dont il est saisi, après avoir vérifié le caractère complet du dossier, ainsi que les propositions de
+classement ou de création de servitudes de maintien dans les lieux dont il prend l'initiative. Au vu de l'avis de la
+commission régionale du patrimoine et de l'architecture, le préfet de région peut transmettre le dossier au ministre chargé
+de la culture, en vue d'un éventuel classement, ou d'une éventuelle création de servitude de maintien dans les lieux. Dans
+tous les cas, il en informe le demandeur et le propriétaire.
+
+Lorsque la demande ou la proposition de classement porte sur un orgue, le préfet de région la transmet au ministre chargé de
+la culture qui recueille l'avis de la Commission nationale du patrimoine et de l'architecture. Le préfet de région peut
+préalablement recueillir l'avis de la commission régionale du patrimoine et de l'architecture.
+
+II. – Le ministre chargé de la culture, saisi par le préfet de région d'une demande ou d'une proposition de classement ou de
+création d'une servitude de maintien dans les lieux, statue après avoir recueilli l'avis de la Commission nationale du
+patrimoine et de l'architecture.
+
+Il consulte également la Commission nationale du patrimoine et de l'architecture lorsqu'il prend l'initiative d'un classement
+ou de la création d'une servitude de maintien dans les lieux.
+
+Il informe la commission, avant qu'elle ne rende son avis, de l'avis du propriétaire ou de l'affectataire domanial.
+
+Le ministre informe le préfet de région de l'avis de la commission et de sa décision.
+
+III. – Le ministre ne peut classer un objet ou un ensemble historique mobilier n'appartenant pas à l'Etat ou créer une
+servitude de maintien dans les lieux qu'au vu d'un dossier contenant l'accord du propriétaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cité par_:
+
+  - Code du patrimoine - art. R622-58 (V)
+
+
+###### Article R622-5
+
+La notification d'une décision d'ouverture d'une instance de classement relative à un objet mobilier prise en application de
+l'article L. 622-5 est effectuée selon les modalités prévues à l'article R. 621-6.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 57 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L622-5 (V)
+  - Code du patrimoine. - art. R621-6 (V)
+
+
+###### Article R622-6
+
+La décision de classement d'un objet mobilier ou d'un ensemble historique mobilier ou la décision de création d'une servitude
+de maintien dans les lieux mentionne :
+
+1° La dénomination ou la désignation et les principales caractéristiques de l'objet ou de l'ensemble historique mobilier et,
+lorsqu'il s'agit d'un ensemble historique mobilier, l'inventaire détaillé des objets le composant ;
+
+2° L'adresse ou la localisation de l'immeuble et le nom de la commune où il est conservé ;
+
+3° Le nom et le domicile du propriétaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+
+###### Article R622-7
+
+La décision de classement de l'objet mobilier ou de l'ensemble historique mobilier est notifiée par le préfet de région au
+propriétaire. Celui-ci est tenu d'en informer l'affectataire ou le dépositaire.
+
+La décision de création de la servitude de maintien dans les lieux est notifiée par le préfet de région au propriétaire.
+Celui-ci est tenu d'en informer l'affectataire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+
+###### Article R622-8
+
+Le déclassement d'un objet mobilier ou d'un ensemble historique mobilier, ou l'autorisation de division ou d'aliénation
+prévue au deuxième alinéa de l'article L. 622-1-1 est prononcé selon la même procédure et dans les mêmes formes que le
+classement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. L622-1-1
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R720-10 (M)
+
+
+###### Article R622-9
+
+La liste générale des objets mobiliers et des ensembles historiques mobiliers classés, établie et publiée par le ministère
+chargé de la culture, comprend :
+
+1° La dénomination ou la désignation et les principales caractéristiques de ces objets et ensembles historiques mobiliers ;
+
+2° L'indication de l'immeuble et de la commune où ils sont conservés, et, le cas échéant, de la servitude de maintien dans
+les lieux attachée à l'objet mobilier ou à l'ensemble historique mobilier concerné. Toutefois, si l'objet mobilier ou
+l'ensemble historique mobilier appartient à un propriétaire privé, celui-ci peut demander que seule l'indication du
+département soit mentionnée ;
+
+3° La qualité de personne publique ou privée de leur propriétaire et, s'il y a lieu, l'affectataire domanial ;
+
+4° La date de la décision de classement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cité par_:
+
+  - Code du patrimoine - art. R622-30 (V)
+  - Code du patrimoine - art. R622-38 (V)
+
+
+###### Article R622-10
+
+En application de l'article L. 622-5, tous les effets du classement s'appliquent de plein droit à l'objet mobilier considéré
+à compter du jour où le ministre chargé de la culture notifie au propriétaire l'instance de classement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L622-5 (V)
+
+
+##### Sous-section 2 : Travaux sur un objet mobilier classé<a id=379></a>
+
+###### Article R622-11
+
+L'autorisation de travaux sur un objet mobilier classé prévue à l'article L. 622-7 est délivrée par le préfet de région, à
+moins que le ministre chargé de la culture n'ait décidé d'évoquer le dossier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 62 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L622-7 (V)
+
+
+###### Article R622-12
+
+La demande d'autorisation de travaux sur un objet mobilier classé autre qu'un orgue est adressée en deux exemplaires par le
+propriétaire, l'affectataire domanial, le dépositaire ou le détenteur de l'objet au conservateur des antiquités et des objets
+d'art du département. Elle est accompagnée d'un dossier décrivant les travaux projetés qui comprend le constat d'état, le
+diagnostic et les propositions d'intervention ainsi que des photographies permettant d'apprécier l'état de l'objet et le
+projet de travaux.
+
+La demande d'autorisation de travaux sur un orgue classé est adressée en deux exemplaires par le propriétaire ou
+l'affectataire de l'orgue au service déconcentré chargé de l'architecture et du patrimoine. Elle est accompagnée d'un dossier
+qui comprend le programme d'opération décrivant et justifiant les travaux projetés et le projet technique, qui comporte les
+éléments suivants : un rapport de présentation, un descriptif quantitatif détaillé, l'ensemble des documents graphiques et
+photographiques nécessaires à la compréhension des travaux prévus. Il comprend les études scientifiques et techniques
+nécessaires à la réalisation des travaux et le bilan de l'état sanitaire de l'orgue.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 63 (Ab), alinéas 1 et 2.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine - art. R622-58 (V)
+  - Code du patrimoine. - art. R622-13 (V)
+  - Code du patrimoine. - art. R622-39 (V)
+
+
+###### Article R622-13
+
+Un arrêté du ministre chargé de la culture fixe, selon l'objet des travaux, les modèles de demande et précise la liste des
+pièces à joindre au dossier prévu à l'article R. 622-12.
+
+Le conservateur des antiquités et des objets d'art ou le service déconcentré chargé de l'architecture et du patrimoine
+transmet sans délai un exemplaire de la demande et du dossier au préfet de région.
+
+Si le préfet de région estime que le dossier est incomplet, il fait connaître au demandeur, dans le délai d'un mois à partir
+de la réception de la demande, la liste et le contenu des pièces complémentaires à fournir. A défaut d'une demande de pièces
+complémentaires dans ce délai, le dossier est réputé complet.
+
+Lorsque le dossier est complet, le préfet de région fait connaître au demandeur la date et le numéro d'enregistrement de sa
+demande. Lorsque des pièces complémentaires ont été demandées dans le délai d'un mois prévu au précédent alinéa, à défaut de
+réception de ces pièces dans un délai de trois mois, la demande fait l'objet d'une décision tacite de rejet.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 63 (Ab), alinéas 3 à 6.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R622-12 (V)
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R622-15 (V)
+
+
+###### Article R622-14
+
+Toute modification de la nature et de l'importance des travaux fait l'objet d'une demande d'autorisation nouvelle.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 63 (Ab), alinéa 7.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-15
+
+Lorsque la demande d'autorisation porte sur un objet mobilier classé autre qu'un orgue, le préfet de région se prononce dans
+le délai de six mois à compter de la date d'enregistrement de la demande notifiée conformément au quatrième alinéa de
+l'article R. 622-13. Toutefois, si le ministre chargé de la culture a décidé, dans ce délai, d'évoquer le dossier,
+l'autorisation est délivrée par lui dans le délai de douze mois à compter de la même date. Il en informe le demandeur.
+
+Lorsque la demande d'autorisation porte sur un orgue classé, le préfet de région ou le ministre chargé de la culture, s'il a
+décidé d'évoquer le dossier, se prononce dans le délai de douze mois à compter de la date d'enregistrement de la demande.
+
+Faute de réponse du préfet de région ou du ministre à l'expiration du délai fixé, l'autorisation est réputée accordée.
+
+La décision d'autorisation peut être assortie de prescriptions, de réserves ou de conditions pour l'exercice du contrôle
+scientifique ou technique sur l'opération des services chargés des monuments historiques.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 64 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R622-13 (V)
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R622-16 (V)
+
+
+###### Article R622-16
+
+Après l'expiration du délai qui lui est imparti à l'article R. 622-15, le préfet de région ou le ministre délivre à toute
+personne intéressée au projet qui en fait la demande, dans le délai d'un mois suivant sa réception, une attestation
+certifiant, selon le cas, qu'une décision négative ou positive est intervenue assortie, le cas échéant, d'une attestation
+indiquant les prescriptions mentionnées dans la décision accordant l'autorisation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 65 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R622-15 (V)
+
+
+###### Article R622-17
+
+La conformité des travaux réalisés sur un objet mobilier classé à l'autorisation donnée est constatée par les services
+déconcentrés du ministre chargé de la culture dans le délai de six mois suivant leur achèvement. Elle donne lieu, le cas
+échéant, à une attestation du préfet de région pour le versement du solde des subventions publiques.
+
+Lors de l'achèvement des travaux, trois exemplaires du dossier documentaire des travaux exécutés sont remis par le maître
+d'ouvrage au conservateur des antiquités et des objets d'art ou au service déconcentré chargé de l'architecture et du
+patrimoine s'il s'agit de travaux sur un orgue classé. Ce dossier comprend une copie des mémoires réglés aux entreprises et
+une copie des protocoles d'intervention des restaurateurs mentionnant les produits utilisés et des documents figurés
+présentant l'œuvre avant, pendant et après restauration. Les documents préparatoires, études scientifiques ou techniques et
+diagnostics sont joints au dossier s'ils éclairent utilement les travaux réalisés.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 66 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R622-23 (V)
+
+
+##### Sous-section 3 : Contrôle scientifique et technique<a id=380></a>
+
+###### Article R622-18
+
+Le contrôle scientifique et technique assuré par les services de l'Etat chargés des monuments historiques est destiné à :
+
+1° Vérifier et garantir que les interventions sur les objets mobiliers classés, prévues aux articles L. 622-7 et L. 622-8
+sont compatibles avec le statut de monument historique reconnu à ces biens en application du présent code, ne portent pas
+atteinte à l'intérêt d'art ou d'histoire ayant justifié leur classement au titre des monuments historiques et ne
+compromettent pas leur bonne conservation en vue de leur transmission aux générations futures ;
+
+2° Vérifier que le déplacement des objets mobiliers classés se déroule dans des conditions assurant leur bonne conservation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 22
+
+_Cite_:
+
+  - Code du patrimoine - art. L622-7
+
+
+###### Article R622-19
+
+Les services de l'Etat chargés des monuments historiques définissent, en fonction des caractéristiques des objets mobiliers
+classés concernés, les conditions scientifiques et techniques selon lesquelles les interventions sur ces monuments
+historiques sont étudiées, conduites, et font l'objet de la documentation appropriée. Ils veillent à leur mise en œuvre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 2 (Ab), ecqc les objets classés.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-20
+
+Lorsqu'il porte sur des travaux, le contrôle scientifique et technique des services de l'Etat chargés des monuments
+historiques s'exerce dès le début des études documentaires et techniques préparatoires menées, si elles ont été prescrites,
+avant la demande d'autorisation, puis tout au long des travaux autorisés jusqu'à leur achèvement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 3 (Ab), ecqc les objets classés.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-21
+
+Lorsque le propriétaire, l'affectataire, son mandataire ou toute personne justifiant d'un titre l'habilitant à faire réaliser
+des travaux fait part au préfet de région de son intention de réaliser un projet de travaux sur un objet mobilier ou un orgue
+classé, le préfet de région met à sa disposition l'état des connaissances dont il dispose sur le bien en cause et lui indique
+les contraintes réglementaires, architecturales et techniques que le projet devra respecter.
+
+Le préfet de région lui indique, en fonction de la nature, de l'importance et de la complexité des travaux envisagés, les
+études scientifiques et techniques qui devront être réalisées préalablement à la détermination du programme d'opération.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 4 (Ab), alinéas 1 et 2, ecqc les objets classés.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-22
+
+Avant de déposer une demande pour obtenir l'autorisation prévue à l'article L. 622-7, le maître d'ouvrage transmet au préfet
+de région le cahier des charges de l'opération, s'il s'agit d'un objet mobilier classé, ou le projet de programme de
+l'opération, s'il s'agit d'un orgue classé. Après, le cas échéant, un débat contradictoire, le préfet de région lui fait part
+de ses observations et recommandations.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 6 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L622-7 (V)
+
+
+###### Article R622-23
+
+Le contrôle scientifique et technique sur les travaux en cours d'exécution s'exerce sur pièces et sur place jusqu'au constat
+de conformité prévu pour les objets mobiliers classés, par le premier alinéa de l'article R. 622-17.
+
+Les services de l'Etat chargés des monuments historiques sont tenus informés par le maître d'ouvrage de la date de début des
+travaux et des réunions de chantier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 7 (Ab), ecqc les objets classés.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R622-17 (V)
+
+
+###### Article R622-24
+
+La présentation des objets mobiliers classés, faite à la demande des services de l'Etat chargés des monuments historiques en
+application du deuxième alinéa de l'article L. 622-8, s'effectue sur leur lieu habituel de conservation. Toutefois, les
+propriétaires, affectataires, détenteurs ou dépositaires de ces objets peuvent demander que cette présentation s'effectue
+dans un autre lieu.
+
+Le contrôle sur place des biens protégés s'effectue en présence du propriétaire, de l'affectataire ou de leur représentant.
+En cas d'absence, il s'effectue avec leur accord.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 8 (Ab), alinéas 1 et 3, ecqc les objets classés.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L622-8 (V)
+
+
+###### Article R622-25
+
+Le conservateur des antiquités et des objets d'art procède au moins tous les cinq ans au récolement des objets mobiliers
+classés.
+
+Le préfet du département accrédite les agents auxquels les propriétaires ou détenteurs de ces objets sont tenus, en
+application du second alinéa de l'article L. 622-8, de les présenter.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 67 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L622-8 (V)
+
+
+##### Sous-section 4 : Mesures conservatoires<a id=381></a>
+
+###### Article R622-26
+
+Le préfet peut prendre d'office, en application du troisième alinéa de l'article L. 622-9, les mesures nécessaires lorsque la
+garde ou la conservation d'un objet mobilier classé et appartenant à une collectivité territoriale ou à l'un de ses
+établissements publics est compromise.
+
+Cette décision intervient après une mise en demeure du préfet restée sans effet à l'expiration d'un délai d'un mois suivant
+sa réception.
+
+L'inscription d'office des dépenses correspondantes au budget de la collectivité territoriale considérée a lieu en
+application des dispositions des articles L. 1612-15 et L. 1612-16 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 68 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L1612-15 (V)
+  - Code du patrimoine. - art. L622-9 (V)
+
+_Cité par_:
+
+  - Code du patrimoine - art. R622-58 (V)
+  - Code général des collectivités territoriales - art. D1421-8 (V)
+
+
+###### Article R622-27
+
+Lorsque la conservation ou la sécurité d'un objet mobilier classé appartenant à une collectivité territoriale ou à un
+établissement public est mise en péril, le préfet prescrit, aux frais de l'Etat, les mesures conservatoires ou le transfert
+provisoire de cet objet prévus par l'article L. 622-10. L'arrêté est notifié à la collectivité territoriale ou à
+l'établissement public et, s'il y a lieu, à l'affectataire ou au dépositaire.
+
+Dans le cas d'un transfert provisoire de l'objet, la collectivité territoriale ou l'établissement public et, s'il y a lieu,
+l'affectataire ou le dépositaire, sont invités à assister à son déplacement.
+
+Les conditions nécessaires pour la garde et la conservation de l'objet dans son emplacement primitif sont arrêtées par le
+préfet après accord de la commission prévue à l'article L. 612-2 dans un délai de trois mois à compter de ce transfert
+provisoire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 69 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L612-2 (V)
+  - Code du patrimoine. - art. L622-10 (V)
+
+
+##### Sous-section 5 : Aliénation<a id=382></a>
+
+###### Article R622-28
+
+L'objet mobilier classé appartenant à une collectivité territoriale ou à un établissement public ou d'utilité publique ne
+peut être aliéné sans l'accord du préfet de région.
+
+La déclaration d'intention d'aliéner lui est transmise deux mois à l'avance.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 70 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-29
+
+Toute aliénation d'un objet mobilier classé est notifiée, dans les quinze jours de sa date, au préfet de région par celui qui
+l'a consentie. La notification mentionne le nom et le domicile du nouveau propriétaire ainsi que la date de l'aliénation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 71 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-30
+
+Le préfet de région informe le ministre chargé de la culture de toute aliénation intéressant un objet mobilier classé ainsi
+que de tout transfert de cet objet d'un lieu dans un autre. Ces modifications sont reportées sur la liste générale des objets
+classés mentionnée à l'article R. 622-9.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 72 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine - art. R622-9 (V)
+
+
+###### Article R622-31
+
+L'autorité administrative compétente pour exercer les actions en nullité ou en revendication prévues par l'article L. 622-17
+est le ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 73 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. L622-17 (V)
+
+
+##### Section 2 : Inscription des objets mobiliers<a id=383></a>
+
+##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=384></a>
+
+###### Article R622-32
+
+L'autorité compétente pour inscrire un objet mobilier au titre des monuments historiques est le préfet de la région dans
+laquelle est conservé l'objet mobilier. Il prend sa décision après que l'avis, selon le cas, de la    commission régionale du
+patrimoine et de l'architecture ou de la Commission nationale du patrimoine et de l'architecture, a été recueilli. Si cet
+objet appartient à une personne privée, l'arrêté d'inscription ne peut être pris qu'au vu d'un dossier comportant l'accord du
+propriétaire sur la mesure d'inscription.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 1
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+
+###### Article R622-33
+
+La demande d'inscription d'un objet mobilier est présentée par le propriétaire ou par toute personne y ayant intérêt.
+
+L'initiative d'une proposition d'inscription d'un objet mobilier peut également être prise par le ministre chargé de la
+culture ou par le préfet de région. Lorsqu'elle porte sur un objet mobilier appartenant à l'Etat, elle est présentée après
+consultation de l'affectataire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R720-10 (M)
+
+
+###### Article R622-34
+
+La demande d'inscription d'un objet mobilier au titre des monuments historiques est adressée au préfet de la région dans
+laquelle est conservé l'objet mobilier. 
+
+La demande est accompagnée de la description de l'objet mobilier et de photographies. 
+
+Le préfet recueille l'avis de la    commission régionale du patrimoine et de l'architecture sur les demandes d'inscription
+d'objets mobiliers autres qu'un orgue dont il est saisi, après avoir vérifié le caractère complet du dossier, ainsi que sur
+les propositions d'inscription des mêmes objets dont il prend l'initiative. 
+
+Lorsque le préfet reçoit une demande d'inscription d'un orgue au titre des monuments historiques ou prend l'initiative de
+cette inscription, il transmet la demande au ministre chargé de la culture qui recueille l'avis de la Commission nationale du
+patrimoine et de l'architecture. Le préfet peut préalablement recueillir l'avis de la    commission régionale du patrimoine
+et de l'architecture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 1
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+
+###### Article R622-35
+
+La décision d'inscription d'un objet mobilier au titre des monuments historiques mentionne :
+
+1° La dénomination ou la désignation et les principales caractéristiques de l'objet ;
+
+2° L'adresse ou la localisation de l'immeuble et le nom de la commune où il est conservé ;
+
+3° Le nom et le domicile du propriétaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 77 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-36
+
+La décision d'inscription de l'objet mobilier est notifiée par le préfet de région au propriétaire. Celui-ci est tenu d'en
+informer l'affectataire ou le dépositaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cité par_:
+
+  - Code du patrimoine - art. R622-58 (V)
+
+
+###### Article R622-37
+
+La radiation de l'inscription d'un objet mobilier est prononcée par arrêté du préfet de région selon la même procédure et
+dans les mêmes formes que l'inscription.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R720-10 (M)
+
+
+###### Article R622-38
+
+Le préfet de région dresse une liste des objets mobiliers inscrits de la région qui contient les mêmes renseignements que
+ceux énumérés à l'article R. 622-9.
+
+Un exemplaire de cette liste, tenue à jour, est déposé au ministère chargé de la culture, à la direction régionale des
+affaires culturelles et auprès du conservateur des antiquités et des objets d'art.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. R622-9 (V)
+
+
+##### Sous-section 2 : Travaux sur un objet mobilier inscrit<a id=385></a>
+
+###### Article R622-39
+
+La déclaration préalable de travaux de modification, de réparation ou de restauration portant sur un objet mobilier inscrit
+est adressée deux mois à l'avance au conservateur des antiquités et objets d'art du département qui en avise le préfet de
+région. Elle est accompagnée d'un dossier décrivant les travaux projetés qui comprend le constat d'état, le diagnostic et les
+propositions d'intervention ainsi que des photographies permettant d'apprécier l'état de l'objet et le projet de travaux.
+
+La déclaration préalable de travaux de modification, réparation ou restauration portant sur un orgue inscrit est adressée
+deux mois à l'avance au service déconcentré chargé de l'architecture et du patrimoine qui en avise le préfet de région. Elle
+est accompagnée d'un dossier comprenant les éléments mentionnés au second alinéa de l'article R. 622-12.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 81 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R622-12 (V)
+
+
+##### Sous-section 3 : Contrôle scientifique et technique<a id=386></a>
+
+###### Article R622-40
+
+Le contrôle scientifique et technique assuré par les services de l'Etat chargés des monuments historiques est destiné à :
+
+1° Vérifier et garantir que les interventions sur les objets mobiliers inscrits sont compatibles avec le statut de monument
+historique reconnu à ces biens en application du présent code, ne portent pas atteinte à l'intérêt d'art ou d'histoire ayant
+justifié leur inscription au titre des monuments historiques et ne compromettent pas leur bonne conservation en vue de leur
+transmission aux générations futures ;
+
+2° Vérifier que le déplacement des objets mobiliers inscrits, lorsqu'il est effectué par les propriétaires, affectataires,
+détenteurs ou dépositaires, se déroule dans des conditions assurant leur bonne conservation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 1 (Ab), alinéas 1, 3 et 4, ecqc les objets inscrits.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-41
+
+Les services de l'Etat chargés des monuments historiques définissent, en fonction des caractéristiques des objets mobiliers
+concernés, les conditions scientifiques et techniques selon lesquelles les interventions sur ces monuments historiques sont
+étudiées, conduites, et font l'objet de la documentation appropriée. Ils veillent à leur mise en œuvre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 2 (Ab), ecqc les objets inscrits.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-42
+
+Lorsque le propriétaire, l'affectataire, son mandataire ou toute personne justifiant d'un titre l'habilitant à faire réaliser
+des travaux fait part au préfet de région de son intention de réaliser un projet de travaux sur un objet mobilier ou un orgue
+inscrit, le préfet de région met à sa disposition l'état des connaissances dont il dispose sur le bien en cause et lui
+indique les contraintes réglementaires, architecturales et techniques que le projet devra respecter.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-750 du 22 juin 2009 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+##### Sous-section 4 : Aliénation<a id=387></a>
+
+###### Article R622-43
+
+L'aliénation d'un objet mobilier inscrit au titre des monuments historiques appartenant à une collectivité territoriale ou à
+l'un de ses établissements publics ne peut avoir lieu sans que le préfet de région n'en soit informé deux mois à l'avance. En
+l'absence de cette déclaration, le ministre chargé de la culture exerce l'action en nullité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+_Cité par_:
+
+  - Code du patrimoine - art. R622-58 (V)
+
+
+###### Article R622-44
+
+Toute aliénation d'un objet mobilier inscrit est notifiée, dans les quinze jours de sa date, au préfet de région par celui
+qui l'a consentie. La notification mentionne le nom et le domicile du nouveau propriétaire ainsi que la date de l'aliénation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+
+##### Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits<a id=388></a>
+
+##### Sous-section 1 : Assistance à maîtrise d'ouvrage<a id=389></a>
+
+###### Article R622-45
+
+La mission d'assistance à titre gratuit prévue à l'article L. 622-25 est exercée par les services de l'Etat chargés des
+monuments historiques dans les conditions définies aux articles R. 622-46, R. 622-50, R. 622-51 et R. 622-52, sous la forme
+d'une conduite d'opération totale ou partielle, telle qu'elle est définie à l'article 6 de la loi n° 85-704 du 12 juillet
+1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée, auprès des propriétaires et
+des affectataires domaniaux d'objets protégés au titre des monuments historiques.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°85-704 du 12 juillet 1985 - art. 6 (M)
+  - Code du patrimoine - art. R622-46 (V)
+  - Code du patrimoine - art. R622-50 (V)
+  - Code du patrimoine - art. R622-51 (V)
+  - Code du patrimoine - art. R622-52 (V)
+  - Code du patrimoine. - art. L622-25 (V)
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 1 (Ab), ecqc les objets.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-46
+
+L'assistance à maîtrise d'ouvrage peut être accordée à titre gratuit au propriétaire ou à l'affectataire domanial :
+
+1° En cas d'insuffisance des ressources du demandeur, qui s'apprécient :
+
+a) S'il s'agit d'une collectivité territoriale ou d'un groupement, au regard de son potentiel fiscal, tel que défini à
+l'article L. 2334-4 du code général des collectivités territoriales, du nombre de monuments historiques sur son territoire et
+de tout autre élément matériel et économique significatif ;
+
+b) S'il s'agit d'un propriétaire privé, au regard de ses revenus relatifs aux trois années précédant la demande ;
+
+c) S'il s'agit d'un établissement public, au regard des éléments relatifs à la situation financière de l'établissement ;
+
+2° En cas de complexité de l'opération, appréciée, au vu des moyens dont dispose le propriétaire ou l'affectataire, au regard
+de la nécessité et du degré d'intervention sur les structures ou sur les éléments caractéristiques ayant justifié la
+protection de l'objet ou de l'orgue, au titre du présent code et à raison de l'importance des interventions à mener, de la
+mise en œuvre éventuelle de nouvelles technologies d'études et de traitements et du nombre d'intervenants spécialisés à
+solliciter.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 2 (Ab), alinéas 1 à 6 et 8, ecqc les objets.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2334-4 (M)
+
+_Cité par_:
+
+  - Code du patrimoine - art. R622-45 (V)
+  - Code du patrimoine - art. R622-50 (V)
+  - Code du patrimoine - art. R780-18 (V)
+  - Code du patrimoine - art. R790-17 (V)
+  - Code du patrimoine. - art. R720-14 (V)
+
+
+###### Article R622-47
+
+L'assistance à maîtrise d'ouvrage qui peut être accordée aux propriétaires ou affectataires domaniaux ne remplissant pas les
+conditions pour bénéficier d'une assistance à maîtrise d'ouvrage gratuite est assurée par les services de l'Etat chargés des
+monuments historiques, sous la forme d'une conduite d'opération totale ou partielle, telle qu'elle est définie à l'article 6
+de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre
+privée, en contrepartie d'une rémunération fixée dans les conditions prévues à l'article R. 622-48. Cette assistance ne peut
+être accordée aux propriétaires ou affectataires domaniaux que dans la limite de la disponibilité des moyens de l'Etat et
+sous réserve qu'ils établissent la carence de toute offre privée ou publique, compétente en matière de monuments historiques,
+à satisfaire leur besoin. Cette carence ne peut être établie, pour les personnes soumises au code des marchés publics ou à
+l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises
+au code des marchés publics, qu'après mise en œuvre des procédures de publicité et de concurrence prévues par ces textes et
+selon les modalités qu'ils prévoient.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°85-704 du 12 juillet 1985 - art. 6 (M)
+  - Ordonnance n°2005-649 du 6 juin 2005 (V)
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 3 (Ab), ecqc les objets.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine - art. R622-48 (V)
+  - Code du patrimoine - art. R622-50 (V)
+  - Code du patrimoine - art. R622-52 (V)
+
+
+###### Article R622-48
+
+La rémunération de la prestation prévue à l'article R. 622-47 donne lieu à application d'un barème établi à proportion des
+coûts comprenant :
+
+a) Les coûts matériels et salariaux liés à l'exécution de la prestation ;
+
+b) La fraction des frais généraux des services de l'Etat qui sont imputables à l'opération.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 4 (Ab), ecqc les objets.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine - art. R622-47 (V)
+
+
+###### Article R622-49
+
+Les recettes tirées de la rémunération des missions d'assistance à maîtrise d'ouvrage assurées par les services de l'Etat
+chargés des monuments historiques font l'objet d'une procédure d'attribution de produits conformément au III de l'article 17
+de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi organique n°2001-692 du 1 août 2001 - art. 17 (V)
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 5 (Ab), ecqc les objets.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-50
+
+La demande d'assistance des services de l'Etat chargés des monuments historiques doit être adressée au préfet de région par
+le propriétaire ou par l'affectataire domanial, par lettre motivée.
+
+Le préfet de région décide au cas par cas du contenu des missions d'assistance pouvant être assurées par l'Etat à titre
+gratuit ou à titre onéreux, selon les conditions définies aux articles R. 622-46 et R. 622-47.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 6 (Ab), ecqc les objets.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine - art. R622-45 (V)
+
+_Cite_:
+
+  - Code du patrimoine - art. R622-46 (V)
+  - Code du patrimoine - art. R622-47 (V)
+
+
+###### Article R622-51
+
+Les rapports entre le maître d'ouvrage et l'Etat sont définis par un contrat écrit qui prévoit notamment :
+
+a) L'ouvrage et les travaux qui font l'objet du contrat ;
+
+b) Les missions de conduite d'opération prises en charge par l'Etat ;
+
+c) Les conditions dans lesquelles le maître d'ouvrage constate l'achèvement des missions exercées par les services de
+l'Etat ;
+
+d) Les modalités de résiliation du contrat ;
+
+e) Le cas échéant, les modalités de rémunération des services de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 7 (Ab), ecqc les objets.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine - art. R622-45 (V)
+
+
+###### Article R622-52
+
+L'exercice des missions définies aux articles R. 622-45 et R. 622-47 est assuré par les services déconcentrés du ministère
+chargé des monuments historiques, sur décision du préfet de région ou par un service à compétence nationale sur décision du
+ministre chargé des monuments historiques.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 8 (Ab), ecqc les objets.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine - art. R622-45 (V)
+  - Code du patrimoine - art. R622-47 (V)
+
+
+##### Sous-section 2 : Subventions<a id=390></a>
+
+###### Article R622-53
+
+Lorsque l'Etat participe financièrement à des travaux de réparation ou de restauration d'un objet mobilier classé ou inscrit,
+l'importance de son concours est fixée en tenant compte des caractéristiques particulières de cet objet, de son état actuel,
+de la nature des travaux prévus, de l'existence d'un projet de mise en valeur avec une présentation de cet objet au public et
+enfin des efforts consentis par le propriétaire ou toute autre personne intéressée à la conservation de l'objet.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 84 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-54
+
+Par dérogation aux dispositions du décret n° 99-1060 du 16 décembre 1999 relatif aux subventions de l'Etat pour des projets
+d'investissement :
+
+a) Une avance peut être versée lors du commencement d'exécution de chaque tranche d'une opération de travaux réalisés sur des
+monuments historiques et peut excéder 5 % dans la limite de 30 % du montant prévisionnel de la subvention ;
+
+b) Lorsque les travaux subventionnés sont des travaux de consolidation d'urgence du monument ou que les travaux sont financés
+par l'Etat au titre de l'article 4 de la loi n° 2009-122 du 4 février 2009 de finances rectificative pour 2009, le montant de
+l'avance peut atteindre 50 % du montant prévisionnel de la subvention.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°99-1060 du 16 décembre 1999 (V)
+  - Loi n°2009-122  du 4 février 2009 - art. 4 (V)
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 9 (Ab), alinéas 1 à 3, ecqc les objets.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article R622-55
+
+Le solde de la subvention est versé après l'établissement du certificat de conformité pour les objets mobiliers et orgues
+classés.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2009-748 du 22 juin 2009 - art. 9 (Ab), alinéa4, ecqc les objets.
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+##### Sous-section 3 : Découverte fortuite<a id=391></a>
+
+###### Article R622-56
+
+Toute découverte faite fortuitement ou à l'occasion de travaux sur un objet mobilier classé ou inscrit et portant sur un
+élément nouveau est signalée immédiatement au préfet qui peut, selon le cas, décider ou conseiller des mesures de sauvegarde.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 85 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cité par_:
+
+  - Code du patrimoine - art. R622-58 (V)
+
+
+##### Sous-section 4 : Déplacement<a id=392></a>
+
+###### Article R622-57
+
+Le propriétaire, l'affectataire ou le dépositaire d'un objet mobilier classé ou inscrit au titre des monuments historiques
+qui a l'intention de déplacer cet objet d'un lieu dans un autre est tenu d'en informer deux mois à l'avance le préfet. La
+déclaration indique les conditions du transport, les conditions de conservation et de sécurité dans le nouvel immeuble où
+l'objet sera déposé ainsi que le nom et le domicile du propriétaire, affectataire ou occupant de cet immeuble.
+
+Ce délai est porté à quatre mois lorsque la déclaration est formulée par le propriétaire à l'occasion d'une demande de prêt
+pour une exposition temporaire.
+
+Si les conditions du transport ou de conservation et de sécurité sur place ne sont pas satisfaisantes pour la préservation de
+l'objet classé au titre des monuments historiques, le préfet de région prescrit les travaux conservatoires préalables au
+transport de l'objet ainsi que les conditions particulières de son transport et de sa présentation.
+
+S'il s'agit d'un objet inscrit au titre des monuments historiques, le préfet prescrit les mesures prévues au précédent alinéa
+dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 86 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+##### Sous-section 5 : Notification<a id=393></a>
+
+###### Article R622-58
+
+La notification des décisions, informations, attestations ou demandes prévues aux articles R. 622-4, premier alinéa, R.
+622-5, R. 622-7, R. 622-8, R. 622-12, R. 622-13, R. 622-14, R. 622-15, R. 622-16, R. 622-17, R. 622-26, R. 622-27, R. 622-28,
+R. 622-29, R. 622-36, R. 622-37, R. 622-39, R. 622-43, R. 622-44, R. 622-56 et R. 622-57 s'effectue selon l'une des modalités
+prévues par l'article R. 621-85.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 87 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine - art. R622-12 (V)
+  - Code du patrimoine - art. R622-26 (V)
+  - Code du patrimoine - art. R622-36 (V)
+  - Code du patrimoine - art. R622-4 (V)
+  - Code du patrimoine - art. R622-43 (V)
+  - Code du patrimoine - art. R622-56 (V)
+  - Code du patrimoine. - art. R621-85 (V)
+
+
+##### Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues<a id=394></a>
+
+###### Article R622-59
+
+I. – La maîtrise d'œuvre des travaux de réparation, de relevage et de restauration entrepris sur les buffets et parties
+phoniques des orgues classés et inscrits ainsi que sur les parties non protégées des orgues partiellement protégés est
+assurée :
+
+1° Soit par un technicien-conseil agréé par l'Etat dans les conditions prévues par décret ;
+
+2° Soit, sur une opération donnée, par un ressortissant français, ou par un ressortissant d'un autre Etat membre de l'Union
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen établi dans un de ces Etats, dont la
+formation et l'expérience professionnelle, à temps plein ou à temps partiel, acquise sur des opérations récentes de
+réparation, relevage et restauration d'orgues à caractère patrimonial en France ou à l'étranger, attestent des connaissances
+historiques, techniques et administratives nécessaires à la conception et à la conduite des travaux faisant l'objet du
+contrat de maîtrise d'œuvre. Lorsque ni l'activité, ni la formation conduisant à cette activité ne sont réglementées dans
+l'Etat dans lequel ils sont légalement établis, ils doivent l'avoir exercée dans un ou plusieurs Etats membres pendant au
+moins un an au cours des dix années qui précèdent la prestation.
+
+Dans les cas mentionnés au 2°, l'intéressé fait, préalablement à sa première prestation, une déclaration auprès du ministre
+chargé de la culture. Cette déclaration est renouvelée une fois par an si le prestataire envisage d'exercer son activité
+professionnelle de façon occasionnelle au cours de l'année concernée ou en cas de changement matériel dans sa situation. Le
+contenu et les modalités de dépôt de cette déclaration sont fixés par arrêté du ministre chargé de la culture.
+
+II. – Un accès partiel à une activité professionnelle relevant de la profession de techniciens-conseils agréés pour les
+orgues protégés au titre des monuments historiques, profession réglementée au sens de la directive 2005/36/CE du Parlement
+européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, en application
+des dispositions du présent article, peut être accordé au cas par cas aux ressortissants d'un Etat membre de l'Union
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen par le ministre chargé de la culture lorsque
+les trois conditions suivantes sont remplies :
+
+1° Le professionnel est pleinement qualifié pour exercer, dans l'Etat d'origine, l'activité professionnelle pour laquelle
+l'accès partiel est sollicité ;
+
+2° Les différences entre l'activité professionnelle légalement exercée dans l'Etat d'origine et la profession réglementée en
+France de techniciens-conseils agréés pour les orgues protégés au titre des monuments historiques sont si importantes que
+l'application de mesures de compensation reviendrait à imposer au demandeur de suivre le programme complet d'enseignement et
+de formation requis en France pour avoir pleinement accès à la profession réglementée ;
+
+3° L'activité professionnelle est distincte de la ou des autres activités relevant de la profession réglementée, notamment
+dans la mesure où elle est exercée de manière autonome dans l'Etat d'origine.
+
+L'accès partiel peut être refusé pour des raisons impérieuses d'intérêt général, si ce refus est proportionné à la protection
+de cet intérêt.
+
+Les demandes aux fins d'accès partiel sont examinées, selon le cas, comme des demandes à fin d'établissement ou de libre
+prestation de services temporaire et occasionnelle de la profession concernée.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2016-831 du 22 juin 2016 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 23 février 2017 - art. 8 (V)
+  - Code du patrimoine - art. R622-61 (V)
+
+_Cite_:
+
+  - Code des marchés publics - art. 35
+
+
+###### Article R622-59-1
+
+I. – Lorsque le propriétaire, le bénéficiaire de la mise à disposition de l'immeuble abritant l'orgue, son mandataire ou
+toute personne justifiant d'un titre l'habilitant à faire réaliser des travaux fait part au préfet de région de son intention
+de réaliser un projet de travaux sur un orgue protégé, le préfet de région lui indique les compétences et expériences que
+devront présenter les candidats à la maîtrise d'œuvre de ces travaux, définies au regard des particularités de l'opération.
+
+II. – En cas de carence de candidature compétente ou d'urgence, le maître d'ouvrage fait appel à un technicien-conseil agréé
+par l'Etat territorialement compétent qui est alors tenu d'assurer la maîtrise d'œuvre des travaux de restauration. Lorsque
+le maître d'ouvrage est un pouvoir adjudicateur, l'urgence doit être qualifiée d'impérieuse résultant de circonstances
+imprévisibles pour le pouvoir adjudicateur et n'étant pas de son fait.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-831 du 22 juin 2016 - art. 2
+
+
+###### Article R622-60
+
+La maîtrise d'œuvre des travaux de réparation, de relevage et de restauration sur les orgues protégés au titre des monuments
+historiques ainsi que sur les parties non protégées des orgues partiellement protégés comprend, pour chaque opération, les
+éléments de mission suivants :
+
+1° L'étude préalable à l'opération de travaux de relevage ou de restauration ;
+
+2° Les éléments de missions indissociables suivants :
+
+a) L'établissement du projet technique et du dossier de consultation des entreprises ;
+
+b) L'assistance au maître d'ouvrage pour la passation des marchés de travaux ;
+
+c) L'examen de la conformité au projet des études d'exécution faites par le facteur d'orgues et les entrepreneurs ou
+prestataires associés ;
+
+d) La direction de l'exécution des marchés de travaux, leur comptabilité et la vérification des décomptes ;
+
+e) L'assistance au maître d'ouvrage lors des opérations de réception de travaux et leur règlement définitif et pendant toute
+la période de garantie de parfait achèvement ;
+
+f) La constitution d'un dossier documentaire des ouvrages exécutés.
+
+Ces éléments de mission peuvent, en fonction de la nature des travaux ou du niveau de complexité de l'opération, être
+exécutés en une seule ou plusieurs phases. Leur contenu est défini par un arrêté du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1314 du 31 octobre 2014 - art. 23
+
+
+###### Article R622-61
+
+La rémunération des missions de maîtrise d'œuvre exercées pour le compte de l'Etat mentionnées aux articles R. 622-59 et R.
+622-60, ainsi que de celles exercées en application du II de l'article R. 622-59-1, est calculée dans des conditions fixées
+par arrêté conjoint des ministres chargés de la culture et du budget.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2016-831 du 22 juin 2016 - art. 3
+
+_Cite_:
+
+  - Code du patrimoine - art. R622-59
+
+
+#### Chapitre III : Dispositions fiscales<a id=395></a>
+
+###### Article D623-1
+
+Les règles relatives aux charges déductibles afférentes aux biens meubles et immeubles visés par le présent titre sont fixées
+au I de la section 2 du chapitre I du titre I de la première partie du livre I de l'annexe III au code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. -  I : Monuments historiques - Charges déductibles (V)
+
+_Cité par_:
+
+  - Code du patrimoine - art. D720-12 (V)
+  - Code du patrimoine - art. D780-12 (V)
+  - Code du patrimoine - art. D790-11 (V)
+
+
+###### Article D623-2
+
+Les règles relatives aux régimes spéciaux et exonérations afférents aux biens meubles et immeubles visés par le présent titre
+sont fixées aux articles 281 bis et 281 ter de l'annexe III au code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 281 bis (Ab)
+
+
+#### Chapitre IV : Dispositions pénales<a id=396></a>
+
+###### Article R624-1
+
+Est puni de l'amende prévue pour les contraventions de cinquième classe le fait de ne pas afficher sur le terrain
+l'autorisation de travaux sur un immeuble classé, en méconnaissance de l'article R. 621-16. 
+
+La récidive de cette contravention est punie conformément aux dispositions des articles 132-11 et 132-15 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-487 du 30 mars 2007 - art. 88 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code pénal - art. 132-11 (V)
+  - Code pénal - art. 132-15 (V)
+  - Code du patrimoine. - art. L621-16 (V)
+
+
+###### Article R624-2
+
+Est puni de l'amende prévue pour les contraventions de cinquième classe le fait de procéder à un affichage non conforme à
+l'autorisation d'affichage accordée en application des articles R. 621-86, R. 621-87, R. 621-88, R. 621-89 et R. 621-90.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2007-645 du 30 avril 2007 - art. 7 (Ab)
+
+_Créé par_:
+
+  - Décret n°2011-574 du 24 mai 2011  - art.
+
+_Codifié par_:
+
+  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Code du patrimoine. - art. R621-86 (V)
+
+
+### TITRE III : SITES PATRIMONIAUX REMARQUABLES<a id=397></a>
+
+#### Chapitre Ier : Classement au titre des sites patrimoniaux remarquables<a id=398></a>
+
+##### Section 1 : Procédure de classement et de modifications<a id=399></a>
 
 ###### Article D631-5
 
@@ -41879,7 +41823,7 @@ _Cité par_:
   - Code du patrimoine - art. R790-16 (V)
 
 
-##### Section 2 : Procédure d'élaboration, révision et modification du plan de valorisation de l'architecture et du patrimoine<a id=404></a>
+##### Section 2 : Procédure d'élaboration, révision et modification du plan de valorisation de l'architecture et du patrimoine<a id=400></a>
 
 ###### Article D631-7
 
@@ -42014,7 +41958,7 @@ _Cité par_:
   - Code du patrimoine - art. R790-16 (V)
 
 
-##### Section 3 : Contenu du plan de valorisation de l'architecture et du patrimoine<a id=405></a>
+##### Section 3 : Contenu du plan de valorisation de l'architecture et du patrimoine<a id=401></a>
 
 ###### Article D631-12
 
@@ -42070,7 +42014,7 @@ _Cite_:
   - Code du patrimoine - art. L631-4
 
 
-#### Chapitre II : Régime des travaux<a id=406></a>
+#### Chapitre II : Régime des travaux<a id=402></a>
 
 ###### Article D632-1
 
@@ -42096,7 +42040,7 @@ _Cité par_:
   - Code du patrimoine - art. D790-16-1 (V)
 
 
-#### Chapitre III : Dispositions fiscales<a id=407></a>
+#### Chapitre III : Dispositions fiscales<a id=403></a>
 
 ###### Article D633-1
 
@@ -42114,9 +42058,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 DO
 
 
-### TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES<a id=408></a>
+### TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES<a id=404></a>
 
-#### Chapitre Ier : Dispositions pénales<a id=409></a>
+#### Chapitre Ier : Dispositions pénales<a id=405></a>
 
 ###### Article R641-1
 
@@ -42140,7 +42084,7 @@ _Cite_:
   - Code du patrimoine - art. R621-98
 
 
-#### Chapitre II : Sanctions administratives<a id=410></a>
+#### Chapitre II : Sanctions administratives<a id=406></a>
 
 ###### Article R642-1
 
@@ -42168,11 +42112,171 @@ _Cite_:
   - Code du patrimoine - art. L642-1
 
 
-### TITRE V : QUALITÉ ARCHITECTURALE<a id=411></a>
+### TITRE V : QUALITÉ ARCHITECTURALE<a id=407></a>
 
-## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=412></a>
+###### Article R650-1
 
-### TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION<a id=413></a>
+Le label “ Architecture contemporaine remarquable ”, mentionné à l'article L. 650-1, est attribué aux immeubles, aux
+ensembles architecturaux, aux ouvrages d'art et aux aménagements, parmi les réalisations de moins de cent ans d'âge, dont la
+conception présente un intérêt architectural ou technique suffisant. Cet intérêt s'apprécie au regard des critères suivants :
+
+1° La singularité de l'œuvre ;
+
+2° Le caractère innovant ou expérimental de la conception architecturale, urbaine, paysagère ou de la réalisation technique,
+ou sa place dans l'histoire des techniques ;
+
+3° La notoriété de l'œuvre eu égard notamment aux publications dont elle a fait l'objet ou la mentionnant ;
+
+4° L'exemplarité de l'œuvre dans la participation à une politique publique ;
+
+5° La valeur de manifeste de l'œuvre en raison de son appartenance à un mouvement architectural ou d'idées reconnu ;
+
+6° L'appartenance à un ensemble ou à une œuvre dont l'auteur fait l'objet d'une reconnaissance nationale ou locale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code du patrimoine - art. L650-1 (V)
+
+
+###### Article R650-2
+
+La demande d'attribution du label est présentée par le propriétaire, ou par toute personne y ayant intérêt au préfet de la
+région où se situe le bien.
+
+L'initiative peut également être prise par le préfet de région.
+
+Un arrêté du ministre chargé de la culture fixe la composition du dossier de demande.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+
+###### Article R650-3
+
+I. - Le préfet de région accuse réception du dossier de demande dès lors que celui-ci est complet, ou, le cas échéant,
+informe le demandeur des pièces manquantes. En l'absence d'une telle information dans un délai de quinze jours suivant la
+saisine, le dossier de demande est réputé complet.
+
+II. - Lorsque le demandeur n'est pas le propriétaire, le préfet de région recueille l'avis de celui-ci avant examen de la
+demande par la commission régionale du patrimoine et de l'architecture.
+
+III. - Le préfet de région notifie au propriétaire sa décision, après avis de la commission régionale du patrimoine et de
+l'architecture.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+
+###### Article R650-4
+
+La décision d'attribution du label mentionne : 
+
+1° Les motifs de l'attribution du label ; 
+
+2° La date de construction du bien, le cas échéant arrêtée par la commission régionale du patrimoine et de l'architecture
+compétente, et la date d'expiration du label ; 
+
+3° La dénomination ou la désignation du bien ; 
+
+4° Le nom de l'architecte ou du concepteur de l'ouvrage ; 
+
+5° L'adresse ou la localisation du bien et le nom de la commune où il est situé ; 
+
+6° L'étendue du label avec les références cadastrales des parcelles, en précisant, le cas échéant, les parties du bien
+auxquelles il s'applique ; 
+
+7° Le nom et le domicile du ou des propriétaires. 
+
+La décision d'attribution du label rappelle au propriétaire les obligations d'information prévues à l'article R. 650-6.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code du patrimoine - art. R650-6 (V)
+
+
+###### Article R650-5
+
+Une copie de la décision d'attribution du label est adressée à l'autorité compétente pour délivrer les autorisations
+d'urbanisme et au maire de la commune dans laquelle se situe le bien lorsqu'il n'est pas l'autorité compétente pour délivrer
+les autorisations d'urbanisme. L'architecte ou le concepteur de l'ouvrage ou leurs ayants droit sont informés de la décision
+d'attribution du label.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+
+###### Article R650-6
+
+I. – Lorsque le bien faisant l'objet du label n'est pas protégé au titre des abords et des sites patrimoniaux remarquables ou
+identifié en application de l'article L. 151-19 du code de l'urbanisme, le propriétaire de ce bien informe par lettre
+recommandée avec demande d'avis de réception le préfet de région, deux mois au moins avant le dépôt d'une demande de permis
+ou d'une déclaration préalable, de son intention de réaliser des travaux susceptibles de le modifier. Il joint à sa lettre
+une notice descriptive présentant la nature et l'impact des travaux envisagés sur le bien. Un arrêté du ministre chargé de la
+culture précise le contenu de cette notice.
+
+S'il le juge utile, le préfet de région formule des observations et recommandations au propriétaire dans les deux mois
+suivant la réception de la lettre du propriétaire, le cas échéant après avis de la commission régionale du patrimoine et de
+l'architecture.
+
+II. – Le propriétaire d'un bien faisant l'objet d'un label informe le préfet de région de toute mutation de propriété
+concernant ce bien dans un délai fixé par un arrêté du ministère de la culture.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L151-19 (V)
+
+_Cité par_:
+
+  - Code du patrimoine - art. R650-4 (V)
+
+
+###### Article R650-7
+
+Hors les cas de retrait de plein droit dans les conditions régies par le premier alinéa du I de l'article L. 650-1, le préfet
+de région prononce le retrait du label, après avis de la commission régionale du patrimoine et de l'architecture, lorsque le
+bien est dégradé au point de perdre l'intérêt ayant justifié l'attribution du label.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code du patrimoine - art. L650-1 (V)
+
+
+## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=408></a>
+
+### TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION<a id=409></a>
 
 ###### Article R710-1
 
@@ -42404,7 +42508,7 @@ _Cite_:
   - Code du patrimoine - art. R611-23
 
 
-### TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON<a id=414></a>
+### TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON<a id=410></a>
 
 ###### Article D720-2
 
@@ -42768,7 +42872,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE<a id=415></a>
+### TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE<a id=411></a>
 
 ###### Article R730-1
 
@@ -42997,7 +43101,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=416></a>
+### TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=412></a>
 
 ###### Article D740-1-1
 
@@ -43351,7 +43455,7 @@ _Codifié par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=417></a>
+### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=413></a>
 
 ###### Article D750-1-1
 
@@ -43642,7 +43746,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=418></a>
+### TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=414></a>
 
 ###### Article D760-1-1
 
@@ -43978,7 +44082,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=419></a>
+### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=415></a>
 
 ###### Article D770-1-1
 
@@ -44246,7 +44350,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY<a id=420></a>
+### TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY<a id=416></a>
 
 ###### Article D780-2
 
@@ -44685,7 +44789,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=421></a>
+### TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=417></a>
 
 ###### Article D790-2
 
@@ -45086,7 +45190,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-## Annexes<a id=422></a>
+## Annexes<a id=418></a>
 
 ###### Article Annexe 1 aux articles R. 111-1
 
