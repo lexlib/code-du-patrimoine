@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2017-04-29
+Version Consolidée au 2017-05-05
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -150,7 +150,7 @@ Version Consolidée au 2017-04-29
       - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE. (art. L750-1 à L750-4)](#147)
       - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA. (art. L760-1 à L760-6)](#148)
       - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES. (art. L770-1 à L770-4)](#149)
-  - [Partie réglementaire (art. R111-1 à Annexe 6 à l'article R. 545-16)](#150)
+  - [Partie réglementaire (art. R111-1 à Annexe 7 à l'article R. 621-98)](#150)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE  DU PATRIMOINE CULTUREL (art. R111-1 à D144-5)](#151)
       - [TITRE Ier : PROTECTION DES BIENS CULTURELS (art. R111-1 à R115-4)](#152)
         - [Chapitre Ier : Régime de circulation des biens culturels (art. R111-1 à R111-23)](#153)
@@ -212,7 +212,7 @@ Version Consolidée au 2017-04-29
           - [Section 1 : Archives publiques (art. R212-1 à R212-77)](#209)
             - [Sous-section 1 : Dispositions générales (art. R212-1 à R212-37)](#210)
               - [Paragraphe 1 : Organisation des services d'archives (art. R212-8 à R212-9)](#211)
-              - [Paragraphe 2 : Collecte et conservation des archives publiques (art. R212-10 à R212-18)](#212)
+              - [Paragraphe 2 : Collecte et conservation des archives publiques (art. R212-10 à R212-18-2)](#212)
               - [Paragraphe 3 : Dépôt d'archives publiques courantes et intermédiaires  auprès de personnes agréées (art. R212-19 à R212-31)](#213)
               - [Paragraphe 4 : Sanction administrative prévue à l'article L. 214-10 (art. R212-32 à R212-37)](#214)
             - [Sous-section 2 : Archives du Conseil constitutionnel (art. R*212-38 à R*212-48)](#215)
@@ -347,7 +347,7 @@ Version Consolidée au 2017-04-29
         - [Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial (art. R612-1 à R612-2)](#344)
         - [Chapitre III : Dispositions diverses (art. D613-1 à R613-2)](#345)
       - [TITRE II : MONUMENTS HISTORIQUES (art. R621-1 à R624-2)](#346)
-        - [Chapitre Ier : Immeubles (art. R621-1 à R621-99)](#347)
+        - [Chapitre Ier : Immeubles (art. R621-1 à R621-100)](#347)
           - [Section 1 : Classement des immeubles (art. R621-1 à R621-52)](#348)
             - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R621-1 à R621-10)](#349)
             - [Sous-section 2 : Travaux sur un immeuble classé (art. R621-11 à R621-17)](#350)
@@ -376,7 +376,7 @@ Version Consolidée au 2017-04-29
             - [Sous-section 1 : Création et modification du périmètre délimité des abords (art. R621-92 à R621-95)](#373)
             - [Sous-section 2 : Régime des travaux en abords (art. R621-96 à R621-96-17)](#374)
           - [Section 5 : Dispositions diverses (art. R621-97)](#375)
-          - [Section 6 : Domaines nationaux (art. R621-98 à R621-99)](#376)
+          - [Section 6 : Domaines nationaux (art. R621-98 à R621-100)](#376)
         - [Chapitre II : Objets mobiliers (art. R622-1 à R622-61)](#377)
           - [Section 1 : Classement des objets mobiliers (art. R622-1 à R622-31)](#378)
             - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R622-1 à R622-10)](#379)
@@ -419,7 +419,7 @@ Version Consolidée au 2017-04-29
       - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-1-1 à R770-11)](#416)
       - [TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY (art. D780-2 à R780-20)](#417)
       - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. D790-2 à R790-19)](#418)
-    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 6 à l'article R. 545-16)](#419)
+    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 7 à l'article R. 621-98)](#419)
 # Partie législative<a id=1></a>
 
 ###### Article L1
@@ -21032,6 +21032,31 @@ _Cité par_:
   - Code du patrimoine. - art. R212-85 (V)
 
 
+###### Article R212-4-1
+
+Un service public d'archives a pour missions de collecter, de conserver, d'évaluer, d'organiser, de décrire, de communiquer,
+de mettre en valeur et de diffuser des archives publiques conformément au I de l'article L. 212-4 et aux articles L. 212-6,
+L. 212-6-1, L. 212-8, L. 212-11, L. 212-12, R. 212-5, R. 212-6 et R. 212-8.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-719 du 2 mai 2017 - art. 2
+
+_Cité par_:
+
+  - Code du patrimoine - art. D760-4-1 (V)
+
+_Cite_:
+
+  - Code du patrimoine - art. L212-11
+  - Code du patrimoine - art. L212-4
+  - Code du patrimoine - art. L212-6
+  - Code du patrimoine - art. L212-8
+  - Code du patrimoine - art. R212-5
+
+
 ###### Article R212-5
 
 Les services d'archives des affaires étrangères assurent la gestion des archives provenant de l'administration centrale, des
@@ -21502,6 +21527,74 @@ _Cite_:
 
   - Code du patrimoine. - art. L213-1 (V)
   - Code des relations entre le public et l'adminis... - art. L300-1 (V)
+
+
+###### Article R212-18-1
+
+I. – Pour la conservation d'archives numériques, un service public d'archives peut mutualiser, sous le contrôle scientifique
+et technique de l'Etat, avec un autre service public d'archives tout ou partie des tâches techniques ou fonctionnelles mises
+en œuvre dans un système d'archivage électronique. Cette mutualisation donne lieu à la mise en commun d'infrastructures, de
+personnel ou de moyens matériels, logistiques ou financiers.
+
+Chaque service public d'archives partie à la mutualisation demeure responsable de ses données.
+
+II. – Une convention détermine le périmètre de la mutualisation, la répartition des missions entre les parties et le niveau
+de service attendu, les moyens de fonctionnement et les compétences des agents en charge de l'exécution des tâches techniques
+ou fonctionnelles. Elle fixe des indicateurs de suivi qui feront l'objet d'un rapport établi chaque année par chaque service
+public d'archives responsable de tout ou partie de la mutualisation et adressé à toutes les parties prenantes de la
+mutualisation. Ce rapport est également transmis à la personne chargée du contrôle scientifique et technique de l'Etat sur
+les archives.
+
+Cette convention détermine le cadre financier dans lequel s'exerce la mutualisation sur la base d'un coût de fonctionnement
+et définit la méthode retenue pour la détermination de ce coût.
+
+III. – La personne chargée du contrôle scientifique et technique de l'Etat sur les archives dispose d'un délai de quatre mois
+à compter de la réception du projet de convention pour vérifier sa conformité aux exigences définies à l'article R. 212-18-2.
+En cas de défaut de conformité, la convention ne peut être signée.
+
+La personne chargée du contrôle scientifique et technique de l'Etat sur les archives est destinataire d'un exemplaire de la
+convention signée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-719 du 2 mai 2017 - art. 3
+
+_Cité par_:
+
+  - Code du patrimoine - art. D760-4-1 (V)
+
+_Cite_:
+
+  - Code du patrimoine - art. R212-18-2 (V)
+
+
+###### Article R212-18-2
+
+La conservation mutualisée d'archives numériques répond aux normes, conformes aux règles de l'art, qui portent notamment
+sur :
+
+1° La sécurité et la redondance des infrastructures logicielles et matérielles ;
+
+2° La gestion du cycle de vie des données et de leurs métadonnées ;
+
+3° La présence de mécanismes destinés à assurer l'intégrité et la lisibilité dans le temps des informations ;
+
+4° La traçabilité de l'ensemble des actions effectuées dans le système d'archivage électronique ;
+
+5° La garantie de restitution de tout ou partie des données et de leurs métadonnées, ainsi que des informations de
+traçabilité afférentes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-719 du 2 mai 2017 - art. 3
+
+_Cité par_:
+
+  - Code du patrimoine - art. R212-18-1 (V)
 
 
 ##### Paragraphe 3 : Dépôt d'archives publiques courantes et intermédiaires  auprès de personnes agréées<a id=213></a>
@@ -22650,22 +22743,15 @@ Les collectivités territoriales remettent chaque année au préfet un rapport r
 fonctionnement de leur service d'archives, accompagné des éléments statistiques nécessaires à l'élaboration du rapport annuel
 sur les archives publiques en France, ainsi qu'un programme de travail pour l'année à venir.
 
-Elles adressent au préfet les instruments de recherche élaborés par leur service d'archives. Ces instruments de recherche
-sont mis à la disposition du public.
-
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code général des collectivités territoriales - art. R1421-8 (T)
+  - Décret n°2017-719 du 2 mai 2017 - art. 5
 
 
 ##### Paragraphe 2 : Dépôt des archives communales<a id=218></a>
@@ -22733,55 +22819,32 @@ _Cité par_:
 
 ###### Article R212-59
 
-La dérogation prévue à l'article L. 212-11 est accordée par le préfet après avis du directeur du service départemental
-d'archives.
+I. – Le projet de convention de dépôt prévu au 1° des articles L. 212-11 et L. 212-12 est transmis au directeur du service
+départemental d'archives, qui dispose d'un délai de quatre mois à compter de la réception du projet pour formuler ses
+observations.
+
+La convention peut prévoir des compensations financières.
+
+La commune effectuant le dépôt transmet au directeur du service départemental d'archives un exemplaire de la convention de
+dépôt signée.
+
+II. – Pour donner l'accord prévu au 2° de l'article L. 212-11, le directeur du service départemental d'archives dispose d'un
+délai de quatre mois à compter de la réception de la déclaration faite par la commune au préfet. A l'expiration de ce délai,
+l'accord est réputé donné.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code général des collectivités territoriales - art. R1421-11 (Ab)
-
-_Cite_:
-
-  - Code du patrimoine. - art. L212-11 (V)
-
-
-###### Article R212-60
-
-Le dépôt d'office prévu au deuxième alinéa de l'article L. 212-12 est prescrit par le préfet, à l'expiration d'un délai de
-six mois suivant la mise en demeure restée sans effet, lorsque le directeur du service départemental d'archives établit, par
-un rapport écrit, que la conservation des archives d'une commune n'est pas convenablement assurée.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
-
-  - Décret n°2017-719 du 2 mai 2017 - art. 5
-
-_Anciens textes_:
-
-  - Code général des collectivités territoriales - art. R1421-12 (Ab)
+  - Décret n°2017-719 du 2 mai 2017 - art. 4
 
 _Cite_:
 
-  - Code du patrimoine - art. L212-12
+  - Code du patrimoine - art. L212-11
 
 
 ###### Article R212-61
@@ -39566,28 +39629,31 @@ _Cite_:
 
 ###### Article R621-98
 
-Le ministre chargé de la culture peut exercer le droit de préemption prévu à l'article L. 621-39 dans les conditions et selon
-les modalités définies aux articles L. 213-2 et R. 213-4 à D. 213-13-4 du code de l'urbanisme.
+Les domaines nationaux au sens de l'article L. 621-34 sont les suivants : 
+
+1° Domaine de Chambord (Loir-et-Cher) ; 
+
+2° Domaine du Louvre et des Tuileries (Paris) ; 
+
+3° Domaine de Pau (Pyrénées-Atlantiques) ; 
+
+4° Château d'Angers (Maine-et-Loire) ; 
+
+5° Palais de l'Elysée (Paris) ; 
+
+6° Palais du Rhin (Bas-Rhin). 
+
+Les périmètres des domaines nationaux sont définis à l'annexe 7 du présent code.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2017-720 du 2 mai 2017 - art. 1
+  - Décret n°2017-720 du 2 mai 2017 - art. 1
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L213-2
-  - Code de l'urbanisme - art. R213-4
-  - Code du patrimoine - art. L621-39
-
-_Nouveaux textes_:
-
-  - Code du patrimoine - art. R621-99 (V)
+  - Code du patrimoine - art. L621-34
 
 _Cité par_:
 
@@ -39599,6 +39665,28 @@ _Cité par_:
 
 ###### Article R621-99
 
+Le ministre chargé de la culture peut exercer le droit de préemption prévu à l'article L. 621-39 dans les conditions et selon
+les modalités définies aux articles L. 213-2 et R. 213-4 à D. 213-13-4 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-720 du 2 mai 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L213-2
+  - Code de l'urbanisme - art. R213-4
+  - Code du patrimoine - art. L621-39
+
+_Anciens textes_:
+
+  - Code du patrimoine - art. R621-98 (T)
+
+
+###### Article R621-100
+
 Les conditions financières de l'utilisation commerciale de l'image d'éléments des domaines nationaux appartenant à l'Etat et
 confiés à un établissement public sont fixées par l'autorité compétente de l'établissement.
 
@@ -39609,15 +39697,11 @@ des fins commerciales de l'image des biens appartenant à l'Etat qui sont inclus
 
 _Créé par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
+  - Décret n°2017-720 du 2 mai 2017 - art. 1
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Décret n°2017-720 du 2 mai 2017 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du patrimoine - art. R621-100 (V)
+  - Code du patrimoine - art. R621-99 (T)
 
 
 #### Chapitre II : Objets mobiliers<a id=377></a>
@@ -43587,9 +43671,9 @@ _Cite_:
 
 ###### Article D760-4
 
-Les articles R. 212-1 à R. 212-37 et R. 213-1 à D. 213-10 sont applicables dans les îles Wallis et Futuna aux archives
-relevant des services et établissements publics de l'Etat et des personnes morales chargées de la gestion d'un service public
-relevant de la compétence de l'Etat.
+Les articles R. 212-1 à R. 212-7, R. 212-8 à R. 212-18, R. 212-19 à R. 212-37 et R. 213-1 à D. 213-10 sont applicables dans
+les îles Wallis et Futuna aux archives relevant des services et établissements publics de l'Etat et des personnes morales
+chargées de la gestion d'un service public relevant de la compétence de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -43597,20 +43681,40 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2017-719 du 2 mai 2017 - art. 6 (V)
 
 _Cite_:
 
-  - Code du patrimoine - art. R212-1 (V)
-  - Code du patrimoine - art. R213-1 (V)
+  - Code du patrimoine - art. R212-1
+  - Code du patrimoine - art. R212-19 (V)
+  - Code du patrimoine - art. R212-8
+  - Code du patrimoine - art. R213-1
+
+
+###### Article D760-4-1
+
+Les articles R. 212-4-1, R. 212-18-1 et R. 212-18-2 sont applicables dans les îles Wallis et Futuna aux services publics
+d'archives relevant de l'Etat, de ses établissements publics et de personnes morales chargées de la gestion d'un service
+public d'archives pour le compte de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-719 du 2 mai 2017 - art. 6 (V)
+
+_Cite_:
+
+  - Code du patrimoine - art. R212-18-1
+  - Code du patrimoine - art. R212-4-1
 
 
 ###### Article R760-1
 
 Les dispositions identifiées par un R applicables dans les îles Wallis et Futuna en vertu du présent titre sont celles en
-vigueur dans leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
+vigueur dans leur rédaction résultant du décret n° 2017-719 du 2 mai 2017.
 
 **Liens relatifs à cet article**
 
@@ -43620,11 +43724,11 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2016-1497 du 4 novembre 2016
+  - Décret n°2017-719 du 2 mai 2017 (V)
 
 _Modifié par_:
 
-  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
+  - Décret n°2017-719 du 2 mai 2017 - art. 6 (V)
 
 
 ###### Article R760-3
@@ -43924,7 +44028,7 @@ _Cite_:
 ###### Article R770-1
 
 Les dispositions identifiées par un R applicables dans les Terres australes et antarctiques françaises en vertu du présent
-titre sont celles en vigueur dans leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
+titre sont celles en vigueur dans leur rédaction résultant du décret n° 2017-719 du 2 mai 2017.
 
 **Liens relatifs à cet article**
 
@@ -43934,11 +44038,11 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2016-1497 du 4 novembre 2016
+  - Décret n°2017-719 du 2 mai 2017 (V)
 
 _Modifié par_:
 
-  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
+  - Décret n°2017-719 du 2 mai 2017 - art. 6 (V)
 
 
 ###### Article R770-3
@@ -45813,5 +45917,20 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°2017-156 du 8 février 2017 - art. 13
+
+
+###### Article Annexe 7 à l'article R. 621-98
+
+Périmètres des domaines nationaux
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique
+authentifié n° 0105, texte n° 96 accessible à l'adresse suivante :  
+  <font color="#0066cc" size="1">https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000034567733</font>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-720 du 2 mai 2017 - art. 2
 
 
