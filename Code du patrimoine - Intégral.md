@@ -1,11 +1,11 @@
 # Code du patrimoine  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
       - [TITRE Ier : PROTECTION DES BIENS CULTURELS (art. L111-1 à L116-2)](#3)
         - [Chapitre 1er : Régime de circulation des biens culturels. (art. L111-1 à L111-12)](#4)
-        - [Chapitre 2 : Restitution des biens culturels (art. L112-1 à L112-25)](#5)
+        - [Chapitre 2 : Restitution des biens culturels (art. L112-1 à L112-27)](#5)
           - [Section 1 : Biens culturels se trouvant en France et sortis illicitement du territoire d'un autre Etat membre de l'Union européenne (art. L112-1 à L112-10)](#6)
             - [Sous-section 1 : Champ d'application. (art. L112-1 à L112-2)](#7)
             - [Sous-section 2 : Procédure administrative. (art. L112-3 à L112-4)](#8)
@@ -15,420 +15,424 @@ Version Consolidée au 2017-07-01
             - [Sous-section 1 : Champ d'application. (art. L112-11)](#12)
             - [Sous-section 2 : Procédure de retour des biens culturels. (art. L112-13 à L112-17)](#13)
             - [Sous-section 3 : Conditions de la restitution des biens. (art. L112-18 à L112-21)](#14)
-          - [Section 3 : Dispositions diverses. (art. L112-22 à L112-25)](#15)
-        - [Chapitre 4 : Dispositions pénales. (art. L114-1 à L114-6)](#16)
-        - [Chapitre 5 : Commission scientifique nationale des collections. (art. L115-1 à L115-2)](#17)
-        - [Chapitre 6 : Fonds régionaux d'art contemporain (art. L116-1 à L116-2)](#18)
-      - [TITRE II : ACQUISITION DE BIENS CULTURELS (art. L121-1 à L124-1)](#19)
-        - [Chapitre 1er : Acquisition de biens culturels présentant le caractère de trésor national et faisant l'objet d'un refus de certificat d'exportation. (art. L121-1 à L121-4)](#20)
-        - [Chapitre 2 : Dispositions fiscales (art. L122-1 à L122-10)](#21)
-          - [Section 1 : Dation en paiement. (art. L122-1)](#22)
-          - [Section 2 : Donation. (art. L122-2 à L122-3)](#23)
-          - [Section 3 : Mécénat. (art. L122-4 à L122-8)](#24)
-          - [Section 4 : Dispositions diverses. (art. L122-9 à L122-10)](#25)
-        - [Chapitre 3 : Préemption des œuvres d'art. (art. L123-1 à L123-3)](#26)
-        - [Chapitre 4 : Annulation de l'acquisition d'un bien culturel en raison de son origine illicite (art. L124-1)](#27)
-      - [TITRE III : DÉPÔT LÉGAL (art. L131-1 à L133-1)](#28)
-        - [Chapitre 1er : Objectifs et champ d'application du dépôt légal. (art. L131-1 à L131-2)](#29)
-        - [Chapitre 2 : Modalités et organisation du dépôt légal. (art. L132-1 à L132-6)](#30)
-        - [Chapitre 3 : Dispositions pénales. (art. L133-1)](#31)
-      - [TITRE IV : INSTITUTIONS RELATIVES AU PATRIMOINE CULTUREL (art. L141-1 à L143-15)](#32)
-        - [Chapitre 1er : Centre des monuments nationaux. (art. L141-1)](#33)
-        - [Chapitre 2 : Cité de l'architecture et du patrimoine. (art. L142-1)](#34)
-        - [Chapitre 3 : Fondation du patrimoine. (art. L143-1 à L143-15)](#35)
-    - [LIVRE II : ARCHIVES (art. L211-1 à L222-3)](#36)
-      - [TITRE Ier : RÉGIME GÉNÉRAL DES ARCHIVES (art. L211-1 à L214-10)](#37)
-        - [Chapitre 1er : Dispositions générales. (art. L211-1 à L211-6)](#38)
-        - [Chapitre 2 : Collecte, conservation et protection (art. L212-1 à L212-37)](#39)
-          - [Section 1 : Archives publiques (art. L212-1 à L212-14)](#40)
-            - [Sous-section 1 : Dispositions générales. (art. L212-1 à L212-5)](#41)
-            - [Sous-section 2 : Archives des collectivités territoriales et des groupements de collectivités territoriales (art. L212-6 à L212-14)](#42)
-              - [Paragraphe 1 : Dispositions générales. (art. L212-6 à L212-10)](#43)
-              - [Paragraphe 2 : Dépôt des archives communales. (art. L212-11 à L212-14)](#44)
-          - [Section 2 : Archives privées (art. L212-15 à L212-37)](#45)
-            - [Sous-section 1 : Classement comme archives historiques. (art. L212-15 à L212-28)](#46)
-            - [Sous-section 2 : Droit de reproduction avant exportation. (art. L212-29)](#47)
-            - [Sous-section 3 : Droit de préemption. (art. L212-30 à L212-37)](#48)
-        - [Chapitre 3 : Régime de communication. (art. L213-1 à L213-8)](#49)
-        - [Chapitre 4 : Dispositions pénales. (art. L214-1 à L214-10)](#50)
-      - [TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE (art. L221-1 à L222-3)](#51)
-        - [Chapitre 1er : Constitution. (art. L221-1 à L221-5)](#52)
-        - [Chapitre 2 : Communication et reproduction. (art. L222-1 à L222-3)](#53)
-    - [LIVRE III : BIBLIOTHÈQUES (art. L310-1 à L330-1)](#54)
-      - [TITRE Ier : DISPOSITIONS COMMUNES (art. L310-1 à L310-2)](#55)
-      - [TITRE II : BIBLIOTHÈQUES MUNICIPALES ET INTERCOMMUNALES (art. L320-1 à L320-2)](#56)
-      - [TITRE III : BIBLIOTHÈQUES DÉPARTEMENTALES (art. L330-1)](#57)
-    - [LIVRE IV : MUSÉES (art. L410-1 à L452-4)](#58)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES. (art. L410-1 à L410-4)](#59)
-      - [TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE. (art. L430-1 à L430-2)](#60)
-      - [TITRE IV : RÉGIME DES MUSÉES DE FRANCE (art. L441-1 à L442-11)](#61)
-        - [Chapitre 1er : Définition et missions. (art. L441-1 à L441-2)](#62)
-        - [Chapitre 2 : Appellation "musée de France" (art. L442-1 à L442-11)](#63)
-          - [Section 1 : Conditions d'attribution et de retrait de l'appellation "musée de France". (art. L442-1 à L442-4)](#64)
-          - [Section 2 : Dispositions pénales. (art. L442-5)](#65)
-          - [Section 3 : Dispositions générales liées à l'appellation "musée de France" (art. L442-6 à L442-11)](#66)
-            - [Sous-section 1 : Dispositions relatives à l'accueil du public. (art. L442-6 à L442-7)](#67)
-            - [Sous-section 2 : Qualifications des personnels. (art. L442-8 à L442-9)](#68)
-            - [Sous-section 3 : Réseaux et conventions. (art. L442-10)](#69)
-            - [Sous-section 4 : Contrôle scientifique et technique. (art. L442-11)](#70)
-      - [TITRE V : COLLECTIONS DES MUSÉES DE FRANCE (art. L451-1 à L452-4)](#71)
-        - [Chapitre 1er : Statut des collections (art. L451-1 à L451-12)](#72)
-          - [Section 1 : Acquisitions. (art. L451-1)](#73)
-          - [Section 2 : Affectation et propriété des collections (art. L451-2 à L451-10)](#74)
-            - [Sous-section 1 : Dispositions générales. (art. L451-2 à L451-4)](#75)
-            - [Sous-section 2 : Collections publiques. (art. L451-5 à L451-9)](#76)
-            - [Sous-section 3 : Collections privées. (art. L451-10)](#77)
-          - [Section 3 : Prêts et dépôts. (art. L451-11 à L451-12)](#78)
-        - [Chapitre 2 : Conservation et restauration. (art. L452-1 à L452-4)](#79)
-    - [LIVRE V : ARCHÉOLOGIE (art. L510-1 à L546-7)](#80)
-      - [TITRE Ier : DÉFINITION DU PATRIMOINE ARCHÉOLOGIQUE. (art. L510-1)](#81)
-      - [TITRE II : ARCHÉOLOGIE PRÉVENTIVE (art. L521-1 à L524-16)](#82)
-        - [Chapitre 1er : Définition. (art. L521-1)](#83)
-        - [Chapitre 2 : Répartition des compétences : Etat et collectivités territoriales (art. L522-1 à L522-8)](#84)
-          - [Section 1 : Rôle de l'Etat. (art. L522-1 à L522-6)](#85)
-          - [Section 2 : Rôle des collectivités territoriales. (art. L522-7 à L522-8)](#86)
-        - [Chapitre 3 : Mise en œuvre des opérations d'archéologie préventive. (art. L523-1 à L523-13)](#87)
-        - [Chapitre 4 : Financement de l'archéologie préventive. (art. L524-1 à L524-16)](#88)
-      - [TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES ET DÉCOUVERTES FORTUITES (art. L531-1 à L532-14)](#89)
-        - [Chapitre 1er : Archéologie terrestre et subaquatique (art. L531-1 à L531-19)](#90)
-          - [Section 1 : Autorisation de fouilles par l'Etat. (art. L531-1 à L531-8)](#91)
-          - [Section 2 : Exécution de fouilles par l'Etat. (art. L531-9 à L531-13)](#92)
-          - [Section 3 : Découvertes fortuites. (art. L531-14 à L531-19)](#93)
-        - [Chapitre 2 : Biens culturels maritimes. (art. L532-1 à L532-14)](#94)
-      - [TITRE IV : DISPOSITIONS DIVERSES (art. L541-1 à L546-7)](#95)
-        - [Chapitre 1er : Régime de propriété du patrimoine archéologique. (art. L541-1 à L541-9)](#96)
-          - [Section 1 : Biens archéologiques immobiliers (art. L541-1 à L541-3)](#97)
-          - [Section 2 : Biens archéologiques mobiliers (art. L541-4 à L541-6)](#98)
-            - [Sous-section 1 : Propriété (art. L541-4 à L541-5)](#99)
-            - [Sous-section 2 : Ensemble archéologique mobilier et aliénation des biens mobiliers (art. L541-6)](#100)
-          - [Section 3 : Transfert et droit de revendication (art. L541-7 à L541-9)](#101)
-        - [Chapitre 2 : Utilisation de détecteurs de métaux. (art. L542-1 à L542-3)](#102)
-        - [Chapitre 3 : Dispositions fiscales. (art. L543-1)](#103)
-        - [Chapitre 4 : Dispositions pénales (art. L544-1 à L544-13)](#104)
-          - [Section 1 : Dispositions relatives à l'archéologie terrestre et subaquatique. (art. L544-1 à L544-4-1)](#105)
-          - [Section 2 : Dispositions relatives aux biens culturels maritimes. (art. L544-5 à L544-11)](#106)
-          - [Section 3 : Dispositions communes. (art. L544-12 à L544-13)](#107)
-        - [Chapitre 5 : Instances scientifiques (art. L545-1 à L545-2)](#108)
-          - [Section 1 : Le Conseil national de la recherche archéologique (art. L545-1)](#109)
-          - [Section 2 : Les commissions territoriales de la recherche archéologique (art. L545-2)](#110)
-        - [Chapitre 6 : Règles relatives à la conservation, à la sélection et à l'étude du patrimoine archéologique (art. L546-1 à L546-7)](#111)
-    - [LIVRE VI : MONUMENTS HISTORIQUES, SITES PATRIMONIAUX REMARQUABLES ET QUALITE ARCHITECTURALE (art. L611-1 à L650-3)](#112)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L611-1 à L613-1)](#113)
-        - [Chapitre Ier : Institutions (art. L611-1 à L611-3)](#114)
-        - [Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial (art. L612-1)](#115)
-        - [Chapitre  III : Dispositions diverses (art. L613-1)](#116)
-      - [TITRE II : MONUMENTS HISTORIQUES (art. L621-1 à L623-1)](#117)
-        - [Chapitre 1er : Immeubles (art. L621-1 à L621-42)](#118)
-          - [Section 1 : Classement des immeubles. (art. L621-1 à L621-22)](#119)
-          - [Section 2 : Inscription des immeubles. (art. L621-25 à L621-29)](#120)
-          - [Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits. (art. L621-29-1 à L621-29-9)](#121)
-          - [Section 4 : Abords (art. L621-30 à L621-32)](#122)
-          - [Section 5 : Dispositions diverses. (art. L621-33)](#123)
-          - [Section 6 : Domaines nationaux (art. L621-34 à L621-42)](#124)
-            - [Sous-section 1 : Définition, liste et délimitation (art. L621-34 à L621-35)](#125)
-            - [Sous-section 2 : Protection au titre des monuments historiques (art. L621-36 à L621-38)](#126)
-            - [Sous-section 3 : Droit de préemption (art. L621-39)](#127)
-            - [Sous-section 4 : Gestion des parties des domaines nationaux appartenant à l'Etat (art. L621-40 à L621-41)](#128)
-            - [Sous-section 5 : Gestion et exploitation de la marque et du droit à l'image des domaines nationaux (art. L621-42)](#129)
-        - [Chapitre 2 : Objets mobiliers (art. L622-1 à L622-29)](#130)
-          - [Section 1 : Classement des objets mobiliers. (art. L622-1 à L622-19)](#131)
-          - [Section 2 : Inscription des objets mobiliers. (art. L622-20 à L622-23)](#132)
-          - [Section 3 : Dispositions communes aux objets classés et aux objets inscrits. (art. L622-24 à L622-29)](#133)
-        - [Chapitre 3 : Dispositions fiscales. (art. L623-1)](#134)
-      - [TITRE III : SITES PATRIMONIAUX REMARQUABLES (art. L630-1 à L633-1)](#135)
-        - [Chapitre Ier : Classement au titre des sites patrimoniaux remarquables (art. L631-1 à L631-5)](#136)
-        - [Chapitre II : Régime des travaux (art. L632-1 à L632-3)](#137)
-        - [Chapitre III : Dispositions fiscales (art. L633-1)](#138)
-      - [TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES (art. L641-1 à L642-2)](#139)
-        - [Chapitre 1er : Dispositions pénales (art. L641-1 à L641-4)](#140)
-        - [Chapitre 2 : Sanctions administratives (art. L642-1 à L642-2)](#141)
-      - [TITRE V : QUALITÉ ARCHITECTURALE (art. L650-1 à L650-3)](#142)
-    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L710-1 à L770-4)](#143)
-      - [TITRE Ier : DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER (art. L710-1)](#144)
-      - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON. (art. L720-1 à L720-3)](#145)
-      - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE. (art. L730-1 à L730-5)](#146)
-      - [TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE. (art. L740-1 à L740-5)](#147)
-      - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE. (art. L750-1 à L750-4)](#148)
-      - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA. (art. L760-1 à L760-6)](#149)
-      - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES. (art. L770-1 à L770-4)](#150)
-  - [Partie réglementaire (art. R111-1 à Annexe 7 à l'article R. 621-98)](#151)
-    - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE  DU PATRIMOINE CULTUREL (art. R111-1 à D144-5)](#152)
-      - [TITRE Ier : PROTECTION DES BIENS CULTURELS (art. R111-1 à R116-7)](#153)
-        - [Chapitre Ier : Régime de circulation des biens culturels (art. R111-1 à R111-23)](#154)
-          - [Section 1 : Délivrance des certificats d'exportation  des biens culturels (art. R111-4 à R111-12)](#155)
-          - [Section 2 : Sortie temporaire des biens culturels  et des trésors nationaux (art. R111-13 à R111-16)](#156)
-          - [Section 3 : Sortie illicite des biens culturels (art. R111-17 à R111-18)](#157)
-          - [Section 4 : Exportation des biens culturels et exportation temporaire  des trésors nationaux vers un Etat non membre  de l'Union européenne (art. R111-19 à R111-21)](#158)
-          - [Section 5 : Commission consultative des trésors nationaux (art. D111-24 à R111-23)](#159)
-        - [Chapitre II : Restitution des biens culturels (art. R112-2 à R112-30)](#160)
-          - [Section 1 : Biens culturels se trouvant en France et sortis illicitement  du territoire d'un autre Etat membre de l'Union européenne (art. R112-5 à R112-19-1)](#161)
-            - [Sous-section 1 : Procédure administrative (art. R112-5 à R112-13)](#162)
-            - [Sous-section 2 : Mesures conservatoires (art. R112-14 à R112-15)](#163)
-            - [Sous-section 3 : Procédure judiciaire (art. R112-16 à R112-19-1)](#164)
-          - [Section 2 : Biens culturels se trouvant sur le territoire d'un autre Etat membre  de l'Union européenne et sortis illicitement du territoire français (art. R112-20 à R112-26)](#165)
-            - [Sous-section 1 : Procédure de retour des biens culturels (art. R112-20 à R112-24)](#166)
-            - [Sous-section 2 : Conditions de la restitution des biens (art. R112-25 à R112-26)](#167)
-          - [Section 3 : Dispositions diverses (art. R112-27 à R112-30)](#168)
-        - [Chapitre III : Prêts et dépôts (art. D113-2 à D113-30)](#169)
-          - [Section 1 : Dispositions relatives aux prêts et dépôts des œuvres et objets d'art confiés à la garde du Centre national des arts plastiques (art. D113-2 à D113-10-2)](#170)
-            - [Sous-section 1 : Dispositions communes (art. D113-2 à R113-1)](#171)
-            - [Sous-section 2 :  Dispositions spécifiques relatives aux prêts (art. D113-7 à D113-8)](#172)
-            - [Sous-section 3 :  Dispositions spécifiques aux dépots (art. D113-9 à D113-10-2)](#173)
-          - [Section 2 : Dispositions relatives aux dépôts des collections du mobilier national (art. D113-11 à D113-23)](#174)
-          - [Section 3 : Dispositions diverses (art. D113-24 à D113-30)](#175)
-        - [Chapitre IV : Dispositions pénales (art. R114-1 à R114-17)](#176)
-        - [Chapitre V : Commission scientifique nationale des collections (art. R115-1 à R115-4)](#177)
-        - [Chapitre VI : Fonds régionaux d'art contemporain (art. R116-1 à R116-7)](#178)
-          - [Section 1 : Attribution et retrait du label (art. R116-1 à R116-3)](#179)
-          - [Section 2 :  Enrichissement des collections des fonds régionaux d'art contemporain (art. R116-4)](#180)
-          - [Section 3 :  Gestion des collections des fonds régionaux d'art contemporain (art. R116-5 à R116-7)](#181)
-      - [TITRE II : ACQUISITION DE BIENS CULTURELS (art. R121-1 à R123-8)](#182)
-        - [Chapitre Ier : Acquisition de biens culturels présentant le caractère de Trésor national et faisant l'objet d'un refus de certificat d'exportation (art. R121-1 à R121-7)](#183)
-        - [Chapitre II : Dispositions fiscales (art. D122-1 à D122-4)](#184)
-        - [Chapitre III : Préemption des œuvres d'art (art. R123-1 à R123-8)](#185)
-      - [TITRE III : DÉPÔT LÉGAL (art. R131-1 à R133-1-1)](#186)
-        - [Chapitre Ier : Objectifs et champ d'application du dépôt légal (art. R131-1 à R131-7)](#187)
-        - [Chapitre II : Modalités et organisation du dépôt légal (art. R132-1 à R132-45)](#188)
-          - [Section 1 : Dépôt légal à la Bibliothèque nationale de France (art. R132-1 à D132-23-3)](#189)
-            - [Sous-section 1 : Dépôt des documents imprimés, graphiques et photographiques (art. R132-1 à R132-8)](#190)
-            - [Sous-section 2 : Dépôt des logiciels et des bases de données (art. R132-9 à R132-14)](#191)
-            - [Sous-section 3 : Dépôt des phonogrammes, vidéogrammes  et documents multimédias (art. R132-15 à R132-22)](#192)
-            - [Sous-section 4 : Dépôt légal des services de communication au public par voie électronique (art. R132-23 à R132-23-2)](#193)
-            - [Sous-section 5 : Dispositions diverses (art. D132-23-3)](#194)
-          - [Section 2 : Dépôt légal au Centre national du cinéma  et de l'image animée (art. R132-24 à R132-32)](#195)
-          - [Section 3 : Dépôt légal à l'Institut national de l'audiovisuel (art. R132-33 à R132-43)](#196)
-          - [Section 5 : Dispositions diverses (art. R132-44 à R132-45)](#197)
-        - [Chapitre III : Dispositions pénales (art. R133-1 à R133-1-1)](#198)
-      - [TITRE IV : INSTITUTIONS RELATIVES  AU PATRIMOINE CULTUREL (art. R141-1 à D144-5)](#199)
-        - [Chapitre Ier : Centre des monuments nationaux (art. R141-1 à R141-21)](#200)
-          - [Section 1 : Dispositions générales (art. R141-1 à R141-9)](#201)
-          - [Section 2 : Organisation administrative (art. R141-10 à R141-16)](#202)
-          - [Section 3 : Régime financier (art. R141-17 à R141-21)](#203)
-        - [Chapitre II : Cité de l'architecture et du patrimoine (art. R142-1 à R142-28)](#204)
-          - [Section 1 : Dispositions générales (art. R142-1 à R142-4)](#205)
-          - [Section 2 : Organisation et fonctionnement (art. R142-5 à R142-21)](#206)
-          - [Section 3 : Régime financier (art. R142-22 à R142-26)](#207)
-          - [Section 4 : Dispositions diverses (art. R142-27 à R142-28)](#208)
-        - [Chapitre III : Fondation du patrimoine (art. R143-1)](#209)
-        - [Chapitre IV : Conseil national de l'inventaire général  du patrimoine culturel (art. D144-1 à D144-5)](#210)
-    - [LIVRE II : ARCHIVES (art. R212-1 à R222-4)](#211)
-      - [TITRE Ier : RÉGIME GÉNÉRAL DES ARCHIVES (art. R212-1 à R213-13)](#212)
-        - [Chapitre II : Collecte, conservation et protection (art. R212-1 à R212-94)](#213)
-          - [Section 1 : Archives publiques (art. R212-1 à R212-77)](#214)
-            - [Sous-section 1 : Dispositions générales (art. R212-1 à R212-37)](#215)
-              - [Paragraphe 1 : Organisation des services d'archives (art. R212-8 à R212-9)](#216)
-              - [Paragraphe 2 : Collecte et conservation des archives publiques (art. R212-10 à R212-18-2)](#217)
-              - [Paragraphe 3 : Dépôt d'archives publiques courantes et intermédiaires  auprès de personnes agréées (art. R212-19 à R212-31)](#218)
-              - [Paragraphe 4 : Sanction administrative prévue à l'article L. 214-10 (art. R212-32 à R212-37)](#219)
-            - [Sous-section 2 : Archives du Conseil constitutionnel (art. R*212-38 à R*212-48)](#220)
-            - [Sous-section 3 : Archives des collectivités territoriales (art. R212-49 à R212-64)](#221)
-              - [Paragraphe 1 : Dispositions générales (art. R212-49 à R212-56)](#222)
-              - [Paragraphe 2 : Dépôt des archives communales (art. R212-57 à R212-61)](#223)
-              - [Paragraphe 3 : Archives départementales et régionales  et de la collectivité territoriale de Corse (art. R212-62 à R212-64)](#224)
-            - [Sous-section 4 : Archives de la défense (art. R212-65 à R212-70)](#225)
-            - [Sous-section 5 : Archives des affaires étrangères (art. R212-71 à R212-77)](#226)
-          - [Section 2 : Archives privées (art. R212-78 à R212-94)](#227)
-            - [Sous-section 1 : Classement comme archives historiques (art. R212-78 à R212-90)](#228)
-            - [Sous-section 3 : Droit de préemption (art. R212-91 à R212-93)](#229)
-            - [Sous-section 4 : Dispositions diverses (art. R212-94)](#230)
-        - [Chapitre III : Régime de communication (art. D213-10 à R213-13)](#231)
-          - [Section 1 : Dispositions générales (art. D213-10 à R213-9)](#232)
-          - [Section 2 : Dispositions particulières (art. R213-11 à R213-13)](#233)
-            - [Sous-section 1 : Ministère de la défense (art. R213-11)](#234)
-            - [Sous-section 2 : Ministère des affaires étrangères (art. R213-12 à R213-13)](#235)
-      - [TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE (art. R221-1 à R222-4)](#236)
-        - [Chapitre Ier : Constitution (art. R221-1 à R221-17)](#237)
-          - [Section 1 : Décision d'enregistrement des audiences (art. R221-1 à R221-7)](#238)
-          - [Section 3 : Réalisation des enregistrements (art. D221-14 à R221-17)](#239)
-        - [Chapitre II : Communication et reproduction (art. R222-1 à R222-4)](#240)
-    - [LIVRE III : BIBLIOTHÈQUES (art. R310-1 à R320-2)](#241)
-      - [TITRE Ier : BIBLIOTHÈQUES MUNICIPALES (art. R310-1 à R310-14)](#242)
-      - [TITRE II : BIBLIOTHÈQUES DÉPARTEMENTALES ET RÉGIONALES  ET DE LA COLLECTIVITÉ TERRITORIALE DE CORSE (art. R320-1 à R320-2)](#243)
-    - [LIVRE IV : MUSÉES (art. R411-1 à R452-13)](#244)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. R411-1 à R411-3)](#245)
-        - [Chapitre unique : Dispositions communes aux musées de France  relevant de l'Etat (art. R411-1 à R411-3)](#246)
-          - [Section unique : Tarifs et organisation des visites (art. R411-1 à R411-3)](#247)
-      - [TITRE II : MUSÉES NATIONAUX (art. D421-5 à R423-7)](#248)
-        - [Chapitre Ier : Musées nationaux relevant du ministère  chargé de la culture (art. D421-5 à R421-4)](#249)
-        - [Chapitre II : Conseil et expertise (art. R422-1 à R422-5)](#250)
-          - [Section 1 : Grands départements patrimoniaux (art. R422-1 à R422-3)](#251)
-          - [Section 2 : Instances consultatives (art. D422-4 à R422-5)](#252)
-            - [Sous-section 1 : La Commission scientifique des musées nationaux (art. D422-4)](#253)
-            - [Sous-section 2 : Le Conseil artistique des musées nationaux (art. D422-6 à R422-5)](#254)
-        - [Chapitre III : Statut des collections des musées nationaux (art. D423-2 à R423-7)](#255)
-          - [Section 1 : Acquisitions (art. D423-2 à R423-3)](#256)
-          - [Section 2 : Prêts et dépôts (art. D423-6 à R423-7)](#257)
-      - [TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE (art. R430-1 à R430-6)](#258)
-      - [TITRE IV : RÉGIME DES MUSÉES DE FRANCE (art. R442-1 à D442-16)](#259)
-        - [Chapitre II : Appellation "musée de France" (art. R442-1 à D442-16)](#260)
-          - [Section 1 : Conditions d'attribution et de retrait  de l'appellation "musée de France" (art. R442-1 à R442-4)](#261)
-          - [Section 2 : Dispositions générales liées à l'appellation  "musée de France" (art. R442-5 à D442-16)](#262)
-            - [Sous-section 1 : Qualification des personnels (art. R442-5 à R442-11)](#263)
-            - [Sous-section 2 : Réseaux et conventions (art. D442-12)](#264)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. D442-13 à D442-16)](#265)
-      - [TITRE V : COLLECTIONS DES MUSÉES DE FRANCE (art. D451-1 à R452-13)](#266)
-        - [Chapitre Ier : Statut des collections (art. D451-1 à R451-38)](#267)
-          - [Section 1 : Acquisitions (art. D451-1 à D451-14)](#268)
-            - [Sous-section 1 : Dispositions générales (art. D451-1 à R451-2)](#269)
-            - [Sous-section 2 : Dispositions applicables à la Commission scientifique nationale  des musées de France (art. D451-4 à R451-3)](#270)
-            - [Sous-section 3 : Dispositions particulières aux commissions scientifiques  régionales ou interrégionales (art. D451-9 à R451-11)](#271)
-            - [Sous-section 4 : Dispositions communes aux commissions scientifiques (art. D451-13 à D451-14)](#272)
-          - [Section 2 : Affectation et propriété des collections (art. D451-15 à R451-25)](#273)
-            - [Sous-section 1 : Dispositions générales (art. D451-15 à D451-21)](#274)
-              - [Paragraphe unique : Normes techniques relatives à la tenue de l'inventaire  et du registre des dépôts (art. D451-16 à D451-21)](#275)
-            - [Sous-section 2 : Collections publiques (art. D451-22 à R451-24)](#276)
-            - [Sous-section 3 : Collections privées (art. R451-25)](#277)
-          - [Section 3 : Prêts et dépôts (art. R451-26 à R451-38)](#278)
-            - [Sous-section 1 : Prêts et dépôts consentis par les musées (art. R451-26 à R451-28)](#279)
-            - [Sous-section 2 : Dépôts consentis par des personnes privées  aux musées de France (art. R451-29 à R451-34)](#280)
-            - [Sous-section 3 : Conditions d'attribution et de retrait des labels “ Pôle national de référence ” et “ Pôle national de référence numérique ” (art. R451-35 à R451-38)](#281)
-        - [Chapitre II : Conservation et restauration (art. R452-1 à R452-13)](#282)
-          - [Section 1 : Dispositions générales (art. R452-1 à R452-2)](#283)
-          - [Section 2 : Instances scientifiques compétentes en matière de restauration (art. D452-3 à R452-6)](#284)
-          - [Section 3 : Qualifications requises en matière de restauration (art. R452-10 à R452-13)](#285)
-    - [LIVRE V : ARCHÉOLOGIE (art. R522-1 à R546-6)](#286)
-      - [TITRE II : ARCHÉOLOGIE PRÉVENTIVE (art. R522-1 à R524-36)](#287)
-        - [Chapitre II : Répartition des compétences :  Etat et collectivités territoriales (art. R522-1 à R522-21)](#288)
-          - [Section 1 : Rôle de l'Etat (art. R522-1)](#289)
-          - [Section 3 : Carte archéologique nationale (art. R522-3 à R522-6)](#290)
-          - [Section 4 : Agrément des opérateurs d'archéologie préventive (art. R522-8 à R522-13)](#291)
-            - [Sous-section 2 (art. R522-8)](#292)
-            - [Sous-section 3 (art. R522-9 à R522-13)](#293)
-          - [Section 5 : Habilitation des services archéologiques de collectivités territoriales (art. R522-14 à R522-21)](#294)
-        - [Chapitre III : Mise en œuvre des opérations d'archéologie préventive (art. R523-1 à R523-61)](#295)
-          - [Section 1 : Champ d'application (art. R523-1 à R523-8)](#296)
-          - [Section 2 : Modes de saisine (art. R523-9 à R523-14)](#297)
-          - [Section 3 : Mesures d'archéologie préventive (art. R523-15 à R523-16)](#298)
-          - [Section 4 : Régime des prescriptions (art. R523-17 à R523-21)](#299)
-          - [Section 5 : Responsabilité scientifique des opérations (art. R523-22)](#300)
-          - [Section 6 : Mise en œuvre des diagnostics (art. R523-23 à R523-38)](#301)
-            - [Sous-section 1 : Le contenu des prescriptions de diagnostic (art. R523-23)](#302)
-            - [Sous-section 2 : La désignation de l'opérateur chargé du diagnostic (art. R523-24 à R523-29)](#303)
-            - [Sous-section 3 : Les conditions de réalisation du diagnostic (art. R523-30 à R523-38)](#304)
-          - [Section 7 : Mise en œuvre des fouilles (art. R523-39 à R523-59)](#305)
-            - [Sous-section 1 : Le contenu des prescriptions de fouilles (art. R523-39)](#306)
-            - [Sous-section 2 : Les conditions de réalisation des fouilles (art. R523-40 à R523-51)](#307)
-            - [Sous-section 3 : La procédure d'arbitrage (art. R523-52 à R523-58)](#308)
-            - [Sous-section 4 : Achèvement des fouilles (art. R523-59)](#309)
-          - [Section 8 : Le contrôle scientifique et technique des opérations d'archéologie préventive (art. R523-60 à R523-61)](#310)
-        - [Chapitre IV : Financement de l'archéologie préventive (art. R524-3 à R524-36)](#311)
-          - [Section 1 : Dispositions relatives  à la redevance d'archéologie préventive (art. R524-3 à R524-10)](#312)
-          - [Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive (art. R524-17 à R524-33)](#313)
-            - [Sous-section 2 : Les subventions du Fonds national  pour l'archéologie préventive (art. R524-17 à R524-23)](#314)
-            - [Sous-section 3 : La prise en charge des fouilles (art. R524-24 à R524-33)](#315)
-          - [Section 3 : Dispositions relatives aux subventions accordées aux services des collectivités territoriales (art. R524-34 à R524-36)](#316)
-      - [TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES (art. R531-1 à R532-19)](#317)
-        - [Chapitre Ier : Archéologie terrestre et subaquatique (art. R531-1 à R531-9)](#318)
-          - [Section 1 : Autorisation de fouilles par l'Etat (art. R531-1 à R531-3)](#319)
-          - [Section 2 : Exécution de fouilles par l'Etat (art. R531-5 à R531-7)](#320)
-          - [Section 3 : Découvertes fortuites (art. R531-8 à R531-9)](#321)
-        - [Chapitre II : Biens culturels maritimes (art. R532-1 à R532-19)](#322)
-          - [Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes (art. R532-1 à R532-4)](#323)
-          - [Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2 (art. R532-5)](#324)
-          - [Section 3 : Recherche archéologique sous-marine (art. R532-6 à R532-19)](#325)
-      - [TITRE IV : DISPOSITIONS DIVERSES (art. R541-1 à R546-6)](#326)
-        - [Chapitre Ier : Régime de propriété du patrimoine archéologique (art. R541-1 à R541-21)](#327)
-          - [Section 1 : Biens archéologiques immobiliers (art. R541-1 à R541-7)](#328)
-          - [Section 2 : Biens archéologiques mobiliers (art. R541-8 à R541-14)](#329)
-            - [Sous-section 1 : Propriété (art. R541-8 à R541-11)](#330)
-            - [Sous-section 2 :  Ensemble archéologique mobilier et aliénation des biens mobiliers (art. R541-12 à R541-14)](#331)
-          - [Section 3 :  Transfert et droit de revendication (art. R541-15 à R541-20)](#332)
-          - [Section 4 :  Dispositions diverses (art. R541-21)](#333)
-        - [Chapitre II : Utilisation des détecteurs de métaux (art. R542-1 à R542-2)](#334)
-        - [Chapitre IV : Dispositions pénales (art. R544-1 à R544-4)](#335)
-          - [Section 1 : Dispositions relatives aux biens culturels maritimes (art. R544-1 à R544-2)](#336)
-          - [Section 2 : Dispositions relatives aux détecteurs de métaux (art. R544-3 à R544-4)](#337)
-        - [Chapitre V : Dispositions diverses (art. R545-1 à R545-59)](#338)
-          - [Section 1 : Conseil national de la recherche archéologique (art. R545-1 à R545-15)](#339)
-            - [Sous-section 1 : Formation plénière du Conseil national  de la recherche archéologique (art. R545-1 à R545-6)](#340)
-            - [Sous-section 2 : Délégation permanente du Conseil national  de la recherche archéologique (art. R545-7 à R545-9)](#341)
-            - [Sous-section 3 : Commission des opérations sous-marines (art. R545-10 à R545-11)](#342)
-            - [Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines (art. R545-12 à R545-15)](#343)
-          - [Section 2 : Commissions interrégionales de la recherche archéologique (art. R545-16 à R545-23)](#344)
-          - [Section 3 : Institut national de recherches archéologiques préventives (art. R545-24 à R545-59)](#345)
-        - [Chapitre VI : Rapports d'opérations et données scientifiques (art. R546-1 à R546-6)](#346)
-    - [LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE (art. R611-1 à R650-7)](#347)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. R611-1 à R613-2)](#348)
-        - [Chapitre Ier : Institutions (art. R611-1 à D611-31)](#349)
-          - [Section 1 : Commission nationale du patrimoine et de l'architecture (art. R611-1 à R611-16)](#350)
-          - [Section 2 : Commission régionale du patrimoine et de l'architecture (art. R611-17 à R611-30)](#351)
-          - [Section 3 : Conseil des sites de Corse (art. D611-31)](#352)
-        - [Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial (art. R612-1 à R612-2)](#353)
-        - [Chapitre III : Dispositions diverses (art. D613-1 à R613-2)](#354)
-      - [TITRE II : MONUMENTS HISTORIQUES (art. R621-1 à R624-2)](#355)
-        - [Chapitre Ier : Immeubles (art. R621-1 à R621-100)](#356)
-          - [Section 1 : Classement des immeubles (art. R621-1 à R621-52)](#357)
-            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R621-1 à R621-10)](#358)
-            - [Sous-section 2 : Travaux sur un immeuble classé (art. R621-11 à R621-17)](#359)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R621-18 à R621-24)](#360)
-            - [Sous-section 4 : Maîtrise d'œuvre (art. R621-25 à R621-44)](#361)
-            - [Sous-section 5 : Travaux d'office (art. R621-45 à R621-48)](#362)
-            - [Sous-section 6 : Servitude conventionnelle (art. R621-49)](#363)
-            - [Sous-section 7 : Expropriation pour cause d'utilité publique (art. R621-50 à R621-51)](#364)
-            - [Sous-section 8 : Aliénation (art. R621-52)](#365)
-          - [Section 2 : Inscription des immeubles (art. R621-53 à R621-68)](#366)
-            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R621-53 à R621-59)](#367)
-            - [Sous-section 2 : Travaux sur un immeuble inscrit (art. R621-60 à R621-62)](#368)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R621-63 à R621-68)](#369)
-          - [Section 3 : Dispositions communes  aux immeubles classés et aux immeubles inscrits (art. R621-69 à R621-91-1)](#370)
-            - [Sous-section 1 : Conservateurs des monuments historiques relevant du ministère  chargé de la culture et de ses établissements publics (art. R621-69)](#371)
-            - [Sous-section 2 : Assistance à maîtrise d'ouvrage (art. R621-70 à R621-77)](#372)
-            - [Sous-section 3 : Subventions (art. R621-78 à R621-79)](#373)
-            - [Sous-section 4 : Publicité des mesures de protection (art. R621-80 à R621-81)](#374)
-            - [Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration (art. R621-82)](#375)
-            - [Sous-section 6 : Découverte fortuite (art. R621-83)](#376)
-            - [Sous-section 7 : Aliénation (art. R621-84 à R621-84-1)](#377)
-            - [Sous-section 8 : Notification (art. R621-85)](#378)
-            - [Sous-section 9 : Autorisation d'affichage (art. R621-86 à R621-91)](#379)
-            - [Sous-section 10 : Détachement d'un effet mobilier attaché à perpétuelle demeure (art. R621-91-1)](#380)
-          - [Section 4 : Abords (art. R621-92 à R621-96-17)](#381)
-            - [Sous-section 1 : Création et modification du périmètre délimité des abords (art. R621-92 à R621-95)](#382)
-            - [Sous-section 2 : Régime des travaux en abords (art. R621-96 à R621-96-17)](#383)
-          - [Section 5 : Dispositions diverses (art. R621-97)](#384)
-          - [Section 6 : Domaines nationaux (art. R621-98 à R621-100)](#385)
-        - [Chapitre II : Objets mobiliers (art. R622-1 à R622-61)](#386)
-          - [Section 1 : Classement des objets mobiliers (art. R622-1 à R622-31)](#387)
-            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R622-1 à R622-10)](#388)
-            - [Sous-section 2 : Travaux sur un objet mobilier classé (art. R622-11 à R622-17)](#389)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-18 à R622-25)](#390)
-            - [Sous-section 4 : Mesures conservatoires (art. R622-26 à R622-27)](#391)
-            - [Sous-section 5 : Aliénation (art. R622-28 à R622-31)](#392)
-          - [Section 2 : Inscription des objets mobiliers (art. R622-32 à R622-44)](#393)
-            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R622-32 à R622-38)](#394)
-            - [Sous-section 2 : Travaux sur un objet mobilier inscrit (art. R622-39)](#395)
-            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-40 à R622-42)](#396)
-            - [Sous-section 4 : Aliénation (art. R622-43 à R622-44)](#397)
-          - [Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits (art. R622-45 à R622-61)](#398)
-            - [Sous-section 1 : Assistance à maîtrise d'ouvrage (art. R622-45 à R622-52)](#399)
-            - [Sous-section 2 : Subventions (art. R622-53 à R622-55)](#400)
-            - [Sous-section 3 : Découverte fortuite (art. R622-56)](#401)
-            - [Sous-section 4 : Déplacement (art. R622-57)](#402)
-            - [Sous-section 5 : Notification (art. R622-58)](#403)
-            - [Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues (art. R622-59 à R622-61)](#404)
-        - [Chapitre III : Dispositions fiscales (art. D623-1 à D623-2)](#405)
-        - [Chapitre IV : Dispositions pénales (art. R624-1 à R624-2)](#406)
-      - [TITRE III : SITES PATRIMONIAUX REMARQUABLES (art. D631-5 à D633-1)](#407)
-        - [Chapitre Ier : Classement au titre des sites patrimoniaux remarquables (art. D631-5 à D631-14)](#408)
-          - [Section 1 : Procédure de classement et de modifications (art. D631-5 à R631-4)](#409)
-          - [Section 2 : Procédure d'élaboration, révision et modification du plan de valorisation de l'architecture et du patrimoine (art. D631-7 à R631-6)](#410)
-          - [Section 3 : Contenu du plan de valorisation de l'architecture et du patrimoine (art. D631-12 à D631-14)](#411)
-        - [Chapitre II : Régime des travaux (art. D632-1)](#412)
-        - [Chapitre III : Dispositions fiscales (art. D633-1)](#413)
-      - [TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES (art. R641-1 à R642-1)](#414)
-        - [Chapitre Ier : Dispositions pénales (art. R641-1)](#415)
-        - [Chapitre II : Sanctions administratives (art. R642-1)](#416)
-      - [TITRE V : QUALITÉ ARCHITECTURALE (art. R650-1 à R650-7)](#417)
-    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R710-1 à R790-19)](#418)
-      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION (art. R710-1 à R710-7)](#419)
-      - [TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON (art. D720-2 à R720-16)](#420)
-      - [TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R730-1 à R730-11)](#421)
-      - [TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D740-1-1 à R740-15)](#422)
-      - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D750-1-1 à R750-13)](#423)
-      - [TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D760-1-1 à R760-14)](#424)
-      - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-1-1 à R770-11)](#425)
-      - [TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY (art. D780-2 à R780-20)](#426)
-      - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. D790-2 à R790-19)](#427)
-    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 7 à l'article R. 621-98)](#428)
+          - [Section 3 : Action en revendication et action en nullité (art. L112-22 à L112-23)](#15)
+          - [Section 4 : Dispositions diverses (art. L112-24 à L112-27)](#16)
+        - [Chapitre 4 : Dispositions pénales. (art. L114-1 à L114-6)](#17)
+        - [Chapitre 5 : Commission scientifique nationale des collections. (art. L115-1 à L115-2)](#18)
+        - [Chapitre 6 : Fonds régionaux d'art contemporain (art. L116-1 à L116-2)](#19)
+      - [TITRE II : ACQUISITION DE BIENS CULTURELS (art. L121-1 à L125-1)](#20)
+        - [Chapitre 1er : Acquisition de biens culturels présentant le caractère de trésor national et faisant l'objet d'un refus de certificat d'exportation. (art. L121-1 à L121-4)](#21)
+        - [Chapitre 2 : Dispositions fiscales (art. L122-1 à L122-9)](#22)
+          - [Section 1 : Dation en paiement. (art. L122-1)](#23)
+          - [Section 2 : Donation. (art. L122-2 à L122-3)](#24)
+          - [Section 3 : Mécénat. (art. L122-4 à L122-8)](#25)
+          - [Section 4 : Dispositions diverses. (art. L122-9)](#26)
+        - [Chapitre 3 : Préemption des biens culturels (art. L123-1 à L123-4)](#27)
+        - [Chapitre 4 : Annulation de l'acquisition d'un bien culturel en raison de son origine illicite (art. L124-1)](#28)
+        - [Chapitre 5 : Transfert de propriété de biens culturels entre personnes publiques (art. L125-1)](#29)
+      - [TITRE III : DÉPÔT LÉGAL (art. L131-1 à L133-1)](#30)
+        - [Chapitre 1er : Objectifs et champ d'application du dépôt légal. (art. L131-1 à L131-2)](#31)
+        - [Chapitre 2 : Modalités et organisation du dépôt légal. (art. L132-1 à L132-6)](#32)
+        - [Chapitre 3 : Dispositions pénales. (art. L133-1)](#33)
+      - [TITRE IV : INSTITUTIONS RELATIVES AU PATRIMOINE CULTUREL (art. L141-1 à L143-15)](#34)
+        - [Chapitre 1er : Centre des monuments nationaux. (art. L141-1)](#35)
+        - [Chapitre 2 : Cité de l'architecture et du patrimoine. (art. L142-1)](#36)
+        - [Chapitre 3 : Fondation du patrimoine. (art. L143-1 à L143-15)](#37)
+    - [LIVRE II : ARCHIVES (art. L211-1 à L222-3)](#38)
+      - [TITRE Ier : RÉGIME GÉNÉRAL DES ARCHIVES (art. L211-1 à L214-10)](#39)
+        - [Chapitre 1er : Dispositions générales. (art. L211-1 à L211-6)](#40)
+        - [Chapitre 2 : Collecte, conservation et protection (art. L212-1 à L212-36)](#41)
+          - [Section 1 : Archives publiques (art. L212-1 à L212-14)](#42)
+            - [Sous-section 1 : Dispositions générales. (art. L212-1 à L212-5)](#43)
+            - [Sous-section 2 : Archives des collectivités territoriales et des groupements de collectivités territoriales (art. L212-6 à L212-14)](#44)
+              - [Paragraphe 1 : Dispositions générales. (art. L212-6 à L212-10)](#45)
+              - [Paragraphe 2 : Dépôt des archives communales. (art. L212-11 à L212-14)](#46)
+          - [Section 2 : Archives privées (art. L212-15 à L212-36)](#47)
+            - [Sous-section 1 : Classement comme archives historiques. (art. L212-15 à L212-28)](#48)
+            - [Sous-section 2 : Droit de reproduction avant exportation. (art. L212-29)](#49)
+            - [Sous-section 3 : Droit de préemption. (art. L212-36)](#50)
+        - [Chapitre 3 : Régime de communication. (art. L213-1 à L213-8)](#51)
+        - [Chapitre 4 : Dispositions pénales. (art. L214-1 à L214-10)](#52)
+      - [TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE (art. L221-1 à L222-3)](#53)
+        - [Chapitre 1er : Constitution. (art. L221-1 à L221-5)](#54)
+        - [Chapitre 2 : Communication et reproduction. (art. L222-1 à L222-3)](#55)
+    - [LIVRE III : BIBLIOTHÈQUES (art. L310-1 à L330-1)](#56)
+      - [TITRE Ier : DISPOSITIONS COMMUNES (art. L310-1 à L310-2)](#57)
+      - [TITRE II : BIBLIOTHÈQUES MUNICIPALES ET INTERCOMMUNALES (art. L320-1 à L320-2)](#58)
+      - [TITRE III : BIBLIOTHÈQUES DÉPARTEMENTALES (art. L330-1)](#59)
+    - [LIVRE IV : MUSÉES (art. L410-1 à L452-4)](#60)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES. (art. L410-1 à L410-4)](#61)
+      - [TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE. (art. L430-1 à L430-2)](#62)
+      - [TITRE IV : RÉGIME DES MUSÉES DE FRANCE (art. L441-1 à L442-11)](#63)
+        - [Chapitre 1er : Définition et missions. (art. L441-1 à L441-2)](#64)
+        - [Chapitre 2 : Appellation "musée de France" (art. L442-1 à L442-11)](#65)
+          - [Section 1 : Conditions d'attribution et de retrait de l'appellation "musée de France". (art. L442-1 à L442-4)](#66)
+          - [Section 2 : Dispositions pénales. (art. L442-5)](#67)
+          - [Section 3 : Dispositions générales liées à l'appellation "musée de France" (art. L442-6 à L442-11)](#68)
+            - [Sous-section 1 : Dispositions relatives à l'accueil du public. (art. L442-6 à L442-7)](#69)
+            - [Sous-section 2 : Qualifications des personnels. (art. L442-8 à L442-9)](#70)
+            - [Sous-section 3 : Réseaux et conventions. (art. L442-10)](#71)
+            - [Sous-section 4 : Contrôle scientifique et technique. (art. L442-11)](#72)
+      - [TITRE V : COLLECTIONS DES MUSÉES DE FRANCE (art. L451-1 à L452-4)](#73)
+        - [Chapitre 1er : Statut des collections (art. L451-1 à L451-12)](#74)
+          - [Section 1 : Acquisitions. (art. L451-1)](#75)
+          - [Section 2 : Affectation et propriété des collections (art. L451-2 à L451-10)](#76)
+            - [Sous-section 1 : Dispositions générales. (art. L451-2 à L451-4)](#77)
+            - [Sous-section 2 : Collections publiques. (art. L451-5 à L451-9)](#78)
+            - [Sous-section 3 : Collections privées. (art. L451-10)](#79)
+          - [Section 3 : Prêts et dépôts. (art. L451-11 à L451-12)](#80)
+        - [Chapitre 2 : Conservation et restauration. (art. L452-1 à L452-4)](#81)
+    - [LIVRE V : ARCHÉOLOGIE (art. L510-1 à L546-7)](#82)
+      - [TITRE Ier : DÉFINITION DU PATRIMOINE ARCHÉOLOGIQUE. (art. L510-1)](#83)
+      - [TITRE II : ARCHÉOLOGIE PRÉVENTIVE (art. L521-1 à L524-16)](#84)
+        - [Chapitre 1er : Définition. (art. L521-1)](#85)
+        - [Chapitre 2 : Répartition des compétences : Etat et collectivités territoriales (art. L522-1 à L522-8)](#86)
+          - [Section 1 : Rôle de l'Etat. (art. L522-1 à L522-6)](#87)
+          - [Section 2 : Rôle des collectivités territoriales. (art. L522-7 à L522-8)](#88)
+        - [Chapitre 3 : Mise en œuvre des opérations d'archéologie préventive. (art. L523-1 à L523-13)](#89)
+        - [Chapitre 4 : Financement de l'archéologie préventive. (art. L524-1 à L524-16)](#90)
+      - [TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES ET DÉCOUVERTES FORTUITES (art. L531-1 à L532-14)](#91)
+        - [Chapitre 1er : Archéologie terrestre et subaquatique (art. L531-1 à L531-19)](#92)
+          - [Section 1 : Autorisation de fouilles par l'Etat. (art. L531-1 à L531-8)](#93)
+          - [Section 2 : Exécution de fouilles par l'Etat. (art. L531-9 à L531-13)](#94)
+          - [Section 3 : Découvertes fortuites. (art. L531-14 à L531-19)](#95)
+        - [Chapitre 2 : Biens culturels maritimes. (art. L532-1 à L532-14)](#96)
+      - [TITRE IV : DISPOSITIONS DIVERSES (art. L541-1 à L546-7)](#97)
+        - [Chapitre 1er : Régime de propriété du patrimoine archéologique. (art. L541-1 à L541-9)](#98)
+          - [Section 1 : Biens archéologiques immobiliers (art. L541-1 à L541-3)](#99)
+          - [Section 2 : Biens archéologiques mobiliers (art. L541-4 à L541-6)](#100)
+            - [Sous-section 1 : Propriété (art. L541-4 à L541-5)](#101)
+            - [Sous-section 2 : Ensemble archéologique mobilier et aliénation des biens mobiliers (art. L541-6)](#102)
+          - [Section 3 : Transfert et droit de revendication (art. L541-8 à L541-9)](#103)
+        - [Chapitre 2 : Utilisation de détecteurs de métaux. (art. L542-1 à L542-3)](#104)
+        - [Chapitre 3 : Dispositions fiscales. (art. L543-1)](#105)
+        - [Chapitre 4 : Dispositions pénales (art. L544-1 à L544-13)](#106)
+          - [Section 1 : Dispositions relatives à l'archéologie terrestre et subaquatique. (art. L544-1 à L544-4-1)](#107)
+          - [Section 2 : Dispositions relatives aux biens culturels maritimes. (art. L544-5 à L544-11)](#108)
+          - [Section 3 : Dispositions communes. (art. L544-12 à L544-13)](#109)
+        - [Chapitre 5 : Instances scientifiques (art. L545-1 à L545-2)](#110)
+          - [Section 1 : Le Conseil national de la recherche archéologique (art. L545-1)](#111)
+          - [Section 2 : Les commissions territoriales de la recherche archéologique (art. L545-2)](#112)
+        - [Chapitre 6 : Règles relatives à la conservation, à la sélection et à l'étude du patrimoine archéologique (art. L546-1 à L546-7)](#113)
+    - [LIVRE VI : MONUMENTS HISTORIQUES, SITES PATRIMONIAUX REMARQUABLES ET QUALITE ARCHITECTURALE (art. L611-1 à L650-3)](#114)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L611-1 à L613-1)](#115)
+        - [Chapitre Ier : Institutions (art. L611-1 à L611-3)](#116)
+        - [Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial (art. L612-1)](#117)
+        - [Chapitre  III : Dispositions diverses (art. L613-1)](#118)
+      - [TITRE II : MONUMENTS HISTORIQUES (art. L621-1 à L623-1)](#119)
+        - [Chapitre 1er : Immeubles (art. L621-1 à L621-42)](#120)
+          - [Section 1 : Classement des immeubles. (art. L621-1 à L621-22)](#121)
+          - [Section 2 : Inscription des immeubles. (art. L621-25 à L621-29)](#122)
+          - [Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits. (art. L621-29-1 à L621-29-9)](#123)
+          - [Section 4 : Abords (art. L621-30 à L621-32)](#124)
+          - [Section 5 : Dispositions diverses. (art. L621-33)](#125)
+          - [Section 6 : Domaines nationaux (art. L621-34 à L621-42)](#126)
+            - [Sous-section 1 : Définition, liste et délimitation (art. L621-34 à L621-35)](#127)
+            - [Sous-section 2 : Protection au titre des monuments historiques (art. L621-36 à L621-38)](#128)
+            - [Sous-section 3 : Droit de préemption (art. L621-39)](#129)
+            - [Sous-section 4 : Gestion des parties des domaines nationaux appartenant à l'Etat (art. L621-40 à L621-41)](#130)
+            - [Sous-section 5 : Gestion et exploitation de la marque et du droit à l'image des domaines nationaux (art. L621-42)](#131)
+        - [Chapitre 2 : Objets mobiliers (art. L622-1 à L622-29)](#132)
+          - [Section 1 : Classement des objets mobiliers. (art. L622-1 à L622-19)](#133)
+          - [Section 2 : Inscription des objets mobiliers. (art. L622-20 à L622-23)](#134)
+          - [Section 3 : Dispositions communes aux objets classés et aux objets inscrits. (art. L622-24 à L622-29)](#135)
+        - [Chapitre 3 : Dispositions fiscales. (art. L623-1)](#136)
+      - [TITRE III : SITES PATRIMONIAUX REMARQUABLES (art. L630-1 à L633-1)](#137)
+        - [Chapitre Ier : Classement au titre des sites patrimoniaux remarquables (art. L631-1 à L631-5)](#138)
+        - [Chapitre II : Régime des travaux (art. L632-1 à L632-3)](#139)
+        - [Chapitre III : Dispositions fiscales (art. L633-1)](#140)
+      - [TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES (art. L641-1 à L642-2)](#141)
+        - [Chapitre 1er : Dispositions pénales (art. L641-1 à L641-4)](#142)
+        - [Chapitre 2 : Sanctions administratives (art. L642-1 à L642-2)](#143)
+      - [TITRE V : QUALITÉ ARCHITECTURALE (art. L650-1 à L650-3)](#144)
+    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L710-1 à L770-4)](#145)
+      - [TITRE Ier : DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER (art. L710-1)](#146)
+      - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON. (art. L720-1 à L720-3)](#147)
+      - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE. (art. L730-1 à L730-5)](#148)
+      - [TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE. (art. L740-1 à L740-5)](#149)
+      - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE. (art. L750-1 à L750-4)](#150)
+      - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA. (art. L760-1 à L760-6)](#151)
+      - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES. (art. L770-1 à L770-4)](#152)
+  - [Partie réglementaire (art. R111-1 à Annexe 7 à l'article R. 621-98)](#153)
+    - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE  DU PATRIMOINE CULTUREL (art. R111-1 à D144-5)](#154)
+      - [TITRE Ier : PROTECTION DES BIENS CULTURELS (art. R111-1 à R116-7)](#155)
+        - [Chapitre Ier : Régime de circulation des biens culturels (art. R111-1 à R111-23)](#156)
+          - [Section 1 : Délivrance des certificats d'exportation  des biens culturels (art. R111-4 à R111-12)](#157)
+          - [Section 2 : Sortie temporaire des biens culturels  et des trésors nationaux (art. R111-13 à R111-16)](#158)
+          - [Section 3 : Sortie illicite des biens culturels (art. R111-17 à R111-18)](#159)
+          - [Section 4 : Exportation des biens culturels et exportation temporaire  des trésors nationaux vers un Etat non membre  de l'Union européenne (art. R111-19 à R111-21)](#160)
+          - [Section 5 : Commission consultative des trésors nationaux (art. D111-24 à R111-23)](#161)
+        - [Chapitre II : Restitution des biens culturels (art. R112-2 à R112-30)](#162)
+          - [Section 1 : Biens culturels se trouvant en France et sortis illicitement  du territoire d'un autre Etat membre de l'Union européenne (art. R112-5 à R112-19-1)](#163)
+            - [Sous-section 1 : Procédure administrative (art. R112-5 à R112-13)](#164)
+            - [Sous-section 2 : Mesures conservatoires (art. R112-14 à R112-15)](#165)
+            - [Sous-section 3 : Procédure judiciaire (art. R112-16 à R112-19-1)](#166)
+          - [Section 2 : Biens culturels se trouvant sur le territoire d'un autre Etat membre  de l'Union européenne et sortis illicitement du territoire français (art. R112-20 à R112-26)](#167)
+            - [Sous-section 1 : Procédure de retour des biens culturels (art. R112-20 à R112-24)](#168)
+            - [Sous-section 2 : Conditions de la restitution des biens (art. R112-25 à R112-26)](#169)
+          - [Section 3 : Dispositions diverses (art. R112-27 à R112-30)](#170)
+        - [Chapitre III : Prêts et dépôts (art. D113-2 à D113-30)](#171)
+          - [Section 1 : Dispositions relatives aux prêts et dépôts des œuvres et objets d'art confiés à la garde du Centre national des arts plastiques (art. D113-2 à D113-10-2)](#172)
+            - [Sous-section 1 : Dispositions communes (art. D113-2 à R113-1)](#173)
+            - [Sous-section 2 :  Dispositions spécifiques relatives aux prêts (art. D113-7 à D113-8)](#174)
+            - [Sous-section 3 :  Dispositions spécifiques aux dépots (art. D113-9 à D113-10-2)](#175)
+          - [Section 2 : Dispositions relatives aux dépôts des collections du mobilier national (art. D113-11 à D113-23)](#176)
+          - [Section 3 : Dispositions diverses (art. D113-24 à D113-30)](#177)
+        - [Chapitre IV : Dispositions pénales (art. R114-1 à R114-17)](#178)
+        - [Chapitre V : Commission scientifique nationale des collections (art. R115-1 à R115-4)](#179)
+        - [Chapitre VI : Fonds régionaux d'art contemporain (art. R116-1 à R116-7)](#180)
+          - [Section 1 : Attribution et retrait du label (art. R116-1 à R116-3)](#181)
+          - [Section 2 :  Enrichissement des collections des fonds régionaux d'art contemporain (art. R116-4)](#182)
+          - [Section 3 :  Gestion des collections des fonds régionaux d'art contemporain (art. R116-5 à R116-7)](#183)
+      - [TITRE II : ACQUISITION DE BIENS CULTURELS (art. R121-1 à R123-8)](#184)
+        - [Chapitre Ier : Acquisition de biens culturels présentant le caractère de Trésor national et faisant l'objet d'un refus de certificat d'exportation (art. R121-1 à R121-7)](#185)
+        - [Chapitre II : Dispositions fiscales (art. D122-1 à D122-4)](#186)
+        - [Chapitre III : Préemption des œuvres d'art (art. R123-1 à R123-8)](#187)
+      - [TITRE III : DÉPÔT LÉGAL (art. R131-1 à R133-1-1)](#188)
+        - [Chapitre Ier : Objectifs et champ d'application du dépôt légal (art. R131-1 à R131-7)](#189)
+        - [Chapitre II : Modalités et organisation du dépôt légal (art. R132-1 à R132-45)](#190)
+          - [Section 1 : Dépôt légal à la Bibliothèque nationale de France (art. R132-1 à D132-23-3)](#191)
+            - [Sous-section 1 : Dépôt des documents imprimés, graphiques et photographiques (art. R132-1 à R132-8)](#192)
+            - [Sous-section 2 : Dépôt des logiciels et des bases de données (art. R132-9 à R132-14)](#193)
+            - [Sous-section 3 : Dépôt des phonogrammes, vidéogrammes  et documents multimédias (art. R132-15 à R132-22)](#194)
+            - [Sous-section 4 : Dépôt légal des services de communication au public par voie électronique (art. R132-23 à R132-23-2)](#195)
+            - [Sous-section 5 : Dispositions diverses (art. D132-23-3)](#196)
+          - [Section 2 : Dépôt légal au Centre national du cinéma  et de l'image animée (art. R132-24 à R132-32)](#197)
+          - [Section 3 : Dépôt légal à l'Institut national de l'audiovisuel (art. R132-33 à R132-43)](#198)
+          - [Section 5 : Dispositions diverses (art. R132-44 à R132-45)](#199)
+        - [Chapitre III : Dispositions pénales (art. R133-1 à R133-1-1)](#200)
+      - [TITRE IV : INSTITUTIONS RELATIVES  AU PATRIMOINE CULTUREL (art. R141-1 à D144-5)](#201)
+        - [Chapitre Ier : Centre des monuments nationaux (art. R141-1 à R141-21)](#202)
+          - [Section 1 : Dispositions générales (art. R141-1 à R141-9)](#203)
+          - [Section 2 : Organisation administrative (art. R141-10 à R141-16)](#204)
+          - [Section 3 : Régime financier (art. R141-17 à R141-21)](#205)
+        - [Chapitre II : Cité de l'architecture et du patrimoine (art. R142-1 à R142-28)](#206)
+          - [Section 1 : Dispositions générales (art. R142-1 à R142-4)](#207)
+          - [Section 2 : Organisation et fonctionnement (art. R142-5 à R142-21)](#208)
+          - [Section 3 : Régime financier (art. R142-22 à R142-26)](#209)
+          - [Section 4 : Dispositions diverses (art. R142-27 à R142-28)](#210)
+        - [Chapitre III : Fondation du patrimoine (art. R143-1)](#211)
+        - [Chapitre IV : Conseil national de l'inventaire général  du patrimoine culturel (art. D144-1 à D144-5)](#212)
+    - [LIVRE II : ARCHIVES (art. R212-1 à R222-4)](#213)
+      - [TITRE Ier : RÉGIME GÉNÉRAL DES ARCHIVES (art. R212-1 à R213-13)](#214)
+        - [Chapitre II : Collecte, conservation et protection (art. R212-1 à R212-94)](#215)
+          - [Section 1 : Archives publiques (art. R212-1 à R212-77)](#216)
+            - [Sous-section 1 : Dispositions générales (art. R212-1 à R212-37)](#217)
+              - [Paragraphe 1 : Organisation des services d'archives (art. R212-8 à R212-9)](#218)
+              - [Paragraphe 2 : Collecte et conservation des archives publiques (art. R212-10 à R212-18-2)](#219)
+              - [Paragraphe 3 : Dépôt d'archives publiques courantes et intermédiaires  auprès de personnes agréées (art. R212-19 à R212-31)](#220)
+              - [Paragraphe 4 : Sanction administrative prévue à l'article L. 214-10 (art. R212-32 à R212-37)](#221)
+            - [Sous-section 2 : Archives du Conseil constitutionnel (art. R*212-38 à R*212-48)](#222)
+            - [Sous-section 3 : Archives des collectivités territoriales (art. R212-49 à R212-64)](#223)
+              - [Paragraphe 1 : Dispositions générales (art. R212-49 à R212-56)](#224)
+              - [Paragraphe 2 : Dépôt des archives communales (art. R212-57 à R212-61)](#225)
+              - [Paragraphe 3 : Archives départementales et régionales  et de la collectivité territoriale de Corse (art.  à R212-61)](#226)
+              - [Paragraphe 3 : Archives départementales et régionales et de la   collectivité de Corse (art. R212-62 à R212-64)](#227)
+            - [Sous-section 4 : Archives de la défense (art. R212-65 à R212-70)](#228)
+            - [Sous-section 5 : Archives des affaires étrangères (art. R212-71 à R212-77)](#229)
+          - [Section 2 : Archives privées (art. R212-78 à R212-94)](#230)
+            - [Sous-section 1 : Classement comme archives historiques (art. R212-78 à R212-90)](#231)
+            - [Sous-section 3 : Droit de préemption (art. R212-91 à R212-93)](#232)
+            - [Sous-section 4 : Dispositions diverses (art. R212-94)](#233)
+        - [Chapitre III : Régime de communication (art. D213-10 à R213-13)](#234)
+          - [Section 1 : Dispositions générales (art. D213-10 à R213-9)](#235)
+          - [Section 2 : Dispositions particulières (art. R213-11 à R213-13)](#236)
+            - [Sous-section 1 : Ministère de la défense (art. R213-11)](#237)
+            - [Sous-section 2 : Ministère des affaires étrangères (art. R213-12 à R213-13)](#238)
+      - [TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE (art. R221-1 à R222-4)](#239)
+        - [Chapitre Ier : Constitution (art. R221-1 à R221-17)](#240)
+          - [Section 1 : Décision d'enregistrement des audiences (art. R221-1 à R221-7)](#241)
+          - [Section 3 : Réalisation des enregistrements (art. D221-14 à R221-17)](#242)
+        - [Chapitre II : Communication et reproduction (art. R222-1 à R222-4)](#243)
+    - [LIVRE III : BIBLIOTHÈQUES (art. R310-1 à R320-2)](#244)
+      - [TITRE Ier : BIBLIOTHÈQUES MUNICIPALES (art. R310-1 à R310-14)](#245)
+      - [TITRE II : BIBLIOTHÈQUES DÉPARTEMENTALES ET RÉGIONALES  ET DE LA COLLECTIVITÉ TERRITORIALE DE CORSE (art.  à R310-14)](#246)
+      - [TITRE II : BIBLIOTHÈQUES DÉPARTEMENTALES ET RÉGIONALES  ET DE LA COLLECTIVITÉ DE CORSE (art. R320-1 à R320-2)](#247)
+    - [LIVRE IV : MUSÉES (art. R411-1 à R452-13)](#248)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. R411-1 à R411-3)](#249)
+        - [Chapitre unique : Dispositions communes aux musées de France  relevant de l'Etat (art. R411-1 à R411-3)](#250)
+          - [Section unique : Tarifs et organisation des visites (art. R411-1 à R411-3)](#251)
+      - [TITRE II : MUSÉES NATIONAUX (art. D421-5 à R423-7)](#252)
+        - [Chapitre Ier : Musées nationaux relevant du ministère  chargé de la culture (art. D421-5 à R421-4)](#253)
+        - [Chapitre II : Conseil et expertise (art. R422-1 à R422-5)](#254)
+          - [Section 1 : Grands départements patrimoniaux (art. R422-1 à R422-3)](#255)
+          - [Section 2 : Instances consultatives (art. D422-4 à R422-5)](#256)
+            - [Sous-section 1 : La Commission scientifique des musées nationaux (art. D422-4)](#257)
+            - [Sous-section 2 : Le Conseil artistique des musées nationaux (art. D422-6 à R422-5)](#258)
+        - [Chapitre III : Statut des collections des musées nationaux (art. D423-2 à R423-7)](#259)
+          - [Section 1 : Acquisitions (art. D423-2 à R423-3)](#260)
+          - [Section 2 : Prêts et dépôts (art. D423-6 à R423-7)](#261)
+      - [TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE (art. R430-1 à R430-6)](#262)
+      - [TITRE IV : RÉGIME DES MUSÉES DE FRANCE (art. R442-1 à D442-16)](#263)
+        - [Chapitre II : Appellation "musée de France" (art. R442-1 à D442-16)](#264)
+          - [Section 1 : Conditions d'attribution et de retrait  de l'appellation "musée de France" (art. R442-1 à R442-4)](#265)
+          - [Section 2 : Dispositions générales liées à l'appellation  "musée de France" (art. R442-5 à D442-16)](#266)
+            - [Sous-section 1 : Qualification des personnels (art. R442-5 à R442-11)](#267)
+            - [Sous-section 2 : Réseaux et conventions (art. D442-12)](#268)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. D442-13 à D442-16)](#269)
+      - [TITRE V : COLLECTIONS DES MUSÉES DE FRANCE (art. D451-1 à R452-13)](#270)
+        - [Chapitre Ier : Statut des collections (art. D451-1 à R451-38)](#271)
+          - [Section 1 : Acquisitions (art. D451-1 à D451-14)](#272)
+            - [Sous-section 1 : Dispositions générales (art. D451-1 à R451-2)](#273)
+            - [Sous-section 2 : Dispositions applicables à la Commission scientifique nationale  des musées de France (art. D451-4 à R451-3)](#274)
+            - [Sous-section 3 : Dispositions particulières aux commissions scientifiques  régionales ou interrégionales (art. D451-9 à R451-11)](#275)
+            - [Sous-section 4 : Dispositions communes aux commissions scientifiques (art. D451-13 à D451-14)](#276)
+          - [Section 2 : Affectation et propriété des collections (art. D451-15 à R451-25)](#277)
+            - [Sous-section 1 : Dispositions générales (art. D451-15 à D451-21)](#278)
+              - [Paragraphe unique : Normes techniques relatives à la tenue de l'inventaire  et du registre des dépôts (art. D451-16 à D451-21)](#279)
+            - [Sous-section 2 : Collections publiques (art. D451-22 à R451-24)](#280)
+            - [Sous-section 3 : Collections privées (art. R451-25)](#281)
+          - [Section 3 : Prêts et dépôts (art. R451-26 à R451-38)](#282)
+            - [Sous-section 1 : Prêts et dépôts consentis par les musées (art. R451-26 à R451-28)](#283)
+            - [Sous-section 2 : Dépôts consentis par des personnes privées  aux musées de France (art. R451-29 à R451-34)](#284)
+            - [Sous-section 3 : Conditions d'attribution et de retrait des labels “ Pôle national de référence ” et “ Pôle national de référence numérique ” (art. R451-35 à R451-38)](#285)
+        - [Chapitre II : Conservation et restauration (art. R452-1 à R452-13)](#286)
+          - [Section 1 : Dispositions générales (art. R452-1 à R452-2)](#287)
+          - [Section 2 : Instances scientifiques compétentes en matière de restauration (art. D452-3 à R452-6)](#288)
+          - [Section 3 : Qualifications requises en matière de restauration (art. R452-10 à R452-13)](#289)
+    - [LIVRE V : ARCHÉOLOGIE (art. R522-1 à R546-6)](#290)
+      - [TITRE II : ARCHÉOLOGIE PRÉVENTIVE (art. R522-1 à R524-36)](#291)
+        - [Chapitre II : Répartition des compétences :  Etat et collectivités territoriales (art. R522-1 à R522-21)](#292)
+          - [Section 1 : Rôle de l'Etat (art. R522-1)](#293)
+          - [Section 3 : Carte archéologique nationale (art. R522-3 à R522-6)](#294)
+          - [Section 4 : Agrément des opérateurs d'archéologie préventive (art. R522-8 à R522-13)](#295)
+            - [Sous-section 2 (art. R522-8)](#296)
+            - [Sous-section 3 (art. R522-9 à R522-13)](#297)
+          - [Section 5 : Habilitation des services archéologiques de collectivités territoriales (art. R522-14 à R522-21)](#298)
+        - [Chapitre III : Mise en œuvre des opérations d'archéologie préventive (art. R523-1 à R523-61)](#299)
+          - [Section 1 : Champ d'application (art. R523-1 à R523-8)](#300)
+          - [Section 2 : Modes de saisine (art. R523-9 à R523-14)](#301)
+          - [Section 3 : Mesures d'archéologie préventive (art. R523-15 à R523-16)](#302)
+          - [Section 4 : Régime des prescriptions (art. R523-17 à R523-21)](#303)
+          - [Section 5 : Responsabilité scientifique des opérations (art. R523-22)](#304)
+          - [Section 6 : Mise en œuvre des diagnostics (art. R523-23 à R523-38)](#305)
+            - [Sous-section 1 : Le contenu des prescriptions de diagnostic (art. R523-23)](#306)
+            - [Sous-section 2 : La désignation de l'opérateur chargé du diagnostic (art. R523-24 à R523-29)](#307)
+            - [Sous-section 3 : Les conditions de réalisation du diagnostic (art. R523-30 à R523-38)](#308)
+          - [Section 7 : Mise en œuvre des fouilles (art. R523-39 à R523-59)](#309)
+            - [Sous-section 1 : Le contenu des prescriptions de fouilles (art. R523-39)](#310)
+            - [Sous-section 2 : Les conditions de réalisation des fouilles (art. R523-40 à R523-51)](#311)
+            - [Sous-section 3 : La procédure d'arbitrage (art. R523-52 à R523-58)](#312)
+            - [Sous-section 4 : Achèvement des fouilles (art. R523-59)](#313)
+          - [Section 8 : Le contrôle scientifique et technique des opérations d'archéologie préventive (art. R523-60 à R523-61)](#314)
+        - [Chapitre IV : Financement de l'archéologie préventive (art. R524-3 à R524-36)](#315)
+          - [Section 1 : Dispositions relatives  à la redevance d'archéologie préventive (art. R524-3 à R524-10)](#316)
+          - [Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive (art. R524-17 à R524-33)](#317)
+            - [Sous-section 2 : Les subventions du Fonds national  pour l'archéologie préventive (art. R524-17 à R524-23)](#318)
+            - [Sous-section 3 : La prise en charge des fouilles (art. R524-24 à R524-33)](#319)
+          - [Section 3 : Dispositions relatives aux subventions accordées aux services des collectivités territoriales (art. R524-34 à R524-36)](#320)
+      - [TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES (art. R531-1 à R532-19)](#321)
+        - [Chapitre Ier : Archéologie terrestre et subaquatique (art. R531-1 à R531-9)](#322)
+          - [Section 1 : Autorisation de fouilles par l'Etat (art. R531-1 à R531-3)](#323)
+          - [Section 2 : Exécution de fouilles par l'Etat (art. R531-5 à R531-7)](#324)
+          - [Section 3 : Découvertes fortuites (art. R531-8 à R531-9)](#325)
+        - [Chapitre II : Biens culturels maritimes (art. R532-1 à R532-19)](#326)
+          - [Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes (art. R532-1 à R532-4)](#327)
+          - [Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2 (art. R532-5)](#328)
+          - [Section 3 : Recherche archéologique sous-marine (art. R532-6 à R532-19)](#329)
+      - [TITRE IV : DISPOSITIONS DIVERSES (art. R541-1 à R546-6)](#330)
+        - [Chapitre Ier : Régime de propriété du patrimoine archéologique (art. R541-1 à R541-21)](#331)
+          - [Section 1 : Biens archéologiques immobiliers (art. R541-1 à R541-7)](#332)
+          - [Section 2 : Biens archéologiques mobiliers (art. R541-8 à R541-14)](#333)
+            - [Sous-section 1 : Propriété (art. R541-8 à R541-11)](#334)
+            - [Sous-section 2 :  Ensemble archéologique mobilier et aliénation des biens mobiliers (art. R541-12 à R541-14)](#335)
+          - [Section 3 :  Transfert et droit de revendication (art. R541-15 à R541-20)](#336)
+          - [Section 4 :  Dispositions diverses (art. R541-21)](#337)
+        - [Chapitre II : Utilisation des détecteurs de métaux (art. R542-1 à R542-2)](#338)
+        - [Chapitre IV : Dispositions pénales (art. R544-1 à R544-4)](#339)
+          - [Section 1 : Dispositions relatives aux biens culturels maritimes (art. R544-1 à R544-2)](#340)
+          - [Section 2 : Dispositions relatives aux détecteurs de métaux (art. R544-3 à R544-4)](#341)
+        - [Chapitre V : Dispositions diverses (art. R545-1 à R545-59)](#342)
+          - [Section 1 : Conseil national de la recherche archéologique (art. R545-1 à R545-15)](#343)
+            - [Sous-section 1 : Formation plénière du Conseil national  de la recherche archéologique (art. R545-1 à R545-6)](#344)
+            - [Sous-section 2 : Délégation permanente du Conseil national  de la recherche archéologique (art. R545-7 à R545-9)](#345)
+            - [Sous-section 3 : Commission des opérations sous-marines (art. R545-10 à R545-11)](#346)
+            - [Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines (art. R545-12 à R545-15)](#347)
+          - [Section 2 : Commissions interrégionales de la recherche archéologique (art. R545-16 à R545-23)](#348)
+          - [Section 3 : Institut national de recherches archéologiques préventives (art. R545-24 à R545-59)](#349)
+        - [Chapitre VI : Rapports d'opérations et données scientifiques (art. R546-1 à R546-6)](#350)
+    - [LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE (art. R611-1 à R650-7)](#351)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. R611-1 à R613-2)](#352)
+        - [Chapitre Ier : Institutions (art. R611-1 à D611-31)](#353)
+          - [Section 1 : Commission nationale du patrimoine et de l'architecture (art. R611-1 à R611-16)](#354)
+          - [Section 2 : Commission régionale du patrimoine et de l'architecture (art. R611-17 à R611-30)](#355)
+          - [Section 3 : Conseil des sites de Corse (art. D611-31)](#356)
+        - [Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial (art. R612-1 à R612-2)](#357)
+        - [Chapitre III : Dispositions diverses (art. D613-1 à R613-2)](#358)
+      - [TITRE II : MONUMENTS HISTORIQUES (art. R621-1 à R624-2)](#359)
+        - [Chapitre Ier : Immeubles (art. R621-1 à R621-100)](#360)
+          - [Section 1 : Classement des immeubles (art. R621-1 à R621-52)](#361)
+            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R621-1 à R621-10)](#362)
+            - [Sous-section 2 : Travaux sur un immeuble classé (art. R621-11 à R621-17)](#363)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R621-18 à R621-24)](#364)
+            - [Sous-section 4 : Maîtrise d'œuvre (art. R621-25 à R621-44)](#365)
+            - [Sous-section 5 : Travaux d'office (art. R621-45 à R621-48)](#366)
+            - [Sous-section 6 : Servitude conventionnelle (art. R621-49)](#367)
+            - [Sous-section 7 : Expropriation pour cause d'utilité publique (art. R621-50 à R621-51)](#368)
+            - [Sous-section 8 : Aliénation (art. R621-52)](#369)
+          - [Section 2 : Inscription des immeubles (art. R621-53 à R621-68)](#370)
+            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R621-53 à R621-59)](#371)
+            - [Sous-section 2 : Travaux sur un immeuble inscrit (art. R621-60 à R621-62)](#372)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R621-63 à R621-68)](#373)
+          - [Section 3 : Dispositions communes  aux immeubles classés et aux immeubles inscrits (art. R621-69 à R621-91-1)](#374)
+            - [Sous-section 1 : Conservateurs des monuments historiques relevant du ministère  chargé de la culture et de ses établissements publics (art. R621-69)](#375)
+            - [Sous-section 2 : Assistance à maîtrise d'ouvrage (art. R621-70 à R621-77)](#376)
+            - [Sous-section 3 : Subventions (art. R621-78 à R621-79)](#377)
+            - [Sous-section 4 : Publicité des mesures de protection (art. R621-80 à R621-81)](#378)
+            - [Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration (art. R621-82)](#379)
+            - [Sous-section 6 : Découverte fortuite (art. R621-83)](#380)
+            - [Sous-section 7 : Aliénation (art. R621-84 à R621-84-1)](#381)
+            - [Sous-section 8 : Notification (art. R621-85)](#382)
+            - [Sous-section 9 : Autorisation d'affichage (art. R621-86 à R621-91)](#383)
+            - [Sous-section 10 : Détachement d'un effet mobilier attaché à perpétuelle demeure (art. R621-91-1)](#384)
+          - [Section 4 : Abords (art. R621-92 à R621-96-17)](#385)
+            - [Sous-section 1 : Création et modification du périmètre délimité des abords (art. R621-92 à R621-95)](#386)
+            - [Sous-section 2 : Régime des travaux en abords (art. R621-96 à R621-96-17)](#387)
+          - [Section 5 : Dispositions diverses (art. R621-97)](#388)
+          - [Section 6 : Domaines nationaux (art. R621-98 à R621-100)](#389)
+        - [Chapitre II : Objets mobiliers (art. R622-1 à R622-61)](#390)
+          - [Section 1 : Classement des objets mobiliers (art. R622-1 à R622-31)](#391)
+            - [Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement (art. R622-1 à R622-10)](#392)
+            - [Sous-section 2 : Travaux sur un objet mobilier classé (art. R622-11 à R622-17)](#393)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-18 à R622-25)](#394)
+            - [Sous-section 4 : Mesures conservatoires (art. R622-26 à R622-27)](#395)
+            - [Sous-section 5 : Aliénation (art. R622-28 à R622-31)](#396)
+          - [Section 2 : Inscription des objets mobiliers (art. R622-32 à R622-44)](#397)
+            - [Sous-section 1 : Procédures d'inscription et de radiation de l'inscription (art. R622-32 à R622-38)](#398)
+            - [Sous-section 2 : Travaux sur un objet mobilier inscrit (art. R622-39)](#399)
+            - [Sous-section 3 : Contrôle scientifique et technique (art. R622-40 à R622-42)](#400)
+            - [Sous-section 4 : Aliénation (art. R622-43 à R622-44)](#401)
+          - [Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits (art. R622-45 à R622-61)](#402)
+            - [Sous-section 1 : Assistance à maîtrise d'ouvrage (art. R622-45 à R622-52)](#403)
+            - [Sous-section 2 : Subventions (art. R622-53 à R622-55)](#404)
+            - [Sous-section 3 : Découverte fortuite (art. R622-56)](#405)
+            - [Sous-section 4 : Déplacement (art. R622-57)](#406)
+            - [Sous-section 5 : Notification (art. R622-58)](#407)
+            - [Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues (art. R622-59 à R622-61)](#408)
+        - [Chapitre III : Dispositions fiscales (art. D623-1 à D623-2)](#409)
+        - [Chapitre IV : Dispositions pénales (art. R624-1 à R624-2)](#410)
+      - [TITRE III : SITES PATRIMONIAUX REMARQUABLES (art. D631-5 à D633-1)](#411)
+        - [Chapitre Ier : Classement au titre des sites patrimoniaux remarquables (art. D631-5 à D631-14)](#412)
+          - [Section 1 : Procédure de classement et de modifications (art. D631-5 à R631-4)](#413)
+          - [Section 2 : Procédure d'élaboration, révision et modification du plan de valorisation de l'architecture et du patrimoine (art. D631-7 à R631-6)](#414)
+          - [Section 3 : Contenu du plan de valorisation de l'architecture et du patrimoine (art. D631-12 à D631-14)](#415)
+        - [Chapitre II : Régime des travaux (art. D632-1)](#416)
+        - [Chapitre III : Dispositions fiscales (art. D633-1)](#417)
+      - [TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES (art. R641-1 à R642-1)](#418)
+        - [Chapitre Ier : Dispositions pénales (art. R641-1)](#419)
+        - [Chapitre II : Sanctions administratives (art. R642-1)](#420)
+      - [TITRE V : QUALITÉ ARCHITECTURALE (art. R650-1 à R650-7)](#421)
+    - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R710-1 à R790-19)](#422)
+      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION (art. R710-1 à R710-7)](#423)
+      - [TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON (art. D720-2 à R720-16)](#424)
+      - [TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE (art. R730-1 à R730-11)](#425)
+      - [TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D740-1-1 à R740-15)](#426)
+      - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D750-1-1 à R750-13)](#427)
+      - [TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D760-1-1 à R760-14)](#428)
+      - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. D770-1-1 à R770-11)](#429)
+      - [TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY (art. D780-2 à R780-20)](#430)
+      - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. D790-2 à R790-19)](#431)
+    - [Annexes (art. Annexe 1 aux articles R. 111-1 à Annexe 7 à l'article R. 621-98)](#432)
 # Partie législative<a id=1></a>
 
 ###### Article L1
@@ -583,15 +587,49 @@ _Cite_:
   - Code du patrimoine. - art. L111-2 (V)
 
 
+###### Article L111-3-1
+
+L'instruction de la demande de certificat peut être suspendue s'il existe des présomptions graves et concordantes que le bien
+appartient au domaine public, a été illicitement importé, constitue une contrefaçon ou provient d'un autre crime ou délit.
+L'autorité administrative informe le demandeur, par une décision motivée, de la suspension de l'instruction et lui demande de
+justifier du déclassement du domaine public, de l'authenticité du bien ou de la licéité de sa provenance ou de son
+importation. 
+
+Si la preuve n'est pas rapportée par le demandeur dans les conditions et délais fixés par décret en Conseil d'Etat, la
+demande est déclarée irrecevable. 
+
+La demande ne peut être déclarée irrecevable lorsque le demandeur apporte la preuve qu'il a exercé la diligence requise, au
+sens du troisième alinéa de l'article L. 112-8, au moment de l'acquisition et que le délai dont dispose le propriétaire
+d'origine ou toute autre personne fondée à agir en revendication du bien ou en nullité de l'acte de cession du bien est
+expiré.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+
+_Cite_:
+
+  - Code du patrimoine - art. L112-8
+
+_Cité par_:
+
+  - Code du patrimoine - art. R111-7 (V)
+
+
 ###### Article L111-4
 
 Le certificat ne peut être refusé qu'aux biens culturels présentant le caractère de trésor national. Aucune indemnité n'est
 due du fait du refus de délivrance du certificat.
 
 Il est accordé aux biens culturels licitement importés dans le territoire douanier depuis moins de cinquante ans.
-
-S'il existe des présomptions graves et concordantes d'importation illicite, l'autorité administrative peut exiger la preuve
-de la licéité de l'importation du bien et, en l'absence de preuve, refuser la délivrance du certificat.
 
 Le refus de délivrance du certificat ne peut intervenir qu'après avis motivé d'une commission composée à parité de
 représentants de l'Etat et de personnalités qualifiées et présidée par un membre du Conseil d'Etat. Un décret en Conseil
@@ -600,6 +638,12 @@ d'Etat fixe les modalités de désignation de ses membres et les conditions de p
 La décision de refus de délivrance du certificat est motivée. Elle comporte, par écrit, l'énoncé des considérations de droit
 et de fait qui en constituent le fondement. Elle est communiquée à la commission mentionnée au précédent alinéa et publiée
 dans des conditions fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -622,7 +666,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
 
 
 ###### Article L111-5
@@ -716,6 +764,79 @@ _Modifié par_:
 _Cite_:
 
   - Code du patrimoine - art. L111-1
+
+
+###### Article L111-7-1
+
+Dès réception de la notification de la décision de refus de délivrance du certificat, les propriétaires de trésors nationaux
+ou leurs mandataires déclarent à l'autorité administrative le lieu de conservation des biens concernés. Pendant la durée
+d'effet de ce refus, tout changement de lieu de conservation est déclaré auprès de l'autorité administrative et les
+propriétaires ou détenteurs de trésors nationaux les présentent aux agents, habilités à cette fin, qui en font la demande.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+
+_Cité par_:
+
+  - Code du patrimoine - art. R114-18 (V)
+
+
+###### Article L111-7-2
+
+Pendant la durée d'effet du refus de délivrance du certificat, les trésors nationaux ne peuvent être modifiés ou restaurés
+sans autorisation de l'autorité administrative.
+
+Les travaux autorisés en application du premier alinéa s'exécutent sous le contrôle scientifique et technique des services de
+l'Etat chargés de la culture.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+
+_Cité par_:
+
+  - Code du patrimoine - art. R111-12-3 (V)
+  - Code du patrimoine - art. R114-18 (V)
+
+
+###### Article L111-7-3
+
+Quand la décision de refus de délivrance du certificat porte sur un fonds d'archives, une collection ou un ensemble,
+identifié par le demandeur ou reconnu comme tel par l'autorité administrative pendant l'instruction de la demande, les biens
+le composant ne peuvent être aliénés par lot ou pièce pendant la durée d'effet du refus de délivrance du certificat.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+
+_Cité par_:
+
+  - Code du patrimoine - art. R114-18 (V)
 
 
 ###### Article L111-8
@@ -1369,12 +1490,16 @@ _Cité par_:
   - Code du patrimoine. - art. R112-26 (V)
 
 
-##### Section 3 : Dispositions diverses.<a id=15></a>
+##### Section 3 : Action en revendication et action en nullité<a id=15></a>
 
 ###### Article L112-22
 
-L'administration des douanes peut mettre en œuvre les dispositions des articles 60, 61, 63, 65 et 322 bis du code des douanes
-pour l'application des dispositions de la section 1.
+Le propriétaire ou l'affectataire d'un bien culturel appartenant au domaine public mobilier au sens de l'article L. 2112-1 du
+code général de la propriété des personnes publiques ou, pour les archives publiques, les personnes mentionnées au troisième
+alinéa de l'article L. 212-1 peuvent engager une action en revendication entre les mains du détenteur ou une action en
+nullité de tout acte d'aliénation du bien devant le tribunal de grande instance. Le ministre chargé de la culture peut agir
+en lieu et place du propriétaire ou de l'affectataire défaillant et solliciter toute mesure provisoire ou conservatoire en
+vue de la protection du bien.
 
 **Liens relatifs à cet article**
 
@@ -1384,27 +1509,20 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
 
 _Cite_:
 
-  - Code des douanes - art. 322 bis (V)
-  - Code des douanes - art. 60 (V)
-  - Code des douanes - art. 63 (V)
-  - Code des douanes - art. 65 (V)
-
-_Nouveaux textes_:
-
-  - Code du patrimoine - art. L112-24 (VD)
+  - Code général de la propriété des personnes publiques. - art. L2112-1
+  - Code du patrimoine - art. L212-1 (VD)
 
 _Cité par_:
 
   - Code du patrimoine - art. L114-2-1 (VD)
-  - Code du patrimoine - art. L212-1 (VD)
   - Code du patrimoine - art. L451-4 (VD)
   - Code du patrimoine - art. L621-29 (MMN)
   - Code du patrimoine - art. L622-24 (MMN)
@@ -1416,8 +1534,8 @@ _Cité par_:
 
 ###### Article L112-23
 
-La propriété du bien culturel ayant fait l'objet d'une procédure de retour sur le territoire d'un Etat membre est régie par
-la législation de l'Etat requérant.
+A réception de la mise en demeure motivée de restituer le bien, l'acquéreur de bonne foi est recevable à agir en garantie
+d'éviction en application de l'article 1626 du code civil. L'acquéreur informe le vendeur de la mise en demeure.
 
 **Liens relatifs à cet article**
 
@@ -1427,15 +1545,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
 
-_Nouveaux textes_:
+_Cite_:
 
-  - Code du patrimoine - art. L112-25 (VD)
+  - Code civil - art. 1626
 
 _Cité par_:
 
@@ -1448,54 +1566,78 @@ _Cité par_:
   - Code du patrimoine - art. L760-1 (VD)
 
 
+##### Section 4 : Dispositions diverses<a id=16></a>
+
 ###### Article L112-24
 
-L'Etat est autorisé à recourir à l'arbitrage pour mettre en œuvre la procédure de retour d'un bien culturel à condition que
-le propriétaire, le possesseur ou le détenteur ait donné son accord.
+L'administration des douanes peut mettre en œuvre les dispositions des articles 60, 61, 63, 65 et 322 bis du code des douanes
+pour l'application des dispositions de la section 1.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°95-877 du 3 août 1995 - art. 24 (Ab)
+  - Code du patrimoine - art. L112-22 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-178 du 20 février 2004
-
-**Liens**:
-
-  - TRANSFERE: Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
-
-_Nouveaux textes_:
-
-  - Code du patrimoine - art. L112-26 (VD)
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
 
 
 ###### Article L112-25
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
+La propriété du bien culturel ayant fait l'objet d'une procédure de retour sur le territoire d'un Etat membre est régie par
+la législation de l'Etat requérant.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°95-877 du 3 août 1995 - art. 25 (Ab)
+  - Code du patrimoine - art. L112-23 (VT)
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
-
-_Nouveaux textes_:
-
-  - Code du patrimoine - art. L112-27 (VD)
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
 
 
-#### Chapitre 4 : Dispositions pénales.<a id=16></a>
+###### Article L112-26
+
+L'Etat est autorisé à recourir à l'arbitrage pour mettre en œuvre la procédure de retour d'un bien culturel à condition que
+le propriétaire, le possesseur ou le détenteur ait donné son accord.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+
+_Anciens textes_:
+
+  - Code du patrimoine - art. L112-24 (VT)
+
+
+###### Article L112-27
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+
+_Anciens textes_:
+
+  - Code du patrimoine - art. L112-25 (VT)
+
+
+#### Chapitre 4 : Dispositions pénales.<a id=17></a>
 
 ###### Article L114-1
 
@@ -1581,6 +1723,30 @@ _Modifié par_:
 _Cité par_:
 
   - Code du patrimoine - art. L730-1 (V)
+
+
+###### Article L114-2-1
+
+Est puni d'un an d'emprisonnement et 15 000 € d'amende le fait, pour une personne détentrice sans droit ni titre d'archives
+publiques ou d'un autre bien culturel appartenant au domaine public, de ne pas les restituer sans délai au propriétaire ou à
+l'autorité qui en fait la demande en application des dispositions des articles L. 112-22 et L. 212-1.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+
+_Cite_:
+
+  - Code du patrimoine - art. L112-22
+  - Code du patrimoine - art. L212-1
 
 
 ###### Article L114-3
@@ -1681,7 +1847,7 @@ _Cite_:
   - Code de procédure pénale - art. 2-21 (V)
 
 
-#### Chapitre 5 : Commission scientifique nationale des collections.<a id=17></a>
+#### Chapitre 5 : Commission scientifique nationale des collections.<a id=18></a>
 
 ###### Article L115-1
 
@@ -1741,7 +1907,7 @@ _Anciens textes_:
   - Décret n°2011-160 du 8 février 2011 - art. 1 (Ab)
 
 
-#### Chapitre 6 : Fonds régionaux d'art contemporain<a id=18></a>
+#### Chapitre 6 : Fonds régionaux d'art contemporain<a id=19></a>
 
 ###### Article L116-1
 
@@ -1801,9 +1967,9 @@ _Créé par_:
   - Loi n°2016-925 du 7 juillet 2016 - art. 57
 
 
-### TITRE II : ACQUISITION DE BIENS CULTURELS<a id=19></a>
+### TITRE II : ACQUISITION DE BIENS CULTURELS<a id=20></a>
 
-#### Chapitre 1er : Acquisition de biens culturels présentant le caractère de trésor national et faisant l'objet d'un refus de certificat d'exportation.<a id=20></a>
+#### Chapitre 1er : Acquisition de biens culturels présentant le caractère de trésor national et faisant l'objet d'un refus de certificat d'exportation.<a id=21></a>
 
 ###### Article L121-1
 
@@ -1952,9 +2118,9 @@ _Cite_:
   - Code du patrimoine. - art. L121-1 (V)
 
 
-#### Chapitre 2 : Dispositions fiscales<a id=21></a>
+#### Chapitre 2 : Dispositions fiscales<a id=22></a>
 
-##### Section 1 : Dation en paiement.<a id=22></a>
+##### Section 1 : Dation en paiement.<a id=23></a>
 
 ###### Article L122-1
 
@@ -1979,7 +2145,7 @@ _Cité par_:
   - Code du patrimoine - art. L720-1 (MMN)
 
 
-##### Section 2 : Donation.<a id=23></a>
+##### Section 2 : Donation.<a id=24></a>
 
 ###### Article L122-2
 
@@ -2017,7 +2183,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1131 (V)
 
 
-##### Section 3 : Mécénat.<a id=24></a>
+##### Section 3 : Mécénat.<a id=25></a>
 
 ###### Article L122-4
 
@@ -2099,7 +2265,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 238 bis AB (V)
 
 
-##### Section 4 : Dispositions diverses.<a id=25></a>
+##### Section 4 : Dispositions diverses.<a id=26></a>
 
 ###### Article L122-9
 
@@ -2121,49 +2287,40 @@ _Cite_:
   - Code général des impôts, CGI. - art. 150 VI (V)
 
 
-###### Article L122-10
-
-Les règles fiscales applicables aux objets d'antiquité, d'art ou de collection pour l'impôt de solidarité sur la fortune sont
-fixées à l'article 885 I du code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 885 I (Ab)
-
-
-#### Chapitre 3 : Préemption des œuvres d'art.<a id=26></a>
+#### Chapitre 3 : Préemption des biens culturels<a id=27></a>
 
 ###### Article L123-1
 
-L'Etat peut exercer, sur toute vente publique d'œuvres d'art ou sur toute vente de gré à gré d'œuvres d'art réalisée dans les
-conditions prévues par l'article L. 321-9 du code de commerce, un droit de préemption par l'effet duquel il se trouve subrogé
-à l'adjudicataire ou à l'acheteur. 
+I.-L'Etat peut exercer, sur toute vente publique ou vente de gré à gré de biens culturels réalisée dans les conditions
+prévues par l'article L. 321-9 du code de commerce, un droit de préemption par l'effet duquel il se trouve subrogé à
+l'adjudicataire ou à l'acheteur. 
 
-La déclaration, faite par l'autorité administrative, qu'elle entend éventuellement user de son droit de préemption, est
-formulée, à l'issue de la vente, entre les mains de l'officier public ou ministériel dirigeant les adjudications ou de
-l'opérateur mentionné aux articles L. 321-4 et L. 321-24 du code de commerce habilité à organiser la vente publique ou la
-vente de gré à gré. 
+La déclaration par l'autorité administrative qu'elle entend éventuellement user de son droit de préemption est faite, à
+l'issue de la vente, entre les mains de l'officier public ou ministériel dirigeant les adjudications ou de l'opérateur
+mentionné aux articles L. 321-4 et L. 321-24 du code de commerce habilité à organiser la vente publique ou la vente de gré à
+gré. 
 
-L'officier public ou ministériel chargé de procéder à la vente publique des biens mentionnés au premier alinéa ou l'opérateur
-habilité mentionné aux mêmes articles L. 321-4 et L. 321-24 à organiser une telle vente en donne avis à l'autorité
-administrative au moins quinze jours à l'avance, avec toutes indications utiles concernant lesdits biens. L'officier public
-ou ministériel ou l'opérateur informe en même temps l'autorité administrative du jour, de l'heure et du lieu de la vente.
-L'envoi d'un catalogue avec mention du but de cet envoi peut tenir lieu d'avis. L'opérateur habilité mentionné aux mêmes
-articles L. 321-4 et L. 321-24 à procéder à la vente de gré à gré des biens mentionnés au premier alinéa notifie sans délai
-la transaction à l'autorité administrative, avec toutes indications utiles concernant lesdits biens. 
+II.-L'officier public ou ministériel chargé de procéder à la vente publique des biens culturels définis par décret en Conseil
+d'Etat ou l'opérateur mentionné aux articles L. 321-4 et L. 321-24 du code du commerce habilité à organiser une telle vente
+en donne avis à l'autorité administrative au moins quinze jours à l'avance, avec toutes indications utiles sur lesdits biens.
+Il informe en même temps l'autorité administrative du jour, de l'heure et du lieu de la vente. L'envoi d'un catalogue avec
+mention du but de cet envoi tient lieu d'avis. 
 
-La décision de l'autorité administrative doit intervenir dans le délai de quinze jours après la vente publique ou après la
+En cas de vente judiciaire, si le délai de quinze jours ne peut être observé, l'officier public ou ministériel, aussitôt
+qu'il est désigné pour procéder à la vente, fait parvenir à l'autorité administrative les indications utiles sur les biens
+culturels proposés à la vente. 
+
+L'opérateur mentionné aux articles L. 321-4 et L. 321-24 habilité à procéder à la vente de gré à gré des biens culturels
+notifie sans délai la transaction à l'autorité administrative, avec toutes indications utiles sur lesdits biens. 
+
+III.-La décision de l'autorité administrative intervient dans les quinze jours qui suivent la vente publique ou la
 notification de la transaction de gré à gré.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -2173,7 +2330,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-850 du 20 juillet 2011 - art. 47
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
 
 _Cite_:
 
@@ -2184,6 +2341,7 @@ _Cite_:
 _Cité par_:
 
   - Code du patrimoine - art. L123-3 (VD)
+  - Code du patrimoine - art. L123-4 (VD)
   - Code du patrimoine - art. L143-8 (MMN)
   - Code du patrimoine - art. L730-1 (V)
   - Code du patrimoine - art. L740-1 (VD)
@@ -2205,49 +2363,106 @@ _Anciens textes_:
 
 ###### Article L123-2
 
-L'Etat peut également exercer ce droit de préemption à la demande et pour le compte d'une collectivité territoriale ou d'une
-personne morale de droit privé sans but lucratif propriétaire de collections affectées à un musée de France.
+Le droit de préemption des archives en cas de liquidation judiciaire d'une entreprise est fixé à l'article L. 642-23 du code
+de commerce.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+
+_Cite_:
+
+  - Code de commerce - art. L642-23
 
 _Cité par_:
 
+  - Code du patrimoine - art. L123-3 (VD)
   - Code du patrimoine - art. L740-1 (VD)
   - Code du patrimoine - art. L750-1 (VD)
-
-_Anciens textes_:
-
-  - Loi n°1921-12-31 art. 37 alinéa 5
 
 
 ###### Article L123-3
 
-Les conditions d'application des articles L. 123-1 et L. 123-2 sont fixées par décret en Conseil d'Etat.
+L'Etat peut également exercer le droit de préemption prévu aux articles L. 123-1 et L. 123-2 à la demande et pour le compte
+d'une collectivité territoriale, d'un groupement de collectivités territoriales, d'un établissement public local, d'une
+personne morale de droit privé sans but lucratif propriétaire d'une collection affectée à un musée de France ou d'une
+fondation reconnue d'utilité publique propriétaire d'un fonds d'archives. 
+
+La Bibliothèque nationale de France peut exercer ce droit à l'égard des biens culturels susceptibles d'entrer dans les
+collections et fonds dont elle a la garde.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
 
-_Cité par_:
+_Modifié par_:
 
-  - Code du patrimoine - art. R123-1 (V)
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
 
 _Cite_:
 
-  - Code du patrimoine. - art. L123-1 (V)
+  - Code du patrimoine - art. L123-1
+  - Code du patrimoine - art. L123-2 (VD)
+
+_Cité par_:
+
+  - Code du patrimoine - art. L123-4 (VD)
+  - Code du patrimoine - art. R123-1 (V)
 
 _Anciens textes_:
 
   - Loi n°1921-12-31 art. 38
 
 
-#### Chapitre 4 : Annulation de l'acquisition d'un bien culturel en raison de son origine illicite<a id=27></a>
+###### Article L123-4
+
+Les conditions d'application des articles L. 123-1 à L. 123-3 sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+
+_Cite_:
+
+  - Code du patrimoine - art. L123-1 (VD)
+  - Code du patrimoine - art. L123-3 (VD)
+
+_Cité par_:
+
+  - Code du patrimoine - art. L740-1 (VD)
+  - Code du patrimoine - art. L750-1 (VD)
+  - Code du patrimoine - art. L760-1 (VD)
+
+
+#### Chapitre 4 : Annulation de l'acquisition d'un bien culturel en raison de son origine illicite<a id=28></a>
 
 ###### Article L124-1
 
@@ -2275,9 +2490,58 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L2112-1 (V)
 
 
-### TITRE III : DÉPÔT LÉGAL<a id=28></a>
+#### Chapitre 5 : Transfert de propriété de biens culturels entre personnes publiques<a id=29></a>
 
-#### Chapitre 1er : Objectifs et champ d'application du dépôt légal.<a id=29></a>
+###### Article L125-1
+
+Une personne publique, après approbation de l'autorité administrative compétente, peut transférer à titre gratuit à une autre
+personne publique, sans déclassement préalable, la propriété d'un bien culturel mobilier ou d'un ensemble de biens culturels
+appartenant à son domaine public au sens de l'article L. 2112-1 du code général de la propriété des personnes publiques, pour
+la meilleure conservation des biens ou pour un autre motif d'intérêt général. 
+
+Ce transfert ne peut porter sur les archives publiques, les biens donnés ou légués à la personne publique lorsque le donateur
+ou le testateur s'est opposé dans l'acte de donation ou le testament à une substitution de gratifié ou les biens remis à
+l'Etat en application des articles 1131 et 1716 bis du code général des impôts. 
+
+Lorsque le projet de transfert porte sur tout ou partie de collections affectées à un musée de France, il suit la procédure
+prévue à l'article L. 451-8. 
+
+Le cessionnaire s'engage préalablement à affecter le bien ou l'ensemble de biens transférés dans son domaine public à un
+musée de France ou à un autre service public culturel accessible au public qu'il administre ou contrôle et à en assurer la
+conservation et la mise en valeur sous le contrôle scientifique et technique des services compétents de l'Etat. 
+
+La procédure de transfert, l'autorité administrative compétente ainsi que les modalités du contrôle scientifique et technique
+sont définies par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1131
+  - Code général des impôts, CGI. - art. 1716 bis
+  - Code général de la propriété des personnes publiques. - art. L2112-1
+
+_Cité par_:
+
+  - Code du patrimoine - art. L451-8 (VD)
+  - Code du patrimoine - art. R125-1 (V)
+  - Code du patrimoine - art. R212-95 (V)
+  - Code du patrimoine - art. R541-15 (V)
+
+
+### TITRE III : DÉPÔT LÉGAL<a id=30></a>
+
+#### Chapitre 1er : Objectifs et champ d'application du dépôt légal.<a id=31></a>
 
 ###### Article L131-1
 
@@ -2373,7 +2637,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L211-1 (V)
 
 
-#### Chapitre 2 : Modalités et organisation du dépôt légal.<a id=30></a>
+#### Chapitre 2 : Modalités et organisation du dépôt légal.<a id=32></a>
 
 ###### Article L132-1
 
@@ -2629,7 +2893,7 @@ _Cite_:
   - Code du patrimoine. - art. L132-4 (V)
 
 
-#### Chapitre 3 : Dispositions pénales.<a id=31></a>
+#### Chapitre 3 : Dispositions pénales.<a id=33></a>
 
 ###### Article L133-1
 
@@ -2672,9 +2936,9 @@ _Cite_:
   - Code du patrimoine. - art. L132-2 (V)
 
 
-### TITRE IV : INSTITUTIONS RELATIVES AU PATRIMOINE CULTUREL<a id=32></a>
+### TITRE IV : INSTITUTIONS RELATIVES AU PATRIMOINE CULTUREL<a id=34></a>
 
-#### Chapitre 1er : Centre des monuments nationaux.<a id=33></a>
+#### Chapitre 1er : Centre des monuments nationaux.<a id=35></a>
 
 ###### Article L141-1
 
@@ -2725,7 +2989,7 @@ _Anciens textes_:
   - Loi n°1914-07-10 du 10 juillet 1914 - art. 3 (Ab)
 
 
-#### Chapitre 2 : Cité de l'architecture et du patrimoine.<a id=34></a>
+#### Chapitre 2 : Cité de l'architecture et du patrimoine.<a id=36></a>
 
 ###### Article L142-1
 
@@ -2800,7 +3064,7 @@ _Cité par_:
   - Code du patrimoine. - art. R142-2 (V)
 
 
-#### Chapitre 3 : Fondation du patrimoine.<a id=35></a>
+#### Chapitre 3 : Fondation du patrimoine.<a id=37></a>
 
 ###### Article L143-1
 
@@ -3052,33 +3316,33 @@ _Modifié par_:
 Les ressources de la " Fondation du patrimoine " comprennent les versements des fondateurs, les revenus de ses biens, les
 produits du placement de ses fonds, les cotisations, les subventions publiques, les dons et legs sous réserve des
 dispositions de l'article L. 143-2-1, une fraction fixée par décret en Conseil d'Etat du produit des successions appréhendées
-par l'Etat à titre de déshérence et, généralement, toutes recettes provenant de son activité. 
-
-Lorsqu'elle possède des parts ou actions de sociétés détenues ou contrôlées par les fondateurs, la " Fondation du patrimoine
-" ne peut exercer les droits de vote attachés à ces actions.
+par l'Etat à titre de déshérence, la fraction, mentionnée à l'article 90 de la loi n° 2017-1775 du 28 décembre 2017 de
+finances rectificative pour 2017, du prélèvement institué par l'article 88 de la loi n° 2012-1510 du 29 décembre 2012 de
+finances rectificative pour 2012 et, généralement, toutes recettes provenant de son activité. Lorsqu'elle possède des parts
+ou actions de sociétés détenues ou contrôlées par les fondateurs, la " Fondation du patrimoine " ne peut exercer les droits
+de vote attachés à ces actions.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°96-590 du 2 juillet 1996 - art. 7 (M)
   - Loi n°96-590 du 2 juillet 1996 - art. 7 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Modifié par_:
-
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 10 (V) JORF 27 décembre 2006
+  - Ordonnance n°2004-178 du 20 février 2004
 
 _Cité par_:
 
   - Décret n°2016-1487 du 3 novembre 2016 - art. 1
 
+_Modifié par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 90 (V)
+
 _Cite_:
 
-  - Code du patrimoine - art. L143-2-1 (V)
+  - Code du patrimoine - art. L143-2-1
 
 
 ###### Article L143-8
@@ -3269,11 +3533,11 @@ _Cite_:
   - Code du patrimoine - art. L143-2-1 (V)
 
 
-## LIVRE II : ARCHIVES<a id=36></a>
+## LIVRE II : ARCHIVES<a id=38></a>
 
-### TITRE Ier : RÉGIME GÉNÉRAL DES ARCHIVES<a id=37></a>
+### TITRE Ier : RÉGIME GÉNÉRAL DES ARCHIVES<a id=39></a>
 
-#### Chapitre 1er : Dispositions générales.<a id=38></a>
+#### Chapitre 1er : Dispositions générales.<a id=40></a>
 
 ###### Article L211-1
 
@@ -3445,23 +3709,32 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-#### Chapitre 2 : Collecte, conservation et protection<a id=39></a>
+#### Chapitre 2 : Collecte, conservation et protection<a id=41></a>
 
-##### Section 1 : Archives publiques<a id=40></a>
+##### Section 1 : Archives publiques<a id=42></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=41></a>
+##### Sous-section 1 : Dispositions générales.<a id=43></a>
 
 ###### Article L212-1
 
-Les archives publiques sont imprescriptibles.
+Les archives publiques sont imprescriptibles. 
 
-Nul ne peut détenir sans droit ni titre des archives publiques.
+Nul ne peut détenir sans droit ni titre des archives publiques. 
 
 Le propriétaire du document, l'administration des archives ou tout service public d'archives compétent peut engager une
 action en revendication d'archives publiques, une action en nullité de tout acte intervenu en méconnaissance du deuxième
-alinéa ou une action en restitution.
+alinéa ou une action en restitution. 
+
+Lorsque les archives publiques appartiennent au domaine public, les actions en nullité ou en revendication s'exercent dans
+les conditions prévues aux articles L. 112-22 et L. 112-23. 
 
 Les modalités d'application des dispositions qui précèdent sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -3478,6 +3751,7 @@ _Cité par_:
   - Décret n°2009-1124 du 17 septembre 2009 - art. 5
   - Décret n°2009-1179 du 5 octobre 2009 - art. 23 (V)
   - Décret n°2012-1511 du 28 décembre 2012 - art. 11 (V)
+  - Code du patrimoine - art. L112-22 (VD)
   - Code du patrimoine - art. L114-2-1 (VD)
   - Code du patrimoine - art. L212-37 (VT)
   - Code du patrimoine - art. L730-1 (V)
@@ -3492,7 +3766,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-696  du 15 juillet 2008 - art. 5
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 3
+
+_Cite_:
+
+  - Code du patrimoine - art. L112-23
 
 
 ###### Article L212-2
@@ -3809,16 +4087,15 @@ _Modifié par_:
   - Loi n°2008-696  du 15 juillet 2008 - art. 5
 
 
-##### Sous-section 2 : Archives des collectivités territoriales et des groupements de collectivités territoriales<a id=42></a>
+##### Sous-section 2 : Archives des collectivités territoriales et des groupements de collectivités territoriales<a id=44></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=43></a>
+##### Paragraphe 1 : Dispositions générales.<a id=45></a>
 
 ###### Article L212-6
 
 Les collectivités territoriales sont propriétaires de leurs archives. Elles en assurent elles-mêmes la conservation et la
-mise en valeur. Toutefois, les régions et la collectivité territoriale de Corse peuvent également confier la conservation de
-leurs archives, par convention, respectivement au service d'archives du département où se trouve le chef-lieu de la région ou
-de la collectivité territoriale de Corse.
+mise en valeur. Toutefois, les régions peuvent également confier la conservation de leurs archives, par convention, au
+service d'archives du département où se trouve le chef-lieu de la région.
 
 **Liens relatifs à cet article**
 
@@ -3835,7 +4112,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1562 du 21 novembre 2016 - art. 32
 
 _Anciens textes_:
 
@@ -3881,11 +4162,11 @@ _Cité par_:
 
 ###### Article L212-8
 
-Les services départementaux d'archives sont financés par le département. Ils sont tenus de recevoir et de gérer les archives
-des services déconcentrés de l'Etat ayant leur siège dans le département. Ceux-ci sont tenus de les y verser. Il en va de
-même des autres archives publiques constituées dans leur ressort ainsi que des archives que les communes sont tenues ou
-décident de déposer aux archives départementales. Les services départementaux d'archives peuvent également recevoir des
-archives privées.
+Les services départementaux d'archives sont financés par le département ou, en Corse, par la collectivité de Corse. Ils sont
+tenus de recevoir et de gérer les archives des services déconcentrés de l'Etat ayant leur siège dans le département. Ceux-ci
+sont tenus de les y verser. Il en va de même des autres archives publiques constituées dans leur ressort ainsi que des
+archives que les communes sont tenues ou décident de déposer aux archives départementales. Les services départementaux
+d'archives peuvent également recevoir des archives privées.
 
 Le service départemental d'archives du Rhône exerce les missions définies au premier alinéa sur les territoires du
 département du Rhône et de la métropole de Lyon. Il assure également la conservation et la mise en valeur des archives de la
@@ -3893,16 +4174,24 @@ métropole de Lyon. Le département du Rhône et la métropole de Lyon assurent 
 départemental d'archives du Rhône.
 
 Le service départemental d'archives du Rhône est un service unifié au sens du I de l'article L. 5111-1-1 du code général des
-collectivités territoriales, rattaché au département du Rhône.
+collectivités territoriales, rattaché au département du Rhône. 
 
 Le remboursement des dépenses prévu au cinquième alinéa de l'article L. 5111-1-1 s'effectue au prorata de la population du
-département du Rhône et de la métropole de Lyon.
+département du Rhône et de la métropole de Lyon. 
 
 Pour l'application des dispositions du livre II du présent code au département du Rhône et à la métropole de Lyon, les mots :
-" service départemental d'archives ", " archives du département " et " archives départementales " sont remplacés par les
-mots : " service d'archives du département du Rhône et de la métropole de Lyon ".
+" service départemental d'archives ", " archives du département " et " archives départementales "  sont remplacés par  les
+mots : " service d'archives du département du Rhône et de la métropole de Lyon ". 
+
+Pour l'application des dispositions du livre II du présent code à la collectivité de Corse, les mots : " service
+départemental d'archives ", " archives du département " et " archives départementales " sont remplacés par les mots : "
+service d'archives de la collectivité de Corse ".
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2004-178 du 20 février 2004
 
 _Cité par_:
 
@@ -3912,7 +4201,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 27
+  - Ordonnance n°2016-1562 du 21 novembre 2016 - art. 32
 
 _Cite_:
 
@@ -3923,11 +4212,11 @@ _Cite_:
 
 Par dérogation au II de l'article 42 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la
 fonction publique de l'Etat, la mise à disposition des personnels scientifiques et de documentation de l'Etat auprès des
-départements pour exercer leurs fonctions dans les services départementaux d'archives n'est pas soumise à l'obligation de
-remboursement.
+départements ou, en Corse, de la collectivité de Corse pour exercer leurs fonctions dans les services départementaux
+d'archives n'est pas soumise à l'obligation de remboursement. 
 
 Les directeurs des services départementaux d'archives sont choisis parmi les conservateurs ou les conservateurs généraux du
-patrimoine de l'Etat.
+patrimoine de l'Etat. 
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
@@ -3941,14 +4230,14 @@ _Cite_:
 
   - Loi n°84-16 du 11 janvier 1984 - art. 42
 
-_Modifié par_:
-
-  - Loi n°2008-696  du 15 juillet 2008 - art. 7
-
 _Cité par_:
 
   - Décret n°2009-1127 du 17 septembre 2009 - art. 1 (V)
   - Décret n°2013-830 du 16 septembre 2013 - art. 4 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1562 du 21 novembre 2016 - art. 32
 
 
 ###### Article L212-10
@@ -3983,7 +4272,7 @@ _Cité par_:
   - Code du patrimoine. - art. R212-49 (V)
 
 
-##### Paragraphe 2 : Dépôt des archives communales.<a id=44></a>
+##### Paragraphe 2 : Dépôt des archives communales.<a id=46></a>
 
 ###### Article L212-11
 
@@ -4112,9 +4401,9 @@ _Cite_:
   - Code du patrimoine - art. L212-11 (V)
 
 
-##### Section 2 : Archives privées<a id=45></a>
+##### Section 2 : Archives privées<a id=47></a>
 
-##### Sous-section 1 : Classement comme archives historiques.<a id=46></a>
+##### Sous-section 1 : Classement comme archives historiques.<a id=48></a>
 
 ###### Article L212-15
 
@@ -4404,7 +4693,7 @@ _Cite_:
   - Code du patrimoine - art. L111-7 (V)
 
 
-##### Sous-section 2 : Droit de reproduction avant exportation.<a id=47></a>
+##### Sous-section 2 : Droit de reproduction avant exportation.<a id=49></a>
 
 ###### Article L212-29
 
@@ -4440,222 +4729,13 @@ _Cite_:
   - Code du patrimoine - art. L111-2
 
 
-##### Sous-section 3 : Droit de préemption.<a id=48></a>
-
-###### Article L212-30
-
-Le régime des archives en cas de liquidation judiciaire d'une entreprise est fixé à l'article L. 642-23 du code de commerce
-ci-après reproduit : 
-
-" Art. L. 642-23. - Avant toute vente ou destruction des archives du débiteur, le liquidateur en informe l'autorité
-administrative compétente pour la conservation des archives. Cette autorité dispose d'un droit de préemption. 
-
-" La destination des archives du débiteur soumis au secret professionnel est déterminée par le liquidateur en accord avec
-l'ordre professionnel ou l'autorité compétente dont il relève. "
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2004-178 du 20 février 2004
-
-_Modifié par_:
-
-  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
-  - Loi n°2005-845 du 26 juillet 2005 - art. 116 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 3
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de commerce - art. L642-23
-
-_Cité par_:
-
-  - Code du patrimoine - art. L730-1 (V)
-  - Code du patrimoine - art. L750-1 (V)
-  - Code du patrimoine. - art. L760-3 (M)
-  - Code général de la propriété des personnes publ... - art. L1112-7 (V)
-  - Code général de la propriété des personnes publ... - art. L1112-8 (V)
-
-
-###### Article L212-31
-
-Tout officier public ou ministériel chargé de procéder à la vente publique d'archives privées ayant ou non fait l'objet d'une
-décision de classement au titre des archives historiques ou tout opérateur mentionné aux articles L. 321-4 et L. 321-24 du
-code de commerce habilité à organiser une telle vente, doit en donner avis à l'administration des archives au moins quinze
-jours à l'avance et accompagne cet avis de toutes indications utiles sur ces documents. Cet avis précise l'heure et le lieu
-de la vente. L'envoi d'un catalogue avec mention du but de cet envoi tiendra lieu d'avis. 
-
-En cas de vente judiciaire, si le délai fixé à l'alinéa précédent ne peut être observé, l'officier public ou ministériel,
-aussitôt qu'il est désigné pour procéder à la vente, fait parvenir à l'administration des archives les indications ci-dessus
-énoncées. 
-
-L'opérateur habilité mentionné aux mêmes articles L. 321-4 et L. 321-24 à procéder à la vente de gré à gré de documents
-d'archives privées dans les conditions prévues au dernier alinéa de l'article L. 321-9 du code de commerce notifie sans délai
-la transaction à l'administration des archives, avec toutes indications utiles concernant lesdits documents.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°79-18 1979-01-03 art. 19
-  - Loi n°79-18 du 3 janvier 1979 - art. 19 (Ab)
-
-_Cité par_:
-
-  - Décret n°79-1040 du 3 décembre 1979 - art. 12-1 (Ab)
-  - Code du patrimoine - art. L212-37 (VT)
-  - Code du patrimoine - art. L770-1 (V)
-  - Code du patrimoine - art. R212-92 (Ab)
-  - Code du patrimoine. - art. L214-7 (V)
-
-_Modifié par_:
-
-  - Loi n°2011-850 du 20 juillet 2011 - art. 47
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 3
-
-_Cite_:
-
-  - Code de commerce - art. L321-24
-  - Code de commerce - art. L321-4
-  - Code de commerce - art. L321-9
-
-
-###### Article L212-32
-
-S'il l'estime nécessaire à la protection du patrimoine d'archives, l'Etat exerce, sur tout document d'archives privées mis en
-vente publique ou vendu de gré à gré dans les conditions prévues au dernier alinéa de l'article L. 321-9 du code de commerce,
-un droit de préemption par l'effet duquel il se trouve subrogé à l'adjudicataire ou à l'acheteur. 
-
-La déclaration par l'administration des archives qu'elle envisage d'user de son droit de préemption est faite, à l'issue de
-la vente, entre les mains de l'officier public ou ministériel dirigeant les adjudications ou de l'opérateur mentionné aux
-articles L. 321-4 et L. 321-24 du code de commerce habilité à organiser la vente publique ou la vente de gré à gré. La
-décision de l'autorité administrative doit, à peine de nullité, intervenir dans un délai de quinze jours à compter de la
-vente publique ou de la notification de la transaction de gré à gré.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°79-18 1979-01-03 art. 20 al. 1
-  - Loi n°79-18 du 3 janvier 1979 - art. 20 (Ab)
-
-_Cité par_:
-
-  - Décret n°79-1040 du 3 décembre 1979 - art. 13 (Ab)
-  - Décret n°80-975 du 1 décembre 1980 - art. 11 (Ab)
-  - Décret n°2009-857 du 8 juillet 2009 - art. 3
-  - Code du patrimoine - art. R212-91 (Ab)
-  - Code du patrimoine - art. R212-93 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2011-850 du 20 juillet 2011 - art. 47
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 3
-
-_Cite_:
-
-  - Code de commerce - art. L321-24
-  - Code de commerce - art. L321-4
-  - Code de commerce - art. L321-9
-
-
-###### Article L212-33
-
-L'Etat exerce également le droit de préemption prévu à l'article L. 212-32 à la demande et pour le compte des collectivités
-territoriales, de la Nouvelle-Calédonie et des fondations reconnues d'utilité publique. Le même droit est exercé par la
-Bibliothèque nationale de France pour son propre compte. 
-
-En cas de demandes concurrentes, l'autorité administrative détermine le bénéficiaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°79-18 du 3 janvier 1979 - art. 20 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2008-696  du 15 juillet 2008 - art. 16
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 3
-
-_Cité par_:
-
-  - Code du patrimoine - art. L212-33 (VT)
-  - Code général des collectivités territoriales - art. L1421-1 (V)
-
-
-###### Article L212-34
-
-Le conseil municipal peut émettre des voeux tendant à ce qu'il soit fait usage par l'Etat, au profit de la commune, du droit
-de préemption établi par la loi sur les documents d'archives classés et non classés. 
-
-Il peut déléguer l'exercice de cette compétence au maire dans les conditions prévues à l'article L. 2122-23 du code général
-des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 3
-
-_Anciens textes_:
-
-  - Code général des collectivités territoriales - art. L1421-11 (Ab)
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L2122-23
-
-_Cité par_:
-
-  - Code général des collectivités territoriales - art. L1421-3 (V)
-
-
-###### Article L212-35
-
-Le conseil départemental  statue sur l'exercice du droit de préemption prévu par la législation sur les archives.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2004-178 du 20 février 2004
-
-_Modifié par_:
-
-  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 3
-
+##### Sous-section 3 : Droit de préemption.<a id=50></a>
 
 ###### Article L212-36
 
-Le conseil régional et l'assemblée territoriale de Corse ou, en dehors de leurs sessions, leur commission permanente, se
-prononcent sur l'opportunité de faire jouer au profit de la région ou de la collectivité territoriale de Corse le droit de
-préemption prévu par la législation sur les archives.
+Le conseil régional et l'Assemblée de Corse ou, en dehors de leurs sessions, leur commission permanente, se prononcent sur
+l'opportunité de faire jouer au profit de la région ou de la collectivité territoriale de Corse le droit de préemption prévu
+par la législation sur les archives.
 
 **Liens relatifs à cet article**
 
@@ -4663,45 +4743,12 @@ _Codifié par_:
 
   - Ordonnance n°2004-178 du 20 février 2004
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 3
-
-
-###### Article L212-37
-
-Les modalités d'application des articles L. 212-1 à L. 212-5, L. 212-15 à L. 212-29 et L. 212-31 à L. 212-33 sont fixées par
-décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°79-18 1979-01-03 art. 32 en ce qui concerne le chapitre II
-  - Loi n°79-18 du 3 janvier 1979 - art. 32 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2004-178 du 20 février 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 3
-
-_Cite_:
-
-  - Code du patrimoine - art. L212-1
-  - Code du patrimoine - art. L212-15
-  - Code du patrimoine - art. L212-31 (VT)
-
-_Cité par_:
-
-  - Code du patrimoine - art. L760-3 (V)
-  - Code du patrimoine - art. L770-1 (V)
-  - Code du patrimoine. - art. L760-2 (M)
+  - Ordonnance n°2016-1562 du 21 novembre 2016 - art. 32
 
 
-#### Chapitre 3 : Régime de communication.<a id=49></a>
+#### Chapitre 3 : Régime de communication.<a id=51></a>
 
 ###### Article L213-1
 
@@ -5057,7 +5104,7 @@ _Modifié par_:
   - Loi n°2008-696  du 15 juillet 2008 - art. 17
 
 
-#### Chapitre 4 : Dispositions pénales.<a id=50></a>
+#### Chapitre 4 : Dispositions pénales.<a id=52></a>
 
 ###### Article L214-1
 
@@ -5184,26 +5231,6 @@ _Cite_:
   - Code du patrimoine - art. L214-3
 
 
-###### Article L214-5
-
-Le fait, pour une personne détentrice sans droit ni titre d'archives publiques, de ne pas les restituer sans délai à
-l'autorité compétente qui lui en fait la demande est puni d'une peine d'un an d'emprisonnement et de 15 000 € d'amende.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°79-18 du 3 janvier 1979 - art. 31 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2008-696  du 15 juillet 2008 - art. 19
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 3
-
-
 ###### Article L214-6
 
 Est punie d'une peine de trois ans d'emprisonnement et de 45 000 € d'amende la destruction par leur propriétaire d'archives
@@ -5326,9 +5353,9 @@ _Cite_:
   - Code pénal - art. 433-4
 
 
-### TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE<a id=51></a>
+### TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE<a id=53></a>
 
-#### Chapitre 1er : Constitution.<a id=52></a>
+#### Chapitre 1er : Constitution.<a id=54></a>
 
 ###### Article L221-1
 
@@ -5469,7 +5496,7 @@ _Cité par_:
   - Code du patrimoine - art. L750-1 (VD)
 
 
-#### Chapitre 2 : Communication et reproduction.<a id=53></a>
+#### Chapitre 2 : Communication et reproduction.<a id=55></a>
 
 ###### Article L222-1
 
@@ -5554,9 +5581,9 @@ _Cité par_:
   - Code du patrimoine - art. L760-3 (V)
 
 
-## LIVRE III : BIBLIOTHÈQUES<a id=54></a>
+## LIVRE III : BIBLIOTHÈQUES<a id=56></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES<a id=55></a>
+### TITRE Ier : DISPOSITIONS COMMUNES<a id=57></a>
 
 ###### Article L310-1
 
@@ -5609,7 +5636,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R1614-91 (V)
 
 
-### TITRE II : BIBLIOTHÈQUES MUNICIPALES ET INTERCOMMUNALES<a id=56></a>
+### TITRE II : BIBLIOTHÈQUES MUNICIPALES ET INTERCOMMUNALES<a id=58></a>
 
 ###### Article L320-1
 
@@ -5663,7 +5690,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L1614-14 (Ab)
 
 
-### TITRE III : BIBLIOTHÈQUES DÉPARTEMENTALES<a id=57></a>
+### TITRE III : BIBLIOTHÈQUES DÉPARTEMENTALES<a id=59></a>
 
 ###### Article L330-1
 
@@ -5680,9 +5707,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L1614-10 (V)
 
 
-## LIVRE IV : MUSÉES<a id=58></a>
+## LIVRE IV : MUSÉES<a id=60></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES.<a id=59></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES.<a id=61></a>
 
 ###### Article L410-1
 
@@ -5771,7 +5798,7 @@ _Anciens textes_:
   - Code général des collectivités territoriales - art. L1423-5 (Ab)
 
 
-### TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE.<a id=60></a>
+### TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE.<a id=62></a>
 
 ###### Article L430-1
 
@@ -5843,9 +5870,9 @@ _Cité par_:
   - Code du patrimoine. - art. L730-1 (M)
 
 
-### TITRE IV : RÉGIME DES MUSÉES DE FRANCE<a id=61></a>
+### TITRE IV : RÉGIME DES MUSÉES DE FRANCE<a id=63></a>
 
-#### Chapitre 1er : Définition et missions.<a id=62></a>
+#### Chapitre 1er : Définition et missions.<a id=64></a>
 
 ###### Article L441-1
 
@@ -5908,9 +5935,9 @@ _Cité par_:
   - Code du patrimoine. - art. L730-1 (M)
 
 
-#### Chapitre 2 : Appellation "musée de France"<a id=63></a>
+#### Chapitre 2 : Appellation "musée de France"<a id=65></a>
 
-##### Section 1 : Conditions d'attribution et de retrait de l'appellation "musée de France".<a id=64></a>
+##### Section 1 : Conditions d'attribution et de retrait de l'appellation "musée de France".<a id=66></a>
 
 ###### Article L442-1
 
@@ -6031,7 +6058,7 @@ _Cite_:
   - Code du patrimoine - art. L442-3 (V)
 
 
-##### Section 2 : Dispositions pénales.<a id=65></a>
+##### Section 2 : Dispositions pénales.<a id=67></a>
 
 ###### Article L442-5
 
@@ -6055,9 +6082,9 @@ _Cite_:
   - Code pénal - art. 131-38
 
 
-##### Section 3 : Dispositions générales liées à l'appellation "musée de France"<a id=66></a>
+##### Section 3 : Dispositions générales liées à l'appellation "musée de France"<a id=68></a>
 
-##### Sous-section 1 : Dispositions relatives à l'accueil du public.<a id=67></a>
+##### Sous-section 1 : Dispositions relatives à l'accueil du public.<a id=69></a>
 
 ###### Article L442-6
 
@@ -6096,7 +6123,7 @@ _Cité par_:
   - Code du patrimoine - art. L442-9 (V)
 
 
-##### Sous-section 2 : Qualifications des personnels.<a id=68></a>
+##### Sous-section 2 : Qualifications des personnels.<a id=70></a>
 
 ###### Article L442-8
 
@@ -6154,7 +6181,7 @@ _Cite_:
   - Code du patrimoine - art. L442-7 (V)
 
 
-##### Sous-section 3 : Réseaux et conventions.<a id=69></a>
+##### Sous-section 3 : Réseaux et conventions.<a id=71></a>
 
 ###### Article L442-10
 
@@ -6182,7 +6209,7 @@ _Cité par_:
   - Code du patrimoine - art. L442-4 (V)
 
 
-##### Sous-section 4 : Contrôle scientifique et technique.<a id=70></a>
+##### Sous-section 4 : Contrôle scientifique et technique.<a id=72></a>
 
 ###### Article L442-11
 
@@ -6208,11 +6235,11 @@ _Cité par_:
   - Code du sport. - art. D112-7 (VD)
 
 
-### TITRE V : COLLECTIONS DES MUSÉES DE FRANCE<a id=71></a>
+### TITRE V : COLLECTIONS DES MUSÉES DE FRANCE<a id=73></a>
 
-#### Chapitre 1er : Statut des collections<a id=72></a>
+#### Chapitre 1er : Statut des collections<a id=74></a>
 
-##### Section 1 : Acquisitions.<a id=73></a>
+##### Section 1 : Acquisitions.<a id=75></a>
 
 ###### Article L451-1
 
@@ -6237,9 +6264,9 @@ _Cité par_:
   - Code du patrimoine. - art. D451-18 (V)
 
 
-##### Section 2 : Affectation et propriété des collections<a id=74></a>
+##### Section 2 : Affectation et propriété des collections<a id=76></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=75></a>
+##### Sous-section 1 : Dispositions générales.<a id=77></a>
 
 ###### Article L451-2
 
@@ -6288,21 +6315,38 @@ _Cité par_:
 
 Toute cession de tout ou partie d'une collection d'un musée de France intervenue en violation des dispositions de la présente
 section est nulle. Les actions en nullité ou en revendication peuvent être exercées à toute époque tant par l'Etat que par la
-personne morale propriétaire des collections.
+personne morale propriétaire des collections. 
+
+Lorsque les collections appartiennent au domaine public, les actions en nullité ou en revendication s'exercent dans les
+conditions prévues aux articles L. 112-22 et L. 112-23.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°2002-5 2002-01-04 art. 11 par. IV
   - Loi n°2002-5 du 4 janvier 2002 - art. 11 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 4
+
+_Cite_:
+
+  - Code du patrimoine - art. L112-22
+  - Code du patrimoine - art. L112-23
 
 
-##### Sous-section 2 : Collections publiques.<a id=76></a>
+##### Sous-section 2 : Collections publiques.<a id=78></a>
 
 ###### Article L451-5
 
@@ -6382,11 +6426,15 @@ _Codifié par_:
 
 ###### Article L451-8
 
-Une personne publique peut transférer, à titre gratuit, la propriété de tout ou partie de ses collections à une autre
-personne publique si cette dernière s'engage à en maintenir l'affectation à un musée de France. Le transfert de propriété est
-approuvé par décision de l'autorité administrative, après avis du Haut Conseil des musées de France. Les dispositions du
-présent article ne sont pas applicables aux biens remis à l'Etat en application des articles 1131 et 1716 bis du code général
-des impôts.
+Le transfert à titre gratuit par une personne publique à une autre personne publique de la propriété de tout ou partie de
+collections affectées à un musée de France, effectué en application de l'article L. 125-1, est soumis à l'avis du Haut
+conseil des musées de France.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -6397,15 +6445,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
 
-_Cite_:
+_Modifié par_:
 
-  - Code général des impôts, CGI. - art. 1131 (V)
-  - Code général des impôts, CGI. - art. 1716 bis (V)
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 4
 
 _Cité par_:
 
+  - Code du patrimoine - art. L125-1 (VD)
   - Code du patrimoine - art. L430-1 (V)
   - Code du patrimoine. - art. D451-19 (V)
   - Code du patrimoine. - art. L442-3 (V)
@@ -6451,7 +6499,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-##### Sous-section 3 : Collections privées.<a id=77></a>
+##### Sous-section 3 : Collections privées.<a id=79></a>
 
 ###### Article L451-10
 
@@ -6486,7 +6534,7 @@ _Cite_:
   - Code du patrimoine - art. L442-1 (V)
 
 
-##### Section 3 : Prêts et dépôts.<a id=78></a>
+##### Section 3 : Prêts et dépôts.<a id=80></a>
 
 ###### Article L451-11
 
@@ -6533,7 +6581,7 @@ _Créé par_:
   - Loi n°2016-925 du 7 juillet 2016 - art. 69
 
 
-#### Chapitre 2 : Conservation et restauration.<a id=79></a>
+#### Chapitre 2 : Conservation et restauration.<a id=81></a>
 
 ###### Article L452-1
 
@@ -6682,9 +6730,9 @@ _Cite_:
   - Code du patrimoine - art. L452-2 (V)
 
 
-## LIVRE V : ARCHÉOLOGIE<a id=80></a>
+## LIVRE V : ARCHÉOLOGIE<a id=82></a>
 
-### TITRE Ier : DÉFINITION DU PATRIMOINE ARCHÉOLOGIQUE.<a id=81></a>
+### TITRE Ier : DÉFINITION DU PATRIMOINE ARCHÉOLOGIQUE.<a id=83></a>
 
 ###### Article L510-1
 
@@ -6713,9 +6761,9 @@ _Cité par_:
   - Code pénal - art. 322-3-1 (V)
 
 
-### TITRE II : ARCHÉOLOGIE PRÉVENTIVE<a id=82></a>
+### TITRE II : ARCHÉOLOGIE PRÉVENTIVE<a id=84></a>
 
-#### Chapitre 1er : Définition.<a id=83></a>
+#### Chapitre 1er : Définition.<a id=85></a>
 
 ###### Article L521-1
 
@@ -6741,9 +6789,9 @@ _Cité par_:
   - Code du patrimoine - art. L730-1 (V)
 
 
-#### Chapitre 2 : Répartition des compétences : Etat et collectivités territoriales<a id=84></a>
+#### Chapitre 2 : Répartition des compétences : Etat et collectivités territoriales<a id=86></a>
 
-##### Section 1 : Rôle de l'Etat.<a id=85></a>
+##### Section 1 : Rôle de l'Etat.<a id=87></a>
 
 ###### Article L522-1
 
@@ -6939,7 +6987,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-##### Section 2 : Rôle des collectivités territoriales.<a id=86></a>
+##### Section 2 : Rôle des collectivités territoriales.<a id=88></a>
 
 ###### Article L522-7
 
@@ -7032,7 +7080,7 @@ _Cite_:
   - Code du patrimoine - art. L523-7 (V)
 
 
-#### Chapitre 3 : Mise en œuvre des opérations d'archéologie préventive.<a id=87></a>
+#### Chapitre 3 : Mise en œuvre des opérations d'archéologie préventive.<a id=89></a>
 
 ###### Article L523-1
 
@@ -7559,7 +7607,7 @@ _Cite_:
   - Code du patrimoine - art. L523-1 (V)
 
 
-#### Chapitre 4 : Financement de l'archéologie préventive.<a id=88></a>
+#### Chapitre 4 : Financement de l'archéologie préventive.<a id=90></a>
 
 ###### Article L524-1
 
@@ -7686,13 +7734,14 @@ _Cité par_:
 
 ###### Article L524-4
 
-Le fait générateur de la redevance d'archéologie préventive est :
+Le fait générateur de la redevance d'archéologie préventive est, y compris pour les aménagements situés dans le domaine
+public maritime jusqu'à un mille calculé à compter de la ligne de base de la mer territoriale :
 
-a) Pour les travaux soumis à autorisation ou à déclaration préalable en application du code de l'urbanisme,  la délivrance de
-l'autorisation de construire ou d'aménager, la  délivrance du permis modificatif, la naissance d'une autorisation tacite  de
-construire ou d'aménager, la décision de non-opposition à une  déclaration préalable ou, en cas de construction sans
-autorisation ou en  infraction aux obligations résultant de l'autorisation de construire ou  d'aménager, le procès-verbal
-constatant les infractions ; 
+a) Pour les travaux soumis à autorisation ou à déclaration préalable en application du code de l'urbanisme, la délivrance de
+l'autorisation de construire ou d'aménager, la délivrance du permis modificatif, la naissance d'une autorisation tacite de
+construire ou d'aménager, la décision de non-opposition à une déclaration préalable ou, en cas de construction sans
+autorisation ou en infraction aux obligations résultant de l'autorisation de construire ou d'aménager, le procès-verbal
+constatant les infractions ;
 
 b) Pour les travaux et aménagements autres que ceux mentionnés au a et donnant lieu à une étude d'impact, à l'exception des
 zones d'aménagement concerté, l'acte qui décide, éventuellement après enquête publique, la réalisation du projet et en
@@ -7702,21 +7751,11 @@ c) Pour les autres travaux d'affouillement, le dépôt de la déclaration admini
 
 Dans le cas où l'aménageur souhaite que le diagnostic soit réalisé avant la délivrance de l'autorisation préalable ou la non-
 opposition aux travaux mentionnée au a ou avant l'édiction de l'acte mentionné au b, le fait générateur de la redevance est
-le dépôt de la demande de réalisation du diagnostic.
+le dépôt de la demande de réalisation du diagnostic ;
 
-**Nota:**
-
-Conformément à l'article 79-IV de la loi n° 2011-1978 du 29 décembre 2011, ces dispositions entrent en vigueur dans les
-conditions suivantes : 
-
-1° Lorsque la redevance d'archéologie préventive est perçue sur des travaux mentionnés au a de l'article L. 524-2 du code du
-patrimoine, ils sont applicables aux demandes d'autorisation d'urbanisme et aux déclarations préalables déposées à compter du
-1er mars 2012 ; 
-
-2° Lorsque la redevance est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 et au dernier alinéa de
-l'article L. 524-4 du même code, ils sont applicables à compter du 1er mars 2013 ; 
-
-3° Ils entrent en vigueur à Mayotte à compter du 1er mars 2014.
+Le fait générateur de la redevance d'archéologie préventive, pour les aménagements situés dans le domaine public maritime au-
+delà d'un mille à compter de la ligne de base de la mer territoriale ou dans la zone contiguë, est l'acte qui décide,
+éventuellement après enquête publique, la réalisation du projet et en détermine l'emprise.
 
 **Liens relatifs à cet article**
 
@@ -7730,7 +7769,7 @@ _Cité par_:
   - Décret n°2002-89 du 16 janvier 2002 - art. 30 (Ab)
   - Décret n°2004-490 du 3 juin 2004 - art. 82 (Ab)
   - Code du patrimoine - art. L524-7 (V)
-  - Code du patrimoine - art. L524-8 (M)
+  - Code du patrimoine - art. L524-8 (V)
   - Code du patrimoine - art. R523-14 (V)
   - Code du patrimoine - art. R524-3 (V)
 
@@ -7740,18 +7779,28 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 79 (V)
 
 
 ###### Article L524-6
 
-La redevance d'archéologie préventive n'est pas due pour les travaux visés au I de l'article L. 524-7 lorsque le terrain
-d'assiette a donné lieu à la perception de la redevance d'archéologie préventive en application des dispositions issues de la
-loi n° 2003-707 du 1er août 2003 modifiant la loi n° 2001-44 du 17 janvier 2001 relative à l'archéologie préventive. 
+La redevance d'archéologie préventive n'est pas due :
 
-Elle n'est pas due lorsque l'emprise des constructions a déjà fait l'objet d'une opération visant à la détection, à la
-conservation ou à la sauvegarde par l'étude scientifique du patrimoine archéologique, réalisée dans des conditions fixées par
-décret en Conseil d'Etat. 
+1° Pour les travaux mentionnés au I de l'article L. 524-7 lorsque le terrain d'assiette a donné lieu à la perception de la
+redevance d'archéologie préventive en application de la loi n° 2003-707 du 1er août 2003 modifiant la loi n° 2001-44 du 17
+janvier 2001 relative à l'archéologie préventive ;
+
+2° Lorsque l'emprise des ouvrages, travaux ou aménagements est située dans le domaine public maritime au-delà d'un mille
+calculé depuis la ligne de base de la mer territoriale ou dans la zone contiguë et qu'elle a fait l'objet d'une opération
+d'évaluation archéologique. L'évaluation archéologique vaut étude d'impact du projet sur le patrimoine culturel maritime au
+sens du 4° du III de l'article L. 122-1 du code de l'environnement et diagnostic au sens du présent code. L'évaluation
+archéologique est réalisée dans le cadre d'une convention conclue entre la personne projetant les travaux et l'Etat. Cette
+convention définit notamment les délais, les moyens mis en œuvre et les modalités de financement de l'évaluation
+archéologique ;
+
+3° Lorsque l'emprise des constructions a déjà fait l'objet d'une opération visant à la détection, à la conservation ou à la
+sauvegarde par l'étude scientifique du patrimoine archéologique, réalisée dans des conditions fixées par décret en Conseil
+d'Etat.
 
 En cas de demande volontaire de réalisation de diagnostic, le montant de la redevance d'archéologie préventive acquittée à ce
 titre est déduit de la redevance due pour la réalisation de l'aménagement.
@@ -7760,54 +7809,66 @@ titre est déduit de la redevance due pour la réalisation de l'aménagement.
 
 _Anciens textes_:
 
-  - Loi n°2001-44 2001-01-17 art. 9 par. I al. 8
   - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
 
 _Cite_:
 
-  - Loi n°2003-707 du 1 août 2003 (V)
-  - Code du patrimoine - art. L524-7 (V)
+  - Loi n°2003-707 du 1 août 2003
+  - Code du patrimoine - art. L524-7
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
 
 _Modifié par_:
 
-  - Loi n°2004-804 du 9 août 2004 - art. 17 (V) JORF 11 août 2004
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 79 (V)
 
 
 ###### Article L524-7
 
-Le montant de la redevance d'archéologie préventive est calculé selon les modalités suivantes : 
+Le montant de la redevance d'archéologie préventive est calculé selon les modalités suivantes :
 
 I. – Lorsqu'elle est perçue sur les travaux mentionnés au a de l'article L. 524-2, l'assiette de la redevance est constituée
 par la valeur de l'ensemble immobilier déterminée dans les conditions prévues aux articles L. 331-10 à L. 331-13 du code de
-l'urbanisme. 
+l'urbanisme.
 
 Le taux de la redevance est de 0,40 % de la valeur de l'ensemble immobilier. 
 
 II. – Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2 ou en application du dernier alinéa de
 l'article L. 524-4, son montant est égal à 0,50 € par mètre carré. Ce montant est indexé sur l'indice du coût de la
-construction. 
+construction.
 
-La surface prise en compte est selon le cas : 
+La surface prise en compte est selon le cas :
 
 – la surface au sol des travaux nécessaires à la réalisation des installations autorisées pour les aménagements et ouvrages
 soumis à autorisation administrative qui doivent être précédés d'une étude d'impact en application de l'article L. 122-1 du
-code de l'environnement ; 
+code de l'environnement ;
 
 – la surface au sol des travaux nécessaires à la réalisation des aménagements et ouvrages non soumis à autorisation
 administrative qui doivent être précédés d'une étude d'impact en application de l'article L. 122-1 du code de l'environnement
 sur la base du dossier transmis pour prescription de diagnostic éventuelle en application des articles L. 522-1 et suivants
-du présent code ; 
+du présent code ;
 
 – la surface de la zone sur laquelle porte la demande de réalisation du diagnostic prévue au dernier alinéa de l'article L.
-524-4 ; 
+524-4 ;
 
-– la surface au sol des travaux soumis à déclaration administrative préalable visés à l'article L. 524-2 du présent code. 
+– la surface au sol des travaux soumis à déclaration administrative préalable visés à l'article L. 524-2 du présent code.
 
 La redevance n'est pas due pour les travaux et aménagements dont la surface au sol est inférieure à 3 000 mètres carrés.
+
+III. – Lorsque la redevance est perçue sur des ouvrages, travaux ou aménagements situés dans le domaine public maritime au-
+delà d'un mille à compter de la ligne de base de la mer territoriale ou dans la zone contiguë, son montant est égal à 0,10
+euro par mètre carré.
+
+La surface prise en compte est :
+
+- pour les installations de production et de transport d'énergie et les installations de transport d'information, la surface
+constituée d'une bande de 100 mètres de part et d'autre des câbles ou canalisations de transport d'énergie et d'information
+que multiplie la longueur des câbles ou canalisations ;
+
+- pour les autres types de travaux, dont les travaux d'extraction de matériaux, la surface au sol des travaux nécessaires à
+la réalisation de l'exploitation autorisée.
 
 **Liens relatifs à cet article**
 
@@ -7831,79 +7892,70 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 79 (V)
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L331-10 (V)
-  - Code de l'environnement - art. L122-1 (V)
+  - Code de l'urbanisme - art. L331-10
+  - Code de l'environnement - art. L122-1
   - Code du patrimoine - art. L522-1
-  - Code du patrimoine - art. L524-2 (V)
-  - Code du patrimoine - art. L524-4 (V)
+  - Code du patrimoine - art. L524-2
+  - Code du patrimoine - art. L524-4
 
 
 ###### Article L524-8
 
 I. – Lorsqu'elle est perçue sur les travaux mentionnés au a de l'article L. 524-2, la redevance est établie dans les
 conditions prévues aux articles L. 331-19 et L. 331-20 du code de l'urbanisme. Les règles de contrôle et les sanctions sont
-celles prévues aux articles L. 331-21 à L. 331-23 du même code. 
+celles prévues aux articles L. 331-21 à L. 331-23 du même code.
 
 II. – Lorsqu'elle est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 du présent code ou sur la demande
-mentionnée au dernier alinéa de l'article L. 524-4, la redevance est établie par les services de l'Etat chargés des affaires
-culturelles dans la région. 
+mentionnée à l'avant-dernier alinéa de l'article L. 524-4 et qu'elle porte sur des projets situés dans le domaine terrestre
+et dans les eaux intérieures ne relevant pas du domaine public maritime, la redevance est établie par les services de l'Etat
+chargés des affaires culturelles dans la région.
+
+Lorsqu'elle est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 ou sur la demande mentionnée à l'avant-
+dernier alinéa de l'article L. 524-4 et qu'elle porte sur des projets situés dans le domaine public maritime ou dans la zone
+contiguë, la redevance est établie par les services de l'Etat chargés de l'archéologie sous-marine.
 
 Lorsque l'opération est réalisée par tranches de travaux, un titre de perception est émis au début de chacune des tranches
-prévues dans l'autorisation administrative, pour le montant dû au titre de cette tranche. 
+prévues dans l'autorisation administrative, pour le montant dû au titre de cette tranche.
 
 Le droit de reprise de l'administration s'exerce jusqu'au 31 décembre de la troisième année qui suit, selon les cas, la
-réalisation du fait générateur mentionné aux trois derniers alinéas de l'article L. 524-4 ou, lorsque l'autorisation
-administrative est accordée pour une durée supérieure à trois ans, l'année d'expiration de l'autorisation administrative. 
+réalisation du fait générateur mentionné aux quatre derniers alinéas de l'article L. 524-4 ou, lorsque l'autorisation
+administrative est accordée pour une durée supérieure à trois ans, l'année d'expiration de l'autorisation administrative.
 
 Lorsqu'il apparaît que la superficie déclarée par l'aménageur est erronée, la procédure contradictoire prévue aux articles L.
-55 à L. 61 B du livre des procédures fiscales est applicable. 
+55 à L. 61 B du livre des procédures fiscales est applicable.
 
 III. – La redevance due sur les travaux mentionnés aux a, b et c de l'article L. 524-2 du présent code ou sur la demande
-mentionnée au dernier alinéa de l'article L. 524-4 est recouvrée par les comptables publics compétents comme en matière de
-créances étrangères à l'impôt et au domaine. 
+mentionnée à l'avant-dernier de l'article L. 524-4 est recouvrée par les comptables publics compétents comme en matière de
+créances étrangères à l'impôt et au domaine.
 
-Sont solidaires du paiement de la redevance les époux et les partenaires liés par un pacte civil de solidarité. 
+Sont solidaires du paiement de la redevance les époux et les partenaires liés par un pacte civil de solidarité.
 
-Le recouvrement de la redevance est garanti par le privilège prévu au 1 de l'article 1929 du code général des impôts. 
+Le recouvrement de la redevance est garanti par le privilège prévu au 1 de l'article 1929 du code général des impôts.
 
-L'action en recouvrement se prescrit par cinq ans à compter de l'émission du titre de perception. 
+L'action en recouvrement se prescrit par cinq ans à compter de l'émission du titre de perception.
 
 Lorsque la redevance est perçue sur des travaux mentionnés au a de l'article L. 524-2 du présent code, le montant total est
 dû douze mois à compter de la date des faits générateurs mentionnés au a de l'article L. 524-4. Elle est émise avec la
-première échéance ou l'échéance unique de taxe d'aménagement à laquelle elle est adossée. 
+première échéance ou l'échéance unique de taxe d'aménagement à laquelle elle est adossée.
 
 En cas de modification apportée au permis de construire ou d'aménager ou à l'autorisation tacite de construire ou d'aménager,
 le complément de redevance fait l'objet d'un titre de perception émis dans le délai de douze mois à compter de la date de
-délivrance du permis modificatif ou de l'autorisation réputée accordée. 
+délivrance du permis modificatif ou de l'autorisation réputée accordée.
 
 En cas de transfert total de l'autorisation de construire ou d'aménager, le redevable de la redevance est le nouveau
 titulaire du droit à construire ou d'aménager. Un titre d'annulation est émis au profit du redevable initial. Un titre de
-perception est émis à l'encontre du nouveau titulaire du droit à construire ou d'aménager. 
+perception est émis à l'encontre du nouveau titulaire du droit à construire ou d'aménager.
 
 En cas de transfert partiel, un titre d'annulation des sommes correspondant à la surface transférée est émis au profit du
 titulaire initial du droit à construire ou d'aménager. Un titre de perception est émis à l'encontre du titulaire du transfert
-partiel. 
+partiel.
 
 En cas de transfert total ou partiel, le ou les titres de perception sont émis dans les trente-six mois suivant l'émission du
 titre d'annulation.
-
-**Nota:**
-
-Conformément à l'article 79-IV de la loi n° 2011-1978 du 29 décembre 2011, ces dispositions entrent en vigueur dans les
-conditions suivantes : 
-
-1° Lorsque la redevance d'archéologie préventive est perçue sur des travaux mentionnés au a de l'article L. 524-2 du code du
-patrimoine, ils sont applicables aux demandes d'autorisation d'urbanisme et aux déclarations préalables déposées à compter du
-1er mars 2012 ; 
-
-2° Lorsque la redevance est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 et au dernier alinéa de
-l'article L. 524-4 du même code, ils sont applicables à compter du 1er mars 2013 ; 
-
-3° Ils entrent en vigueur à Mayotte à compter du 1er mars 2014.
 
 **Liens relatifs à cet article**
 
@@ -7920,16 +7972,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 41
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 79 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1929 (V)
+  - Code général des impôts, CGI. - art. 1929
   - Livre des procédures fiscales - art. L55
   - Code de l'urbanisme - art. L331-19
   - Code de l'urbanisme - art. L331-21
   - Code du patrimoine - art. L524-2
-  - Code du patrimoine - art. L524-4
+  - Code du patrimoine - art. L524-4 (V)
 
 
 ###### Article L524-11
@@ -8113,11 +8165,11 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES ET DÉCOUVERTES FORTUITES<a id=89></a>
+### TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES ET DÉCOUVERTES FORTUITES<a id=91></a>
 
-#### Chapitre 1er : Archéologie terrestre et subaquatique<a id=90></a>
+#### Chapitre 1er : Archéologie terrestre et subaquatique<a id=92></a>
 
-##### Section 1 : Autorisation de fouilles par l'Etat.<a id=91></a>
+##### Section 1 : Autorisation de fouilles par l'Etat.<a id=93></a>
 
 ###### Article L531-1
 
@@ -8313,7 +8365,7 @@ _Cite_:
   - Code du patrimoine - art. L531-5
 
 
-##### Section 2 : Exécution de fouilles par l'Etat.<a id=92></a>
+##### Section 2 : Exécution de fouilles par l'Etat.<a id=94></a>
 
 ###### Article L531-9
 
@@ -8430,7 +8482,7 @@ _Cité par_:
   - Code du patrimoine. - art. R531-7 (V)
 
 
-##### Section 3 : Découvertes fortuites.<a id=93></a>
+##### Section 3 : Découvertes fortuites.<a id=95></a>
 
 ###### Article L531-14
 
@@ -8529,7 +8581,7 @@ _Codifié par_:
   - DEPLACE: Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 
-#### Chapitre 2 : Biens culturels maritimes.<a id=94></a>
+#### Chapitre 2 : Biens culturels maritimes.<a id=96></a>
 
 ###### Article L532-1
 
@@ -8882,11 +8934,11 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE IV : DISPOSITIONS DIVERSES<a id=95></a>
+### TITRE IV : DISPOSITIONS DIVERSES<a id=97></a>
 
-#### Chapitre 1er : Régime de propriété du patrimoine archéologique.<a id=96></a>
+#### Chapitre 1er : Régime de propriété du patrimoine archéologique.<a id=98></a>
 
-##### Section 1 : Biens archéologiques immobiliers<a id=97></a>
+##### Section 1 : Biens archéologiques immobiliers<a id=99></a>
 
 ###### Article L541-1
 
@@ -8978,9 +9030,9 @@ _Cité par_:
   - Code du patrimoine - art. L545-1 (V)
 
 
-##### Section 2 : Biens archéologiques mobiliers<a id=98></a>
+##### Section 2 : Biens archéologiques mobiliers<a id=100></a>
 
-##### Sous-section 1 : Propriété<a id=99></a>
+##### Sous-section 1 : Propriété<a id=101></a>
 
 ###### Article L541-4
 
@@ -9068,7 +9120,7 @@ _Cité par_:
   - Code du patrimoine - art. R541-11 (V)
 
 
-##### Sous-section 2 : Ensemble archéologique mobilier et aliénation des biens mobiliers<a id=100></a>
+##### Sous-section 2 : Ensemble archéologique mobilier et aliénation des biens mobiliers<a id=102></a>
 
 ###### Article L541-6
 
@@ -9092,24 +9144,7 @@ _Cité par_:
   - Code du patrimoine - art. R541-13 (V)
 
 
-##### Section 3 : Transfert et droit de revendication<a id=101></a>
-
-###### Article L541-7
-
-L'Etat peut transférer à titre gratuit la propriété des biens archéologiques mobiliers lui appartenant à toute personne
-publique qui s'engage à en assurer la conservation et l'accessibilité sous le contrôle scientifique et technique des services
-chargés de l'archéologie.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 5
-
+##### Section 3 : Transfert et droit de revendication<a id=103></a>
 
 ###### Article L541-8
 
@@ -9145,7 +9180,7 @@ _Créé par_:
   - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 
-#### Chapitre 2 : Utilisation de détecteurs de métaux.<a id=102></a>
+#### Chapitre 2 : Utilisation de détecteurs de métaux.<a id=104></a>
 
 ###### Article L542-1
 
@@ -9215,7 +9250,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-#### Chapitre 3 : Dispositions fiscales.<a id=103></a>
+#### Chapitre 3 : Dispositions fiscales.<a id=105></a>
 
 ###### Article L543-1
 
@@ -9237,9 +9272,9 @@ _Cité par_:
   - Code du patrimoine - art. L720-1 (MMN)
 
 
-#### Chapitre 4 : Dispositions pénales<a id=104></a>
+#### Chapitre 4 : Dispositions pénales<a id=106></a>
 
-##### Section 1 : Dispositions relatives à l'archéologie terrestre et subaquatique.<a id=105></a>
+##### Section 1 : Dispositions relatives à l'archéologie terrestre et subaquatique.<a id=107></a>
 
 ###### Article L544-1
 
@@ -9364,7 +9399,7 @@ _Cite_:
   - Code du patrimoine - art. L541-6 (V)
 
 
-##### Section 2 : Dispositions relatives aux biens culturels maritimes.<a id=106></a>
+##### Section 2 : Dispositions relatives aux biens culturels maritimes.<a id=108></a>
 
 ###### Article L544-5
 
@@ -9550,7 +9585,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-##### Section 3 : Dispositions communes.<a id=107></a>
+##### Section 3 : Dispositions communes.<a id=109></a>
 
 ###### Article L544-12
 
@@ -9601,9 +9636,9 @@ _Cite_:
   - Code du patrimoine - art. L544-12 (V)
 
 
-#### Chapitre 5 : Instances scientifiques<a id=108></a>
+#### Chapitre 5 : Instances scientifiques<a id=110></a>
 
-##### Section 1 : Le Conseil national de la recherche archéologique<a id=109></a>
+##### Section 1 : Le Conseil national de la recherche archéologique<a id=111></a>
 
 ###### Article L545-1
 
@@ -9637,7 +9672,7 @@ _Cite_:
   - Code du patrimoine - art. L541-3 (V)
 
 
-##### Section 2 : Les commissions territoriales de la recherche archéologique<a id=110></a>
+##### Section 2 : Les commissions territoriales de la recherche archéologique<a id=112></a>
 
 ###### Article L545-2
 
@@ -9666,7 +9701,7 @@ _Cite_:
   - Code du patrimoine - art. L531-8 (V)
 
 
-#### Chapitre 6 : Règles relatives à la conservation, à la sélection et à l'étude du patrimoine archéologique<a id=111></a>
+#### Chapitre 6 : Règles relatives à la conservation, à la sélection et à l'étude du patrimoine archéologique<a id=113></a>
 
 ###### Article L546-1
 
@@ -9793,11 +9828,11 @@ _Créé par_:
   - Ordonnance n°2017-1117 du 29 juin 2017 - art. 1
 
 
-## LIVRE VI : MONUMENTS HISTORIQUES, SITES PATRIMONIAUX REMARQUABLES ET QUALITE ARCHITECTURALE<a id=112></a>
+## LIVRE VI : MONUMENTS HISTORIQUES, SITES PATRIMONIAUX REMARQUABLES ET QUALITE ARCHITECTURALE<a id=114></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=113></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=115></a>
 
-#### Chapitre Ier : Institutions<a id=114></a>
+#### Chapitre Ier : Institutions<a id=116></a>
 
 ###### Article L611-1
 
@@ -9941,7 +9976,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4421-4 (V)
 
 
-#### Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial<a id=115></a>
+#### Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial<a id=117></a>
 
 ###### Article L612-1
 
@@ -10003,7 +10038,7 @@ _Cite_:
   - Code du patrimoine - art. L641-1 (V)
 
 
-#### Chapitre  III : Dispositions diverses<a id=116></a>
+#### Chapitre  III : Dispositions diverses<a id=118></a>
 
 ###### Article L613-1
 
@@ -10025,11 +10060,11 @@ _Cite_:
   - Code de l'environnement -  Titre IV : Sites (V)
 
 
-### TITRE II : MONUMENTS HISTORIQUES<a id=117></a>
+### TITRE II : MONUMENTS HISTORIQUES<a id=119></a>
 
-#### Chapitre 1er : Immeubles<a id=118></a>
+#### Chapitre 1er : Immeubles<a id=120></a>
 
-##### Section 1 : Classement des immeubles.<a id=119></a>
+##### Section 1 : Classement des immeubles.<a id=121></a>
 
 ###### Article L621-1
 
@@ -10709,7 +10744,7 @@ _Modifié par_:
   - Loi n°2016-925 du 7 juillet 2016 - art. 76
 
 
-##### Section 2 : Inscription des immeubles.<a id=120></a>
+##### Section 2 : Inscription des immeubles.<a id=122></a>
 
 ###### Article L621-25
 
@@ -10887,7 +10922,7 @@ _Cité par_:
   - Code du patrimoine. - art. R621-72 (V)
 
 
-##### Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits.<a id=121></a>
+##### Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits.<a id=123></a>
 
 ###### Article L621-29-1
 
@@ -11061,7 +11096,7 @@ _Cité par_:
   - Code du patrimoine - art. R621-84-1 (V)
 
 
-##### Section 4 : Abords<a id=122></a>
+##### Section 4 : Abords<a id=124></a>
 
 ###### Article L621-30
 
@@ -11286,7 +11321,7 @@ _Cite_:
   - Code du patrimoine - art. L632-2 (V)
 
 
-##### Section 5 : Dispositions diverses.<a id=123></a>
+##### Section 5 : Dispositions diverses.<a id=125></a>
 
 ###### Article L621-33
 
@@ -11336,9 +11371,9 @@ _Cité par_:
   - Code du patrimoine - art. R621-97 (V)
 
 
-##### Section 6 : Domaines nationaux<a id=124></a>
+##### Section 6 : Domaines nationaux<a id=126></a>
 
-##### Sous-section 1 : Définition, liste et délimitation<a id=125></a>
+##### Sous-section 1 : Définition, liste et délimitation<a id=127></a>
 
 ###### Article L621-34
 
@@ -11383,7 +11418,7 @@ _Cité par_:
   - Code du patrimoine - art. L611-1 (V)
 
 
-##### Sous-section 2 : Protection au titre des monuments historiques<a id=126></a>
+##### Sous-section 2 : Protection au titre des monuments historiques<a id=128></a>
 
 ###### Article L621-36
 
@@ -11438,7 +11473,7 @@ _Créé par_:
   - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 
-##### Sous-section 3 : Droit de préemption<a id=127></a>
+##### Sous-section 3 : Droit de préemption<a id=129></a>
 
 ###### Article L621-39
 
@@ -11459,7 +11494,7 @@ _Cité par_:
   - Code du patrimoine - art. R621-99 (V)
 
 
-##### Sous-section 4 : Gestion des parties des domaines nationaux appartenant à l'Etat<a id=128></a>
+##### Sous-section 4 : Gestion des parties des domaines nationaux appartenant à l'Etat<a id=130></a>
 
 ###### Article L621-40
 
@@ -11503,7 +11538,7 @@ _Créé par_:
   - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 
-##### Sous-section 5 : Gestion et exploitation de la marque et du droit à l'image des domaines nationaux<a id=129></a>
+##### Sous-section 5 : Gestion et exploitation de la marque et du droit à l'image des domaines nationaux<a id=131></a>
 
 ###### Article L621-42
 
@@ -11535,9 +11570,9 @@ _Créé par_:
   - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 
-#### Chapitre 2 : Objets mobiliers<a id=130></a>
+#### Chapitre 2 : Objets mobiliers<a id=132></a>
 
-##### Section 1 : Classement des objets mobiliers.<a id=131></a>
+##### Section 1 : Classement des objets mobiliers.<a id=133></a>
 
 ###### Article L622-1
 
@@ -12177,7 +12212,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-##### Section 2 : Inscription des objets mobiliers.<a id=132></a>
+##### Section 2 : Inscription des objets mobiliers.<a id=134></a>
 
 ###### Article L622-20
 
@@ -12293,7 +12328,7 @@ _Cité par_:
   - Code du patrimoine - art. L642-1 (MMN)
 
 
-##### Section 3 : Dispositions communes aux objets classés et aux objets inscrits.<a id=133></a>
+##### Section 3 : Dispositions communes aux objets classés et aux objets inscrits.<a id=135></a>
 
 ###### Article L622-24
 
@@ -12431,7 +12466,7 @@ _Créé par_:
   - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005
 
 
-#### Chapitre 3 : Dispositions fiscales.<a id=134></a>
+#### Chapitre 3 : Dispositions fiscales.<a id=136></a>
 
 ###### Article L623-1
 
@@ -12458,7 +12493,7 @@ _Cité par_:
   - Code du patrimoine - art. L720-1 (MMN)
 
 
-### TITRE III : SITES PATRIMONIAUX REMARQUABLES<a id=135></a>
+### TITRE III : SITES PATRIMONIAUX REMARQUABLES<a id=137></a>
 
 ###### Article L630-1
 
@@ -12482,7 +12517,7 @@ _Cité par_:
   - Code du patrimoine. - art. L730-1 (M)
 
 
-#### Chapitre Ier : Classement au titre des sites patrimoniaux remarquables<a id=136></a>
+#### Chapitre Ier : Classement au titre des sites patrimoniaux remarquables<a id=138></a>
 
 ###### Article L631-1
 
@@ -12737,7 +12772,7 @@ _Créé par_:
   - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 
-#### Chapitre II : Régime des travaux<a id=137></a>
+#### Chapitre II : Régime des travaux<a id=139></a>
 
 ###### Article L632-1
 
@@ -12850,7 +12885,7 @@ _Cite_:
   - Code du patrimoine - art. L632-1 (V)
 
 
-#### Chapitre III : Dispositions fiscales<a id=138></a>
+#### Chapitre III : Dispositions fiscales<a id=140></a>
 
 ###### Article L633-1
 
@@ -12880,9 +12915,9 @@ _Cité par_:
   - Code du patrimoine - art. L720-1 (MMN)
 
 
-### TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES<a id=139></a>
+### TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES<a id=141></a>
 
-#### Chapitre 1er : Dispositions pénales<a id=140></a>
+#### Chapitre 1er : Dispositions pénales<a id=142></a>
 
 ###### Article L641-1
 
@@ -13030,7 +13065,7 @@ _Créé par_:
   - Loi n°2016-925 du 7 juillet 2016 - art. 77
 
 
-#### Chapitre 2 : Sanctions administratives<a id=141></a>
+#### Chapitre 2 : Sanctions administratives<a id=143></a>
 
 ###### Article L642-1
 
@@ -13145,7 +13180,7 @@ _Cite_:
   - Code du patrimoine - art. L622-17 (V)
 
 
-### TITRE V : QUALITÉ ARCHITECTURALE<a id=142></a>
+### TITRE V : QUALITÉ ARCHITECTURALE<a id=144></a>
 
 ###### Article L650-1
 
@@ -13206,9 +13241,9 @@ _Créé par_:
   - Loi n°2016-925 du 7 juillet 2016 - art. 78
 
 
-## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=143></a>
+## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=145></a>
 
-### TITRE Ier : DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER<a id=144></a>
+### TITRE Ier : DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER<a id=146></a>
 
 ###### Article L710-1
 
@@ -13226,7 +13261,7 @@ _Cite_:
   - Code du patrimoine - art. L116-1 (V)
 
 
-### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON.<a id=145></a>
+### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON.<a id=147></a>
 
 ###### Article L720-1
 
@@ -13306,7 +13341,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE.<a id=146></a>
+### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE.<a id=148></a>
 
 ###### Article L730-1
 
@@ -13429,28 +13464,52 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE.<a id=147></a>
+### TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE.<a id=149></a>
 
 ###### Article L740-1
 
-Les articles L. 123-1 à L. 123-3, L. 131-1, L. 131-2, L. 132-1 à L. 132-6 et L. 133-1 sont applicables en Nouvelle-Calédonie.
+I.-Pour l'application de l'article L. 112-22, les mots : “ les personnes mentionnées au troisième alinéa de l'article L.
+212-1 ” sont remplacés par les mots : “ l'Etat ou tout service public d'archives compétent ”. 
+
+Pour l'application de l'article L. 112-23, les mots : “ en application de l'article 1626 du code civil ” sont supprimés. 
+
+II.-Les articles L. 123-1, L. 123-2, L. 123-4, L. 131-1, L. 131-2, L. 132-1 à L. 132-6 et L. 133-1 sont applicables en
+Nouvelle-Calédonie et l'article L. 123-2, dans sa rédaction résultant de l'ordonnance n° 2004-178 du 20 février 2004, devient
+l'article L. 123-3. 
+
+Pour l'application des articles L. 123-1 et L. 123-2, les références au code de commerce sont remplacées par les références
+aux dispositions applicables localement ayant le même objet.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Ordonnance n°2004-178 du 20 février 2004
+  - Code du patrimoine - art. L112-22
+  - Code du patrimoine - art. L112-23
+  - Code du patrimoine - art. L123-1
+  - Code du patrimoine - art. L123-2
+  - Code du patrimoine - art. L123-4
+  - Code du patrimoine - art. L131-1
+  - Code du patrimoine - art. L131-2
+  - Code du patrimoine - art. L132-1
+  - Code du patrimoine - art. L132-6
+  - Code du patrimoine - art. L133-1
+  - Code du patrimoine - art. L212-1
+
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
 
 _Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 51 () JORF 3 août 2006
-
-_Cite_:
-
-  - Code du patrimoine - art. L123-1 (V)
-  - Code du patrimoine - art. L131-1 (V)
-  - Code du patrimoine - art. L132-1 (V)
-  - Code du patrimoine - art. L133-1 (V)
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 8
 
 _Cité par_:
 
@@ -13530,25 +13589,51 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE.<a id=148></a>
+### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE.<a id=150></a>
 
 ###### Article L750-1
 
-Les articles L. 212-30, L. 221-1 à L. 221-5, 
-L. 222-1 et L. 222-3 sont applicables en Polynésie française.
+I.-Pour l'application de l'article L. 112-22, les mots : “ les personnes mentionnées au troisième alinéa de l'article L.
+212-1 ” sont remplacés par les mots : “ l'Etat ou tout service public d'archives compétent ”. 
+
+Pour l'application de l'article L. 112-23, les mots : “ en application de l'article 1626 du code civil ” sont supprimés. 
+
+II.-Les articles L. 123-1, L. 123-2 et L. 123-4 sont applicables en Polynésie française. 
+
+Pour l'application de ces articles, les références au code de commerce sont remplacées par les références aux dispositions
+applicables localement ayant le même objet. 
+
+III.-Les articles L. 221-1 à L. 221-5, L. 222-1 et L. 222-3 sont applicables en Polynésie française.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 8
 
 _Cite_:
 
-  - Code du patrimoine - art. L212-30 (V)
-  - Code du patrimoine - art. L221-1 (V)
-  - Code du patrimoine - art. L222-1 (V)
-  - Code du patrimoine - art. L222-3 (V)
+  - Code civil - art. 1626
+  - Code du patrimoine - art. L112-22
+  - Code du patrimoine - art. L112-23
+  - Code du patrimoine - art. L123-1
+  - Code du patrimoine - art. L123-2
+  - Code du patrimoine - art. L123-4
+  - Code du patrimoine - art. L212-1
+  - Code du patrimoine - art. L221-1
+  - Code du patrimoine - art. L221-5
+  - Code du patrimoine - art. L222-1
+  - Code du patrimoine - art. L222-3
 
 _Cité par_:
 
@@ -13610,29 +13695,38 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA.<a id=149></a>
+### TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA.<a id=151></a>
 
 ###### Article L760-1
 
-Les articles L. 123-1 à L. 123-3, L. 131-1, L. 131-2, L. 132-1 à L. 132-6 et L. 133-1 sont applicables dans les îles Wallis
-et Futuna.
+Les articles L. 112-22 et L. 112-23, L. 123-1 à L. 123-4, L. 131-1, L. 131-2, L. 132-1 à L. 132-6 et L. 133-1 sont
+applicables dans les îles Wallis et Futuna.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
 
 _Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 51 () JORF 3 août 2006
+  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 8
 
 _Cite_:
 
-  - Code du patrimoine - art. L123-1 (V)
-  - Code du patrimoine - art. L131-1 (V)
-  - Code du patrimoine - art. L132-1 (V)
-  - Code du patrimoine - art. L133-1 (V)
+  - Code du patrimoine - art. L112-22
+  - Code du patrimoine - art. L112-23
+  - Code du patrimoine - art. L123-1
+  - Code du patrimoine - art. L123-4
+  - Code du patrimoine - art. L131-1
+  - Code du patrimoine - art. L132-1
+  - Code du patrimoine - art. L133-1
 
 _Cité par_:
 
@@ -13735,7 +13829,7 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-### TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES.<a id=150></a>
+### TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES.<a id=152></a>
 
 ###### Article L770-1
 
@@ -13805,13 +13899,13 @@ _Codifié par_:
   - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
-# Partie réglementaire<a id=151></a>
+# Partie réglementaire<a id=153></a>
 
-## LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE  DU PATRIMOINE CULTUREL<a id=152></a>
+## LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE  DU PATRIMOINE CULTUREL<a id=154></a>
 
-### TITRE Ier : PROTECTION DES BIENS CULTURELS<a id=153></a>
+### TITRE Ier : PROTECTION DES BIENS CULTURELS<a id=155></a>
 
-#### Chapitre Ier : Régime de circulation des biens culturels<a id=154></a>
+#### Chapitre Ier : Régime de circulation des biens culturels<a id=156></a>
 
 ###### Article R111-1
 
@@ -13896,7 +13990,7 @@ _Cite_:
   - Code du patrimoine - art. Annexe 1 aux articles R. 111-1 (V)
 
 
-##### Section 1 : Délivrance des certificats d'exportation  des biens culturels<a id=155></a>
+##### Section 1 : Délivrance des certificats d'exportation  des biens culturels<a id=157></a>
 
 ###### Article R111-4
 
@@ -14164,7 +14258,7 @@ _Cite_:
   - Code du patrimoine. - art. R111-6 (V)
 
 
-##### Section 2 : Sortie temporaire des biens culturels  et des trésors nationaux<a id=156></a>
+##### Section 2 : Sortie temporaire des biens culturels  et des trésors nationaux<a id=158></a>
 
 ###### Article R111-13
 
@@ -14277,7 +14371,7 @@ _Cite_:
   - Code du patrimoine. - art. R111-13 (V)
 
 
-##### Section 3 : Sortie illicite des biens culturels<a id=157></a>
+##### Section 3 : Sortie illicite des biens culturels<a id=159></a>
 
 ###### Article R111-17
 
@@ -14335,7 +14429,7 @@ _Cite_:
   - Code du patrimoine. - art. L111-2 (V)
 
 
-##### Section 4 : Exportation des biens culturels et exportation temporaire  des trésors nationaux vers un Etat non membre  de l'Union européenne<a id=158></a>
+##### Section 4 : Exportation des biens culturels et exportation temporaire  des trésors nationaux vers un Etat non membre  de l'Union européenne<a id=160></a>
 
 ###### Article R111-19
 
@@ -14428,7 +14522,7 @@ _Cite_:
   - Code du patrimoine. - art. R111-19 (V)
 
 
-##### Section 5 : Commission consultative des trésors nationaux<a id=159></a>
+##### Section 5 : Commission consultative des trésors nationaux<a id=161></a>
 
 ###### Article D111-24
 
@@ -14564,7 +14658,7 @@ _Cité par_:
   - Code du patrimoine. - art. R720-1 (V)
 
 
-#### Chapitre II : Restitution des biens culturels<a id=160></a>
+#### Chapitre II : Restitution des biens culturels<a id=162></a>
 
 ###### Article R112-2
 
@@ -14671,9 +14765,9 @@ _Cite_:
   - Code du patrimoine - art. L112-6
 
 
-##### Section 1 : Biens culturels se trouvant en France et sortis illicitement  du territoire d'un autre Etat membre de l'Union européenne<a id=161></a>
+##### Section 1 : Biens culturels se trouvant en France et sortis illicitement  du territoire d'un autre Etat membre de l'Union européenne<a id=163></a>
 
-##### Sous-section 1 : Procédure administrative<a id=162></a>
+##### Sous-section 1 : Procédure administrative<a id=164></a>
 
 ###### Article R112-5
 
@@ -14913,7 +15007,7 @@ _Cite_:
   - Code du patrimoine. - art. R112-6 (V)
 
 
-##### Sous-section 2 : Mesures conservatoires<a id=163></a>
+##### Sous-section 2 : Mesures conservatoires<a id=165></a>
 
 ###### Article R112-14
 
@@ -14961,7 +15055,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 3 : Procédure judiciaire<a id=164></a>
+##### Sous-section 3 : Procédure judiciaire<a id=166></a>
 
 ###### Article R112-16
 
@@ -15079,9 +15173,9 @@ _Cite_:
   - Code du patrimoine - art. L112-8
 
 
-##### Section 2 : Biens culturels se trouvant sur le territoire d'un autre Etat membre  de l'Union européenne et sortis illicitement du territoire français<a id=165></a>
+##### Section 2 : Biens culturels se trouvant sur le territoire d'un autre Etat membre  de l'Union européenne et sortis illicitement du territoire français<a id=167></a>
 
-##### Sous-section 1 : Procédure de retour des biens culturels<a id=166></a>
+##### Sous-section 1 : Procédure de retour des biens culturels<a id=168></a>
 
 ###### Article R112-20
 
@@ -15185,7 +15279,7 @@ _Modifié par_:
   - Décret n°2016-1573 du 22 novembre 2016 - art. 10
 
 
-##### Sous-section 2 : Conditions de la restitution des biens<a id=167></a>
+##### Sous-section 2 : Conditions de la restitution des biens<a id=169></a>
 
 ###### Article R112-25
 
@@ -15231,7 +15325,7 @@ _Cite_:
   - Code du patrimoine. - art. L112-21 (V)
 
 
-##### Section 3 : Dispositions diverses<a id=168></a>
+##### Section 3 : Dispositions diverses<a id=170></a>
 
 ###### Article R112-27
 
@@ -15372,11 +15466,11 @@ _Nouveaux textes_:
   - Code du patrimoine - art. R112-32, v. 0.1 (V)
 
 
-#### Chapitre III : Prêts et dépôts<a id=169></a>
+#### Chapitre III : Prêts et dépôts<a id=171></a>
 
-##### Section 1 : Dispositions relatives aux prêts et dépôts des œuvres et objets d'art confiés à la garde du Centre national des arts plastiques<a id=170></a>
+##### Section 1 : Dispositions relatives aux prêts et dépôts des œuvres et objets d'art confiés à la garde du Centre national des arts plastiques<a id=172></a>
 
-##### Sous-section 1 : Dispositions communes<a id=171></a>
+##### Sous-section 1 : Dispositions communes<a id=173></a>
 
 ###### Article D113-2
 
@@ -15576,7 +15670,7 @@ _Cité par_:
   - Code du patrimoine - art. R770-3 (V)
 
 
-##### Sous-section 2 :  Dispositions spécifiques relatives aux prêts<a id=172></a>
+##### Sous-section 2 :  Dispositions spécifiques relatives aux prêts<a id=174></a>
 
 ###### Article D113-7
 
@@ -15634,7 +15728,7 @@ _Cite_:
   - Code du patrimoine - art. D113-2
 
 
-##### Sous-section 3 :  Dispositions spécifiques aux dépots<a id=173></a>
+##### Sous-section 3 :  Dispositions spécifiques aux dépots<a id=175></a>
 
 ###### Article D113-9
 
@@ -15748,7 +15842,7 @@ _Cite_:
   - Code du patrimoine - art. D113-2
 
 
-##### Section 2 : Dispositions relatives aux dépôts des collections du mobilier national<a id=174></a>
+##### Section 2 : Dispositions relatives aux dépôts des collections du mobilier national<a id=176></a>
 
 ###### Article D113-11
 
@@ -16058,7 +16152,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2016-1497 du 4 novembre 2016 - art. 3
 
 
-##### Section 3 : Dispositions diverses<a id=175></a>
+##### Section 3 : Dispositions diverses<a id=177></a>
 
 ###### Article D113-24
 
@@ -16274,7 +16368,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre IV : Dispositions pénales<a id=176></a>
+#### Chapitre IV : Dispositions pénales<a id=178></a>
 
 ###### Article R114-1
 
@@ -16761,7 +16855,7 @@ _Cite_:
   - Code du patrimoine. - art. R114-11 (V)
 
 
-#### Chapitre V : Commission scientifique nationale des collections<a id=177></a>
+#### Chapitre V : Commission scientifique nationale des collections<a id=179></a>
 
 ###### Article R115-1
 
@@ -16941,9 +17035,9 @@ _Cite_:
   - Code du patrimoine. - art. L115-1 (V)
 
 
-#### Chapitre VI : Fonds régionaux d'art contemporain<a id=178></a>
+#### Chapitre VI : Fonds régionaux d'art contemporain<a id=180></a>
 
-##### Section 1 : Attribution et retrait du label<a id=179></a>
+##### Section 1 : Attribution et retrait du label<a id=181></a>
 
 ###### Article R116-1
 
@@ -17040,7 +17134,7 @@ _Cite_:
   - Code du patrimoine - art. R116-4 (VD)
 
 
-##### Section 2 :  Enrichissement des collections des fonds régionaux d'art contemporain<a id=180></a>
+##### Section 2 :  Enrichissement des collections des fonds régionaux d'art contemporain<a id=182></a>
 
 ###### Article R116-4
 
@@ -17068,7 +17162,7 @@ _Cité par_:
   - Code du patrimoine - art. R116-3 (VD)
 
 
-##### Section 3 :  Gestion des collections des fonds régionaux d'art contemporain<a id=181></a>
+##### Section 3 :  Gestion des collections des fonds régionaux d'art contemporain<a id=183></a>
 
 ###### Article R116-5
 
@@ -17118,9 +17212,9 @@ _Créé par_:
   - Décret n°2017-432 du 28 mars 2017 - art. 9
 
 
-### TITRE II : ACQUISITION DE BIENS CULTURELS<a id=182></a>
+### TITRE II : ACQUISITION DE BIENS CULTURELS<a id=184></a>
 
-#### Chapitre Ier : Acquisition de biens culturels présentant le caractère de Trésor national et faisant l'objet d'un refus de certificat d'exportation<a id=183></a>
+#### Chapitre Ier : Acquisition de biens culturels présentant le caractère de Trésor national et faisant l'objet d'un refus de certificat d'exportation<a id=185></a>
 
 ###### Article R121-1
 
@@ -17314,7 +17408,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre II : Dispositions fiscales<a id=184></a>
+#### Chapitre II : Dispositions fiscales<a id=186></a>
 
 ###### Article D122-1
 
@@ -17405,7 +17499,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. -  VI : Taxe sur les métaux précieux, les bijoux, ... (V)
 
 
-#### Chapitre III : Préemption des œuvres d'art<a id=185></a>
+#### Chapitre III : Préemption des œuvres d'art<a id=187></a>
 
 ###### Article R123-1
 
@@ -17647,9 +17741,9 @@ _Cite_:
   - Code du patrimoine. - art. R123-6 (V)
 
 
-### TITRE III : DÉPÔT LÉGAL<a id=186></a>
+### TITRE III : DÉPÔT LÉGAL<a id=188></a>
 
-#### Chapitre Ier : Objectifs et champ d'application du dépôt légal<a id=187></a>
+#### Chapitre Ier : Objectifs et champ d'application du dépôt légal<a id=189></a>
 
 ###### Article R131-1
 
@@ -17853,11 +17947,11 @@ _Cité par_:
   - Code du patrimoine - art. R133-1 (V)
 
 
-#### Chapitre II : Modalités et organisation du dépôt légal<a id=188></a>
+#### Chapitre II : Modalités et organisation du dépôt légal<a id=190></a>
 
-##### Section 1 : Dépôt légal à la Bibliothèque nationale de France<a id=189></a>
+##### Section 1 : Dépôt légal à la Bibliothèque nationale de France<a id=191></a>
 
-##### Sous-section 1 : Dépôt des documents imprimés, graphiques et photographiques<a id=190></a>
+##### Sous-section 1 : Dépôt des documents imprimés, graphiques et photographiques<a id=192></a>
 
 ###### Article R132-1
 
@@ -17906,13 +18000,13 @@ application des sections 1, 2 et 3 du présent chapitre ;
 
 7° Les recueils de photocopies et de reproduction d'articles de presse ou d'autres textes ;
 
-8° Les réimpressions à l'identique après le dépôt initial.
+8° Les réimpressions à l'identique après le dépôt initial ;
+
+9° Les recueils des actes administratifs des services déconcentrés de l'Etat, des délégations territoriales de ses
+établissements publics nationaux, de ses établissements publics autres que nationaux, des collectivités territoriales et de
+leurs groupements.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-1429 du 31 décembre 1993 - art. 7 (Ab), alinéas 2 à 10.
 
 _Codifié par_:
 
@@ -17920,7 +18014,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1904 du 19 décembre 2011 - art. 3
+  - Décret n°2017-933 du 10 mai 2017 - art. 1
 
 _Cite_:
 
@@ -18071,7 +18165,7 @@ _Cité par_:
   - Code du patrimoine. - art. R133-1 (V)
 
 
-##### Sous-section 2 : Dépôt des logiciels et des bases de données<a id=191></a>
+##### Sous-section 2 : Dépôt des logiciels et des bases de données<a id=193></a>
 
 ###### Article R132-9
 
@@ -18226,7 +18320,7 @@ _Cité par_:
   - Code du patrimoine. - art. R133-1 (V)
 
 
-##### Sous-section 3 : Dépôt des phonogrammes, vidéogrammes  et documents multimédias<a id=192></a>
+##### Sous-section 3 : Dépôt des phonogrammes, vidéogrammes  et documents multimédias<a id=194></a>
 
 ###### Article R132-15
 
@@ -18448,7 +18542,7 @@ _Cité par_:
   - Code du patrimoine. - art. R133-1 (V)
 
 
-##### Sous-section 4 : Dépôt légal des services de communication au public par voie électronique<a id=193></a>
+##### Sous-section 4 : Dépôt légal des services de communication au public par voie électronique<a id=195></a>
 
 ###### Article R132-23
 
@@ -18533,7 +18627,7 @@ _Créé par_:
   - Décret n°2011-1904 du 19 décembre 2011 - art. 8
 
 
-##### Sous-section 5 : Dispositions diverses<a id=194></a>
+##### Sous-section 5 : Dispositions diverses<a id=196></a>
 
 ###### Article D132-23-3
 
@@ -18550,7 +18644,7 @@ _Cite_:
   - Code du patrimoine - art. Annexe 3 aux articles R. 113-1 (V)
 
 
-##### Section 2 : Dépôt légal au Centre national du cinéma  et de l'image animée<a id=195></a>
+##### Section 2 : Dépôt légal au Centre national du cinéma  et de l'image animée<a id=197></a>
 
 ###### Article R132-24
 
@@ -18849,7 +18943,7 @@ _Cité par_:
   - Code du patrimoine. - art. R133-1 (V)
 
 
-##### Section 3 : Dépôt légal à l'Institut national de l'audiovisuel<a id=196></a>
+##### Section 3 : Dépôt légal à l'Institut national de l'audiovisuel<a id=198></a>
 
 ###### Article R132-33
 
@@ -19265,7 +19359,7 @@ _Modifié par_:
   - Décret n°2011-1904 du 19 décembre 2011 - art. 19
 
 
-##### Section 5 : Dispositions diverses<a id=197></a>
+##### Section 5 : Dispositions diverses<a id=199></a>
 
 ###### Article R132-44
 
@@ -19309,7 +19403,7 @@ _Anciens textes_:
   - Code du patrimoine. - art. R132-49 (T)
 
 
-#### Chapitre III : Dispositions pénales<a id=198></a>
+#### Chapitre III : Dispositions pénales<a id=200></a>
 
 ###### Article R133-1
 
@@ -19373,11 +19467,11 @@ _Cite_:
   - Code du patrimoine - art. L133-1 (V)
 
 
-### TITRE IV : INSTITUTIONS RELATIVES  AU PATRIMOINE CULTUREL<a id=199></a>
+### TITRE IV : INSTITUTIONS RELATIVES  AU PATRIMOINE CULTUREL<a id=201></a>
 
-#### Chapitre Ier : Centre des monuments nationaux<a id=200></a>
+#### Chapitre Ier : Centre des monuments nationaux<a id=202></a>
 
-##### Section 1 : Dispositions générales<a id=201></a>
+##### Section 1 : Dispositions générales<a id=203></a>
 
 ###### Article R141-1
 
@@ -19673,7 +19767,7 @@ _Cité par_:
   - Code du patrimoine - art. R141-13 (V)
 
 
-##### Section 2 : Organisation administrative<a id=202></a>
+##### Section 2 : Organisation administrative<a id=204></a>
 
 ###### Article R141-10
 
@@ -19966,7 +20060,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 3 : Régime financier<a id=203></a>
+##### Section 3 : Régime financier<a id=205></a>
 
 ###### Article R141-17
 
@@ -20119,9 +20213,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre II : Cité de l'architecture et du patrimoine<a id=204></a>
+#### Chapitre II : Cité de l'architecture et du patrimoine<a id=206></a>
 
-##### Section 1 : Dispositions générales<a id=205></a>
+##### Section 1 : Dispositions générales<a id=207></a>
 
 ###### Article R142-1
 
@@ -20260,7 +20354,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 2 : Organisation et fonctionnement<a id=206></a>
+##### Section 2 : Organisation et fonctionnement<a id=208></a>
 
 ###### Article R142-5
 
@@ -20796,7 +20890,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 3 : Régime financier<a id=207></a>
+##### Section 3 : Régime financier<a id=209></a>
 
 ###### Article R142-22
 
@@ -20904,7 +20998,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 4 : Dispositions diverses<a id=208></a>
+##### Section 4 : Dispositions diverses<a id=210></a>
 
 ###### Article R142-27
 
@@ -20960,7 +21054,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre III : Fondation du patrimoine<a id=209></a>
+#### Chapitre III : Fondation du patrimoine<a id=211></a>
 
 ###### Article R143-1
 
@@ -20986,7 +21080,7 @@ _Cite_:
   - Code du patrimoine - art. Annexe 5-1 à l'article R. 143-1 (V)
 
 
-#### Chapitre IV : Conseil national de l'inventaire général  du patrimoine culturel<a id=210></a>
+#### Chapitre IV : Conseil national de l'inventaire général  du patrimoine culturel<a id=212></a>
 
 ###### Article D144-1
 
@@ -21207,15 +21301,15 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-## LIVRE II : ARCHIVES<a id=211></a>
+## LIVRE II : ARCHIVES<a id=213></a>
 
-### TITRE Ier : RÉGIME GÉNÉRAL DES ARCHIVES<a id=212></a>
+### TITRE Ier : RÉGIME GÉNÉRAL DES ARCHIVES<a id=214></a>
 
-#### Chapitre II : Collecte, conservation et protection<a id=213></a>
+#### Chapitre II : Collecte, conservation et protection<a id=215></a>
 
-##### Section 1 : Archives publiques<a id=214></a>
+##### Section 1 : Archives publiques<a id=216></a>
 
-##### Sous-section 1 : Dispositions générales<a id=215></a>
+##### Sous-section 1 : Dispositions générales<a id=217></a>
 
 ###### Article R212-1
 
@@ -21491,7 +21585,7 @@ _Cite_:
   - Code du patrimoine. - art. L212-1 (V)
 
 
-##### Paragraphe 1 : Organisation des services d'archives<a id=216></a>
+##### Paragraphe 1 : Organisation des services d'archives<a id=218></a>
 
 ###### Article R212-8
 
@@ -21554,7 +21648,7 @@ _Cité par_:
   - Code du patrimoine. - art. R730-1 (V)
 
 
-##### Paragraphe 2 : Collecte et conservation des archives publiques<a id=217></a>
+##### Paragraphe 2 : Collecte et conservation des archives publiques<a id=219></a>
 
 ###### Article R212-10
 
@@ -21920,7 +22014,7 @@ _Cité par_:
   - Code du patrimoine - art. R212-18-1 (V)
 
 
-##### Paragraphe 3 : Dépôt d'archives publiques courantes et intermédiaires  auprès de personnes agréées<a id=218></a>
+##### Paragraphe 3 : Dépôt d'archives publiques courantes et intermédiaires  auprès de personnes agréées<a id=220></a>
 
 ###### Article R212-19
 
@@ -22391,7 +22485,7 @@ _Cite_:
   - Code du patrimoine. - art. L212-4 (V)
 
 
-##### Paragraphe 4 : Sanction administrative prévue à l'article L. 214-10<a id=219></a>
+##### Paragraphe 4 : Sanction administrative prévue à l'article L. 214-10<a id=221></a>
 
 ###### Article R212-32
 
@@ -22539,7 +22633,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 2 : Archives du Conseil constitutionnel<a id=220></a>
+##### Sous-section 2 : Archives du Conseil constitutionnel<a id=222></a>
 
 ###### Article R*212-38
 
@@ -22881,9 +22975,9 @@ _Cite_:
   - Code du patrimoine. - art. L214-10 (V)
 
 
-##### Sous-section 3 : Archives des collectivités territoriales<a id=221></a>
+##### Sous-section 3 : Archives des collectivités territoriales<a id=223></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=222></a>
+##### Paragraphe 1 : Dispositions générales<a id=224></a>
 
 ###### Article R212-49
 
@@ -23077,7 +23171,7 @@ _Modifié par_:
   - Décret n°2017-719 du 2 mai 2017 - art. 5
 
 
-##### Paragraphe 2 : Dépôt des archives communales<a id=223></a>
+##### Paragraphe 2 : Dépôt des archives communales<a id=225></a>
 
 ###### Article R212-57
 
@@ -23198,11 +23292,14 @@ _Cite_:
   - Code du patrimoine. - art. L212-13 (V)
 
 
-##### Paragraphe 3 : Archives départementales et régionales  et de la collectivité territoriale de Corse<a id=224></a>
+##### Paragraphe 3 : Archives départementales et régionales  et de la collectivité territoriale de Corse<a id=226></a>
+
+##### Paragraphe 3 : Archives départementales et régionales et de la   collectivité de Corse<a id=227></a>
 
 ###### Article R212-62
 
-Les archives départementales conservent, trient, inventorient et communiquent :
+Les archives départementales et le service d'archives de la collectivité de Corse conservent, trient, inventorient et
+communiquent :
 
 1° Les documents provenant des administrations, tribunaux, établissements et organismes de toute nature, antérieurs à la
 Révolution française, qui leur ont été attribués par la loi ;
@@ -23222,23 +23319,19 @@ département ;
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code général des collectivités territoriales - art. R1421-14 (Ab)
+  - Décret n°2017-1876 du 29 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code du patrimoine - art. L212-12 (V)
-  - Code du patrimoine - art. R212-63 (V)
-  - Code du patrimoine. - art. L212-11 (V)
+  - Code du patrimoine - art. L212-11
+  - Code du patrimoine - art. L212-12
+  - Code du patrimoine - art. R212-63
 
 _Cité par_:
 
@@ -23278,8 +23371,8 @@ _Cite_:
 
 ###### Article R212-64
 
-Les archives régionales et celles de la collectivité de Corse conservent, trient, classent, inventorient et communiquent,
-sous réserve des dispositions de l'article L. 212-6 :
+Les archives régionales conservent, trient, classent, inventorient et communiquent, sous réserve des dispositions de
+l'article L. 212-6 :
 
 1° Les documents provenant des assemblées, administrations et établissements publics régionaux ;
 
@@ -23287,24 +23380,20 @@ sous réserve des dispositions de l'article L. 212-6 :
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code général des collectivités territoriales - art. R1421-16 (Ab)
+  - Décret n°2017-1876 du 29 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code du patrimoine - art. L212-6 (VT)
+  - Code du patrimoine - art. L212-6
 
 
-##### Sous-section 4 : Archives de la défense<a id=225></a>
+##### Sous-section 4 : Archives de la défense<a id=228></a>
 
 ###### Article R212-65
 
@@ -23478,7 +23567,7 @@ _Cité par_:
   - Arrêté du 28 février 2013 - art. 1 (V)
 
 
-##### Sous-section 5 : Archives des affaires étrangères<a id=226></a>
+##### Sous-section 5 : Archives des affaires étrangères<a id=229></a>
 
 ###### Article R212-71
 
@@ -23674,9 +23763,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 2 : Archives privées<a id=227></a>
+##### Section 2 : Archives privées<a id=230></a>
 
-##### Sous-section 1 : Classement comme archives historiques<a id=228></a>
+##### Sous-section 1 : Classement comme archives historiques<a id=231></a>
 
 ###### Article R212-78
 
@@ -24057,7 +24146,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 3 : Droit de préemption<a id=229></a>
+##### Sous-section 3 : Droit de préemption<a id=232></a>
 
 ###### Article R212-91
 
@@ -24165,7 +24254,7 @@ _Cite_:
   - Code du patrimoine - art. L212-32
 
 
-##### Sous-section 4 : Dispositions diverses<a id=230></a>
+##### Sous-section 4 : Dispositions diverses<a id=233></a>
 
 ###### Article R212-94
 
@@ -24187,9 +24276,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre III : Régime de communication<a id=231></a>
+#### Chapitre III : Régime de communication<a id=234></a>
 
-##### Section 1 : Dispositions générales<a id=232></a>
+##### Section 1 : Dispositions générales<a id=235></a>
 
 ###### Article D213-10
 
@@ -24470,9 +24559,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 2 : Dispositions particulières<a id=233></a>
+##### Section 2 : Dispositions particulières<a id=236></a>
 
-##### Sous-section 1 : Ministère de la défense<a id=234></a>
+##### Sous-section 1 : Ministère de la défense<a id=237></a>
 
 ###### Article R213-11
 
@@ -24514,7 +24603,7 @@ _Cite_:
   - Code du patrimoine. - art. L213-3 (V)
 
 
-##### Sous-section 2 : Ministère des affaires étrangères<a id=235></a>
+##### Sous-section 2 : Ministère des affaires étrangères<a id=238></a>
 
 ###### Article R213-12
 
@@ -24566,11 +24655,11 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-### TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE<a id=236></a>
+### TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE<a id=239></a>
 
-#### Chapitre Ier : Constitution<a id=237></a>
+#### Chapitre Ier : Constitution<a id=240></a>
 
-##### Section 1 : Décision d'enregistrement des audiences<a id=238></a>
+##### Section 1 : Décision d'enregistrement des audiences<a id=241></a>
 
 ###### Article R221-1
 
@@ -24731,7 +24820,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 3 : Réalisation des enregistrements<a id=239></a>
+##### Section 3 : Réalisation des enregistrements<a id=242></a>
 
 ###### Article D221-14
 
@@ -24815,7 +24904,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre II : Communication et reproduction<a id=240></a>
+#### Chapitre II : Communication et reproduction<a id=243></a>
 
 ###### Article R222-1
 
@@ -24919,9 +25008,9 @@ _Cite_:
   - Code de procédure civile - art. 540 (M)
 
 
-## LIVRE III : BIBLIOTHÈQUES<a id=241></a>
+## LIVRE III : BIBLIOTHÈQUES<a id=244></a>
 
-### TITRE Ier : BIBLIOTHÈQUES MUNICIPALES<a id=242></a>
+### TITRE Ier : BIBLIOTHÈQUES MUNICIPALES<a id=245></a>
 
 ###### Article R310-1
 
@@ -25312,15 +25401,17 @@ _Anciens textes_:
   - Code général des collectivités territoriales - art. R1614-75 (V)
 
 
-### TITRE II : BIBLIOTHÈQUES DÉPARTEMENTALES ET RÉGIONALES  ET DE LA COLLECTIVITÉ TERRITORIALE DE CORSE<a id=243></a>
+### TITRE II : BIBLIOTHÈQUES DÉPARTEMENTALES ET RÉGIONALES  ET DE LA COLLECTIVITÉ TERRITORIALE DE CORSE<a id=246></a>
+
+### TITRE II : BIBLIOTHÈQUES DÉPARTEMENTALES ET RÉGIONALES  ET DE LA COLLECTIVITÉ DE CORSE<a id=247></a>
 
 ###### Article R320-1
 
-Les dispositions des articles R. 310-4 à R. 310-13 sont applicables aux départements, aux régions et à la collectivité
-territoriale de Corse.
+Les dispositions des articles R. 310-4 à R. 310-13 sont applicables aux départements, aux régions et à la   collectivité de
+Corse. 
 
 Les attributions dévolues au préfet par les articles R. 310-4 à R. 310-11 sont exercées, en ce qui concerne les régions, par
-le préfet de région.
+le préfet de région. 
 
 Les attributions dévolues au maire sont exercées selon le cas par le président du conseil départemental ou du conseil
 régional ou, en Corse, par le président du conseil exécutif.
@@ -25337,7 +25428,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+  - Décret n°2017-1777 du 27 décembre 2017 - art. 1 (V)
 
 _Cite_:
 
@@ -25365,13 +25456,13 @@ _Cite_:
   - Code général des collectivités territoriales -  Sous-section 5 : Bibliothèques (R) (V)
 
 
-## LIVRE IV : MUSÉES<a id=244></a>
+## LIVRE IV : MUSÉES<a id=248></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=245></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=249></a>
 
-#### Chapitre unique : Dispositions communes aux musées de France  relevant de l'Etat<a id=246></a>
+#### Chapitre unique : Dispositions communes aux musées de France  relevant de l'Etat<a id=250></a>
 
-##### Section unique : Tarifs et organisation des visites<a id=247></a>
+##### Section unique : Tarifs et organisation des visites<a id=251></a>
 
 ###### Article R411-1
 
@@ -25430,9 +25521,9 @@ _Cite_:
   - Code du tourisme. - art. R221-1 (V)
 
 
-### TITRE II : MUSÉES NATIONAUX<a id=248></a>
+### TITRE II : MUSÉES NATIONAUX<a id=252></a>
 
-#### Chapitre Ier : Musées nationaux relevant du ministère  chargé de la culture<a id=249></a>
+#### Chapitre Ier : Musées nationaux relevant du ministère  chargé de la culture<a id=253></a>
 
 ###### Article D421-5
 
@@ -25612,9 +25703,9 @@ _Anciens textes_:
   - Code du patrimoine. - art. D421-4 (T)
 
 
-#### Chapitre II : Conseil et expertise<a id=250></a>
+#### Chapitre II : Conseil et expertise<a id=254></a>
 
-##### Section 1 : Grands départements patrimoniaux<a id=251></a>
+##### Section 1 : Grands départements patrimoniaux<a id=255></a>
 
 ###### Article R422-1
 
@@ -25717,9 +25808,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 2 : Instances consultatives<a id=252></a>
+##### Section 2 : Instances consultatives<a id=256></a>
 
-##### Sous-section 1 : La Commission scientifique des musées nationaux<a id=253></a>
+##### Sous-section 1 : La Commission scientifique des musées nationaux<a id=257></a>
 
 ###### Article D422-4
 
@@ -25758,7 +25849,7 @@ _Cite_:
   - Code du patrimoine - art. R423-7 (V)
 
 
-##### Sous-section 2 : Le Conseil artistique des musées nationaux<a id=254></a>
+##### Sous-section 2 : Le Conseil artistique des musées nationaux<a id=258></a>
 
 ###### Article D422-6
 
@@ -25943,9 +26034,9 @@ _Cite_:
   - Code du patrimoine - art. D423-2 (V)
 
 
-#### Chapitre III : Statut des collections des musées nationaux<a id=255></a>
+#### Chapitre III : Statut des collections des musées nationaux<a id=259></a>
 
-##### Section 1 : Acquisitions<a id=256></a>
+##### Section 1 : Acquisitions<a id=260></a>
 
 ###### Article D423-2
 
@@ -26088,7 +26179,7 @@ _Cité par_:
   - Code du patrimoine - art. R423-1 (V)
 
 
-##### Section 2 : Prêts et dépôts<a id=257></a>
+##### Section 2 : Prêts et dépôts<a id=261></a>
 
 ###### Article D423-6
 
@@ -26446,7 +26537,7 @@ _Cite_:
   - Code du patrimoine. - art. L442-8 (V)
 
 
-### TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE<a id=258></a>
+### TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE<a id=262></a>
 
 ###### Article R430-1
 
@@ -26652,11 +26743,11 @@ _Cite_:
   - Code du patrimoine. - art. L452-2 (V)
 
 
-### TITRE IV : RÉGIME DES MUSÉES DE FRANCE<a id=259></a>
+### TITRE IV : RÉGIME DES MUSÉES DE FRANCE<a id=263></a>
 
-#### Chapitre II : Appellation "musée de France"<a id=260></a>
+#### Chapitre II : Appellation "musée de France"<a id=264></a>
 
-##### Section 1 : Conditions d'attribution et de retrait  de l'appellation "musée de France"<a id=261></a>
+##### Section 1 : Conditions d'attribution et de retrait  de l'appellation "musée de France"<a id=265></a>
 
 ###### Article R442-1
 
@@ -26778,9 +26869,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 2 : Dispositions générales liées à l'appellation  "musée de France"<a id=262></a>
+##### Section 2 : Dispositions générales liées à l'appellation  "musée de France"<a id=266></a>
 
-##### Sous-section 1 : Qualification des personnels<a id=263></a>
+##### Sous-section 1 : Qualification des personnels<a id=267></a>
 
 ###### Article R442-5
 
@@ -27159,7 +27250,7 @@ _Cite_:
   - Code du patrimoine - art. R442-10 (V)
 
 
-##### Sous-section 2 : Réseaux et conventions<a id=264></a>
+##### Sous-section 2 : Réseaux et conventions<a id=268></a>
 
 ###### Article D442-12
 
@@ -27186,7 +27277,7 @@ _Cite_:
   - Code du patrimoine. - art. L441-2 (V)
 
 
-##### Sous-section 3 : Contrôle scientifique et technique<a id=265></a>
+##### Sous-section 3 : Contrôle scientifique et technique<a id=269></a>
 
 ###### Article D442-13
 
@@ -27280,13 +27371,13 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-### TITRE V : COLLECTIONS DES MUSÉES DE FRANCE<a id=266></a>
+### TITRE V : COLLECTIONS DES MUSÉES DE FRANCE<a id=270></a>
 
-#### Chapitre Ier : Statut des collections<a id=267></a>
+#### Chapitre Ier : Statut des collections<a id=271></a>
 
-##### Section 1 : Acquisitions<a id=268></a>
+##### Section 1 : Acquisitions<a id=272></a>
 
-##### Sous-section 1 : Dispositions générales<a id=269></a>
+##### Sous-section 1 : Dispositions générales<a id=273></a>
 
 ###### Article D451-1
 
@@ -27350,7 +27441,7 @@ _Cité par_:
   - Code du patrimoine. - art. D452-8 (V)
 
 
-##### Sous-section 2 : Dispositions applicables à la Commission scientifique nationale  des musées de France<a id=270></a>
+##### Sous-section 2 : Dispositions applicables à la Commission scientifique nationale  des musées de France<a id=274></a>
 
 ###### Article D451-4
 
@@ -27556,7 +27647,7 @@ _Cité par_:
   - Code du patrimoine - art. R790-5 (V)
 
 
-##### Sous-section 3 : Dispositions particulières aux commissions scientifiques  régionales ou interrégionales<a id=271></a>
+##### Sous-section 3 : Dispositions particulières aux commissions scientifiques  régionales ou interrégionales<a id=275></a>
 
 ###### Article D451-9
 
@@ -27806,7 +27897,7 @@ _Cité par_:
   - Code du patrimoine - art. D452-8 (V)
 
 
-##### Sous-section 4 : Dispositions communes aux commissions scientifiques<a id=272></a>
+##### Sous-section 4 : Dispositions communes aux commissions scientifiques<a id=276></a>
 
 ###### Article D451-13
 
@@ -27879,9 +27970,9 @@ _Cité par_:
   - Code du patrimoine - art. D452-9 (V)
 
 
-##### Section 2 : Affectation et propriété des collections<a id=273></a>
+##### Section 2 : Affectation et propriété des collections<a id=277></a>
 
-##### Sous-section 1 : Dispositions générales<a id=274></a>
+##### Sous-section 1 : Dispositions générales<a id=278></a>
 
 ###### Article D451-15
 
@@ -27904,7 +27995,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Paragraphe unique : Normes techniques relatives à la tenue de l'inventaire  et du registre des dépôts<a id=275></a>
+##### Paragraphe unique : Normes techniques relatives à la tenue de l'inventaire  et du registre des dépôts<a id=279></a>
 
 ###### Article D451-16
 
@@ -28082,7 +28173,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 2 : Collections publiques<a id=276></a>
+##### Sous-section 2 : Collections publiques<a id=280></a>
 
 ###### Article D451-22
 
@@ -28166,7 +28257,7 @@ _Cite_:
   - Code du patrimoine. - art. L451-9 (V)
 
 
-##### Sous-section 3 : Collections privées<a id=277></a>
+##### Sous-section 3 : Collections privées<a id=281></a>
 
 ###### Article R451-25
 
@@ -28189,9 +28280,9 @@ _Cite_:
   - Code du patrimoine. - art. L451-10 (V)
 
 
-##### Section 3 : Prêts et dépôts<a id=278></a>
+##### Section 3 : Prêts et dépôts<a id=282></a>
 
-##### Sous-section 1 : Prêts et dépôts consentis par les musées<a id=279></a>
+##### Sous-section 1 : Prêts et dépôts consentis par les musées<a id=283></a>
 
 ###### Article R451-26
 
@@ -28272,7 +28363,7 @@ _Cite_:
   - Code du patrimoine - art. L452-1 (V)
 
 
-##### Sous-section 2 : Dépôts consentis par des personnes privées  aux musées de France<a id=280></a>
+##### Sous-section 2 : Dépôts consentis par des personnes privées  aux musées de France<a id=284></a>
 
 ###### Article R451-29
 
@@ -28407,7 +28498,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 3 : Conditions d'attribution et de retrait des labels “ Pôle national de référence ” et “ Pôle national de référence numérique ”<a id=281></a>
+##### Sous-section 3 : Conditions d'attribution et de retrait des labels “ Pôle national de référence ” et “ Pôle national de référence numérique ”<a id=285></a>
 
 ###### Article R451-35
 
@@ -28525,9 +28616,9 @@ _Créé par_:
   - Décret n°2017-469 du 31 mars 2017 - art. 1
 
 
-#### Chapitre II : Conservation et restauration<a id=282></a>
+#### Chapitre II : Conservation et restauration<a id=286></a>
 
-##### Section 1 : Dispositions générales<a id=283></a>
+##### Section 1 : Dispositions générales<a id=287></a>
 
 ###### Article R452-1
 
@@ -28574,7 +28665,7 @@ _Cite_:
   - Code du patrimoine. - art. L452-2 (V)
 
 
-##### Section 2 : Instances scientifiques compétentes en matière de restauration<a id=284></a>
+##### Section 2 : Instances scientifiques compétentes en matière de restauration<a id=288></a>
 
 ###### Article D452-3
 
@@ -28773,7 +28864,7 @@ _Cité par_:
   - Code du patrimoine - art. D452-7 (V)
 
 
-##### Section 3 : Qualifications requises en matière de restauration<a id=285></a>
+##### Section 3 : Qualifications requises en matière de restauration<a id=289></a>
 
 ###### Article R452-10
 
@@ -28981,13 +29072,13 @@ _Cite_:
   - Code du patrimoine - art. R452-11
 
 
-## LIVRE V : ARCHÉOLOGIE<a id=286></a>
+## LIVRE V : ARCHÉOLOGIE<a id=290></a>
 
-### TITRE II : ARCHÉOLOGIE PRÉVENTIVE<a id=287></a>
+### TITRE II : ARCHÉOLOGIE PRÉVENTIVE<a id=291></a>
 
-#### Chapitre II : Répartition des compétences :  Etat et collectivités territoriales<a id=288></a>
+#### Chapitre II : Répartition des compétences :  Etat et collectivités territoriales<a id=292></a>
 
-##### Section 1 : Rôle de l'Etat<a id=289></a>
+##### Section 1 : Rôle de l'Etat<a id=293></a>
 
 ###### Article R522-1
 
@@ -29012,7 +29103,7 @@ _Modifié par_:
   - Décret n°2017-925 du 9 mai 2017 - art. 2
 
 
-##### Section 3 : Carte archéologique nationale<a id=290></a>
+##### Section 3 : Carte archéologique nationale<a id=294></a>
 
 ###### Article R522-3
 
@@ -29118,9 +29209,9 @@ _Cite_:
   - Code du patrimoine. - art. L522-5 (V)
 
 
-##### Section 4 : Agrément des opérateurs d'archéologie préventive<a id=291></a>
+##### Section 4 : Agrément des opérateurs d'archéologie préventive<a id=295></a>
 
-##### Sous-section 2<a id=292></a>
+##### Sous-section 2<a id=296></a>
 
 ###### Article R522-8
 
@@ -29140,7 +29231,7 @@ _Modifié par_:
   - Décret n°2017-925 du 9 mai 2017 - art. 4
 
 
-##### Sous-section 3<a id=293></a>
+##### Sous-section 3<a id=297></a>
 
 ###### Article R522-9
 
@@ -29373,7 +29464,7 @@ _Cite_:
   - Code du patrimoine - art. R523-61 (V)
 
 
-##### Section 5 : Habilitation des services archéologiques de collectivités territoriales<a id=294></a>
+##### Section 5 : Habilitation des services archéologiques de collectivités territoriales<a id=298></a>
 
 ###### Article R522-14
 
@@ -29598,9 +29689,9 @@ _Cite_:
   - Code du patrimoine - art. R523-61 (V)
 
 
-#### Chapitre III : Mise en œuvre des opérations d'archéologie préventive<a id=295></a>
+#### Chapitre III : Mise en œuvre des opérations d'archéologie préventive<a id=299></a>
 
-##### Section 1 : Champ d'application<a id=296></a>
+##### Section 1 : Champ d'application<a id=300></a>
 
 ###### Article R523-1
 
@@ -29878,7 +29969,7 @@ _Cite_:
   - Code du patrimoine - art. R523-7 (V)
 
 
-##### Section 2 : Modes de saisine<a id=297></a>
+##### Section 2 : Modes de saisine<a id=301></a>
 
 ###### Article R523-9
 
@@ -30106,7 +30197,7 @@ _Cite_:
   - Code du patrimoine - art. R523-15 (V)
 
 
-##### Section 3 : Mesures d'archéologie préventive<a id=298></a>
+##### Section 3 : Mesures d'archéologie préventive<a id=302></a>
 
 ###### Article R523-15
 
@@ -30180,7 +30271,7 @@ _Cite_:
   - Code du patrimoine - art. R523-1 (V)
 
 
-##### Section 4 : Régime des prescriptions<a id=299></a>
+##### Section 4 : Régime des prescriptions<a id=303></a>
 
 ###### Article R523-17
 
@@ -30349,7 +30440,7 @@ _Cite_:
   - Code du patrimoine - art. R523-15
 
 
-##### Section 5 : Responsabilité scientifique des opérations<a id=300></a>
+##### Section 5 : Responsabilité scientifique des opérations<a id=304></a>
 
 ###### Article R523-22
 
@@ -30373,9 +30464,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 6 : Mise en œuvre des diagnostics<a id=301></a>
+##### Section 6 : Mise en œuvre des diagnostics<a id=305></a>
 
-##### Sous-section 1 : Le contenu des prescriptions de diagnostic<a id=302></a>
+##### Sous-section 1 : Le contenu des prescriptions de diagnostic<a id=306></a>
 
 ###### Article R523-23
 
@@ -30408,7 +30499,7 @@ _Cite_:
   - Code du patrimoine - art. R523-15 (V)
 
 
-##### Sous-section 2 : La désignation de l'opérateur chargé du diagnostic<a id=303></a>
+##### Sous-section 2 : La désignation de l'opérateur chargé du diagnostic<a id=307></a>
 
 ###### Article R523-24
 
@@ -30535,15 +30626,15 @@ _Cité par_:
 ###### Article R523-29
 
 A l'expiration des délais mentionnés aux articles R. 523-26 et R. 523-28, le préfet de région notifie l'attribution du
-diagnostic à l'opérateur compétent et informe l'aménageur de l'identité de celui-ci.
+diagnostic à l'opérateur compétent et informe l'aménageur de l'identité de celui-ci. 
 
-Sous réserve des dispositions de l'article R. 523-28, l'opérateur compétent est par ordre de priorité :
+Sous réserve des dispositions de l'article R. 523-28, l'opérateur compétent est par ordre de priorité : 
 
-1° La commune ou le groupement auquel la compétence a été transférée ;
+1° La commune ou le groupement auquel la compétence a été transférée ; 
 
-2° Le département, l'institution interdépartementale ou l'organisme interdépartemental ;
+2° Le département, l'institution interdépartementale ou l'organisme interdépartemental ; 
 
-3° La région ou l'entente interrégionale ou, en Corse, la collectivité territoriale de Corse ;
+3° La région ou l'entente interrégionale ou, en Corse, la   collectivité de Corse ; 
 
 4° L'Institut national de recherches archéologiques préventives.
 
@@ -30555,15 +30646,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-925 du 9 mai 2017 - art. 8
+  - Décret n°2017-1777 du 27 décembre 2017 - art. 1 (V)
 
 _Cite_:
 
-  - Code du patrimoine - art. R523-26 (V)
+  - Code du patrimoine - art. R523-26
   - Code du patrimoine - art. R523-28
 
 
-##### Sous-section 3 : Les conditions de réalisation du diagnostic<a id=304></a>
+##### Sous-section 3 : Les conditions de réalisation du diagnostic<a id=308></a>
 
 ###### Article R523-30
 
@@ -30784,9 +30875,9 @@ _Cite_:
   - Code du patrimoine - art. R523-15
 
 
-##### Section 7 : Mise en œuvre des fouilles<a id=305></a>
+##### Section 7 : Mise en œuvre des fouilles<a id=309></a>
 
-##### Sous-section 1 : Le contenu des prescriptions de fouilles<a id=306></a>
+##### Sous-section 1 : Le contenu des prescriptions de fouilles<a id=310></a>
 
 ###### Article R523-39
 
@@ -30829,7 +30920,7 @@ _Cite_:
   - Code du patrimoine - art. R523-21 (V)
 
 
-##### Sous-section 2 : Les conditions de réalisation des fouilles<a id=307></a>
+##### Sous-section 2 : Les conditions de réalisation des fouilles<a id=311></a>
 
 ###### Article R523-40
 
@@ -31196,7 +31287,7 @@ _Cité par_:
   - Code du patrimoine - art. R523-52 (V)
 
 
-##### Sous-section 3 : La procédure d'arbitrage<a id=308></a>
+##### Sous-section 3 : La procédure d'arbitrage<a id=312></a>
 
 ###### Article R523-52
 
@@ -31371,7 +31462,7 @@ _Cite_:
   - Code du patrimoine - art. R523-57 (V)
 
 
-##### Sous-section 4 : Achèvement des fouilles<a id=309></a>
+##### Sous-section 4 : Achèvement des fouilles<a id=313></a>
 
 ###### Article R523-59
 
@@ -31401,7 +31492,7 @@ _Cité par_:
   - Code du patrimoine. - art. R524-31 (V)
 
 
-##### Section 8 : Le contrôle scientifique et technique des opérations d'archéologie préventive<a id=310></a>
+##### Section 8 : Le contrôle scientifique et technique des opérations d'archéologie préventive<a id=314></a>
 
 ###### Article R523-60
 
@@ -31472,9 +31563,9 @@ _Cité par_:
   - Code du patrimoine - art. R545-17 (V)
 
 
-#### Chapitre IV : Financement de l'archéologie préventive<a id=311></a>
+#### Chapitre IV : Financement de l'archéologie préventive<a id=315></a>
 
-##### Section 1 : Dispositions relatives  à la redevance d'archéologie préventive<a id=312></a>
+##### Section 1 : Dispositions relatives  à la redevance d'archéologie préventive<a id=316></a>
 
 ###### Article R524-3
 
@@ -31657,9 +31748,9 @@ _Cite_:
   - Code du patrimoine. - art. L524-7 (V)
 
 
-##### Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive<a id=313></a>
+##### Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive<a id=317></a>
 
-##### Sous-section 2 : Les subventions du Fonds national  pour l'archéologie préventive<a id=314></a>
+##### Sous-section 2 : Les subventions du Fonds national  pour l'archéologie préventive<a id=318></a>
 
 ###### Article R524-17
 
@@ -31835,7 +31926,7 @@ _Cite_:
   - Code du patrimoine. - art. R523-59 (V)
 
 
-##### Sous-section 3 : La prise en charge des fouilles<a id=315></a>
+##### Sous-section 3 : La prise en charge des fouilles<a id=319></a>
 
 ###### Article R524-24
 
@@ -32161,7 +32252,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 3 : Dispositions relatives aux subventions accordées aux services des collectivités territoriales<a id=316></a>
+##### Section 3 : Dispositions relatives aux subventions accordées aux services des collectivités territoriales<a id=320></a>
 
 ###### Article R524-34
 
@@ -32229,11 +32320,11 @@ _Créé par_:
   - Décret n°2016-1485 du 2 novembre 2016 - art. 1
 
 
-### TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES<a id=317></a>
+### TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES<a id=321></a>
 
-#### Chapitre Ier : Archéologie terrestre et subaquatique<a id=318></a>
+#### Chapitre Ier : Archéologie terrestre et subaquatique<a id=322></a>
 
-##### Section 1 : Autorisation de fouilles par l'Etat<a id=319></a>
+##### Section 1 : Autorisation de fouilles par l'Etat<a id=323></a>
 
 ###### Article R531-1
 
@@ -32317,7 +32408,7 @@ _Cite_:
   - Code du patrimoine - art. R531-1 (V)
 
 
-##### Section 2 : Exécution de fouilles par l'Etat<a id=320></a>
+##### Section 2 : Exécution de fouilles par l'Etat<a id=324></a>
 
 ###### Article R531-5
 
@@ -32396,7 +32487,7 @@ _Cite_:
   - Code du patrimoine. - art. L531-13 (V)
 
 
-##### Section 3 : Découvertes fortuites<a id=321></a>
+##### Section 3 : Découvertes fortuites<a id=325></a>
 
 ###### Article R531-8
 
@@ -32438,9 +32529,9 @@ _Cite_:
   - Code du patrimoine. - art. L531-15 (V)
 
 
-#### Chapitre II : Biens culturels maritimes<a id=322></a>
+#### Chapitre II : Biens culturels maritimes<a id=326></a>
 
-##### Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes<a id=323></a>
+##### Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes<a id=327></a>
 
 ###### Article R532-1
 
@@ -32560,7 +32651,7 @@ _Cite_:
   - Code du patrimoine. - art. L532-6 (V)
 
 
-##### Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2<a id=324></a>
+##### Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2<a id=328></a>
 
 ###### Article R532-5
 
@@ -32601,7 +32692,7 @@ _Cite_:
   - Code du patrimoine. - art. L532-2 (V)
 
 
-##### Section 3 : Recherche archéologique sous-marine<a id=325></a>
+##### Section 3 : Recherche archéologique sous-marine<a id=329></a>
 
 ###### Article R532-6
 
@@ -32998,11 +33089,11 @@ _Cité par_:
   - Code du patrimoine. - art. R740-11 (V)
 
 
-### TITRE IV : DISPOSITIONS DIVERSES<a id=326></a>
+### TITRE IV : DISPOSITIONS DIVERSES<a id=330></a>
 
-#### Chapitre Ier : Régime de propriété du patrimoine archéologique<a id=327></a>
+#### Chapitre Ier : Régime de propriété du patrimoine archéologique<a id=331></a>
 
-##### Section 1 : Biens archéologiques immobiliers<a id=328></a>
+##### Section 1 : Biens archéologiques immobiliers<a id=332></a>
 
 ###### Article R541-1
 
@@ -33168,9 +33259,9 @@ _Créé par_:
   - Décret n°2017-925 du 9 mai 2017 - art. 12
 
 
-##### Section 2 : Biens archéologiques mobiliers<a id=329></a>
+##### Section 2 : Biens archéologiques mobiliers<a id=333></a>
 
-##### Sous-section 1 : Propriété<a id=330></a>
+##### Sous-section 1 : Propriété<a id=334></a>
 
 ###### Article R541-8
 
@@ -33224,7 +33315,7 @@ _Créé par_:
   - Décret n°2017-925 du 9 mai 2017 - art. 12
 
 
-##### Sous-section 2 :  Ensemble archéologique mobilier et aliénation des biens mobiliers<a id=331></a>
+##### Sous-section 2 :  Ensemble archéologique mobilier et aliénation des biens mobiliers<a id=335></a>
 
 ###### Article R541-12
 
@@ -33277,7 +33368,7 @@ _Créé par_:
   - Décret n°2017-925 du 9 mai 2017 - art. 12
 
 
-##### Section 3 :  Transfert et droit de revendication<a id=332></a>
+##### Section 3 :  Transfert et droit de revendication<a id=336></a>
 
 ###### Article R541-15
 
@@ -33362,7 +33453,7 @@ _Créé par_:
   - Décret n°2017-925 du 9 mai 2017 - art. 12
 
 
-##### Section 4 :  Dispositions diverses<a id=333></a>
+##### Section 4 :  Dispositions diverses<a id=337></a>
 
 ###### Article R541-21
 
@@ -33381,7 +33472,7 @@ _Créé par_:
   - Décret n°2017-925 du 9 mai 2017 - art. 12
 
 
-#### Chapitre II : Utilisation des détecteurs de métaux<a id=334></a>
+#### Chapitre II : Utilisation des détecteurs de métaux<a id=338></a>
 
 ###### Article R542-1
 
@@ -33439,9 +33530,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre IV : Dispositions pénales<a id=335></a>
+#### Chapitre IV : Dispositions pénales<a id=339></a>
 
-##### Section 1 : Dispositions relatives aux biens culturels maritimes<a id=336></a>
+##### Section 1 : Dispositions relatives aux biens culturels maritimes<a id=340></a>
 
 ###### Article R544-1
 
@@ -33495,7 +33586,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 2 : Dispositions relatives aux détecteurs de métaux<a id=337></a>
+##### Section 2 : Dispositions relatives aux détecteurs de métaux<a id=341></a>
 
 ###### Article R544-3
 
@@ -33548,11 +33639,11 @@ _Cite_:
   - Code du patrimoine. - art. L542-2 (V)
 
 
-#### Chapitre V : Dispositions diverses<a id=338></a>
+#### Chapitre V : Dispositions diverses<a id=342></a>
 
-##### Section 1 : Conseil national de la recherche archéologique<a id=339></a>
+##### Section 1 : Conseil national de la recherche archéologique<a id=343></a>
 
-##### Sous-section 1 : Formation plénière du Conseil national  de la recherche archéologique<a id=340></a>
+##### Sous-section 1 : Formation plénière du Conseil national  de la recherche archéologique<a id=344></a>
 
 ###### Article R545-1
 
@@ -33767,7 +33858,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 2 : Délégation permanente du Conseil national  de la recherche archéologique<a id=341></a>
+##### Sous-section 2 : Délégation permanente du Conseil national  de la recherche archéologique<a id=345></a>
 
 ###### Article R545-7
 
@@ -33847,7 +33938,7 @@ _Cite_:
   - Code du patrimoine - art. R522-11
 
 
-##### Sous-section 3 : Commission des opérations sous-marines<a id=342></a>
+##### Sous-section 3 : Commission des opérations sous-marines<a id=346></a>
 
 ###### Article R545-10
 
@@ -33929,7 +34020,7 @@ _Cite_:
   - Code du patrimoine. - art. R541-4 (V)
 
 
-##### Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines<a id=343></a>
+##### Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines<a id=347></a>
 
 ###### Article R545-12
 
@@ -34024,7 +34115,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 2 : Commissions interrégionales de la recherche archéologique<a id=344></a>
+##### Section 2 : Commissions interrégionales de la recherche archéologique<a id=348></a>
 
 ###### Article R545-16
 
@@ -34318,7 +34409,7 @@ _Cite_:
   - Code du patrimoine. - art. R523-48 (V)
 
 
-##### Section 3 : Institut national de recherches archéologiques préventives<a id=345></a>
+##### Section 3 : Institut national de recherches archéologiques préventives<a id=349></a>
 
 ###### Article R545-24
 
@@ -35346,7 +35437,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-#### Chapitre VI : Rapports d'opérations et données scientifiques<a id=346></a>
+#### Chapitre VI : Rapports d'opérations et données scientifiques<a id=350></a>
 
 ###### Article R546-1
 
@@ -35449,13 +35540,13 @@ _Créé par_:
   - Décret n°2017-925 du 9 mai 2017 - art. 14
 
 
-## LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE<a id=347></a>
+## LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE<a id=351></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=348></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=352></a>
 
-#### Chapitre Ier : Institutions<a id=349></a>
+#### Chapitre Ier : Institutions<a id=353></a>
 
-##### Section 1 : Commission nationale du patrimoine et de l'architecture<a id=350></a>
+##### Section 1 : Commission nationale du patrimoine et de l'architecture<a id=354></a>
 
 ###### Article R611-1
 
@@ -36068,7 +36159,7 @@ _Modifié par_:
   - Décret n°2017-456 du 29 mars 2017 - art. 3
 
 
-##### Section 2 : Commission régionale du patrimoine et de l'architecture<a id=351></a>
+##### Section 2 : Commission régionale du patrimoine et de l'architecture<a id=355></a>
 
 ###### Article R611-17
 
@@ -36431,7 +36522,7 @@ _Créé par_:
   - Décret n°2017-456 du 29 mars 2017 - art. 3
 
 
-##### Section 3 : Conseil des sites de Corse<a id=352></a>
+##### Section 3 : Conseil des sites de Corse<a id=356></a>
 
 ###### Article D611-31
 
@@ -36449,7 +36540,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R4421-1
 
 
-#### Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial<a id=353></a>
+#### Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial<a id=357></a>
 
 ###### Article R612-1
 
@@ -36516,7 +36607,7 @@ _Cité par_:
   - Code du patrimoine. - art. R730-7 (M)
 
 
-#### Chapitre III : Dispositions diverses<a id=354></a>
+#### Chapitre III : Dispositions diverses<a id=358></a>
 
 ###### Article D613-1
 
@@ -36551,13 +36642,13 @@ _Cite_:
   - Code du patrimoine - art. L611-1
 
 
-### TITRE II : MONUMENTS HISTORIQUES<a id=355></a>
+### TITRE II : MONUMENTS HISTORIQUES<a id=359></a>
 
-#### Chapitre Ier : Immeubles<a id=356></a>
+#### Chapitre Ier : Immeubles<a id=360></a>
 
-##### Section 1 : Classement des immeubles<a id=357></a>
+##### Section 1 : Classement des immeubles<a id=361></a>
 
-##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=358></a>
+##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=362></a>
 
 ###### Article R621-1
 
@@ -36819,7 +36910,7 @@ _Cité par_:
   - Code du patrimoine. - art. R720-10 (M)
 
 
-##### Sous-section 2 : Travaux sur un immeuble classé<a id=359></a>
+##### Sous-section 2 : Travaux sur un immeuble classé<a id=363></a>
 
 ###### Article R621-11
 
@@ -37130,7 +37221,7 @@ _Cité par_:
   - Code du patrimoine. - art. R621-23 (V)
 
 
-##### Sous-section 3 : Contrôle scientifique et technique<a id=360></a>
+##### Sous-section 3 : Contrôle scientifique et technique<a id=364></a>
 
 ###### Article R621-18
 
@@ -37325,7 +37416,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 4 : Maîtrise d'œuvre<a id=361></a>
+##### Sous-section 4 : Maîtrise d'œuvre<a id=365></a>
 
 ###### Article R621-25
 
@@ -37920,7 +38011,7 @@ _Cite_:
   - Code du patrimoine. - art. R621-31 (V)
 
 
-##### Sous-section 5 : Travaux d'office<a id=362></a>
+##### Sous-section 5 : Travaux d'office<a id=366></a>
 
 ###### Article R621-45
 
@@ -38037,7 +38128,7 @@ _Cite_:
   - Code du patrimoine. - art. L621-14 (V)
 
 
-##### Sous-section 6 : Servitude conventionnelle<a id=363></a>
+##### Sous-section 6 : Servitude conventionnelle<a id=367></a>
 
 ###### Article R621-49
 
@@ -38064,7 +38155,7 @@ _Cite_:
   - Code du patrimoine. - art. L621-16 (V)
 
 
-##### Sous-section 7 : Expropriation pour cause d'utilité publique<a id=364></a>
+##### Sous-section 7 : Expropriation pour cause d'utilité publique<a id=368></a>
 
 ###### Article R621-50
 
@@ -38121,7 +38212,7 @@ _Cite_:
   - Code du patrimoine. - art. L621-18 (V)
 
 
-##### Sous-section 8 : Aliénation<a id=365></a>
+##### Sous-section 8 : Aliénation<a id=369></a>
 
 ###### Article R621-52
 
@@ -38144,9 +38235,9 @@ _Cite_:
   - Code du patrimoine - art. L621-22
 
 
-##### Section 2 : Inscription des immeubles<a id=366></a>
+##### Section 2 : Inscription des immeubles<a id=370></a>
 
-##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=367></a>
+##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=371></a>
 
 ###### Article R621-53
 
@@ -38318,7 +38409,7 @@ _Cité par_:
   - Code du patrimoine. - art. R720-10 (M)
 
 
-##### Sous-section 2 : Travaux sur un immeuble inscrit<a id=368></a>
+##### Sous-section 2 : Travaux sur un immeuble inscrit<a id=372></a>
 
 ###### Article R621-60
 
@@ -38411,7 +38502,7 @@ _Cite_:
   - Code du patrimoine. - art. R621-61 (V)
 
 
-##### Sous-section 3 : Contrôle scientifique et technique<a id=369></a>
+##### Sous-section 3 : Contrôle scientifique et technique<a id=373></a>
 
 ###### Article R621-63
 
@@ -38560,9 +38651,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 3 : Dispositions communes  aux immeubles classés et aux immeubles inscrits<a id=370></a>
+##### Section 3 : Dispositions communes  aux immeubles classés et aux immeubles inscrits<a id=374></a>
 
-##### Sous-section 1 : Conservateurs des monuments historiques relevant du ministère  chargé de la culture et de ses établissements publics<a id=371></a>
+##### Sous-section 1 : Conservateurs des monuments historiques relevant du ministère  chargé de la culture et de ses établissements publics<a id=375></a>
 
 ###### Article R621-69
 
@@ -38588,7 +38679,7 @@ _Modifié par_:
   - Décret n°2014-1314 du 31 octobre 2014 - art. 18
 
 
-##### Sous-section 2 : Assistance à maîtrise d'ouvrage<a id=372></a>
+##### Sous-section 2 : Assistance à maîtrise d'ouvrage<a id=376></a>
 
 ###### Article R621-70
 
@@ -38839,7 +38930,7 @@ _Cite_:
   - Code du patrimoine. - art. R621-70 (V)
 
 
-##### Sous-section 3 : Subventions<a id=373></a>
+##### Sous-section 3 : Subventions<a id=377></a>
 
 ###### Article R621-78
 
@@ -38893,7 +38984,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 4 : Publicité des mesures de protection<a id=374></a>
+##### Sous-section 4 : Publicité des mesures de protection<a id=378></a>
 
 ###### Article R621-80
 
@@ -38948,7 +39039,7 @@ _Modifié par_:
   - Décret n°2014-1314 du 31 octobre 2014 - art. 19
 
 
-##### Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration<a id=375></a>
+##### Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration<a id=379></a>
 
 ###### Article R621-82
 
@@ -38972,7 +39063,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 6 : Découverte fortuite<a id=376></a>
+##### Sous-section 6 : Découverte fortuite<a id=380></a>
 
 ###### Article R621-83
 
@@ -38995,7 +39086,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 7 : Aliénation<a id=377></a>
+##### Sous-section 7 : Aliénation<a id=381></a>
 
 ###### Article R621-84
 
@@ -39036,7 +39127,7 @@ _Cite_:
   - Code du patrimoine - art. L621-29-9
 
 
-##### Sous-section 8 : Notification<a id=378></a>
+##### Sous-section 8 : Notification<a id=382></a>
 
 ###### Article R621-85
 
@@ -39081,7 +39172,7 @@ _Cité par_:
   - Code du patrimoine. - art. R622-58 (V)
 
 
-##### Sous-section 9 : Autorisation d'affichage<a id=379></a>
+##### Sous-section 9 : Autorisation d'affichage<a id=383></a>
 
 ###### Article R621-86
 
@@ -39264,7 +39355,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 10 : Détachement d'un effet mobilier attaché à perpétuelle demeure<a id=380></a>
+##### Sous-section 10 : Détachement d'un effet mobilier attaché à perpétuelle demeure<a id=384></a>
 
 ###### Article R621-91-1
 
@@ -39284,9 +39375,9 @@ _Cite_:
   - Code du patrimoine - art. R621-11 (V)
 
 
-##### Section 4 : Abords<a id=381></a>
+##### Section 4 : Abords<a id=385></a>
 
-##### Sous-section 1 : Création et modification du périmètre délimité des abords<a id=382></a>
+##### Sous-section 1 : Création et modification du périmètre délimité des abords<a id=386></a>
 
 ###### Article R621-92
 
@@ -39449,7 +39540,7 @@ _Cité par_:
   - Code du patrimoine. - art. R720-13 (M)
 
 
-##### Sous-section 2 : Régime des travaux en abords<a id=383></a>
+##### Sous-section 2 : Régime des travaux en abords<a id=387></a>
 
 ###### Article R621-96
 
@@ -39768,7 +39859,7 @@ _Créé par_:
   - Décret n°2014-1314 du 31 octobre 2014 - art. 21
 
 
-##### Section 5 : Dispositions diverses<a id=384></a>
+##### Section 5 : Dispositions diverses<a id=388></a>
 
 ###### Article R621-97
 
@@ -39792,7 +39883,7 @@ _Cite_:
   - Code du patrimoine - art. L621-33
 
 
-##### Section 6 : Domaines nationaux<a id=385></a>
+##### Section 6 : Domaines nationaux<a id=389></a>
 
 ###### Article R621-98
 
@@ -39871,11 +39962,11 @@ _Anciens textes_:
   - Code du patrimoine - art. R621-99 (T)
 
 
-#### Chapitre II : Objets mobiliers<a id=386></a>
+#### Chapitre II : Objets mobiliers<a id=390></a>
 
-##### Section 1 : Classement des objets mobiliers<a id=387></a>
+##### Section 1 : Classement des objets mobiliers<a id=391></a>
 
-##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=388></a>
+##### Sous-section 1 : Procédures de classement,  d'instance de classement et de déclassement<a id=392></a>
 
 ###### Article R622-1
 
@@ -40151,7 +40242,7 @@ _Cite_:
   - Code du patrimoine. - art. L622-5 (V)
 
 
-##### Sous-section 2 : Travaux sur un objet mobilier classé<a id=389></a>
+##### Sous-section 2 : Travaux sur un objet mobilier classé<a id=393></a>
 
 ###### Article R622-11
 
@@ -40367,7 +40458,7 @@ _Cité par_:
   - Code du patrimoine. - art. R622-23 (V)
 
 
-##### Sous-section 3 : Contrôle scientifique et technique<a id=390></a>
+##### Sous-section 3 : Contrôle scientifique et technique<a id=394></a>
 
 ###### Article R622-18
 
@@ -40571,7 +40662,7 @@ _Cite_:
   - Code du patrimoine. - art. L622-8 (V)
 
 
-##### Sous-section 4 : Mesures conservatoires<a id=391></a>
+##### Sous-section 4 : Mesures conservatoires<a id=395></a>
 
 ###### Article R622-26
 
@@ -40644,7 +40735,7 @@ _Cite_:
   - Code du patrimoine. - art. L622-10 (V)
 
 
-##### Sous-section 5 : Aliénation<a id=392></a>
+##### Sous-section 5 : Aliénation<a id=396></a>
 
 ###### Article R622-28
 
@@ -40737,9 +40828,9 @@ _Cite_:
   - Code du patrimoine. - art. L622-17 (V)
 
 
-##### Section 2 : Inscription des objets mobiliers<a id=393></a>
+##### Section 2 : Inscription des objets mobiliers<a id=397></a>
 
-##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=394></a>
+##### Sous-section 1 : Procédures d'inscription et de radiation de l'inscription<a id=398></a>
 
 ###### Article R622-32
 
@@ -40900,7 +40991,7 @@ _Cite_:
   - Code du patrimoine - art. R622-9 (V)
 
 
-##### Sous-section 2 : Travaux sur un objet mobilier inscrit<a id=395></a>
+##### Sous-section 2 : Travaux sur un objet mobilier inscrit<a id=399></a>
 
 ###### Article R622-39
 
@@ -40932,7 +41023,7 @@ _Cite_:
   - Code du patrimoine. - art. R622-12 (V)
 
 
-##### Sous-section 3 : Contrôle scientifique et technique<a id=396></a>
+##### Sous-section 3 : Contrôle scientifique et technique<a id=400></a>
 
 ###### Article R622-40
 
@@ -41004,7 +41095,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 4 : Aliénation<a id=397></a>
+##### Sous-section 4 : Aliénation<a id=401></a>
 
 ###### Article R622-43
 
@@ -41043,9 +41134,9 @@ _Modifié par_:
   - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 
-##### Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits<a id=398></a>
+##### Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits<a id=402></a>
 
-##### Sous-section 1 : Assistance à maîtrise d'ouvrage<a id=399></a>
+##### Sous-section 1 : Assistance à maîtrise d'ouvrage<a id=403></a>
 
 ###### Article R622-45
 
@@ -41311,7 +41402,7 @@ _Cite_:
   - Code du patrimoine - art. R622-47 (V)
 
 
-##### Sous-section 2 : Subventions<a id=400></a>
+##### Sous-section 2 : Subventions<a id=404></a>
 
 ###### Article R622-53
 
@@ -41387,7 +41478,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 3 : Découverte fortuite<a id=401></a>
+##### Sous-section 3 : Découverte fortuite<a id=405></a>
 
 ###### Article R622-56
 
@@ -41413,7 +41504,7 @@ _Cité par_:
   - Code du patrimoine - art. R622-58 (V)
 
 
-##### Sous-section 4 : Déplacement<a id=402></a>
+##### Sous-section 4 : Déplacement<a id=406></a>
 
 ###### Article R622-57
 
@@ -41447,7 +41538,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 5 : Notification<a id=403></a>
+##### Sous-section 5 : Notification<a id=407></a>
 
 ###### Article R622-58
 
@@ -41481,7 +41572,7 @@ _Cite_:
   - Code du patrimoine. - art. R621-85 (V)
 
 
-##### Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues<a id=404></a>
+##### Sous-section 6 : Maîtrise d'œuvre des travaux sur les orgues<a id=408></a>
 
 ###### Article R622-59
 
@@ -41615,7 +41706,7 @@ _Cite_:
   - Code du patrimoine - art. R622-59
 
 
-#### Chapitre III : Dispositions fiscales<a id=405></a>
+#### Chapitre III : Dispositions fiscales<a id=409></a>
 
 ###### Article D623-1
 
@@ -41663,7 +41754,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 281 bis (Ab)
 
 
-#### Chapitre IV : Dispositions pénales<a id=406></a>
+#### Chapitre IV : Dispositions pénales<a id=410></a>
 
 ###### Article R624-1
 
@@ -41717,11 +41808,11 @@ _Cite_:
   - Code du patrimoine. - art. R621-86 (V)
 
 
-### TITRE III : SITES PATRIMONIAUX REMARQUABLES<a id=407></a>
+### TITRE III : SITES PATRIMONIAUX REMARQUABLES<a id=411></a>
 
-#### Chapitre Ier : Classement au titre des sites patrimoniaux remarquables<a id=408></a>
+#### Chapitre Ier : Classement au titre des sites patrimoniaux remarquables<a id=412></a>
 
-##### Section 1 : Procédure de classement et de modifications<a id=409></a>
+##### Section 1 : Procédure de classement et de modifications<a id=413></a>
 
 ###### Article D631-5
 
@@ -41876,7 +41967,7 @@ _Cité par_:
   - Code du patrimoine - art. R790-16 (V)
 
 
-##### Section 2 : Procédure d'élaboration, révision et modification du plan de valorisation de l'architecture et du patrimoine<a id=410></a>
+##### Section 2 : Procédure d'élaboration, révision et modification du plan de valorisation de l'architecture et du patrimoine<a id=414></a>
 
 ###### Article D631-7
 
@@ -42011,7 +42102,7 @@ _Cité par_:
   - Code du patrimoine - art. R790-16 (V)
 
 
-##### Section 3 : Contenu du plan de valorisation de l'architecture et du patrimoine<a id=411></a>
+##### Section 3 : Contenu du plan de valorisation de l'architecture et du patrimoine<a id=415></a>
 
 ###### Article D631-12
 
@@ -42067,7 +42158,7 @@ _Cite_:
   - Code du patrimoine - art. L631-4
 
 
-#### Chapitre II : Régime des travaux<a id=412></a>
+#### Chapitre II : Régime des travaux<a id=416></a>
 
 ###### Article D632-1
 
@@ -42093,7 +42184,7 @@ _Cité par_:
   - Code du patrimoine - art. D790-16-1 (V)
 
 
-#### Chapitre III : Dispositions fiscales<a id=413></a>
+#### Chapitre III : Dispositions fiscales<a id=417></a>
 
 ###### Article D633-1
 
@@ -42111,9 +42202,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 DO
 
 
-### TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES<a id=414></a>
+### TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES<a id=418></a>
 
-#### Chapitre Ier : Dispositions pénales<a id=415></a>
+#### Chapitre Ier : Dispositions pénales<a id=419></a>
 
 ###### Article R641-1
 
@@ -42137,7 +42228,7 @@ _Cite_:
   - Code du patrimoine - art. R621-98
 
 
-#### Chapitre II : Sanctions administratives<a id=416></a>
+#### Chapitre II : Sanctions administratives<a id=420></a>
 
 ###### Article R642-1
 
@@ -42165,7 +42256,7 @@ _Cite_:
   - Code du patrimoine - art. L642-1
 
 
-### TITRE V : QUALITÉ ARCHITECTURALE<a id=417></a>
+### TITRE V : QUALITÉ ARCHITECTURALE<a id=421></a>
 
 ###### Article R650-1
 
@@ -42327,9 +42418,9 @@ _Cite_:
   - Code du patrimoine - art. L650-1 (V)
 
 
-## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=418></a>
+## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=422></a>
 
-### TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION<a id=419></a>
+### TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION<a id=423></a>
 
 ###### Article R710-1
 
@@ -42563,7 +42654,7 @@ _Cite_:
   - Code du patrimoine - art. R611-23
 
 
-### TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON<a id=420></a>
+### TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON<a id=424></a>
 
 ###### Article D720-2
 
@@ -42943,7 +43034,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE<a id=421></a>
+### TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE<a id=425></a>
 
 ###### Article R730-1
 
@@ -43172,7 +43263,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=422></a>
+### TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=426></a>
 
 ###### Article D740-1-1
 
@@ -43212,7 +43303,7 @@ _Cite_:
 ###### Article R740-1
 
 Les dispositions identifiées par un R applicables en Nouvelle-Calédonie en vertu du présent titre sont celles en vigueur dans
-leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
+leur rédaction résultant du décret n° 2017-933 du 10 mai 2017.
 
 **Liens relatifs à cet article**
 
@@ -43226,7 +43317,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
+  - Décret n°2017-933 du 10 mai 2017 - art. 1
 
 
 ###### Article R740-3
@@ -43526,7 +43617,7 @@ _Codifié par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=423></a>
+### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=427></a>
 
 ###### Article D750-1-1
 
@@ -43817,7 +43908,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=424></a>
+### TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=428></a>
 
 ###### Article D760-1-1
 
@@ -43899,7 +43990,7 @@ _Cite_:
 ###### Article R760-1
 
 Les dispositions identifiées par un R applicables dans les îles Wallis et Futuna en vertu du présent titre sont celles en
-vigueur dans leur rédaction résultant du décret n° 2017-719 du 2 mai 2017.
+vigueur dans leur rédaction résultant du décret n° 2017-933 du 10 mai 2017.
 
 **Liens relatifs à cet article**
 
@@ -43909,11 +44000,11 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2017-719 du 2 mai 2017 (V)
+  - Décret n°2016-1497 du 4 novembre 2016
 
 _Modifié par_:
 
-  - Décret n°2017-719 du 2 mai 2017 - art. 6 (V)
+  - Décret n°2017-933 du 10 mai 2017 - art. 1
 
 
 ###### Article R760-3
@@ -44173,7 +44264,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=425></a>
+### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=429></a>
 
 ###### Article D770-1-1
 
@@ -44213,7 +44304,7 @@ _Cite_:
 ###### Article R770-1
 
 Les dispositions identifiées par un R applicables dans les Terres australes et antarctiques françaises en vertu du présent
-titre sont celles en vigueur dans leur rédaction résultant du décret n° 2017-719 du 2 mai 2017.
+titre sont celles en vigueur dans leur rédaction résultant du décret n° 2017-933 du 10 mai 2017.
 
 **Liens relatifs à cet article**
 
@@ -44223,11 +44314,11 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2017-719 du 2 mai 2017 (V)
+  - Décret n°2016-1497 du 4 novembre 2016
 
 _Modifié par_:
 
-  - Décret n°2017-719 du 2 mai 2017 - art. 6 (V)
+  - Décret n°2017-933 du 10 mai 2017 - art. 1
 
 
 ###### Article R770-3
@@ -44441,7 +44532,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY<a id=426></a>
+### TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY<a id=430></a>
 
 ###### Article D780-2
 
@@ -44896,7 +44987,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-### TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=427></a>
+### TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=431></a>
 
 ###### Article D790-2
 
@@ -45313,7 +45404,7 @@ _Créé par_:
   - Décret n°2014-119 du 11 février 2014 - art.
 
 
-## Annexes<a id=428></a>
+## Annexes<a id=432></a>
 
 ###### Article Annexe 1 aux articles R. 111-1
 
