@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2018-04-01
+Version Consolidée au 2018-04-09
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -32385,6 +32385,24 @@ _Cité par_:
   - Code forestier (nouveau) - art. R141-38-1 (V)
   - Code forestier (nouveau) - art. R141-38-2 (V)
   - Code forestier (nouveau) - art. R141-38-4 (V)
+
+
+###### Article R531-2-1
+
+Lorsque les fouilles ou sondages se situent dans le périmètre d'une forêt de protection classée en application de l'article
+L. 141-1 du code forestier, la demande d'autorisation comporte les pièces mentionnées aux 1° à 5° de l'article R. 141-38-2 du
+même code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-254 du 6 avril 2018 - art. 3
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. L141-1
+  - Code forestier (nouveau) - art. R141-38-2 (V)
 
 
 ###### Article R531-3
