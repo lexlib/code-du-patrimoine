@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2018-04-09
+Version Consolidée au 2018-05-25
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -4025,7 +4025,7 @@ _Cite_:
 
 La conservation des archives numériques peut faire l'objet d'une mutualisation entre services publics d'archives, dans des
 conditions déterminées par décret en Conseil d'Etat. Par dérogation aux articles L. 212-6, L. 212-6-1, L. 212-11 et L.
-212-12, le présent article s'applique aux collectivités territoriales et à leurs groupements à fiscalité propre.
+212-12, le présent article s'applique aux collectivités territoriales et à leurs groupements.
 
 **Liens relatifs à cet article**
 
@@ -4033,14 +4033,14 @@ _Cité par_:
 
   - Loi n°2016-925 du 7 juillet 2016 - art. 115 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 60
+  - Loi n°2018-493 du 20 juin 2018 - art. 15
 
 _Cite_:
 
-  - Code du patrimoine - art. L212-11 (V)
-  - Code du patrimoine - art. L212-6 (V)
+  - Code du patrimoine - art. L212-11
+  - Code du patrimoine - art. L212-6
 
 
 ###### Article L212-5
