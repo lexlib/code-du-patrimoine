@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2018-08-01
+Version Consolidée au 2018-08-06
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -1878,21 +1878,20 @@ _Modifié par_:
 
 ###### Article L115-2
 
-La commission scientifique nationale des collections comprend un député et un sénateur nommés par leur assemblée respective,
-des représentants de l'Etat et des collectivités territoriales, des professionnels de la conservation des biens concernés et
-des personnalités qualifiées. 
+La commission scientifique nationale des collections comprend un député et un sénateur, des représentants de l'Etat et des
+collectivités territoriales, des professionnels de la conservation des biens concernés et des personnalités qualifiées.
 
 Un décret en Conseil d'Etat précise sa composition et fixe ses modalités de fonctionnement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2010-501 du 18 mai 2010 - art. 2
-
 _Anciens textes_:
 
   - Décret n°2011-160 du 8 février 2011 - art. 1 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2018-699 du 3 août 2018 - art. 75
 
 
 #### Chapitre 6 : Fonds régionaux d'art contemporain<a id=19></a>
@@ -5818,19 +5817,19 @@ _Anciens textes_:
 
 ###### Article L430-1
 
-Le Haut Conseil des musées de France, placé auprès du ministre chargé de la culture, est composé, outre son président : 
+Le Haut Conseil des musées de France, placé auprès du ministre chargé de la culture, est composé, outre son président :
 
-a) D'un député et d'un sénateur désignés par leur assemblée respective, 
+a) D'un député et d'un sénateur,
 
-et, en nombre égal : 
+et, en nombre égal :
 
-b) De représentants de l'Etat ; 
+b) De représentants de l'Etat ;
 
-c) De représentants des collectivités territoriales ; 
+c) De représentants des collectivités territoriales ;
 
-d) De représentants des personnels mentionnés aux articles L. 442-8 et L. 452-1 ; 
+d) De représentants des personnels mentionnés aux articles L. 442-8 et L. 452-1 ;
 
-e) De personnalités qualifiées. 
+e) De personnalités qualifiées.
 
 Le Haut Conseil des musées de France est consulté dans les cas prévus aux articles L. 442-1, L. 442-3, L. 451-8 à L. 451-10
 et L. 452-3.
@@ -5848,7 +5847,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 67
+  - Loi n°2018-699 du 3 août 2018 - art. 83
 
 _Cite_:
 
@@ -9874,27 +9873,26 @@ servitudes d'utilité publique et de documents d'urbanisme institués dans un bu
 valeur du patrimoine culturel, notamment dans les cas prévus aux articles L. 621-4, L. 621-5, L. 621-6, L. 621-8, L. 621-12,
 L. 621-29-9, L. 621-31, L. 621-35, L. 622-1, L. 622-1-1, L. 622-1-2, L. 622-3, L. 622-4, L. 622-4-1 et L. 631-2 du présent
 code et à l'article L. 313-1 du code de l'urbanisme. Elle est également consultée sur tout projet de vente ou d'aliénation du
-patrimoine français de l'Etat situé à l'étranger présentant une valeur historique ou culturelle particulière. 
+patrimoine français de l'Etat situé à l'étranger présentant une valeur historique ou culturelle particulière.
 
 Elle peut proposer toutes mesures propres à assurer la protection, la conservation et la mise en valeur du patrimoine et de
 l'architecture. Elle peut demander à l'Etat d'engager une procédure de classement ou d'inscription au titre des monuments
 historiques ou de classement au titre des sites patrimoniaux remarquables en application des articles L. 621-1, L. 621-25, L.
-622-1, L. 622-20, L. 631-1 ou L. 631-2 du présent code. 
+622-1, L. 622-20, L. 631-1 ou L. 631-2 du présent code.
 
-Elle procède à l'évaluation des politiques de protection, de conservation et de mise en valeur du patrimoine culturel. 
+Elle procède à l'évaluation des politiques de protection, de conservation et de mise en valeur du patrimoine culturel.
 
 En outre, elle peut être consultée sur les études, sur les travaux et sur toute question relative au patrimoine et à
 l'architecture en application du présent livre et de la sous-section 2 de la section 4 du chapitre Ier du titre V du livre
-Ier et du chapitre III du titre Ier du livre III du code de l'urbanisme. 
+Ier et du chapitre III du titre Ier du livre III du code de l'urbanisme.
 
-Placée auprès du ministre chargé de la culture, elle comprend des personnes titulaires d'un mandat électif national, des
-personnes titulaires d'un mandat électif local, des représentants de l'Etat, des représentants d'associations ou de
-fondations ayant pour objet de favoriser la connaissance, la protection, la conservation et la mise en valeur du patrimoine
-et des personnalités qualifiées. 
+Placée auprès du ministre chargé de la culture, elle comprend un député et un sénateur et leurs suppléants, des personnes
+titulaires d'un mandat électif local, des représentants de l'Etat, des représentants d'associations ou de fondations ayant
+pour objet de favoriser la connaissance, la protection, la conservation et la mise en valeur du patrimoine et des
+personnalités qualifiées.
 
-Son président est choisi parmi les titulaires d'un mandat électif national qui en sont membres. En cas d'empêchement du
-président, la présidence de la commission est assurée par un représentant désigné à cet effet par le ministre chargé de la
-culture. 
+Son président est choisi parmi les parlementaires qui en sont membres. En cas d'empêchement du président, la présidence de la
+commission est assurée par un représentant désigné à cet effet par le ministre chargé de la culture.
 
 Un décret en Conseil d'Etat précise sa composition, les conditions de désignation de ses membres et ses modalités de
 fonctionnement.
@@ -9922,24 +9920,24 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+  - Loi n°2018-699 du 3 août 2018 - art. 74
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L151-17 (V)
-  - Code de l'urbanisme - art. L313-1 (V)
-  - Code du patrimoine - art. L621-1 (V)
-  - Code du patrimoine - art. L621-12 (V)
-  - Code du patrimoine - art. L621-25 (V)
-  - Code du patrimoine - art. L621-29-9 (V)
-  - Code du patrimoine - art. L621-31 (V)
-  - Code du patrimoine - art. L621-35 (V)
-  - Code du patrimoine - art. L621-4 (V)
-  - Code du patrimoine - art. L621-8 (V)
-  - Code du patrimoine - art. L622-1 (V)
-  - Code du patrimoine - art. L622-10 (V)
-  - Code du patrimoine - art. L631-1 (V)
-  - Code du patrimoine - art. L631-2 (V)
+  - Code de l'urbanisme - art. L151-17
+  - Code de l'urbanisme - art. L313-1
+  - Code du patrimoine - art. L621-1
+  - Code du patrimoine - art. L621-12
+  - Code du patrimoine - art. L621-25
+  - Code du patrimoine - art. L621-29-9
+  - Code du patrimoine - art. L621-31
+  - Code du patrimoine - art. L621-35
+  - Code du patrimoine - art. L621-4
+  - Code du patrimoine - art. L621-8
+  - Code du patrimoine - art. L622-1
+  - Code du patrimoine - art. L622-10
+  - Code du patrimoine - art. L631-1
+  - Code du patrimoine - art. L631-2
 
 
 ###### Article L611-2
