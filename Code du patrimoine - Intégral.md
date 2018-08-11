@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2018-08-06
+Version Consolidée au 2018-08-12
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -3781,6 +3781,32 @@ _Modifié par_:
 _Cite_:
 
   - Code du patrimoine - art. L112-23
+
+
+###### Article L212-1-1
+
+Lorsqu'une personne de bonne foi, à partir de la présentation écrite, précise et complète de l'origine de propriété et de
+l'archive originale, demande à l'administration des archives de prendre formellement position sur la nature d'archive privée
+n'appartenant pas au domaine public d'une archive qu'elle détient, l'administration des archives répond de manière motivée
+dans un délai de trois mois. La réponse est opposable par le demandeur au service qui l'a émise jusqu'à ce que survienne un
+changement de fait ou de droit qui en affecte la validité ou jusqu'à ce que le service notifie au demandeur une modification
+de son appréciation.
+
+**Nota:**
+
+Conformément au VIII de l'article 21 de la loi n° 2018-727 du 10 août 2018, un décret en Conseil d'Etat précise les modalités
+d'application du présent article, notamment le contenu, les modalités de dépôt et d'avis de réception des demandes ainsi que
+les conditions et délais dans lesquels il y est répondu.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 21 (V)
+
+_Cité par_:
+
+  - Code du patrimoine - art. R212-7-1 (V)
 
 
 ###### Article L212-2
@@ -7917,6 +7943,33 @@ _Cite_:
   - Code du patrimoine - art. L522-1
   - Code du patrimoine - art. L524-2
   - Code du patrimoine - art. L524-4
+
+
+###### Article L524-7-1
+
+Pour chaque projet supérieur à 50 000 m2 de surface taxable, lorsqu'un redevable de bonne foi, à partir d'une présentation
+écrite, précise et complète de la situation de fait, a demandé aux services de l'Etat chargés d'établir la redevance
+d'archéologie préventive de prendre formellement position sur l'application à sa situation des règles de droit prévues au
+présent chapitre, l'administration répond de manière motivée dans un délai de trois mois. La réponse est opposable par le
+demandeur au service qui l'a émise jusqu'à ce que survienne un changement de fait ou de droit qui en affecte la validité ou
+jusqu'à ce que le service notifie au demandeur une modification de son appréciation. Le redevable ne peut présenter qu'une
+seule demande pour son projet.
+
+**Nota:**
+
+Conformément au VIII de l'article 21 de la loi n° 2018-727 du 10 août 2018, un décret en Conseil d'Etat précise les modalités
+d'application du présent article, notamment le contenu, les modalités de dépôt et d'avis de réception des demandes ainsi que
+les conditions et délais dans lesquels il y est répondu.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 21 (V)
+
+_Cité par_:
+
+  - Code du patrimoine - art. R524-11 (V)
 
 
 ###### Article L524-8
