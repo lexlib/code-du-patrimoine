@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2018-09-14
+Version Consolidée au 2018-10-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -273,40 +273,40 @@ Version Consolidée au 2018-09-14
         - [Chapitre Ier : Statut des collections (art. D451-1 à R451-38)](#270)
           - [Section 1 : Acquisitions (art. D451-1 à R451-11)](#271)
             - [Sous-section 1 : Dispositions générales (art. D451-1 à R451-2)](#272)
-            - [Sous-section 3 : Dispositions particulières aux commissions scientifiques  régionales ou interrégionales (art.  à R451-2)](#273)
-            - [Sous-section 3 : Dispositions applicables aux commissions scientifiques régionales ou interrégionales (art. D451-9 à R451-11)](#274)
-          - [Section 2 : Affectation et propriété des collections (art. D451-15 à R451-25)](#275)
-            - [Sous-section 1 : Dispositions générales (art. D451-15 à D451-21)](#276)
-              - [Paragraphe unique : Normes techniques relatives à la tenue de l'inventaire  et du registre des dépôts (art. D451-16 à D451-21)](#277)
-            - [Sous-section 2 : Collections publiques (art. D451-22 à R451-24)](#278)
-            - [Sous-section 3 : Collections privées (art. R451-25)](#279)
-          - [Section 3 : Prêts et dépôts (art. R451-26 à R451-38)](#280)
-            - [Sous-section 1 : Prêts et dépôts consentis par les musées (art. R451-26 à R451-28)](#281)
-            - [Sous-section 2 : Dépôts consentis par des personnes privées  aux musées de France (art. R451-29 à R451-34)](#282)
-            - [Sous-section 3 : Conditions d'attribution et de retrait des labels “ Pôle national de référence ” et “ Pôle national de référence numérique ” (art. R451-35 à R451-38)](#283)
-        - [Chapitre II : Conservation et restauration (art. R452-1 à R452-13)](#284)
-          - [Section 1 : Dispositions générales (art. R452-1 à R452-2)](#285)
-          - [Section 2 : Instances scientifiques compétentes en matière de restauration (art. D452-3 à R452-6)](#286)
-          - [Section 3 : Qualifications requises en matière de restauration (art. R452-10 à R452-13)](#287)
-    - [LIVRE V : ARCHÉOLOGIE (art. R522-1 à R546-6)](#288)
-      - [TITRE II : ARCHÉOLOGIE PRÉVENTIVE (art. R522-1 à R524-36)](#289)
-        - [Chapitre II : Répartition des compétences :  Etat et collectivités territoriales (art. R522-1 à R522-21)](#290)
-          - [Section 1 : Rôle de l'Etat (art. R522-1)](#291)
-          - [Section 3 : Carte archéologique nationale (art. R522-3 à R522-6)](#292)
-          - [Section 4 : Agrément des opérateurs d'archéologie préventive (art. R522-8 à R522-13)](#293)
-            - [Sous-section 2 (art. R522-8)](#294)
-            - [Sous-section 3 (art. R522-9 à R522-13)](#295)
-          - [Section 5 : Habilitation des services archéologiques de collectivités territoriales (art. R522-14 à R522-21)](#296)
-        - [Chapitre III : Mise en œuvre des opérations d'archéologie préventive (art. R523-1 à R523-61)](#297)
-          - [Section 1 : Champ d'application (art. R523-1 à R523-8)](#298)
-          - [Section 2 : Modes de saisine (art. R523-9 à R523-14)](#299)
-          - [Section 3 : Mesures d'archéologie préventive (art. R523-15 à R523-16)](#300)
-          - [Section 4 : Régime des prescriptions (art. R523-17 à R523-21)](#301)
-          - [Section 5 : Responsabilité scientifique des opérations (art. R523-22)](#302)
-          - [Section 6 : Mise en œuvre des diagnostics (art. R523-23 à R523-38)](#303)
-            - [Sous-section 1 : Le contenu des prescriptions de diagnostic (art. R523-23)](#304)
-            - [Sous-section 2 : La désignation de l'opérateur chargé du diagnostic (art. R523-24 à R523-29)](#305)
-            - [Sous-section 3 : Les conditions de réalisation du diagnostic (art. R523-30 à R523-38)](#306)
+            - [Sous-section 3 : Dispositions applicables aux commissions scientifiques régionales ou interrégionales (art. D451-9 à R451-11)](#273)
+          - [Section 2 : Affectation et propriété des collections (art. D451-15 à R451-25)](#274)
+            - [Sous-section 1 : Dispositions générales (art. D451-15 à D451-21)](#275)
+              - [Paragraphe unique : Normes techniques relatives à la tenue de l'inventaire  et du registre des dépôts (art. D451-16 à D451-21)](#276)
+            - [Sous-section 2 : Collections publiques (art. D451-22 à R451-24)](#277)
+            - [Sous-section 3 : Collections privées (art. R451-25)](#278)
+          - [Section 3 : Prêts et dépôts (art. R451-26 à R451-38)](#279)
+            - [Sous-section 1 : Prêts et dépôts consentis par les musées (art. R451-26 à R451-28)](#280)
+            - [Sous-section 2 : Dépôts consentis par des personnes privées  aux musées de France (art. R451-29 à R451-34)](#281)
+            - [Sous-section 3 : Conditions d'attribution et de retrait des labels “ Pôle national de référence ” et “ Pôle national de référence numérique ” (art. R451-35 à R451-38)](#282)
+        - [Chapitre II : Conservation et restauration (art. R452-1 à R452-13)](#283)
+          - [Section 1 : Dispositions générales (art. R452-1 à R452-2)](#284)
+          - [Section 2 : Instances scientifiques compétentes en matière de restauration (art. D452-3 à R452-6)](#285)
+          - [Section 3 : Qualifications requises en matière de restauration (art. R452-10 à R452-13)](#286)
+    - [LIVRE V : ARCHÉOLOGIE (art. R522-1 à R546-7)](#287)
+      - [TITRE II : ARCHÉOLOGIE PRÉVENTIVE (art. R522-1 à R524-36)](#288)
+        - [Chapitre II : Répartition des compétences :  Etat et collectivités territoriales (art. R522-1 à R522-21)](#289)
+          - [Section 1 : Rôle de l'Etat (art. R522-1)](#290)
+          - [Section 3 : Carte archéologique nationale (art. R522-3 à R522-6)](#291)
+          - [Section 4 : Agrément des opérateurs d'archéologie préventive (art. R522-8 à R522-13)](#292)
+            - [Sous-section 2 (art. R522-8)](#293)
+            - [Sous-section 3 (art. R522-9 à R522-13)](#294)
+          - [Section 5 : Habilitation des services archéologiques de collectivités territoriales (art. R522-14 à R522-21)](#295)
+        - [Chapitre III : Mise en œuvre des opérations d'archéologie préventive (art. R523-1 à R523-61)](#296)
+          - [Section 1 : Champ d'application (art. R523-1 à R523-8)](#297)
+          - [Section 2 : Modes de saisine (art. R523-9 à R523-14)](#298)
+          - [Section 3 : Mesures d'archéologie préventive (art. R523-15 à R523-16)](#299)
+          - [Section 4 : Régime des prescriptions (art. R523-17 à R523-21)](#300)
+          - [Section 5 : Responsabilité scientifique des opérations (art. R523-22)](#301)
+          - [Section 6 : Mise en œuvre des diagnostics (art. R523-23 à R523-38)](#302)
+            - [Sous-section 1 : Le contenu des prescriptions de diagnostic (art. R523-23)](#303)
+            - [Sous-section 2 : La désignation de l'opérateur chargé du diagnostic (art. R523-24 à R523-29)](#304)
+            - [Sous-section 3 : Les conditions de réalisation du diagnostic (art. R523-30 à R523-38)](#305)
+          - [Section 6 bis : Mise en œuvre des évaluations archéologiques en mer (art. R523-38-1 à R523-38-4)](#306)
           - [Section 7 : Mise en œuvre des fouilles (art. R523-39 à R523-59)](#307)
             - [Sous-section 1 : Le contenu des prescriptions de fouilles (art. R523-39)](#308)
             - [Sous-section 2 : Les conditions de réalisation des fouilles (art. R523-40 à R523-51)](#309)
@@ -328,7 +328,7 @@ Version Consolidée au 2018-09-14
           - [Section 1 : Découvertes et enlèvements fortuits  de biens culturels maritimes (art. R532-1 à R532-4)](#325)
           - [Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2 (art. R532-5)](#326)
           - [Section 3 : Recherche archéologique sous-marine (art. R532-6 à R532-19)](#327)
-      - [TITRE IV : DISPOSITIONS DIVERSES (art. R541-1 à R546-6)](#328)
+      - [TITRE IV : DISPOSITIONS DIVERSES (art. R541-1 à R546-7)](#328)
         - [Chapitre Ier : Régime de propriété du patrimoine archéologique (art. R541-1 à R541-21)](#329)
           - [Section 1 : Biens archéologiques immobiliers (art. R541-1 à R541-7)](#330)
           - [Section 2 : Biens archéologiques mobiliers (art. R541-8 à R541-14)](#331)
@@ -348,7 +348,7 @@ Version Consolidée au 2018-09-14
             - [Sous-section 4 : Dispositions communes au Conseil national de la recherche archéologique, à la délégation permanente et à la commission des opérations sous-marines (art. R545-12 à R545-15)](#345)
           - [Section 2 : Commissions interrégionales de la recherche archéologique (art. R545-16 à R545-23)](#346)
           - [Section 3 : Institut national de recherches archéologiques préventives (art. R545-24 à R545-59)](#347)
-        - [Chapitre VI : Rapports d'opérations et données scientifiques (art. R546-1 à R546-6)](#348)
+        - [Chapitre VI : Rapports d'opérations et données scientifiques (art. R546-1 à R546-7)](#348)
     - [LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE (art. R611-1 à R650-7)](#349)
       - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. R611-1 à R613-2)](#350)
         - [Chapitre Ier : Institutions (art. R611-1 à D611-31)](#351)
@@ -27519,9 +27519,7 @@ _Cité par_:
   - Code du patrimoine. - art. D452-8 (V)
 
 
-##### Sous-section 3 : Dispositions particulières aux commissions scientifiques  régionales ou interrégionales<a id=273></a>
-
-##### Sous-section 3 : Dispositions applicables aux commissions scientifiques régionales ou interrégionales<a id=274></a>
+##### Sous-section 3 : Dispositions applicables aux commissions scientifiques régionales ou interrégionales<a id=273></a>
 
 ###### Article D451-9
 
@@ -27849,9 +27847,9 @@ _Cité par_:
   - Code du patrimoine - art. D452-8 (V)
 
 
-##### Section 2 : Affectation et propriété des collections<a id=275></a>
+##### Section 2 : Affectation et propriété des collections<a id=274></a>
 
-##### Sous-section 1 : Dispositions générales<a id=276></a>
+##### Sous-section 1 : Dispositions générales<a id=275></a>
 
 ###### Article D451-15
 
@@ -27874,7 +27872,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Paragraphe unique : Normes techniques relatives à la tenue de l'inventaire  et du registre des dépôts<a id=277></a>
+##### Paragraphe unique : Normes techniques relatives à la tenue de l'inventaire  et du registre des dépôts<a id=276></a>
 
 ###### Article D451-16
 
@@ -28052,7 +28050,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 2 : Collections publiques<a id=278></a>
+##### Sous-section 2 : Collections publiques<a id=277></a>
 
 ###### Article D451-22
 
@@ -28136,7 +28134,7 @@ _Cite_:
   - Code du patrimoine. - art. L451-9 (V)
 
 
-##### Sous-section 3 : Collections privées<a id=279></a>
+##### Sous-section 3 : Collections privées<a id=278></a>
 
 ###### Article R451-25
 
@@ -28159,9 +28157,9 @@ _Cite_:
   - Code du patrimoine. - art. L451-10 (V)
 
 
-##### Section 3 : Prêts et dépôts<a id=280></a>
+##### Section 3 : Prêts et dépôts<a id=279></a>
 
-##### Sous-section 1 : Prêts et dépôts consentis par les musées<a id=281></a>
+##### Sous-section 1 : Prêts et dépôts consentis par les musées<a id=280></a>
 
 ###### Article R451-26
 
@@ -28242,7 +28240,7 @@ _Cite_:
   - Code du patrimoine - art. L452-1 (V)
 
 
-##### Sous-section 2 : Dépôts consentis par des personnes privées  aux musées de France<a id=282></a>
+##### Sous-section 2 : Dépôts consentis par des personnes privées  aux musées de France<a id=281></a>
 
 ###### Article R451-29
 
@@ -28377,7 +28375,7 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Sous-section 3 : Conditions d'attribution et de retrait des labels “ Pôle national de référence ” et “ Pôle national de référence numérique ”<a id=283></a>
+##### Sous-section 3 : Conditions d'attribution et de retrait des labels “ Pôle national de référence ” et “ Pôle national de référence numérique ”<a id=282></a>
 
 ###### Article R451-35
 
@@ -28495,9 +28493,9 @@ _Créé par_:
   - Décret n°2017-469 du 31 mars 2017 - art. 1
 
 
-#### Chapitre II : Conservation et restauration<a id=284></a>
+#### Chapitre II : Conservation et restauration<a id=283></a>
 
-##### Section 1 : Dispositions générales<a id=285></a>
+##### Section 1 : Dispositions générales<a id=284></a>
 
 ###### Article R452-1
 
@@ -28544,7 +28542,7 @@ _Cite_:
   - Code du patrimoine. - art. L452-2 (V)
 
 
-##### Section 2 : Instances scientifiques compétentes en matière de restauration<a id=286></a>
+##### Section 2 : Instances scientifiques compétentes en matière de restauration<a id=285></a>
 
 ###### Article D452-3
 
@@ -28750,7 +28748,7 @@ _Cité par_:
   - Code du patrimoine - art. D452-7 (V)
 
 
-##### Section 3 : Qualifications requises en matière de restauration<a id=287></a>
+##### Section 3 : Qualifications requises en matière de restauration<a id=286></a>
 
 ###### Article R452-10
 
@@ -28958,13 +28956,13 @@ _Cite_:
   - Code du patrimoine - art. R452-11
 
 
-## LIVRE V : ARCHÉOLOGIE<a id=288></a>
+## LIVRE V : ARCHÉOLOGIE<a id=287></a>
 
-### TITRE II : ARCHÉOLOGIE PRÉVENTIVE<a id=289></a>
+### TITRE II : ARCHÉOLOGIE PRÉVENTIVE<a id=288></a>
 
-#### Chapitre II : Répartition des compétences :  Etat et collectivités territoriales<a id=290></a>
+#### Chapitre II : Répartition des compétences :  Etat et collectivités territoriales<a id=289></a>
 
-##### Section 1 : Rôle de l'Etat<a id=291></a>
+##### Section 1 : Rôle de l'Etat<a id=290></a>
 
 ###### Article R522-1
 
@@ -28989,7 +28987,7 @@ _Modifié par_:
   - Décret n°2017-925 du 9 mai 2017 - art. 2
 
 
-##### Section 3 : Carte archéologique nationale<a id=292></a>
+##### Section 3 : Carte archéologique nationale<a id=291></a>
 
 ###### Article R522-3
 
@@ -29095,9 +29093,9 @@ _Cite_:
   - Code du patrimoine. - art. L522-5 (V)
 
 
-##### Section 4 : Agrément des opérateurs d'archéologie préventive<a id=293></a>
+##### Section 4 : Agrément des opérateurs d'archéologie préventive<a id=292></a>
 
-##### Sous-section 2<a id=294></a>
+##### Sous-section 2<a id=293></a>
 
 ###### Article R522-8
 
@@ -29117,7 +29115,7 @@ _Modifié par_:
   - Décret n°2017-925 du 9 mai 2017 - art. 4
 
 
-##### Sous-section 3<a id=295></a>
+##### Sous-section 3<a id=294></a>
 
 ###### Article R522-9
 
@@ -29350,7 +29348,7 @@ _Cite_:
   - Code du patrimoine - art. R523-61 (V)
 
 
-##### Section 5 : Habilitation des services archéologiques de collectivités territoriales<a id=296></a>
+##### Section 5 : Habilitation des services archéologiques de collectivités territoriales<a id=295></a>
 
 ###### Article R522-14
 
@@ -29575,9 +29573,9 @@ _Cite_:
   - Code du patrimoine - art. R523-61 (V)
 
 
-#### Chapitre III : Mise en œuvre des opérations d'archéologie préventive<a id=297></a>
+#### Chapitre III : Mise en œuvre des opérations d'archéologie préventive<a id=296></a>
 
-##### Section 1 : Champ d'application<a id=298></a>
+##### Section 1 : Champ d'application<a id=297></a>
 
 ###### Article R523-1
 
@@ -29855,7 +29853,7 @@ _Cite_:
   - Code du patrimoine - art. R523-7 (V)
 
 
-##### Section 2 : Modes de saisine<a id=299></a>
+##### Section 2 : Modes de saisine<a id=298></a>
 
 ###### Article R523-9
 
@@ -30083,7 +30081,7 @@ _Cite_:
   - Code du patrimoine - art. R523-15 (V)
 
 
-##### Section 3 : Mesures d'archéologie préventive<a id=300></a>
+##### Section 3 : Mesures d'archéologie préventive<a id=299></a>
 
 ###### Article R523-15
 
@@ -30131,6 +30129,19 @@ _Cité par_:
   - Code du patrimoine - art. R523-38 (V)
 
 
+###### Article R523-15-1
+
+La réalisation d'une évaluation archéologique en mer en application du 2° de l'article L. 524-6 vise, par des études,
+prospections ou expertises en immersion, à mettre en évidence et à caractériser les éléments du patrimoine archéologique
+susceptibles d'être affectés par le projet de travaux ou d'aménagement et à présenter les résultats dans un rapport.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-537 du 28 juin 2018 - art. 1
+
+
 ###### Article R523-16
 
 Lorsque les opérations d'aménagement, de construction d'ouvrage ou de travaux mentionnées à l'article R. 523-1 portent sur
@@ -30158,7 +30169,7 @@ _Cite_:
   - Code du patrimoine - art. R523-1 (V)
 
 
-##### Section 4 : Régime des prescriptions<a id=301></a>
+##### Section 4 : Régime des prescriptions<a id=300></a>
 
 ###### Article R523-17
 
@@ -30327,7 +30338,7 @@ _Cite_:
   - Code du patrimoine - art. R523-15
 
 
-##### Section 5 : Responsabilité scientifique des opérations<a id=302></a>
+##### Section 5 : Responsabilité scientifique des opérations<a id=301></a>
 
 ###### Article R523-22
 
@@ -30351,9 +30362,9 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-##### Section 6 : Mise en œuvre des diagnostics<a id=303></a>
+##### Section 6 : Mise en œuvre des diagnostics<a id=302></a>
 
-##### Sous-section 1 : Le contenu des prescriptions de diagnostic<a id=304></a>
+##### Sous-section 1 : Le contenu des prescriptions de diagnostic<a id=303></a>
 
 ###### Article R523-23
 
@@ -30386,7 +30397,7 @@ _Cite_:
   - Code du patrimoine - art. R523-15 (V)
 
 
-##### Sous-section 2 : La désignation de l'opérateur chargé du diagnostic<a id=305></a>
+##### Sous-section 2 : La désignation de l'opérateur chargé du diagnostic<a id=304></a>
 
 ###### Article R523-24
 
@@ -30541,7 +30552,7 @@ _Cite_:
   - Code du patrimoine - art. R523-28
 
 
-##### Sous-section 3 : Les conditions de réalisation du diagnostic<a id=306></a>
+##### Sous-section 3 : Les conditions de réalisation du diagnostic<a id=305></a>
 
 ###### Article R523-30
 
@@ -30760,6 +30771,64 @@ _Cite_:
   - Code du patrimoine - art. L531-14 (V)
   - Code du patrimoine - art. L531-15 (V)
   - Code du patrimoine - art. R523-15
+
+
+##### Section 6 bis : Mise en œuvre des évaluations archéologiques en mer<a id=306></a>
+
+###### Article R523-38-1
+
+Outre les éléments mentionnés au 2° de l'article L. 524-6, la convention d'évaluation archéologique en mer définit :
+
+1° L'emprise géographique de l'évaluation ;
+
+2° Les phases nécessaires à la réalisation de l'évaluation et la méthodologie mise en œuvre pour chacune d'elles ;
+
+3° La qualité des données géophysiques nécessaire à l'évaluation archéologique ;
+
+4° Les conditions dans lesquelles l'aménageur fournit les données géophysiques à l'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-537 du 28 juin 2018 - art. 1
+
+
+###### Article R523-38-2
+
+Le service de l'Etat chargé de l'archéologie sous-marine interprète les données géophysiques en vue de définir les objectifs,
+l'emprise et les principes méthodologiques des expertises en immersion éventuellement nécessaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-537 du 28 juin 2018 - art. 1
+
+
+###### Article R523-38-3
+
+Les expertises en immersion sont réalisées par l'Institut national de recherches archéologiques préventives, sauf lorsque le
+ministre chargé de la culture décide de les confier au service de l'Etat chargé de l'archéologie sous-marine.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-537 du 28 juin 2018 - art. 1
+
+
+###### Article R523-38-4
+
+Dans un délai de deux mois suivant l'exécution de la convention d'évaluation, le ministre chargé de la culture notifie à
+l'aménageur le contenu des prescriptions postérieures à l'évaluation mentionnées aux 2° et 3° de l'article R. 523-15. A
+défaut de notification dans ce délai, il est réputé avoir renoncé à édicter de telles prescriptions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-537 du 28 juin 2018 - art. 1
 
 
 ##### Section 7 : Mise en œuvre des fouilles<a id=307></a>
@@ -35448,6 +35517,18 @@ disponible sur demande auprès de son service en charge de l'archéologie.
 _Créé par_:
 
   - Décret n°2017-925 du 9 mai 2017 - art. 14
+
+
+###### Article R546-7
+
+Lorsque le bien archéologique mobilier est un bien culturel maritime, le ministre chargé de la culture exerce les compétences
+dévolues au préfet de région par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-537 du 28 juin 2018 - art. 2
 
 
 ## LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE<a id=349></a>
