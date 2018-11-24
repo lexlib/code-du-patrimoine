@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2018-10-01
+Version Consolidée au 2018-11-25
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -11257,25 +11257,35 @@ _Cite_:
 ###### Article L621-31
 
 Le périmètre délimité des abords prévu au premier alinéa du II de l'article L. 621-30 est créé par décision de l'autorité
-administrative, sur proposition de l'architecte des Bâtiments de France, après enquête publique, consultation du propriétaire
-ou de l'affectataire domanial du monument historique et, le cas échéant, de la ou des communes concernées et accord de
-l'autorité compétente en matière de plan local d'urbanisme, de document en tenant lieu ou de carte communale. 
+administrative, sur proposition de l'architecte des Bâtiments de France ou de l'autorité compétente en matière de plan local
+d'urbanisme, de document en tenant lieu ou de carte communale, après enquête publique, consultation du propriétaire ou de
+l'affectataire domanial du monument historique et, le cas échéant, de la ou des communes concernées. Lorsque la proposition
+émane de l'architecte des Bâtiments de France, elle est soumise à l'accord de l'autorité compétente en matière de plan local
+d'urbanisme, de document en tenant lieu ou de carte communale. Lorsque la proposition émane de ladite autorité, elle est
+soumise à l'accord de l'architecte des Bâtiments de France.
 
-A défaut d'accord de l'autorité compétente en matière de plan local d'urbanisme, de document en tenant lieu ou de carte
-communale, la décision est prise soit par l'autorité administrative, après avis de la commission régionale du patrimoine et
-de l'architecture, lorsque le périmètre ne dépasse pas la distance de cinq cents mètres à partir d'un monument historique,
-soit par décret en Conseil d'Etat, après avis de la Commission nationale du patrimoine et de l'architecture, lorsque le
-périmètre dépasse la distance de cinq cents mètres à partir d'un monument historique. 
+A défaut d'accord de l'architecte des Bâtiments de France ou de l'autorité compétente en matière de plan local d'urbanisme,
+de document en tenant lieu ou de carte communale, prévu au premier alinéa, la décision est prise soit par l'autorité
+administrative, après avis de la commission régionale du patrimoine et de l'architecture, lorsque le périmètre ne dépasse pas
+la distance de cinq cents mètres à partir d'un monument historique, soit par décret en Conseil d'Etat, après avis de la
+Commission nationale du patrimoine et de l'architecture, lorsque le périmètre dépasse la distance de cinq cents mètres à
+partir d'un monument historique.
 
 Lorsque le projet de périmètre délimité des abords est instruit concomitamment à l'élaboration, à la révision ou à la
 modification du plan local d'urbanisme, du document d'urbanisme en tenant lieu ou de la carte communale, l'autorité
 compétente en matière de plan local d'urbanisme, de document en tenant lieu ou de carte communale diligente une enquête
-publique unique portant à la fois sur le projet de document d'urbanisme et sur le projet de périmètre délimité des abords. 
+publique unique portant à la fois sur le projet de document d'urbanisme et sur le projet de périmètre délimité des abords.
 
 Les enquêtes publiques conduites pour l'application du présent article sont réalisées dans les formes prévues au chapitre III
 du titre II du livre Ier du code de l'environnement.
 
 Le périmètre délimité des abords peut être modifié dans les mêmes conditions.
+
+**Nota:**
+
+Conformément au VI de l’article 56 de la loi n°2018-1021 du 23 novembre 2018, ces dispositions s'appliquent aux demandes
+d'autorisation prévues aux articles L. 621-32, L. 632-1 et L. 632-2 du code du patrimoine ainsi qu'aux demandes pour
+lesquelles cette autorisation est requise qui sont déposées à compter du lendemain de la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -11315,28 +11325,30 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 56
 
 _Cite_:
 
-  - Code de l'environnement -  Chapitre III : Enquêtes publiques relatives aux... (VT)
+  - Code de l'environnement
 
 
 ###### Article L621-32
 
 Les travaux susceptibles de modifier l'aspect extérieur d'un immeuble, bâti ou non bâti, protégé au titre des abords sont
-soumis à une autorisation préalable. 
+soumis à une autorisation préalable.
 
 L'autorisation peut être refusée ou assortie de prescriptions lorsque les travaux sont susceptibles de porter atteinte à la
-conservation ou à la mise en valeur d'un monument historique ou des abords. 
+conservation ou à la mise en valeur d'un monument historique ou des abords.
 
 Lorsqu'elle porte sur des travaux soumis à formalité au titre du code de l'urbanisme ou au titre du code de l'environnement,
-l'autorisation prévue au présent article est délivrée dans les conditions et selon les modalités de recours prévues à
-l'article L. 632-2 du présent code
+l'autorisation prévue au présent article est délivrée dans les conditions et selon les modalités de recours prévues aux
+articles L. 632-2 et L. 632-2-1.
 
 **Nota:**
 
-
+Conformément au VI de l’article 56 de la loi n°2018-1021 du 23 novembre 2018, les dispositions s'appliquent aux demandes
+d'autorisation prévues aux articles L. 621-32, L. 632-1 et L. 632-2 du code du patrimoine ainsi qu'aux demandes pour
+lesquelles cette autorisation est requise qui sont déposées à compter du lendemain de la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -11365,7 +11377,6 @@ _Cité par_:
   - Code de l'environnement - art. R181-32 (V)
   - Code de l'urbanisme - art. L313-2-1 (Ab)
   - Code de l'urbanisme - art. R*425-1 (V)
-  - Code du patrimoine - art. L612-1 (V)
   - Code du patrimoine - art. L624-3 (V)
   - Code du patrimoine - art. L641-1 (MMN)
   - Code du patrimoine - art. R612-3 (Ab)
@@ -11374,12 +11385,13 @@ _Cité par_:
   - Code du patrimoine - art. R621-96-12 (Ab)
   - Code du patrimoine - art. R621-96-18 (Ab)
   - Code du patrimoine - art. R621-96-9 (M)
+  - Code du patrimoine. - art. L612-1 (VD)
   - Code du patrimoine. - art. L621-31 (M)
   - Code du patrimoine. - art. L642-5 (V)
 
 _Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 56
 
 _Cite_:
 
@@ -12885,33 +12897,47 @@ _Cite_:
 
 ###### Article L632-2
 
-I. – Le permis de construire, le permis de démolir, le permis d'aménager, l'absence d'opposition à déclaration préalable,
-l'autorisation environnementale prévue par l'article L. 181-1 du code de l'environnement ou l'autorisation prévue au titre
-des sites classés en application de l'article L. 341-10 du même code tient lieu de l'autorisation prévue à l'article L. 632-1
-du présent code si l'architecte des Bâtiments de France a donné son accord, le cas échéant assorti de prescriptions motivées.
-A ce titre, il s'assure du respect de l'intérêt public attaché au patrimoine, à l'architecture, au paysage naturel ou urbain,
-à la qualité des constructions et à leur insertion harmonieuse dans le milieu environnant. Il s'assure, le cas échéant, du
-respect des règles du plan de sauvegarde et de mise en valeur ou du plan de valorisation de l'architecture et du patrimoine.
+I. – L'autorisation prévue à l'article L. 632-1 est, sous réserve de l'article L. 632-2-1, subordonnée à l'accord de
+l'architecte des Bâtiments de France, le cas échéant assorti de prescriptions motivées. A ce titre, ce dernier s'assure du
+respect de l'intérêt public attaché au patrimoine, à l'architecture, au paysage naturel ou urbain, à la qualité des
+constructions et à leur insertion harmonieuse dans le milieu environnant. Il s'assure, le cas échéant, du respect des règles
+du plan de sauvegarde et de mise en valeur ou du plan de valorisation de l'architecture et du patrimoine. Tout avis
+défavorable de l'architecte des Bâtiments de France rendu dans le cadre de la procédure prévue au présent alinéa comporte une
+mention informative sur les possibilités de recours à son encontre et sur les modalités de ce recours.
+
+Le permis de construire, le permis de démolir, le permis d'aménager, l'absence d'opposition à déclaration préalable,
+l'autorisation environnementale prévue à l'article L. 181-1 du code de l'environnement ou l'autorisation prévue au titre des
+sites classés en application de l'article L. 341-10 du même code tient lieu de l'autorisation prévue à l'article L. 632-1 du
+présent code si l'architecte des Bâtiments de France a donné son accord, dans les conditions prévues au premier alinéa du
+présent I.
 
 En cas de silence de l'architecte des Bâtiments de France, cet accord est réputé donné.
+
+L'autorité compétente pour délivrer l'autorisation peut proposer un projet de décision à l'architecte des Bâtiments de
+France. Celui-ci émet un avis consultatif sur le projet de décision et peut proposer des modifications, le cas échéant après
+étude conjointe du dossier.
 
 L'autorisation délivrée énonce, le cas échéant, les prescriptions motivées auxquelles le demandeur doit se conformer.
 
 II. – En cas de désaccord avec l'architecte des Bâtiments de France, l'autorité compétente pour délivrer l'autorisation
 transmet le dossier accompagné de son projet de décision à l'autorité administrative, qui statue après avis de la commission
-régionale du patrimoine et de l'architecture. En cas de silence, l'autorité administrative est réputée avoir rejeté ce projet
-de décision.
+régionale du patrimoine et de l'architecture. En cas de silence, l'autorité administrative est réputée avoir approuvé ce
+projet de décision. La décision explicite de l'autorité administrative est mise à la disposition du public. En cas de
+décision tacite, l'autorisation délivrée par l'autorité compétente en fait mention.
 
 III. – Un recours peut être exercé par le demandeur à l'occasion du refus d'autorisation de travaux. Il est alors adressé à
-l'autorité administrative, qui statue. En cas de silence, l'autorité administrative est réputée avoir confirmé la décision de
-l'autorité compétente pour délivrer l'autorisation.
+l'autorité administrative, qui statue. Dans le cadre de ce recours, le demandeur peut faire appel à un médiateur désigné par
+le président de la commission régionale du patrimoine et de l'architecture parmi les membres de cette commission titulaires
+d'un mandat électif. Dans ce cas, l'autorité administrative statue après avis de ce médiateur. En cas de silence, l'autorité
+administrative est réputée avoir confirmé la décision de l'autorité compétente pour délivrer l'autorisation.
 
 IV. – Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Nota:**
 
-Conformément à l'article 15 de l'ordonnance n° 2017-80 du 26 janvier 2017, ces dispositions entrent en vigueur le 1er mars
-2017 sous réserves des dispositions citées audit article.
+Conformément au VI de l’article 56 de la loi n°2018-1021 du 23 novembre 2018, ces dispositions s'appliquent aux demandes
+d'autorisation prévues aux articles L. 621-32, L. 632-1 et L. 632-2 du code du patrimoine ainsi qu'aux demandes pour
+lesquelles cette autorisation est requise qui sont déposées à compter du lendemain de la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -12919,37 +12945,80 @@ _Cité par_:
 
   - Loi n°2016-925 du 7 juillet 2016 - art. 112 (V)
   - Code du patrimoine - art. L611-2 (MMN)
-  - Code du patrimoine - art. L621-32 (M)
+  - Code du patrimoine - art. L621-32 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2017-80 du 26 janvier 2017 - art. 11
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 56
 
 _Cite_:
 
-  - Code de l'environnement - art. L181-1 (V)
-  - Code de l'environnement - art. L341-10 (V)
+  - Code de l'environnement - art. L181-1
+  - Code de l'environnement - art. L341-10
   - Code du patrimoine - art. L632-1
 
 
-###### Article L632-3
+###### Article L632-2-1
 
-Les articles L. 632-1 et L. 632-2 ne sont pas applicables aux immeubles ou parties d'immeubles protégés au titre des
-monuments historiques.
+Par exception au I de l'article L. 632-2, l'autorisation prévue à l'article L. 632-1 est soumise à l'avis de l'architecte des
+Bâtiments de France lorsqu'elle porte sur :
 
-Les servitudes d'utilité publique instituées en application de l'article L. 341-1 du code de l'environnement ne sont pas
-applicables aux immeubles situés dans le périmètre d'un site patrimonial remarquable.
+1° Des antennes relais de radiotéléphonie mobile ou de diffusion du très haut débit par voie hertzienne et leurs systèmes
+d'accroche ainsi que leurs locaux et installations techniques ;
+
+2° Des opérations mentionnées au second alinéa de l'article L. 522-1 du code de la construction et de l'habitation ;
+
+3° Des mesures prescrites pour les immeubles à usage d'habitation déclarés insalubres à titre irrémédiable en application de
+l'article L. 1331-28 du code de la santé publique ;
+
+4° Des mesures prescrites pour des immeubles à usage d'habitation menaçant ruine ayant fait l'objet d'un arrêté de péril pris
+en application de l'article L. 511-2 du code de la construction et de l'habitation et assorti d'une ordonnance de démolition
+ou d'interdiction définitive d'habiter.
+
+En cas de silence de l'architecte des Bâtiments de France, cet avis est réputé favorable.
+
+**Nota:**
+
+Conformément au VI de l’article 56 de la loi n°2018-1021 du 23 novembre 2018, ces dispositions s'appliquent aux demandes
+d'autorisation prévues aux articles L. 621-32, L. 632-1 et L. 632-2 du code du patrimoine ainsi qu'aux demandes pour
+lesquelles cette autorisation est requise qui sont déposées à compter du lendemain de la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 56
 
 _Cite_:
 
-  - Code de l'environnement - art. L341-1 (V)
-  - Code du patrimoine - art. L632-1 (V)
+  - Code de la santé publique - art. L1331-28 (VD)
+  - Code de la construction et de l'habitation. - art. L511-2
+  - Code de la construction et de l'habitation. - art. L522-1
+
+
+###### Article L632-3
+
+Le présent chapitre n'est pas applicable aux immeubles ou parties d'immeubles protégés au titre des monuments historiques.
+
+Les servitudes d'utilité publique instituées en application de l'article L. 341-1 du code de l'environnement ne sont pas
+applicables aux immeubles situés dans le périmètre d'un site patrimonial remarquable.
+
+**Nota:**
+
+Conformément au VI de l’article 56 de la loi n°2018-1021 du 23 novembre 2018, ces dispositions s'appliquent aux demandes
+d'autorisation prévues aux articles L. 621-32, L. 632-1 et L. 632-2 du code du patrimoine ainsi qu'aux demandes pour
+lesquelles cette autorisation est requise qui sont déposées à compter du lendemain de la publication de la présente loi.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 56
+
+_Cite_:
+
+  - Code de l'environnement - art. L341-1
+  - Code du patrimoine - art. L632-1
 
 
 #### Chapitre III : Dispositions fiscales<a id=139></a>
