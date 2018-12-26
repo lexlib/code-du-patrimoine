@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2018-11-25
+Version Consolidée au 2018-12-27
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -21996,6 +21996,38 @@ _Cite_:
   - Code du patrimoine - art. L212-1
 
 
+###### Article R212-7-1
+
+La demande de rescrit prévue à l'article L. 212-1-1 est adressée au service interministériel des archives de France de la
+direction générale des patrimoines par tout moyen conférant date certaine à sa réception. 
+
+Cette demande comporte le nom ou la raison sociale du demandeur, son adresse et tous éléments sur l'origine de propriété de
+l'archive. 
+
+En cas de demande incomplète, le service interministériel des archives de France dispose d'un mois à compter de la réception
+de la demande pour communiquer la liste et le contenu des pièces complémentaires à fournir par le demandeur. A défaut d'une
+demande dans ce délai, la demande est réputée complète. 
+
+Lorsque la demande est complète, le service interministériel des archives de France en accuse réception et indique au
+demandeur le service d'archives auprès duquel il peut présenter l'archive originale. Il indique également que le délai de
+trois mois prévu à l'article L. 212-1-1 court à compter de la date de présentation de l'archive originale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1227 du 24 décembre 2018 - art. 5
+
+_Cite_:
+
+  - Code du patrimoine - art. L212-1-1
+
+_Cité par_:
+
+  - Code du patrimoine - art. R760-1 (V)
+  - Code du patrimoine - art. R770-1 (V)
+
+
 ##### Paragraphe 1 : Organisation des services d'archives<a id=219></a>
 
 ###### Article R212-8
@@ -43038,7 +43070,7 @@ _Cite_:
 ###### Article R720-6
 
 Dans l'exercice des missions d'intérêt général de sauvegarde et d'étude du patrimoine archéologique qui incombent à l'Etat
-dans le cadre de ses compétences en matière d'archéologie préventive, les articles R. 524-3 à R. 524-10 sont applicables à
+dans le cadre de ses compétences en matière d'archéologie préventive, les articles R. 524-3 à R. 524-11 sont applicables à
 Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
@@ -43049,7 +43081,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1485 du 2 novembre 2016 - art. 2
+  - Décret n°2018-1227 du 24 décembre 2018 - art. 5
 
 _Cite_:
 
@@ -44185,7 +44217,7 @@ _Cite_:
 
 ###### Article D760-4
 
-Les articles R. 212-1 à R. 212-7, R. 212-8 à R. 212-18, R. 212-19 à R. 212-37 et R. 213-1 à D. 213-10 sont applicables dans
+Les articles R. 212-1 à R. 212-7-1, R. 212-8 à R. 212-18, R. 212-19 à R. 212-37 et R. 213-1 à D. 213-10 sont applicables dans
 les îles Wallis et Futuna aux archives relevant des services et établissements publics de l'Etat et des personnes morales
 chargées de la gestion d'un service public relevant de la compétence de l'Etat.
 
@@ -44197,12 +44229,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-719 du 2 mai 2017 - art. 6 (V)
+  - Décret n°2018-1227 du 24 décembre 2018 - art. 5
 
 _Cite_:
 
   - Code du patrimoine - art. R212-1
-  - Code du patrimoine - art. R212-19 (V)
+  - Code du patrimoine - art. R212-19
   - Code du patrimoine - art. R212-8
   - Code du patrimoine - art. R213-1
 
@@ -44228,7 +44260,10 @@ _Cite_:
 ###### Article R760-1
 
 Les dispositions des articles R. 112-27, R. 112-28, R. 113-1 et R. 123-1 sont applicables dans les îles Wallis et Futuna dans
-leur rédaction résultant du décret n° 2018-630 du 17 juillet 2018.
+leur rédaction résultant du décret n° 2018-630 du 17 juillet 2018. 
+
+Les dispositions de l'article R. 212-7-1 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant du
+décret n° 2018-1227 du 24 décembre 2018 . 
 
 Les autres dispositions identifiées par un R applicables dans les îles Wallis et Futuna en vertu du présent titre sont celles
 en vigueur dans leur rédaction résultant du décret n° 2017-933 du 10 mai 2017.
@@ -44243,10 +44278,15 @@ _Cite_:
 
   - Décret n°2017-933 du 10 mai 2017
   - Décret n°2018-630 du 17 juillet 2018
+  - Décret n°2018-1227 du 24 décembre 2018
+  - Code du patrimoine - art. R112-27 (V)
+  - Code du patrimoine - art. R113-1 (V)
+  - Code du patrimoine - art. R123-1 (V)
+  - Code du patrimoine - art. R212-7-1 (V)
 
 _Modifié par_:
 
-  - Décret n°2018-630 du 17 juillet 2018 - art. 5
+  - Décret n°2018-1227 du 24 décembre 2018 - art. 5
 
 
 ###### Article R760-3
@@ -44547,7 +44587,10 @@ _Cite_:
 ###### Article R770-1
 
 Les dispositions identifiées par un R applicables dans les Terres australes et antarctiques françaises en vertu du présent
-titre sont celles en vigueur dans leur rédaction résultant du décret n° 2017-933 du 10 mai 2017.
+titre sont celles en vigueur dans leur rédaction résultant du décret n° 2017-933 du 10 mai 2017. 
+
+Toutefois, les dispositions de l'article R. 212-7-1 sont applicables dans les Terres australes et antarctiques françaises
+dans leur rédaction résultant du  décret n° 2018-1227 du 24 décembre 2018 .
 
 **Liens relatifs à cet article**
 
@@ -44557,11 +44600,13 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2016-1497 du 4 novembre 2016
+  - Décret n°2017-933 du 10 mai 2017
+  - Décret n°2018-1227 du 24 décembre 2018
+  - Code du patrimoine - art. R212-7-1
 
 _Modifié par_:
 
-  - Décret n°2017-933 du 10 mai 2017 - art. 1
+  - Décret n°2018-1227 du 24 décembre 2018 - art. 5
 
 
 ###### Article R770-3
@@ -45010,7 +45055,7 @@ _Cite_:
 ###### Article R780-9
 
 Dans l'exercice des missions d'intérêt général qui incombent à l'Etat dans le cadre de ses compétences en matière
-d'archéologie préventive, les articles R. 524-3 à R. 524-10 sont applicables à Saint-Barthélemy.
+d'archéologie préventive, les articles R. 524-3 à R. 524-11 sont applicables à Saint-Barthélemy.
 
 **Liens relatifs à cet article**
 
@@ -45020,7 +45065,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1485 du 2 novembre 2016 - art. 2
+  - Décret n°2018-1227 du 24 décembre 2018 - art. 5
 
 _Cite_:
 
@@ -45446,7 +45491,7 @@ _Cite_:
 ###### Article R790-8
 
 Dans l'exercice des missions d'intérêt général qui incombent à l'Etat dans le cadre de ses compétences en matière
-d'archéologie préventive, les articles R. 524-3 à R. 524-10 sont applicables à Saint-Martin.
+d'archéologie préventive, les articles R. 524-3 à R. 524-11 sont applicables à Saint-Martin.
 
 **Liens relatifs à cet article**
 
@@ -45456,7 +45501,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1485 du 2 novembre 2016 - art. 2
+  - Décret n°2018-1227 du 24 décembre 2018 - art. 5
 
 _Cite_:
 
