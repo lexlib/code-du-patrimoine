@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2018-12-27
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -4220,18 +4220,22 @@ métropole de Lyon. Le département du Rhône et la métropole de Lyon assurent 
 départemental d'archives du Rhône.
 
 Le service départemental d'archives du Rhône est un service unifié au sens du I de l'article L. 5111-1-1 du code général des
-collectivités territoriales, rattaché au département du Rhône. 
+collectivités territoriales, rattaché au département du Rhône.
 
 Le remboursement des dépenses prévu au cinquième alinéa de l'article L. 5111-1-1 s'effectue au prorata de la population du
-département du Rhône et de la métropole de Lyon. 
+département du Rhône et de la métropole de Lyon.
 
 Pour l'application des dispositions du livre II du présent code au département du Rhône et à la métropole de Lyon, les mots :
-" service départemental d'archives ", " archives du département " et " archives départementales "  sont remplacés par  les
-mots : " service d'archives du département du Rhône et de la métropole de Lyon ". 
+" service départemental d'archives ", " archives du département " et " archives départementales " sont remplacés par les
+mots : " service d'archives du département du Rhône et de la métropole de Lyon ".
 
 Pour l'application des dispositions du livre II du présent code à la collectivité de Corse, les mots : " service
 départemental d'archives ", " archives du département " et " archives départementales " sont remplacés par les mots : "
 service d'archives de la collectivité de Corse ".
+
+Pour l'application des dispositions du livre II du présent code à la Ville de Paris, les mots : “ service départemental
+d'archives ”, “ archives du département ” et “ archives départementales ” sont remplacés par les mots : “ service d'archives
+de la Ville de Paris ”.
 
 **Liens relatifs à cet article**
 
@@ -4247,7 +4251,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1562 du 21 novembre 2016 - art. 32
+  - Ordonnance n°2018-74 du 8 février 2018 - art. 5
 
 _Cite_:
 
@@ -7735,21 +7739,10 @@ Sont exonérés de la redevance d'archéologie préventive :
 aux 1° à 3° et 7° à 9° de l'article L. 331-7 du code de l'urbanisme ;
 
 2° Lorsqu'elle est perçue sur les travaux mentionnés aux b et c de l'article L. 524-2 du présent code, les affouillements
-rendus nécessaires pour la réalisation de travaux agricoles, forestiers ou pour la prévention des risques naturels.
+rendus nécessaires pour la réalisation de travaux agricoles, forestiers ou pour la prévention des risques naturels ;
 
-**Nota:**
-
-Conformément à l'article 79-IV de la loi n° 2011-1978 du 29 décembre 2011, ces dispositions entrent en vigueur dans les
-conditions suivantes : 
-
-1° Lorsque la redevance d'archéologie préventive est perçue sur des travaux mentionnés au a de l'article L. 524-2 du code du
-patrimoine, ils sont applicables aux demandes d'autorisation d'urbanisme et aux déclarations préalables déposées à compter du
-1er mars 2012 ; 
-
-2° Lorsque la redevance est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 et au dernier alinéa de
-l'article L. 524-4 du même code, ils sont applicables à compter du 1er mars 2013 ; 
-
-3° Ils entrent en vigueur à Mayotte à compter du 1er mars 2014.
+3° Lorsqu'elle est perçue sur les travaux mentionnés aux a à c de l'article L. 524-2, les aménagements liés à la pose et à
+l'exploitation de câbles sous-marins de transport d'information.
 
 **Liens relatifs à cet article**
 
@@ -7759,7 +7752,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 101 (VD)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 74
 
 _Cite_:
 
@@ -7774,7 +7767,7 @@ _Cité par_:
 ###### Article L524-4
 
 Le fait générateur de la redevance d'archéologie préventive est, y compris pour les aménagements situés dans le domaine
-public maritime jusqu'à un mille calculé à compter de la ligne de base de la mer territoriale :
+public maritime jusqu'à un mille calculé à compter de la laisse de basse mer :
 
 a) Pour les travaux soumis à autorisation ou à déclaration préalable en application du code de l'urbanisme, la délivrance de
 l'autorisation de construire ou d'aménager, la délivrance du permis modificatif, la naissance d'une autorisation tacite de
@@ -7793,8 +7786,8 @@ opposition aux travaux mentionnée au a ou avant l'édiction de l'acte mentionn�
 le dépôt de la demande de réalisation du diagnostic ;
 
 Le fait générateur de la redevance d'archéologie préventive, pour les aménagements situés dans le domaine public maritime au-
-delà d'un mille à compter de la ligne de base de la mer territoriale ou dans la zone contiguë, est l'acte qui décide,
-éventuellement après enquête publique, la réalisation du projet et en détermine l'emprise.
+delà d'un mille à compter de la laisse de basse mer ou dans la zone contiguë, est l'acte qui décide, éventuellement après
+enquête publique, la réalisation du projet et en détermine l'emprise.
 
 **Liens relatifs à cet article**
 
@@ -7807,8 +7800,8 @@ _Cité par_:
 
   - Décret n°2002-89 du 16 janvier 2002 - art. 30 (Ab)
   - Décret n°2004-490 du 3 juin 2004 - art. 82 (Ab)
-  - Code du patrimoine - art. L524-7 (M)
-  - Code du patrimoine - art. L524-8 (V)
+  - Code du patrimoine - art. L524-7 (V)
+  - Code du patrimoine - art. L524-8 (M)
   - Code du patrimoine - art. R523-14 (V)
   - Code du patrimoine - art. R524-3 (V)
 
@@ -7818,7 +7811,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 79 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 74
 
 
 ###### Article L524-6
@@ -7829,17 +7822,13 @@ La redevance d'archéologie préventive n'est pas due :
 redevance d'archéologie préventive en application de la loi n° 2003-707 du 1er août 2003 modifiant la loi n° 2001-44 du 17
 janvier 2001 relative à l'archéologie préventive ;
 
-2° Lorsque l'emprise des ouvrages, travaux ou aménagements est située dans le domaine public maritime au-delà d'un mille
-calculé depuis la ligne de base de la mer territoriale ou dans la zone contiguë et qu'elle a fait l'objet d'une opération
+2° Lorsque l'emprise des ouvrages, travaux ou aménagements est située, en tout ou partie, dans le domaine public maritime au-
+delà d'un mille calculé depuis la laisse de basse mer ou dans la zone contiguë et qu'elle a fait l'objet d'une opération
 d'évaluation archéologique. L'évaluation archéologique vaut étude d'impact du projet sur le patrimoine culturel maritime au
 sens du 4° du III de l'article L. 122-1 du code de l'environnement et diagnostic au sens du présent code. L'évaluation
 archéologique est réalisée dans le cadre d'une convention conclue entre la personne projetant les travaux et l'Etat. Cette
 convention définit notamment les délais, les moyens mis en œuvre et les modalités de financement de l'évaluation
-archéologique ;
-
-3° Lorsque l'emprise des constructions a déjà fait l'objet d'une opération visant à la détection, à la conservation ou à la
-sauvegarde par l'étude scientifique du patrimoine archéologique, réalisée dans des conditions fixées par décret en Conseil
-d'Etat.
+archéologique.
 
 En cas de demande volontaire de réalisation de diagnostic, le montant de la redevance d'archéologie préventive acquittée à ce
 titre est déduit de la redevance due pour la réalisation de l'aménagement.
@@ -7851,18 +7840,13 @@ _Anciens textes_:
   - Loi n°2001-44 2001-01-17 art. 9 par. I al. 8
   - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
 
-_Cite_:
-
-  - Loi n°2003-707 du 1 août 2003
-  - Code du patrimoine - art. L524-7
-
 _Codifié par_:
 
   - Ordonnance n°2004-178 du 20 février 2004
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 79 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 74
 
 
 ###### Article L524-7
@@ -7898,14 +7882,12 @@ du présent code ;
 La redevance n'est pas due pour les travaux et aménagements dont la surface au sol est inférieure à 3 000 mètres carrés.
 
 III. – Lorsque la redevance est perçue sur des ouvrages, travaux ou aménagements situés dans le domaine public maritime au-
-delà d'un mille à compter de la ligne de base de la mer territoriale ou dans la zone contiguë, son montant est égal à 0,10
-euro par mètre carré.
+delà d'un mille à compter de laisse de basse mer ou dans la zone contiguë, son montant est égal à 0,10 euro par mètre carré.
 
 La surface prise en compte est :
 
-- pour les installations de production et de transport d'énergie et les installations de transport d'information, la surface
-constituée d'une bande de 100 mètres de part et d'autre des câbles ou canalisations de transport d'énergie et d'information
-que multiplie la longueur des câbles ou canalisations ;
+- pour les installations de production et de transport d'énergie, la surface constituée d'une bande de 100 mètres de part et
+d'autre des câbles ou canalisations de transport d'énergie que multiplie la longueur des câbles ou canalisations ;
 
 - pour les autres types de travaux, dont les travaux d'extraction de matériaux, la surface au sol des travaux nécessaires à
 la réalisation de l'exploitation autorisée.
@@ -7933,7 +7915,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 79 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 74
 
 _Cite_:
 
@@ -7941,7 +7923,7 @@ _Cite_:
   - Code de l'environnement - art. L122-1
   - Code du patrimoine - art. L522-1
   - Code du patrimoine - art. L524-2
-  - Code du patrimoine - art. L524-4
+  - Code du patrimoine - art. L524-4 (V)
 
 
 ###### Article L524-7-1
