@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2018-10-01
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -4147,18 +4147,22 @@ métropole de Lyon. Le département du Rhône et la métropole de Lyon assurent 
 départemental d'archives du Rhône.
 
 Le service départemental d'archives du Rhône est un service unifié au sens du I de l'article L. 5111-1-1 du code général des
-collectivités territoriales, rattaché au département du Rhône. 
+collectivités territoriales, rattaché au département du Rhône.
 
 Le remboursement des dépenses prévu au cinquième alinéa de l'article L. 5111-1-1 s'effectue au prorata de la population du
-département du Rhône et de la métropole de Lyon. 
+département du Rhône et de la métropole de Lyon.
 
 Pour l'application des dispositions du livre II du présent code au département du Rhône et à la métropole de Lyon, les mots :
-" service départemental d'archives ", " archives du département " et " archives départementales "  sont remplacés par  les
-mots : " service d'archives du département du Rhône et de la métropole de Lyon ". 
+" service départemental d'archives ", " archives du département " et " archives départementales " sont remplacés par les
+mots : " service d'archives du département du Rhône et de la métropole de Lyon ".
 
 Pour l'application des dispositions du livre II du présent code à la collectivité de Corse, les mots : " service
 départemental d'archives ", " archives du département " et " archives départementales " sont remplacés par les mots : "
 service d'archives de la collectivité de Corse ".
+
+Pour l'application des dispositions du livre II du présent code à la Ville de Paris, les mots : “ service départemental
+d'archives ”, “ archives du département ” et “ archives départementales ” sont remplacés par les mots : “ service d'archives
+de la Ville de Paris ”.
 
 **Liens relatifs à cet article**
 
@@ -4174,7 +4178,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1562 du 21 novembre 2016 - art. 32
+  - Ordonnance n°2018-74 du 8 février 2018 - art. 5
 
 _Cite_:
 
