@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-03-25
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -632,8 +632,8 @@ due du fait du refus de délivrance du certificat.
 Il est accordé aux biens culturels licitement importés dans le territoire douanier depuis moins de cinquante ans.
 
 Le refus de délivrance du certificat ne peut intervenir qu'après avis motivé d'une commission composée à parité de
-représentants de l'Etat et de personnalités qualifiées et présidée par un membre du Conseil d'Etat. Un décret en Conseil
-d'Etat fixe les modalités de désignation de ses membres et les conditions de publication de ses avis.
+représentants de l'Etat et de personnalités qualifiées et présidée par un membre de la juridiction administrative. Un décret
+en Conseil d'Etat fixe les modalités de désignation de ses membres et les conditions de publication de ses avis.
 
 La décision de refus de délivrance du certificat est motivée. Elle comporte, par écrit, l'énoncé des considérations de droit
 et de fait qui en constituent le fondement. Elle est communiquée à la commission mentionnée au précédent alinéa et publiée
@@ -641,9 +641,8 @@ dans des conditions fixées par décret en Conseil d'Etat.
 
 **Nota:**
 
-Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
-vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
-avant cette date demeurent régies par les dispositions antérieures.
+Conformément au A du XXIV de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à
+compter du prochain renouvellement de chaque commission.
 
 **Liens relatifs à cet article**
 
@@ -670,7 +669,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+  - Loi n°2019-222 du 23 mars 2019 - art. 102
 
 
 ###### Article L111-5
@@ -13672,19 +13671,24 @@ _Cité par_:
 ###### Article L740-2
 
 Les articles L. 221-1 à L. 221-5, 
-L. 222-1 et L. 222-3 sont applicables en Nouvelle-Calédonie.
+L. 222-1 et L. 222-3 sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2019-222 du 23 mars
+2019 de programmation 2018-2022 et de réforme pour la justice.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
 
 _Cite_:
 
-  - Code du patrimoine - art. L221-1 (V)
-  - Code du patrimoine - art. L222-1 (V)
-  - Code du patrimoine - art. L222-3 (V)
+  - Code du patrimoine - art. L221-1
+  - Code du patrimoine - art. L222-1
+  - Code du patrimoine - art. L222-3
 
 
 ###### Article L740-3
@@ -13747,22 +13751,17 @@ _Codifié par_:
 ###### Article L750-1
 
 I.-Pour l'application de l'article L. 112-22, les mots : “ les personnes mentionnées au troisième alinéa de l'article L.
-212-1 ” sont remplacés par les mots : “ l'Etat ou tout service public d'archives compétent ”. 
+212-1 ” sont remplacés par les mots : “ l'Etat ou tout service public d'archives compétent ”.
 
-Pour l'application de l'article L. 112-23, les mots : “ en application de l'article 1626 du code civil ” sont supprimés. 
+Pour l'application de l'article L. 112-23, les mots : “ en application de l'article 1626 du code civil ” sont supprimés.
 
-II.-Les articles L. 123-1, L. 123-2 et L. 123-4 sont applicables en Polynésie française. 
+II.-Les articles L. 123-1, L. 123-2 et L. 123-4 sont applicables en Polynésie française.
 
 Pour l'application de ces articles, les références au code de commerce sont remplacées par les références aux dispositions
-applicables localement ayant le même objet. 
+applicables localement ayant le même objet.
 
-III.-Les articles L. 221-1 à L. 221-5, L. 222-1 et L. 222-3 sont applicables en Polynésie française.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2017-1134 du 5 juillet 2017, ces dispositions entrent en
-vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
-avant cette date demeurent régies par les dispositions antérieures.
+III.-Les articles L. 221-1 à L. 221-5, L. 222-1 et L. 222-3 sont applicables en Polynésie française, dans leur rédaction
+résultant de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice.
 
 **Liens relatifs à cet article**
 
@@ -13772,7 +13771,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 8
+  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
 
 _Cite_:
 
@@ -13909,25 +13908,26 @@ _Cite_:
 ###### Article L760-3
 
 Les articles L. 212-15 à L. 212-33, L. 212-37, L. 221-1 à L. 221-5, L. 222-1 et L. 222-3 sont applicables dans les îles
-Wallis et Futuna.
+Wallis et Futuna, dans leur rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de
+réforme pour la justice.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
 
 _Modifié par_:
 
-  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
 
 _Cite_:
 
-  - Code du patrimoine - art. L212-15 (V)
-  - Code du patrimoine - art. L212-37 (V)
-  - Code du patrimoine - art. L221-1 (V)
-  - Code du patrimoine - art. L222-1 (V)
-  - Code du patrimoine - art. L222-3 (V)
+  - Code du patrimoine - art. L212-15
+  - Code du patrimoine - art. L212-37
+  - Code du patrimoine - art. L221-1
+  - Code du patrimoine - art. L222-1
+  - Code du patrimoine - art. L222-3
 
 
 ###### Article L760-4
@@ -13987,31 +13987,33 @@ _Codifié par_:
 ###### Article L770-1
 
 Les articles L. 131-1, L. 131-2, L. 132-1 à L. 132-6, L. 133-1, L. 211-1 à L. 211-6, L. 212-1 à L. 212-5, L. 212-15 à L.
-212-28, L. 212-31 à L. 212-33, L. 212-37, L. 213-1 à L. 213-8, L. 214-1 à  L. 214-10, L. 510-1, L. 532-1 à L. 532-14 et L.
-544-5 à L. 544-11 sont applicables au territoire des Terres australes et antarctiques françaises.
+212-28, L. 212-31 à L. 212-33, L. 212-37, L. 213-1 à L. 213-8, L. 214-1 à L. 214-10, L. 221-1 à L. 222-1, L. 510-1, L. 532-1
+à L. 532-14 et L. 544-5 à L. 544-11 du présent code sont applicables au territoire des Terres australes et antarctiques
+françaises, dans sa rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour
+la justice.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-696  du 15 juillet 2008 - art. 20
+  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
 
 _Cite_:
 
-  - Code du patrimoine - art. L131-1 (V)
-  - Code du patrimoine - art. L132-1 (V)
-  - Code du patrimoine - art. L133-1 (V)
-  - Code du patrimoine - art. L211-1 (V)
-  - Code du patrimoine - art. L212-1 (V)
-  - Code du patrimoine - art. L212-15 (V)
-  - Code du patrimoine - art. L212-31 (V)
-  - Code du patrimoine - art. L212-37 (V)
-  - Code du patrimoine - art. L213-1 (V)
-  - Code du patrimoine - art. L214-1 (V)
+  - Code du patrimoine - art. L131-1
+  - Code du patrimoine - art. L132-1
+  - Code du patrimoine - art. L133-1
+  - Code du patrimoine - art. L211-1
+  - Code du patrimoine - art. L212-1
+  - Code du patrimoine - art. L212-15
+  - Code du patrimoine - art. L212-31
+  - Code du patrimoine - art. L212-37
+  - Code du patrimoine - art. L213-1
+  - Code du patrimoine - art. L214-1
   - Code du patrimoine - art. L214-10
-  - Code du patrimoine - art. L510-1 (V)
-  - Code du patrimoine - art. L532-1 (V)
-  - Code du patrimoine - art. L544-5 (V)
+  - Code du patrimoine - art. L510-1
+  - Code du patrimoine - art. L532-1
+  - Code du patrimoine - art. L544-5
 
 _Cité par_:
 
