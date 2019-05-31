@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -3858,23 +3858,29 @@ _Cite_:
 
 Lorsque les archives publiques comportent des données à caractère personnel collectées dans le cadre de traitements régis par
 la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, ces données font l'objet, à
-l'expiration de la durée prévue au 5° de l'article 6 de ladite loi, d'une sélection pour déterminer les données destinées à
+l'expiration de la durée prévue au 5° de l'article 4 de ladite loi, d'une sélection pour déterminer les données destinées à
 être conservées et celles, dépourvues d'utilité administrative ou d'intérêt scientifique, statistique ou historique,
 destinées à être éliminées.
 
 Les catégories de données destinées à l'élimination ainsi que les conditions de cette élimination sont fixées par accord
 entre l'autorité qui a produit ou reçu ces données et l'administration des archives.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - Loi n°78-17 du 6 janvier 1978
   - Loi n°78-17 du 6 janvier 1978 - art. 6
-  - Loi n°78-17 du 6 janvier 1978 (V)
 
 _Cité par_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 36 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 36 (VD)
   - Décret n°2006-1806 du 23 décembre 2006 - art. 10 (VD)
   - Décret n°2006-1806 du 23 décembre 2006 - art. 11 (VD)
   - Décret n°2006-1806 du 23 décembre 2006 - art. 7 (VD)
@@ -3904,7 +3910,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-696  du 15 juillet 2008 - art. 5
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 12
 
 
 ###### Article L212-4
@@ -13894,22 +13900,34 @@ _Cité par_:
 
 ###### Article L760-2
 
-Les articles L. 211-1 à L. 211-6, L. 212-1 à L. 212-5, L. 213-1 à L. 213-8 et L. 214-1 à L. 214-10 sont applicables dans les
-îles Wallis et Futuna aux archives relevant des services et établissements publics de l'Etat et des personnes morales
-chargées de la gestion d'un service public relevant de la compétence de l'Etat.
+Sont applicables dans les îles Wallis et Futuna aux archives relevant des services et établissements publics de l'Etat et des
+personnes morales chargées de la gestion d'un service public relevant de la compétence de l'Etat :
+
+1° Les articles L. 211-1 à L. 211-6, L. 212-1 à L. 212-2, L. 212-4 à L. 212-5, L. 213-1 à L. 213-8 et L. 214-1 à L. 214-10 ;
+
+2° L'article L. 212-3 dans sa rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de
+l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification
+de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions
+concernant la protection des données à caractère personnel.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-696  du 15 juillet 2008 - art. 20
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 12
 
 _Cite_:
 
-  - Code du patrimoine - art. L211-1 (V)
-  - Code du patrimoine - art. L212-1 (V)
-  - Code du patrimoine - art. L213-1 (V)
-  - Code du patrimoine - art. L214-1 (V)
+  - Code du patrimoine - art. L211-1
+  - Code du patrimoine - art. L212-1
+  - Code du patrimoine - art. L213-1
+  - Code du patrimoine - art. L214-1
 
 
 ###### Article L760-3
