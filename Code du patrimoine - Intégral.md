@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-06-14
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -35807,10 +35807,10 @@ _Cité par_:
 
 ###### Article R611-3
 
-Un député et un sénateur sont désignés membres de la Commission nationale du patrimoine et de l'architecture par leur
-assemblée respective.
+Un député et un sénateur sont désignés membres titulaires de la Commission nationale du patrimoine et de l'architecture. Un
+député et un sénateur sont désignés membres suppléants.
 
-Le président de la commission est nommé parmi ces deux parlementaires par arrêté du ministre chargé de la culture.
+Le président de la commission est nommé parmi les deux parlementaires titulaires par arrêté du ministre chargé de la culture.
 
 En cas d'empêchement du président, ses fonctions sont assurées par le directeur général des patrimoines ou son représentant.
 
@@ -35824,10 +35824,6 @@ _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
 _Cité par_:
 
   - Décret n°2019-579 du 11 juin 2019 (V)
@@ -35839,9 +35835,9 @@ _Cité par_:
   - Code du patrimoine - art. R611-8 (V)
   - Code du patrimoine - art. R611-9 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code du patrimoine - art. R611-2 (V)
+  - Décret n°2019-579 du 11 juin 2019 - art. 4
 
 
 ###### Article R611-4
