@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2019-06-14
+Version Consolidée au 2019-06-23
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -39693,8 +39693,16 @@ _Cite_:
 
 ###### Article R621-92
 
-Préalablement à l'inscription d'un immeuble au titre des monuments historiques, le préfet de région saisit l'architecte des
-Bâtiments de France afin qu'il propose, le cas échéant, un projet de périmètre délimité des abords.
+Lorsqu'une commune ou un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme,
+de document d'urbanisme en tenant lieu ou de carte communale entend proposer un périmètre délimité des abords conformément au
+premier alinéa de l'article L. 621-31, il transmet cette proposition à l'architecte des Bâtiments de France afin de
+recueillir son accord.
+
+**Nota:**
+
+Conformément au I de l'article 4 du décret n° 2019-617 du 21 juin 2019, ces dispositions sont applicables aux procédures de
+création ou de modification d'un périmètre délimité des abords initiées à compter du lendemain de la publication du présent
+décret.
 
 **Liens relatifs à cet article**
 
@@ -39708,7 +39716,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
+  - Décret n°2019-617 du 21 juin 2019 - art. 1
 
 _Cite_:
 
@@ -39718,54 +39726,84 @@ _Cité par_:
 
   - Code du patrimoine - art. R720-12-1 (V)
   - Code du patrimoine - art. R780-17 (V)
+  - Code du patrimoine - art. R790-16 (V)
+
+
+###### Article R621-92-1
+
+Préalablement à l'inscription d'un immeuble au titre des monuments historiques, le préfet de région saisit l'architecte des
+Bâtiments de France et informe la commune ou l'établissement public de coopération intercommunale compétent en matière de
+plan local d'urbanisme, de document d'urbanisme en tenant lieu ou de carte communale afin qu'ils proposent, le cas échéant,
+un projet de périmètre délimité des abords.
+
+**Nota:**
+
+Conformément au I de l'article 4 du décret n° 2019-617 du 21 juin 2019, ces dispositions sont applicables aux procédures de
+création ou de modification d'un périmètre délimité des abords initiées à compter du lendemain de la publication du présent
+décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-617 du 21 juin 2019 - art. 1
 
 
 ###### Article R621-93
 
-I. – Lorsque la commune ou l'établissement public de coopération intercommunale compétent élabore, modifie ou révise au sens
-du 1° de l'article L. 153-31 du code de l'urbanisme le plan local d'urbanisme ou le document d'urbanisme en tenant lieu ou
-lorsqu'il élabore ou révise la carte communale, le préfet saisit l'architecte des Bâtiments de France afin qu'il propose, le
-cas échéant, un projet de périmètre délimité des abords. 
+I. – Sans préjudice de l'article R. 621-92, lorsque la commune ou l'établissement public de coopération intercommunale
+compétent élabore, modifie ou révise au sens du 1° de l'article L. 153-31 du code de l'urbanisme le plan local d'urbanisme ou
+le document d'urbanisme en tenant lieu ou lorsqu'il élabore ou révise la carte communale, le préfet saisit l'architecte des
+Bâtiments de France afin qu'il propose, le cas échéant, un projet de périmètre délimité des abords.
 
 II. – L'organe délibérant de l'autorité compétente se prononce sur le projet de périmètre délimité des abords en même temps
 qu'il arrête le projet de plan local d'urbanisme conformément à l'article L. 153-14 du code de l'urbanisme après avoir
-consulté, le cas échéant, la ou les communes concernées. Lorsqu'il s'est prononcé favorablement, l'enquête publique prévue
-par l'article L. 153-19 du même code porte à la fois sur le projet de plan local d'urbanisme et sur le projet de périmètre
-délimité des abords. 
+consulté, le cas échéant, la ou les communes concernées. En cas d'accord de l'architecte des Bâtiments de France et de cette
+autorité compétente sur le projet de périmètre délimité des abords, l'enquête publique prévue par l'article L. 153-19 du même
+code porte à la fois sur le projet de plan local d'urbanisme et sur le projet de périmètre délimité des abords.
 
 Lors de l'élaboration ou de la révision d'une carte communale, l'organe délibérant de l'autorité compétente se prononce sur
-le projet de périmètre délimité des abords après avoir consulté, le cas échéant, la ou les communes concernées. Lorsqu'il
-s'est prononcé favorablement, l'enquête publique prévue par l'article L. 163-5 du code de l'urbanisme porte à la fois sur le
-projet de carte communale et sur le projet de périmètre délimité des abords. 
+le projet de périmètre délimité des abords après avoir consulté, le cas échéant, la ou les communes concernées. En cas
+d'accord de l'architecte des Bâtiments de France et de cette autorité compétente sur le projet de périmètre délimité des
+abords, l'enquête publique prévue par l'article L. 163-5 du code de l'urbanisme porte à la fois sur le projet de carte
+communale et sur le projet de périmètre délimité des abords.
 
 Lors de la modification d'un plan local d'urbanisme ou d'un document en tenant lieu, l'organe délibérant de l'autorité
 compétente se prononce sur le projet de périmètre délimité des abords après avoir consulté, le cas échéant, la ou les
-communes concernées. Lorsqu'il s'est prononcé favorablement, le maire ou le président de l'établissement public de
-coopération intercommunale compétent diligente une enquête publique unique portant à la fois sur le projet de modification du
-document d'urbanisme et sur le projet de périmètre délimité des abords. 
+communes concernées. En cas d'accord de l'architecte des Bâtiments de France et de cette autorité compétente sur le projet de
+périmètre délimité des abords, le maire ou le président de l'établissement public de coopération intercommunale compétent
+diligente une enquête publique unique portant à la fois sur le projet de modification du document d'urbanisme et sur le
+projet de périmètre délimité des abords.
 
 Dans tous les autres cas, le préfet organise une enquête publique dans les conditions fixées par le chapitre III du titre II
-du livre Ier du code de l'environnement. 
+du livre Ier du code de l'environnement.
 
 III. – Lorsque le projet de périmètre délimité des abords concerne plusieurs départements, l'enquête peut être ouverte et
 organisée par une décision conjointe des préfets concernés pour ouvrir et organiser l'enquête. Dans ce cas, le préfet chargé
 de coordonner l'organisation de l'enquête et d'en centraliser les résultats est désigné conformément aux dispositions de
 l'article 69 du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des
-services de l'Etat dans les régions et départements. 
+services de l'Etat dans les régions et départements.
 
 IV. – Le commissaire enquêteur consulte le propriétaire ou l'affectataire domanial des monuments historiques concernés. Le
-résultat de cette consultation figure dans le rapport du commissaire enquêteur. 
+résultat de cette consultation figure dans le rapport du commissaire enquêteur.
 
 Après avoir reçu le rapport et les conclusions motivées du commissaire enquêteur ou de la commission d'enquête, le préfet
-demande à l'autorité compétente en matière de plan local d'urbanisme, de document d'urbanisme en tenant lieu et de carte
-communale un accord sur le projet de périmètre délimité des abords, éventuellement modifié pour tenir compte des conclusions
-de l'enquête publique. En cas de modification du projet de périmètre délimité des abords, l'autorité compétente consulte, le
-cas échéant, à nouveau la ou les communes concernées. 
+sollicite l'accord de l'autorité compétente en matière de plan local d'urbanisme, de document d'urbanisme en tenant lieu ou
+de carte communale et de l'architecte des Bâtiments de France sur le projet de périmètre délimité des abords, éventuellement
+modifié pour tenir compte des conclusions de l'enquête publique. En cas de modification du projet de périmètre délimité des
+abords, l'autorité compétente consulte, le cas échéant, à nouveau la ou les communes concernées.
 
-A défaut de réponse dans les trois mois suivant la saisine, l'autorité compétente est réputée avoir donné son accord. 
+A défaut de réponse dans les trois mois suivant leur saisine, l'autorité compétente et l'architecte des Bâtiments de France
+sont réputés avoir donné leur accord.
 
 En cas de modification du projet de périmètre délimité des abords, l'architecte des Bâtiments de France est également
 consulté.
+
+**Nota:**
+
+Conformément au I de l'article 4 du décret n° 2019-617 du 21 juin 2019, ces dispositions sont applicables aux procédures de
+création ou de modification d'un périmètre délimité des abords initiées à compter du lendemain de la publication du présent
+décret.
 
 **Liens relatifs à cet article**
 
@@ -39776,7 +39814,7 @@ _Cite_:
   - Code de l'urbanisme - art. L153-19
   - Code de l'urbanisme - art. L153-31
   - Code de l'urbanisme - art. L163-5
-  - Code de l'environnement -  Chapitre III : Participation du public aux déci... (V)
+  - Code de l'environnement
 
 _Anciens textes_:
 
@@ -39788,7 +39826,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
+  - Décret n°2019-617 du 21 juin 2019 - art. 1
 
 _Cité par_:
 
@@ -39800,12 +39838,12 @@ _Cité par_:
 ###### Article R621-94
 
 En cas d'accord de la commune ou de l'établissement public de coopération intercommunale compétent en matière de plan local
-d'urbanisme, de document d'urbanisme en tenant lieu et de carte communale, le périmètre délimité des abords est créé par
-arrêté du préfet de région. 
+d'urbanisme, de document d'urbanisme en tenant lieu et de carte communale et de l'architecte des Bâtiments de France, le
+périmètre délimité des abords est créé par arrêté du préfet de région.
 
 A défaut d'accord de l'autorité compétente en matière de plan local d'urbanisme, de document d'urbanisme en tenant lieu et de
-carte communale, le périmètre délimité des abords est créé par arrêté du préfet de région ou par décret en Conseil d'Etat
-dans les conditions prévues au deuxième alinéa de l'article L. 621-31.
+carte communale ou de l'architecte des Bâtiments de France, le périmètre délimité des abords est créé par arrêté du préfet de
+région ou par décret en Conseil d'Etat dans les conditions prévues au deuxième alinéa de l'article L. 621-31.
 
 **Liens relatifs à cet article**
 
@@ -39823,7 +39861,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 4
+  - Décret n°2019-617 du 21 juin 2019 - art. 1
 
 _Cite_:
 
@@ -45243,10 +45281,15 @@ _Cité par_:
 ###### Article R780-17
 
 Pour l'application à Saint Barthélemy des articles R. 611-28, 
-R. 612-1, R. 621-8, R. 621-58, R. 621-67, R. 621-88, 
-R. 621-93 à R. 621-95, R. 621-98, R. 631-1, R. 631-4 et R. 631-6, les références au code de l'urbanisme, au plan local
-d'urbanisme et au plan de sauvegarde et de mise en valeur sont remplacées par les références aux dispositions ayant le même
-objet applicables localement.
+R. 612-1, R. 621-8, R. 621-58, R. 621-67, R. 621-88, R. 621-92 à R. 621-95, R. 621-98, R. 631-1, R. 631-4 et R. 631-6, les
+références au code de l'urbanisme, au plan local d'urbanisme et au plan de sauvegarde et de mise en valeur sont remplacées
+par les références aux dispositions ayant le même objet applicables localement.
+
+**Nota:**
+
+Conformément au I de l'article 4 du décret n° 2019-617 du 21 juin 2019, ces dispositions sont applicables aux procédures de
+création ou de modification d'un périmètre délimité des abords initiées à compter du lendemain de la publication du présent
+décret.
 
 **Liens relatifs à cet article**
 
@@ -45256,7 +45299,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 6
+  - Décret n°2019-617 du 21 juin 2019 - art. 1
 
 _Cite_:
 
@@ -45266,7 +45309,7 @@ _Cite_:
   - Code du patrimoine - art. R621-67
   - Code du patrimoine - art. R621-8
   - Code du patrimoine - art. R621-88
-  - Code du patrimoine - art. R621-93
+  - Code du patrimoine - art. R621-92
   - Code du patrimoine - art. R621-98
   - Code du patrimoine - art. R631-1
   - Code du patrimoine - art. R631-4
@@ -45680,9 +45723,15 @@ _Cité par_:
 ###### Article R790-16
 
 Pour l'application à Saint-Martin des articles R. 611-28, 
-R. 612-1, R. 621-8, R. 621-58, R. 621-67, R. 621-88, R. 621-93 à R. 621-95, R. 621-98, R. 631-1, R. 631-4 et R. 631-6, les
+R. 612-1, R. 621-8, R. 621-58, R. 621-67, R. 621-88, R. 621-92 à R. 621-95, R. 621-98, R. 631-1, R. 631-4 et R. 631-6, les
 références au code de l'urbanisme, au plan local d'urbanisme et au plan de sauvegarde et de mise en valeur sont remplacées
 par les références aux dispositions ayant le même objet applicables localement.
+
+**Nota:**
+
+Conformément au I de l'article 4 du décret n° 2019-617 du 21 juin 2019, ces dispositions sont applicables aux procédures de
+création ou de modification d'un périmètre délimité des abords initiées à compter du lendemain de la publication du présent
+décret.
 
 **Liens relatifs à cet article**
 
@@ -45692,7 +45741,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 6
+  - Décret n°2019-617 du 21 juin 2019 - art. 1
 
 _Cite_:
 
@@ -45702,7 +45751,7 @@ _Cite_:
   - Code du patrimoine - art. R621-67
   - Code du patrimoine - art. R621-8
   - Code du patrimoine - art. R621-88
-  - Code du patrimoine - art. R621-93
+  - Code du patrimoine - art. R621-92 (V)
   - Code du patrimoine - art. R621-98
   - Code du patrimoine - art. R631-1
   - Code du patrimoine - art. R631-4
