@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2019-06-23
+Version Consolidée au 2019-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -5475,11 +5475,21 @@ _Cité par_:
 
 La décision prévue par l'article L. 221-2 est prise soit d'office, soit à la requête d'une des parties ou de ses
 représentants ou du ministère public. Sauf urgence, toute requête est présentée, à peine d'irrecevabilité, au plus tard huit
-jours avant la date fixée pour l'audience dont l'enregistrement est demandé. 
+jours avant la date fixée pour l'audience dont l'enregistrement est demandé.
 
 Avant toute décision, l'autorité compétente recueille les observations des parties ou de leurs représentants, du président de
 l'audience dont l'enregistrement est envisagé et du ministère public. Elle fixe le délai dans lequel les observations doivent
 être présentées et l'avis doit être fourni.
+
+En cas de procès pour crime contre l'humanité ou pour actes de terrorisme, l'enregistrement est de droit s'il est demandé par
+le ministère public.
+
+**Nota:**
+
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
 
 **Liens relatifs à cet article**
 
@@ -5490,11 +5500,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 69
 
 _Cite_:
 
-  - Code du patrimoine - art. L221-2 (V)
+  - Code du patrimoine - art. L221-2
 
 _Cité par_:
 
@@ -5553,15 +5567,22 @@ _Cité par_:
 ###### Article L222-1
 
 L'enregistrement audiovisuel ou sonore est communicable à des fins historiques ou scientifiques dès que l'instance a pris fin
-par une décision devenue définitive. 
+par une décision devenue définitive.
 
 La reproduction ou la diffusion, intégrale ou partielle, de l'enregistrement audiovisuel ou sonore est subordonnée à une
 autorisation accordée, après que toute personne justifiant d'un intérêt pour agir a été mise en mesure de faire valoir ses
 droits, par le président du tribunal de grande instance de Paris ou par le juge qu'il délègue à cet effet. Toutefois, la
 reproduction ou la diffusion, intégrale ou partielle, de l'enregistrement des audiences d'un procès pour crime contre
-l'humanité peut être autorisée dès que ce procès a pris fin par une décision devenue définitive.
+l'humanité ou pour actes de terrorisme peut être autorisée dès que ce procès a pris fin par une décision devenue définitive.
 
 Après cinquante ans, la reproduction et la diffusion des enregistrements audiovisuels ou sonores sont libres.
+
+**Nota:**
+
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
 
 **Liens relatifs à cet article**
 
@@ -5571,7 +5592,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-696  du 15 juillet 2008 - art. 18
+  - Loi n°2019-222 du 23 mars 2019 - art. 69
 
 _Cité par_:
 
