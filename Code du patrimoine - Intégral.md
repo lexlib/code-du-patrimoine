@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2019-07-01
+Version Consolidée au 2019-08-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -20633,26 +20633,32 @@ _Cite_:
 
 ###### Article R141-21
 
-Des régies de recettes et d'avances peuvent être instituées dans les conditions prévues par le décret n° 92-681 du 20 juillet
-1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+Des régies de recettes et d'avances peuvent être instituées dans les conditions prévues par le décret n° 2019-798 du 26
+juillet 2019 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992 (V)
 
 _Anciens textes_:
 
   - Décret n°95-462 du 26 avril 1995 - art. 19 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Cite_:
+
+  - Décret n°2019-798 du 26 juillet 2019
+
+_Modifié par_:
+
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 #### Chapitre II : Cité de l'architecture et du patrimoine<a id=207></a>
@@ -35576,14 +35582,16 @@ _Codifié par_:
 ###### Article R545-57
 
 Des régies d'avances et des régies de recettes peuvent être créées par le président, avec l'accord de l'agent comptable, dans
-les conditions prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des
-organismes publics.
+les conditions prévues par le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et aux régies d'avances
+des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992
 
 _Anciens textes_:
 
@@ -35593,9 +35601,13 @@ _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Cite_:
+
+  - Décret n°2019-798 du 26 juillet 2019
+
 _Modifié par_:
 
-  - Décret n°2016-1126 du 11 août 2016 - art. 19
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R545-58
