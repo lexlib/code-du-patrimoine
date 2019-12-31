@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2019-08-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -1053,9 +1053,9 @@ _Cite_:
 ###### Article L112-5
 
 Avant même l'introduction de l'action mentionnée à l'article L. 112-6 tendant au retour d'un bien culturel dans un autre Etat
-membre, l'autorité administrative peut demander au président du tribunal de grande instance d'ordonner toute mesure
-conservatoire nécessaire lorsque la conservation matérielle du bien est en cause ou que le bien risque d'être soustrait à la
-procédure de retour dans l'Etat d'origine. 
+membre, l'autorité administrative peut demander au président du   tribunal judiciaire d'ordonner toute mesure conservatoire
+nécessaire lorsque la conservation matérielle du bien est en cause ou que le bien risque d'être soustrait à la procédure de
+retour dans l'Etat d'origine. 
 
 Les mesures conservatoires sont notifiées au propriétaire, au possesseur ou au détenteur du bien culturel. 
 
@@ -1070,6 +1070,11 @@ Elles cessent également de produire effet si l'Etat membre requérant, informé
 procédé à la vérification de la qualité de trésor national du bien ou n'a pas communiqué les résultats de cette vérification
 dans un délai de six mois à compter de la notification des mesures conservatoires.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -1082,7 +1087,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-195 du 20 février 2015 - art. 6
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -1101,14 +1106,19 @@ _Cité par_:
 
 ###### Article L112-6
 
-L'action tendant au retour du bien est introduite par l'Etat membre requérant auprès du tribunal de grande instance contre la
-personne qui détient matériellement le bien pour son propre compte ou celle qui le détient pour le compte d'autrui.
+L'action tendant au retour du bien est introduite par l'Etat membre requérant auprès du   tribunal judiciaire contre la
+personne qui détient matériellement le bien pour son propre compte ou celle qui le détient pour le compte d'autrui. 
 
 Elle est irrecevable si la sortie du territoire de l'Etat membre requérant n'est plus illicite à la date à laquelle l'action
-est introduite.
+est introduite. 
 
 Cette action s'exerce sans préjudice des autres actions, civiles ou pénales, dont disposent, le cas échéant, l'Etat membre
 intéressé et le propriétaire.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -1118,7 +1128,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -1496,9 +1510,14 @@ _Cité par_:
 Le propriétaire ou l'affectataire d'un bien culturel appartenant au domaine public mobilier au sens de l'article L. 2112-1 du
 code général de la propriété des personnes publiques ou, pour les archives publiques, les personnes mentionnées au troisième
 alinéa de l'article L. 212-1 peuvent engager une action en revendication entre les mains du détenteur ou une action en
-nullité de tout acte d'aliénation du bien devant le tribunal de grande instance. Le ministre chargé de la culture peut agir
-en lieu et place du propriétaire ou de l'affectataire défaillant et solliciter toute mesure provisoire ou conservatoire en
-vue de la protection du bien.
+nullité de tout acte d'aliénation du bien devant le   tribunal judiciaire. Le ministre chargé de la culture peut agir en lieu
+et place du propriétaire ou de l'affectataire défaillant et solliciter toute mesure provisoire ou conservatoire en vue de la
+protection du bien.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -1512,16 +1531,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1134 du 5 juillet 2017 - art. 2
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
   - Code général de la propriété des personnes publiques. - art. L2112-1
-  - Code du patrimoine - art. L212-1 (VD)
 
 _Cité par_:
 
   - Code du patrimoine - art. L114-2-1 (VD)
+  - Code du patrimoine - art. L212-1 (VD)
   - Code du patrimoine - art. L451-4 (VD)
   - Code du patrimoine - art. L621-29 (MMN)
   - Code du patrimoine - art. L622-24 (MMN)
@@ -1976,37 +1995,42 @@ _Créé par_:
 ###### Article L121-1
 
 Dans le délai de trente mois prévu à l'article L. 111-6, l'autorité administrative peut, dans l'intérêt des collections
-publiques, présenter une offre d'achat. Cette offre tient compte des prix pratiqués sur le marché international. 
+publiques, présenter une offre d'achat. Cette offre tient compte des prix pratiqués sur le marché international.
 
 Si le propriétaire du bien n'accepte pas l'offre d'achat dans un délai de trois mois, l'autorité administrative peut faire
-procéder à une expertise pour fixer le prix du bien dans les conditions fixées aux troisième et quatrième alinéas. 
+procéder à une expertise pour fixer le prix du bien dans les conditions fixées aux troisième et quatrième alinéas.
 
 L'autorité administrative et le propriétaire du bien désignent, chacun à leur frais, un expert. En cas de carence, le
-président du tribunal de grande instance statuant en la forme des référés procède à la désignation. Ces experts rendent un
-rapport conjoint dans un délai de trois mois à compter de leur désignation. 
+président du tribunal judiciaire statuant en référé procède à la désignation. Ces experts rendent un rapport conjoint dans un
+délai de trois mois à compter de leur désignation.
 
 En cas de divergences entre ces experts, le prix du bien est fixé par un expert désigné conjointement par l'autorité
-administrative et le propriétaire du bien ou, à défaut d'accord, par le président du tribunal de grande instance statuant en
-la forme des référés. Cet expert, dont la rémunération est supportée pour moitié par chacune des parties, rend son rapport
-dans un délai de trois mois à compter de sa désignation. 
+administrative et le propriétaire du bien ou, à défaut d'accord, par le président du tribunal judiciaire statuant en référé.
+Cet expert, dont la rémunération est supportée pour moitié par chacune des parties, rend son rapport dans un délai de trois
+mois à compter de sa désignation.
 
 L'autorité administrative dispose d'un délai de deux mois à compter de la remise du rapport d'expertise fixant le prix du
 bien pour adresser au propriétaire une offre d'achat à la valeur d'expertise. A l'issue de ce délai, en l'absence d'offre
-d'achat présentée par l'Etat, le certificat mentionné à l'article L. 111-2 ne peut plus être refusé. 
+d'achat présentée par l'Etat, le certificat mentionné à l'article L. 111-2 ne peut plus être refusé.
 
 Si, dans un délai de deux mois à compter de l'offre d'achat, le propriétaire la refuse ou n'a pas fait savoir qu'il
-l'acceptait, le refus de délivrance du certificat est renouvelé. Aucune indemnité n'est due à ce titre. 
+l'acceptait, le refus de délivrance du certificat est renouvelé. Aucune indemnité n'est due à ce titre.
 
 Si le propriétaire du bien accepte l'offre d'achat, le paiement doit intervenir dans un délai de six mois à compter de
-l'accord du propriétaire à peine de résolution de la vente. 
+l'accord du propriétaire à peine de résolution de la vente.
 
 En cas de renouvellement du refus de délivrance du certificat, la procédure d'offre d'achat et d'expertise demeure
-applicable. 
+applicable.
 
 L'autorité administrative peut également présenter une offre d'achat dans les conditions prévues au premier alinéa pour le
-compte de toute personne publique. 
+compte de toute personne publique.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Nota:**
+
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes
+introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2017,7 +2041,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 8
+
+_Cite_:
+
+  - Code du patrimoine - art. L111-2
+  - Code du patrimoine - art. L111-6
 
 _Cité par_:
 
@@ -2029,11 +2062,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 bis-0 A (VD)
   - Code général des impôts, CGI. - art. 238 bis-0 AB (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 BA (V)
-
-_Cite_:
-
-  - Code du patrimoine. - art. L111-2 (V)
-  - Code du patrimoine. - art. L111-6 (V)
 
 
 ###### Article L121-2
@@ -5567,22 +5595,20 @@ _Cité par_:
 ###### Article L222-1
 
 L'enregistrement audiovisuel ou sonore est communicable à des fins historiques ou scientifiques dès que l'instance a pris fin
-par une décision devenue définitive.
+par une décision devenue définitive. 
 
 La reproduction ou la diffusion, intégrale ou partielle, de l'enregistrement audiovisuel ou sonore est subordonnée à une
 autorisation accordée, après que toute personne justifiant d'un intérêt pour agir a été mise en mesure de faire valoir ses
-droits, par le président du tribunal de grande instance de Paris ou par le juge qu'il délègue à cet effet. Toutefois, la
+droits, par le président du   tribunal judiciaire de Paris ou par le juge qu'il délègue à cet effet. Toutefois, la
 reproduction ou la diffusion, intégrale ou partielle, de l'enregistrement des audiences d'un procès pour crime contre
-l'humanité ou pour actes de terrorisme peut être autorisée dès que ce procès a pris fin par une décision devenue définitive.
+l'humanité ou pour actes de terrorisme peut être autorisée dès que ce procès a pris fin par une décision devenue définitive. 
 
 Après cinquante ans, la reproduction et la diffusion des enregistrements audiovisuels ou sonores sont libres.
 
 **Nota:**
 
-Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
-fixée par décret, et au plus tard le 1er janvier 2020.
-
-Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5592,7 +5618,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 69
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -9636,7 +9662,12 @@ _Cite_:
 Les infractions mentionnées à la présente section commises dans la mer territoriale ou dans la zone contiguë sont jugées soit
 par le tribunal compétent du lieu de l'infraction, soit par celui de la résidence de l'auteur de l'infraction, soit par celui
 du lieu d'arrestation de ce dernier, soit dans les conditions prévues au chapitre II du titre XXVI du livre IV du code de
-procédure pénale, soit, à défaut, par le tribunal de grande instance de Paris.
+procédure pénale, soit, à défaut, par le   tribunal judiciaire de Paris.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -9651,11 +9682,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 27
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de procédure pénale -  Chapitre II : Des atteintes aux biens culturels... (V)
+  - Code de procédure pénale
 
 
 ###### Article L544-11
@@ -11836,15 +11867,20 @@ _Cité par_:
 
 Les objets mobiliers appartenant à une personne privée peuvent être classés au titre des monuments historiques, avec le
 consentement du propriétaire, par décision de l'autorité administrative, après avis de la Commission nationale du patrimoine
-et de l'architecture. 
+et de l'architecture.
 
 A défaut de consentement du propriétaire, le classement d'office est prononcé par un décret en Conseil d'Etat pris après avis
-de la Commission nationale du patrimoine et de l'architecture. 
+de la Commission nationale du patrimoine et de l'architecture.
 
 Le classement pourra donner lieu au paiement d'une indemnité représentative du préjudice résultant pour le propriétaire de
 l'application de la servitude de classement d'office. La demande d'indemnité devra être produite dans les six mois à dater de
-la notification du décret de classement. A défaut d'accord amiable, l'indemnité est fixée, selon le montant de la demande,
-par le tribunal d'instance ou de grande instance.
+la notification du décret de classement. A défaut d'accord amiable, l'indemnité est fixée par le tribunal judiciaire.
+
+**Nota:**
+
+Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur
+le 1
+  <sup>er</sup> janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -11859,7 +11895,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 15
 
 _Cité par_:
 
@@ -13610,21 +13646,21 @@ _Cite_:
 ###### Article L730-4
 
 Pour l'application du code dans la collectivité départementale de Mayotte, les termes énumérés ci-après sont remplacés comme
-suit : 
+suit :
 
-a) Les mots : " tribunal d'instance " et " tribunal de grande instance " par les mots : " tribunal de première instance " ; 
+a) (Abrogé) ;
 
-b) Les mots : " cour d'appel " par les mots : "    chambre d'appel de Mamoudzou " ; 
+b) Les mots : " cour d'appel " par les mots : " chambre d'appel de Mamoudzou " ;
 
-c) Le mot : " département " par le mot : " collectivité départementale de Mayotte " ; 
+c) Le mot : " département " par le mot : " collectivité départementale de Mayotte " ;
 
 d) Le mot : " préfet " par les mots : " préfet de Mayotte ".
 
 **Nota:**
 
-Aux termes de l'alinéa 6 de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, la référence au tribunal de première
-instance est remplacée par celle au tribunal de grande instance, ou au tribunal d'instance conformément à la répartition des
-compétences fixées entre ces juridictions par le code de l'organisation judiciaire.
+Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur
+le 1
+  <sup>er</sup> janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -13634,7 +13670,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-337 - art. 12 (VD)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 15
 
 
 ###### Article L730-5
@@ -15308,9 +15344,14 @@ _Cite_:
 
 ###### Article R112-14
 
-Le président du tribunal de grande instance du lieu dans le ressort duquel se trouve le bien est compétent pour statuer, à la
+Le président du   tribunal judiciaire du lieu dans le ressort duquel se trouve le bien est compétent pour statuer, à la
 demande de l'Office central de lutte contre le trafic des biens culturels, sur les mesures conservatoires prévues à l'article
 L. 112-5.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -15318,17 +15359,17 @@ _Anciens textes_:
 
   - Décret n°97-286 du 25 mars 1997 - art. 8 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
 _Cite_:
 
-  - Code du patrimoine. - art. L112-5 (V)
+  - Code du patrimoine - art. L112-5
 
 
 ###### Article R112-15
@@ -15356,14 +15397,19 @@ _Codifié par_:
 
 ###### Article R112-16
 
-L'autorité centrale de l'Etat requérant exerce l'action tendant au retour du bien devant le tribunal de grande instance dans
-le ressort duquel se trouve le bien.
+L'autorité centrale de l'Etat requérant exerce l'action tendant au retour du bien devant le   tribunal judiciaire dans le
+ressort duquel se trouve le bien. 
 
 Elle en informe l'Office central de lutte contre le trafic des biens culturels dans un délai d'un mois à compter de la
-signification de l'assignation.
+signification de l'assignation. 
 
 Celui-ci informe, dans un délai de deux mois à compter de la signification prévue à l'alinéa ci-dessus, les autorités
 centrales des autres Etats membres de l'introduction d'une action en justice tendant au retour du bien.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -15371,13 +15417,13 @@ _Anciens textes_:
 
   - Décret n°97-286 du 25 mars 1997 - art. 10 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R112-17
@@ -16744,10 +16790,16 @@ _Cité par_:
 
 ###### Article R114-2
 
-La personne commissionnée doit prêter serment devant l'un des tribunaux d'instance dans le ressort duquel elle exerce ses
-fonctions.
+La personne commissionnée doit prêter serment devant le tribunal judiciaire dans le ressort duquel elle exerce ses fonctions
+ou, le cas échéant, devant l'une de ses chambres de proximité.
 
 L'accomplissement de cette formalité est mentionné sur l'arrêté de commission.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -16755,13 +16807,13 @@ _Anciens textes_:
 
   - Décret n°81-428 du 28 avril 1981 - art. 3 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2019-913 du 30 août 2019 - art. 17
 
 
 ###### Article R114-3
@@ -16921,48 +16973,53 @@ _Cite_:
 
 ###### Article R114-9
 
-La demande d'agrément est présentée par le président de l'association, habilité à cet effet par le conseil d'administration.
+La demande d'agrément est présentée par le président de l'association, habilité à cet effet par le conseil d'administration. 
 
-La demande est accompagnée d'un dossier comportant :
+La demande est accompagnée d'un dossier comportant : 
 
 1° Une note de présentation de l'association indiquant le nombre des adhérents et retraçant ses principales activités au
-cours des trois années antérieures ;
+cours des trois années antérieures ; 
 
 2° Un exemplaire ou une copie certifiée conforme du Journal officiel de la République française contenant l'insertion
 mentionnée à l'article 5 de la loi du 1er juillet 1901 relative au contrat d'association, ou, dans les départements du Bas-
-Rhin, du Haut-Rhin et de la Moselle, une copie certifiée conforme de la décision du tribunal d'instance ou de la juridiction
-supérieure inscrivant l'association ;
+Rhin, du Haut-Rhin et de la Moselle, une copie certifiée conforme de la décision du   tribunal judiciaire ou de la
+juridiction supérieure inscrivant l'association ; 
 
-3° Un exemplaire, à jour, des statuts ;
+3° Un exemplaire, à jour, des statuts ; 
 
 4° Une liste des membres chargés de l'administration ou de la direction de l'association, conforme aux dispositions de
 l'article 5 de la loi du 1er juillet 1901 ou, dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, de la
-législation locale sur les associations inscrites ;
+législation locale sur les associations inscrites ; 
 
 5° Le rapport moral et le rapport financier approuvés lors de la dernière assemblée générale ; le rapport financier doit
 comprendre un tableau retraçant les ressources et les charges financières de l'association et indiquer expressément le ou les
-montants des cotisations demandées aux membres de l'association et le produit de ces cotisations ;
+montants des cotisations demandées aux membres de l'association et le produit de ces cotisations ; 
 
 6° L'indication du cadre géographique, communal, intercommunal, départemental, interdépartemental, régional, interrégional ou
 national pour lequel l'agrément est sollicité.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi du 1er juillet 1901 - art. 5 (M)
+  - Loi du 1er juillet 1901 - art. 5
 
 _Anciens textes_:
 
   - Décret n°91-787 du 19 août 1991 - art. 7 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -17617,12 +17674,17 @@ _Cite_:
 La décision du ministre chargé de la culture de faire fixer la valeur du bien par une expertise, dans le cas où son offre
 d'achat n'a pas été acceptée par le propriétaire, est notifiée à celui-ci au plus tard deux mois après la réception par le
 ministre de la décision du propriétaire ou après l'expiration du délai imparti à celui-ci par le deuxième alinéa de l'article
-L. 121-1. Cette notification comporte le nom et l'adresse de l'expert choisi par le ministre chargé de la culture.
+L. 121-1. Cette notification comporte le nom et l'adresse de l'expert choisi par le ministre chargé de la culture. 
 
 Le nom et l'adresse de l'expert choisi par le propriétaire sont transmis au ministre chargé de la culture au plus tard deux
-mois après la réception de cette notification. En cas de carence, le président du tribunal de grande instance chargé de la
-désignation de l'expert est le président du tribunal de grande instance de Paris ; il est saisi par le ministre chargé de la
+mois après la réception de cette notification. En cas de carence, le président du   tribunal judiciaire chargé de la
+désignation de l'expert est le président du   tribunal judiciaire de Paris ; il est saisi par le ministre chargé de la
 culture.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -17630,31 +17692,36 @@ _Anciens textes_:
 
   - Décret n°93-124 du 29 janvier 1993 - art. 9-2 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
 _Cite_:
 
-  - Code du patrimoine. - art. L121-1 (V)
+  - Code du patrimoine - art. L121-1
 
 
 ###### Article R121-3
 
-Les experts se font présenter le bien.
+Les experts se font présenter le bien. 
 
 Leur rapport conjoint détermine le prix du bien ou, en cas de divergence entre eux sur la valeur de celui-ci, fait état des
-éléments sur lesquels chacun d'eux fonde son estimation.
+éléments sur lesquels chacun d'eux fonde son estimation. 
 
 En cas de désignation amiable des experts, leur rapport est établi en deux originaux qui sont adressés, par lettre
 recommandée avec demande d'avis de réception, respectivement au ministre chargé de la culture et au propriétaire. Si l'un des
-experts a été nommé par décision de justice, l'original du rapport est déposé au greffe du tribunal de grande instance de
-Paris et une copie en est transmise par les experts au ministre et au propriétaire par lettre recommandée avec demande d'avis
-de réception.
+experts a été nommé par décision de justice, l'original du rapport est déposé au greffe du   tribunal judiciaire de Paris et
+une copie en est transmise par les experts au ministre et au propriétaire par lettre recommandée avec demande d'avis de
+réception.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -17662,27 +17729,32 @@ _Anciens textes_:
 
   - Décret n°93-124 du 29 janvier 1993 - art. 9-3 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
 _Cité par_:
 
-  - Code du patrimoine. - art. R121-4 (V)
+  - Code du patrimoine - art. R121-4 (VD)
 
 
 ###### Article R121-4
 
 La désignation d'un nouvel expert, en cas de divergence entre les deux premiers, conjointement par le ministre chargé de la
 culture et le propriétaire du bien intervient dans un délai de quatre mois à compter de la date la plus tardive de réception
-du rapport par le ministre ou par le propriétaire. A défaut, le président du tribunal de grande instance de Paris procède à
-cette désignation ; il est saisi par la partie la plus diligente.
+du rapport par le ministre ou par le propriétaire. A défaut, le président du   tribunal judiciaire de Paris procède à cette
+désignation ; il est saisi par la partie la plus diligente. 
 
 Les conditions d'établissement et de remise du rapport sont celles prévues à l'article R. 121-3.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -17690,17 +17762,17 @@ _Anciens textes_:
 
   - Décret n°93-124 du 29 janvier 1993 - art. 9-4 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
 _Cite_:
 
-  - Code du patrimoine. - art. R121-3 (V)
+  - Code du patrimoine - art. R121-3 (VD)
 
 
 ###### Article R121-5
@@ -25299,8 +25371,13 @@ _Codifié par_:
 ###### Article R222-1
 
 La demande aux fins de reproduction ou de diffusion intégrale ou partielle de l'enregistrement audiovisuel ou sonore d'une
-audience est présentée au président du tribunal de grande instance de Paris en la forme prévue par l'article 494 du code de
+audience est présentée au président du   tribunal judiciaire de Paris en la forme prévue par l'article 494 du code de
 procédure civile pour les ordonnances sur requête.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -25308,17 +25385,17 @@ _Anciens textes_:
 
   - Décret n°86-74 du 15 janvier 1986 - art. 15 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
 _Cite_:
 
-  - Code de procédure civile - art. 494 (M)
+  - Code de procédure civile - art. 494
 
 _Cité par_:
 
@@ -25331,11 +25408,16 @@ _Cité par_:
 
 ###### Article R222-2
 
-Après avoir procédé ou fait procéder aux mesures d'instruction qu'il estime utiles, le président du tribunal de grande
-instance de Paris statue sur la requête par une ordonnance motivée dont la minute est conservée au greffe de ce tribunal. Il
-peut assortir de conditions particulières la reproduction ou la diffusion de l'enregistrement.
+Après avoir procédé ou fait procéder aux mesures d'instruction qu'il estime utiles, le président du   tribunal judiciaire de
+Paris statue sur la requête par une ordonnance motivée dont la minute est conservée au greffe de ce tribunal. Il peut
+assortir de conditions particulières la reproduction ou la diffusion de l'enregistrement. 
 
 L'ordonnance est portée à la connaissance du public selon les modalités qu'elle fixe, à la diligence du requérant.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -25343,13 +25425,13 @@ _Anciens textes_:
 
   - Décret n°86-74 du 15 janvier 1986 - art. 16 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R222-3
@@ -25376,8 +25458,13 @@ _Codifié par_:
 
 ###### Article R222-4
 
-Le président du tribunal de grande instance de Paris a la faculté de relever le contestant de la forclusion dans les
-conditions de l'article 540 du code de procédure civile.
+Le président du   tribunal judiciaire de Paris a la faculté de relever le contestant de la forclusion dans les conditions de
+l'article 540 du code de procédure civile.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -25385,17 +25472,17 @@ _Anciens textes_:
 
   - Décret n°86-74 du 15 janvier 1986 - art. 18 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
 _Cite_:
 
-  - Code de procédure civile - art. 540 (M)
+  - Code de procédure civile - art. 540
 
 
 ## LIVRE III : BIBLIOTHÈQUES<a id=244></a>
@@ -29336,18 +29423,23 @@ la justification de leur dépôt auprès du tribunal de commerce ;
 
 a) Un exemplaire ou une copie du Journal officiel de la République française contenant l'insertion mentionnée à l'article 5
 de la loi du 1er juillet 1901 relative au contrat d'association, ou, dans les départements du Bas-Rhin, du Haut-Rhin et de la
-Moselle, une copie de la décision du tribunal d'instance ou de la juridiction supérieure inscrivant l'association ; 
+Moselle, une copie de la décision du   tribunal judiciaire ou de la juridiction supérieure inscrivant l'association ; 
 
 b) A la place des documents prévus au 6°, le rapport moral et le rapport financier approuvés lors de la dernière assemblée
 générale.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi du 1er juillet 1901 - art. 5 (V)
-  - Décret n°2016-360 du 25 mars 2016 - art. 48 (V)
-  - Code du travail - art. R4121-1 (V)
+  - Loi du 1er juillet 1901 - art. 5
+  - Décret n°2016-360 du 25 mars 2016 - art. 48
+  - Code du travail - art. R4121-1
 
 _Anciens textes_:
 
@@ -29359,7 +29451,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-925 du 9 mai 2017 - art. 4
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -33248,16 +33340,21 @@ _Cité par_:
 ###### Article R532-19
 
 La mesure de déclaration d'utilité publique mentionnée à l'article L. 532-11 est prise, après avis de la commission
-territoriale de la recherche archéologique territorialement compétente, par le ministre chargé de la culture.
+territoriale de la recherche archéologique territorialement compétente, par le ministre chargé de la culture. 
 
 Le ministre notifie au propriétaire du bien culturel maritime, par lettre recommandée avec demande d'avis de réception, son
-intention d'acquérir le bien ainsi que le montant de son offre.
+intention d'acquérir le bien ainsi que le montant de son offre. 
 
-A défaut d'accord du propriétaire dans le délai de trois mois, l'utilité publique est déclarée par décret en Conseil d'Etat.
+A défaut d'accord du propriétaire dans le délai de trois mois, l'utilité publique est déclarée par décret en Conseil d'Etat. 
 
-A peine de caducité du décret dans les trois mois de sa publication, le tribunal de grande instance dans le ressort duquel
-est situé le bien culturel maritime est saisi par le ministre chargé de la culture pour prononcer le transfert de propriété
-au profit de l'Etat.
+A peine de caducité du décret dans les trois mois de sa publication, le   tribunal judiciaire dans le ressort duquel est
+situé le bien culturel maritime est saisi par le ministre chargé de la culture pour prononcer le transfert de propriété au
+profit de l'Etat.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -33271,7 +33368,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-156 du 8 février 2017 - art. 14
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -33279,7 +33376,6 @@ _Cite_:
 
 _Cité par_:
 
-  - Code du patrimoine - art. R545-17 (M)
   - Code du patrimoine - art. R740-11 (VD)
   - Code du patrimoine - art. R750-9 (VD)
   - Code du patrimoine - art. R760-11 (VD)
@@ -33347,10 +33443,15 @@ _Cité par_:
 
 Le montant de l'indemnité prévue au deuxième alinéa de l'article L. 541-1 est fixé par arrêté du préfet de région, compte
 tenu de la durée de la période pendant laquelle les services de l'Etat estiment devoir accéder au vestige après l'achèvement
-des fouilles.
+des fouilles. 
 
-En cas de désaccord, le montant de l'indemnité est fixé par le tribunal de grande instance dans le ressort duquel est situé
-le fonds, saisi par la partie la plus diligente.
+En cas de désaccord, le montant de l'indemnité est fixé par le   tribunal judiciaire dans le ressort duquel est situé le
+fonds, saisi par la partie la plus diligente.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -33362,9 +33463,9 @@ _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2017-925 du 9 mai 2017 - art. 12
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -43298,17 +43399,22 @@ _Cite_:
 ###### Article R720-15
 
 Pour l'application de la partie réglementaire du code dans la collectivité territoriale de Saint-Pierre-et-Miquelon, les
-termes énumérés ci-après sont remplacés comme suit :
+termes énumérés ci-après sont remplacés comme suit : 
 
-a) Les mots : " tribunal de grande instance " par les mots : " tribunal de première instance " ;
+a) Les mots : "   tribunal judiciaire " par les mots : " tribunal de première instance " ; 
 
-b) Les mots : " cour d'appel " par les mots : " tribunal supérieur d'appel " ;
+b) Les mots : " cour d'appel " par les mots : " tribunal supérieur d'appel " ; 
 
-c) Les mots : " département " ou " région " par le mot : " collectivité " ;
+c) Les mots : " département " ou " région " par le mot : " collectivité " ; 
 
-d) Les mots : " préfet " ou " préfet de région " par les mots : " représentant de l'Etat dans la collectivité " ;
+d) Les mots : " préfet " ou " préfet de région " par les mots : " représentant de l'Etat dans la collectivité " ; 
 
 e) Les mots : " arrêté préfectoral " par les mots : " arrêté du représentant de l'Etat dans la collectivité ".
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -43316,9 +43422,9 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R720-16
@@ -43831,8 +43937,14 @@ _Cite_:
 
 ###### Article R740-11
 
-Pour l'application de l'article R. 532-19, les références au tribunal de grande instance ou au tribunal d'instance sont
-remplacées par la référence au tribunal de première instance.
+Pour l'application de l'article R. 532-19, la référence au tribunal judiciaire est remplacée par la référence au tribunal de
+première instance.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -43844,13 +43956,13 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 17
 
 _Cite_:
 
-  - Code du patrimoine. - art. R532-19 (V)
+  - Code du patrimoine - art. R532-19
 
 
 ###### Article R740-12
@@ -44134,8 +44246,14 @@ _Cite_:
 
 ###### Article R750-9
 
-Pour l'application de l'article R. 532-19, les références au tribunal de grande instance ou au tribunal d'instance sont
-remplacées par la référence au tribunal de première instance.
+Pour l'application de l'article R. 532-19, la référence au tribunal judiciaire est remplacée par la référence au tribunal de
+première instance.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -44143,13 +44261,13 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 17
 
 _Cite_:
 
-  - Code du patrimoine - art. R532-19 (V)
+  - Code du patrimoine - art. R532-19
 
 
 ###### Article R750-10
@@ -44521,8 +44639,14 @@ _Cite_:
 
 ###### Article R760-11
 
-Pour l'application de l'article R. 532-19, les références au tribunal de grande instance ou au tribunal d'instance sont
-remplacées par la référence au tribunal de première instance.
+Pour l'application de l'article R. 532-19, la référence au tribunal judiciaire est remplacée par la référence au tribunal de
+première instance.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -44534,13 +44658,13 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 17
 
 _Cite_:
 
-  - Code du patrimoine - art. R532-19 (V)
+  - Code du patrimoine - art. R532-19
 
 
 ###### Article R760-12
