@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2019-08-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -1976,37 +1976,42 @@ _Créé par_:
 ###### Article L121-1
 
 Dans le délai de trente mois prévu à l'article L. 111-6, l'autorité administrative peut, dans l'intérêt des collections
-publiques, présenter une offre d'achat. Cette offre tient compte des prix pratiqués sur le marché international. 
+publiques, présenter une offre d'achat. Cette offre tient compte des prix pratiqués sur le marché international.
 
 Si le propriétaire du bien n'accepte pas l'offre d'achat dans un délai de trois mois, l'autorité administrative peut faire
-procéder à une expertise pour fixer le prix du bien dans les conditions fixées aux troisième et quatrième alinéas. 
+procéder à une expertise pour fixer le prix du bien dans les conditions fixées aux troisième et quatrième alinéas.
 
 L'autorité administrative et le propriétaire du bien désignent, chacun à leur frais, un expert. En cas de carence, le
-président du tribunal de grande instance statuant en la forme des référés procède à la désignation. Ces experts rendent un
-rapport conjoint dans un délai de trois mois à compter de leur désignation. 
+président du tribunal judiciaire statuant en référé procède à la désignation. Ces experts rendent un rapport conjoint dans un
+délai de trois mois à compter de leur désignation.
 
 En cas de divergences entre ces experts, le prix du bien est fixé par un expert désigné conjointement par l'autorité
-administrative et le propriétaire du bien ou, à défaut d'accord, par le président du tribunal de grande instance statuant en
-la forme des référés. Cet expert, dont la rémunération est supportée pour moitié par chacune des parties, rend son rapport
-dans un délai de trois mois à compter de sa désignation. 
+administrative et le propriétaire du bien ou, à défaut d'accord, par le président du tribunal judiciaire statuant en référé.
+Cet expert, dont la rémunération est supportée pour moitié par chacune des parties, rend son rapport dans un délai de trois
+mois à compter de sa désignation.
 
 L'autorité administrative dispose d'un délai de deux mois à compter de la remise du rapport d'expertise fixant le prix du
 bien pour adresser au propriétaire une offre d'achat à la valeur d'expertise. A l'issue de ce délai, en l'absence d'offre
-d'achat présentée par l'Etat, le certificat mentionné à l'article L. 111-2 ne peut plus être refusé. 
+d'achat présentée par l'Etat, le certificat mentionné à l'article L. 111-2 ne peut plus être refusé.
 
 Si, dans un délai de deux mois à compter de l'offre d'achat, le propriétaire la refuse ou n'a pas fait savoir qu'il
-l'acceptait, le refus de délivrance du certificat est renouvelé. Aucune indemnité n'est due à ce titre. 
+l'acceptait, le refus de délivrance du certificat est renouvelé. Aucune indemnité n'est due à ce titre.
 
 Si le propriétaire du bien accepte l'offre d'achat, le paiement doit intervenir dans un délai de six mois à compter de
-l'accord du propriétaire à peine de résolution de la vente. 
+l'accord du propriétaire à peine de résolution de la vente.
 
 En cas de renouvellement du refus de délivrance du certificat, la procédure d'offre d'achat et d'expertise demeure
-applicable. 
+applicable.
 
 L'autorité administrative peut également présenter une offre d'achat dans les conditions prévues au premier alinéa pour le
-compte de toute personne publique. 
+compte de toute personne publique.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Nota:**
+
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes
+introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2017,11 +2022,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+  - Ordonnance n°2004-178 du 20 février 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 8
+
+_Cite_:
+
+  - Code du patrimoine - art. L111-2
+  - Code du patrimoine - art. L111-6
 
 _Cité par_:
 
-  - Code du patrimoine - art. L111-6 (V)
   - Code du patrimoine. - art. L121-3 (V)
   - Code du patrimoine. - art. L121-4 (V)
   - Code du patrimoine. - art. R121-1 (V)
@@ -2030,10 +2043,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 238 bis-0 A (VD)
   - Code général des impôts, CGI. - art. 238 bis-0 AB (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 171 BA (V)
-
-_Cite_:
-
-  - Code du patrimoine. - art. L111-2 (V)
 
 
 ###### Article L121-2
@@ -16737,10 +16746,16 @@ _Cité par_:
 
 ###### Article R114-2
 
-La personne commissionnée doit prêter serment devant l'un des tribunaux d'instance dans le ressort duquel elle exerce ses
-fonctions.
+La personne commissionnée doit prêter serment devant le tribunal judiciaire dans le ressort duquel elle exerce ses fonctions
+ou, le cas échéant, devant l'une de ses chambres de proximité.
 
 L'accomplissement de cette formalité est mentionné sur l'arrêté de commission.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -16748,13 +16763,13 @@ _Anciens textes_:
 
   - Décret n°81-428 du 28 avril 1981 - art. 3 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2019-913 du 30 août 2019 - art. 17
 
 
 ###### Article R114-3
@@ -43816,8 +43831,14 @@ _Cite_:
 
 ###### Article R740-11
 
-Pour l'application de l'article R. 532-19, les références au tribunal de grande instance ou au tribunal d'instance sont
-remplacées par la référence au tribunal de première instance.
+Pour l'application de l'article R. 532-19, la référence au tribunal judiciaire est remplacée par la référence au tribunal de
+première instance.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -43829,13 +43850,13 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 17
 
 _Cite_:
 
-  - Code du patrimoine. - art. R532-19 (V)
+  - Code du patrimoine - art. R532-19
 
 
 ###### Article R740-12
@@ -44119,8 +44140,14 @@ _Cite_:
 
 ###### Article R750-9
 
-Pour l'application de l'article R. 532-19, les références au tribunal de grande instance ou au tribunal d'instance sont
-remplacées par la référence au tribunal de première instance.
+Pour l'application de l'article R. 532-19, la référence au tribunal judiciaire est remplacée par la référence au tribunal de
+première instance.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -44128,13 +44155,13 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 17
 
 _Cite_:
 
-  - Code du patrimoine - art. R532-19 (V)
+  - Code du patrimoine - art. R532-19
 
 
 ###### Article R750-10
@@ -44506,8 +44533,14 @@ _Cite_:
 
 ###### Article R760-11
 
-Pour l'application de l'article R. 532-19, les références au tribunal de grande instance ou au tribunal d'instance sont
-remplacées par la référence au tribunal de première instance.
+Pour l'application de l'article R. 532-19, la référence au tribunal judiciaire est remplacée par la référence au tribunal de
+première instance.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -44519,13 +44552,13 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-119 du 11 février 2014 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 17
 
 _Cite_:
 
-  - Code du patrimoine - art. R532-19 (V)
+  - Code du patrimoine - art. R532-19
 
 
 ###### Article R760-12
