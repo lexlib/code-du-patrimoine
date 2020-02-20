@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-02-21
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -24040,8 +24040,8 @@ _Codifié par_:
 Lorsque les forces, services, établissements ou organismes désirent éliminer des documents qu'ils jugent inutiles, ils en
 soumettent la liste au service d'archives dont ils dépendent. Sous réserve des circonstances visées par les dispositions
 figurant à la sous-section 1 de la section 1 du chapitre II du titre II du livre Ier de la quatrième partie du code de la
-défense et de celles qui visent la protection, en cas d'urgence, du secret de défense, toute élimination est interdite sans
-accord entre les forces, services, établissements ou organismes et les services d'archives précités.
+défense et de celles qui visent la protection, en cas d'urgence, du secret de la défense nationale, toute élimination est
+interdite sans accord entre les forces, services, établissements ou organismes et les services d'archives précités.
 
 **Liens relatifs à cet article**
 
@@ -24049,22 +24049,23 @@ _Anciens textes_:
 
   - Décret n°79-1035 du 3 décembre 1979 - art. 5 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2020-133 du 18 février 2020 - art. 9
+
 _Cite_:
 
-  - Code de la défense. -   Sous-section 1 : Devoirs et responsabilités du... (V)
+  - Code de la défense.
 
 _Cité par_:
 
   - Code du patrimoine - art. R212-66 (V)
   - Code du patrimoine - art. R760-5 (V)
+  - Code du patrimoine - art. R770-4 (V)
 
 
 ###### Article R212-70
@@ -44491,7 +44492,10 @@ _Cite_:
 ###### Article R760-5
 
 Les articles R. 212-65 à R. 212-94, R. 213-11 à R. 213-13, R. 221-1 à R. 221-17 et R. 222-1 à R. 222-4 sont applicables dans
-les îles Wallis et Futuna.
+les îles Wallis et Futuna. 
+
+L'article R. 212-69 s'applique dans sa rédaction résultant du décret n° 2020-133 du 18 février 2020 portant diverses
+dispositions en matière de protection des intérêts de la défense nationale.
 
 **Liens relatifs à cet article**
 
@@ -44499,16 +44503,18 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
-
-  - Décret n°2014-119 du 11 février 2014 - art.
-
 _Cite_:
 
-  - Code du patrimoine - art. R212-65 (V)
-  - Code du patrimoine - art. R213-11 (V)
-  - Code du patrimoine - art. R221-1 (V)
-  - Code du patrimoine - art. R222-1 (V)
+  - Décret n°2020-133 du 18 février 2020
+  - Code du patrimoine - art. R212-65
+  - Code du patrimoine - art. R212-69
+  - Code du patrimoine - art. R213-11
+  - Code du patrimoine - art. R221-1
+  - Code du patrimoine - art. R222-1
+
+_Modifié par_:
+
+  - Décret n°2020-133 du 18 février 2020 - art. 9
 
 
 ###### Article R760-6
@@ -44815,7 +44821,10 @@ _Cite_:
 ###### Article R770-4
 
 Les articles R. 212-1 à R. 212-37, R. 212-65 à R. 212-94 et R. 213-1 à R. 213-13 sont applicables dans les Terres australes
-et antarctiques françaises.
+et antarctiques françaises. 
+
+L'article R. 212-69 s'applique dans sa rédaction résultant du décret n° 2020-133 du 18 février 2020 portant diverses
+dispositions en matière de protection des intérêts de la défense nationale.
 
 **Liens relatifs à cet article**
 
@@ -44831,15 +44840,17 @@ _Codifié par_:
 
   - Décret n°2014-119 du 11 février 2014 - art.
 
-_Créé par_:
-
-  - Décret n°2014-119 du 11 février 2014 - art.
-
 _Cite_:
 
-  - Code du patrimoine - art. R212-1 (V)
-  - Code du patrimoine - art. R212-65 (V)
-  - Code du patrimoine - art. R213-1 (V)
+  - Décret n°2020-133 du 18 février 2020
+  - Code du patrimoine - art. R212-1
+  - Code du patrimoine - art. R212-65
+  - Code du patrimoine - art. R212-69 (V)
+  - Code du patrimoine - art. R213-1
+
+_Modifié par_:
+
+  - Décret n°2020-133 du 18 février 2020 - art. 9
 
 
 ###### Article R770-5
