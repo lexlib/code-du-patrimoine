@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2020-03-06
+Version Consolidée au 2020-06-18
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -266,16 +266,16 @@ Version Consolidée au 2020-03-06
       - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. R411-1 à R411-3)](#263)
         - [Chapitre unique : Dispositions communes aux musées de France  relevant de l'Etat (art. R411-1 à R411-3)](#264)
           - [Section unique : Tarifs et organisation des visites (art. R411-1 à R411-3)](#265)
-      - [TITRE II : MUSÉES NATIONAUX (art. D421-5 à R423-7)](#266)
+      - [TITRE II : MUSÉES NATIONAUX (art. D421-5 à R423-15)](#266)
         - [Chapitre Ier : Musées nationaux relevant du ministère  chargé de la culture (art. D421-5 à R421-4)](#267)
         - [Chapitre II : Conseil et expertise (art. R422-1 à R422-5)](#268)
           - [Section 1 : Grands départements patrimoniaux (art. R422-1 à R422-3)](#269)
           - [Section 2 : Instances consultatives (art. D422-4 à R422-5)](#270)
             - [Sous-section 1 : La Commission scientifique des musées nationaux (art. D422-4)](#271)
             - [Sous-section 2 : Le Conseil artistique des musées nationaux (art. D422-6 à R422-5)](#272)
-        - [Chapitre III : Statut des collections des musées nationaux (art. D423-2 à R423-7)](#273)
+        - [Chapitre III : Statut des collections des musées nationaux (art. D423-2 à R423-15)](#273)
           - [Section 1 : Acquisitions (art. D423-2 à R423-3)](#274)
-          - [Section 2 : Prêts et dépôts (art. D423-6 à R423-7)](#275)
+          - [Section 2 : Prêts et dépôts (art. D423-6 à R423-15)](#275)
       - [TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE (art. R430-1 à R430-6)](#276)
       - [TITRE IV : RÉGIME DES MUSÉES DE FRANCE (art. R442-1 à D442-16)](#277)
         - [Chapitre II : Appellation "musée de France" (art. R442-1 à D442-16)](#278)
@@ -17104,15 +17104,14 @@ _Cite_:
 
 ###### Article R114-13
 
-Le préfet transmet le dossier, accompagné de son avis, au ministre chargé de la culture et au garde des sceaux, ministre de
-la justice.
+Le préfet transmet le dossier, accompagné de son avis, au préfet de région.
 
-La décision d'agrément est prise par arrêté conjoint du ministre chargé de la culture et du garde des sceaux, ministre de la
-justice, dans un délai de dix mois à compter de l'avis de réception ou de la décharge prévus à l'article R. 114-10.
+La décision d'agrément est prise par arrêté conjoint du préfet de région, dans un délai de dix mois à compter de l'avis de
+réception ou de la décharge prévus à l'article R. 114-10.
 
 L'agrément est réputé accordé si, à l'expiration du délai de dix mois, l'association n'a pas reçu notification de la
 décision. Postérieurement à l'expiration de ce délai, une attestation certifiant qu'aucune décision négative n'est intervenue
-sur une demande d'agrément est délivrée sous quinzaine par les ministres compétents au président de l'association intéressée.
+sur une demande d'agrément est délivrée sous quinzaine par le préfet de région au président de l'association intéressée.
 
 La décision de refus d'agrément est motivée.
 
@@ -17122,27 +17121,27 @@ _Anciens textes_:
 
   - Décret n°91-787 du 19 août 1991 - art. 11 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 3
+
 _Cite_:
 
-  - Code du patrimoine. - art. R114-10 (V)
+  - Code du patrimoine - art. R114-10
 
 _Cité par_:
 
-  - Code du patrimoine. - art. R114-14 (M)
+  - Code du patrimoine - art. R114-14 (V)
 
 
 ###### Article R114-14
 
-La décision d'agrément est publiée au Journal officiel de la République française. Il en est de même d'une copie de
-l'attestation prévue à l'article R. 114-13 lorsque aucune décision négative n'est intervenue.
+La décision d'agrément est publiée au recueil des actes administratifs de la préfecture de région. Il en est de même d'une
+copie de l'attestation prévue à l'article R. 114-13 lorsque aucune décision négative n'est intervenue.
 
 **Liens relatifs à cet article**
 
@@ -17150,17 +17149,17 @@ _Anciens textes_:
 
   - Décret n°91-787 du 19 août 1991 - art. 12 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 3
+
 _Cite_:
 
-  - Code du patrimoine. - art. R114-13 (V)
+  - Code du patrimoine - art. R114-13 (V)
 
 
 ###### Article R114-15
@@ -17188,8 +17187,8 @@ _Codifié par_:
 
 ###### Article R114-16
 
-Les associations agréées adressent chaque année aux autorités qui ont accordé l'agrément leur rapport moral et leur rapport
-financier en deux exemplaires. Le rapport financier est présenté comme prévu au 5° de l'article R. 114-9.
+Les associations agréées adressent chaque année au préfet de région leur rapport moral et leur rapport financier en deux
+exemplaires. Le rapport financier est présenté comme prévu au 5° de l'article R. 114-9.
 
 **Liens relatifs à cet article**
 
@@ -17197,35 +17196,34 @@ _Anciens textes_:
 
   - Décret n°91-787 du 19 août 1991 - art. 14 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 3
+
 _Cité par_:
 
-  - Code du patrimoine - art. R114-17 (M)
+  - Code du patrimoine - art. R114-17 (V)
 
 _Cite_:
 
-  - Code du patrimoine. - art. R114-9 (V)
+  - Code du patrimoine - art. R114-9
 
 
 ###### Article R114-17
 
 Lorsque l'association ne respecte pas l'obligation mentionnée à l'article R. 114-16 ou ne remplit plus l'une des conditions
-ayant justifié l'agrément, celui-ci peut être suspendu par une décision conjointe du ministre chargé de la culture et du
-garde des sceaux, ministre de la justice, pour une durée maximale de six mois sans qu'il soit nécessaire de procéder aux
-consultations mentionnées aux articles R. 114-11 et R. 114-13.
+ayant justifié l'agrément, celui-ci peut être suspendu par une décision du préfet de région, pour une durée maximale de six
+mois sans qu'il soit nécessaire de procéder aux consultations mentionnées aux articles R. 114-11 et R. 114-13.
 
 Le retrait de l'agrément est prononcé après les consultations mentionnées aux articles R. 114-11 et R. 114-13.
 
 L'association doit être au préalable invitée à présenter ses observations.
 
-La décision de retrait de l'agrément est publiée au Journal officiel de la République française.
+La décision de retrait de l'agrément est publiée au recueil des actes administratifs de la préfecture de région.
 
 **Liens relatifs à cet article**
 
@@ -17233,18 +17231,18 @@ _Anciens textes_:
 
   - Décret n°91-787 du 19 août 1991 - art. 15 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 3
+
 _Cite_:
 
+  - Code du patrimoine - art. R114-11
   - Code du patrimoine - art. R114-16 (V)
-  - Code du patrimoine. - art. R114-11 (V)
 
 
 ###### Article R114-18
@@ -27761,113 +27759,6 @@ _Codifié par_:
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-###### Article D423-13
-
-Toute mise en dépôt d'œuvres confiées à la garde des musées nationaux est autorisée par arrêté du ministre chargé de la
-culture, après avis de la Commission scientifique des musées nationaux.
-
-Le maintien du dépôt doit être confirmé par une décision intervenue avant l'expiration d'un délai maximum de cinq ans à
-compter de la date de signature de l'arrêté.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°81-240 du 3 mars 1981 - art. 8 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-733 du 15 juin 2020 - art. 5
-
-_Cité par_:
-
-  - Code du patrimoine - art. D422-4 (V)
-
-
-###### Article D423-14
-
-Les bénéficiaires de dépôts peuvent être autorisés par le ministre chargé de la culture à prêter les œuvres déposées pour des
-expositions temporaires dans les conditions prévues aux articles D. 423-6 à D. 423-8.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°81-240 du 3 mars 1981 - art. 9 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-733 du 15 juin 2020 - art. 5
-
-_Cite_:
-
-  - Code du patrimoine - art. D423-6
-
-
-###### Article D423-15
-
-Le ministre chargé de la culture peut, à tout moment, ordonner soit le déplacement, soit, après avis de la Commission
-scientifique des musées nationaux, le retrait définitif des dépôts consentis par l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°81-240 du 3 mars 1981 - art. 10 (Ab), alinéa 1.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-733 du 15 juin 2020 - art. 5
-
-
-###### Article D423-16
-
-Le retrait est obligatoirement prononcé, pour insuffisance de soins, insécurité ou transfert sans autorisation hors du lieu
-de dépôt ou si l'œuvre n'est pas exposée au public.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°81-240 du 3 mars 1981 - art. 10 (Ab), alinéa 2.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-733 du 15 juin 2020 - art. 5
-
-
 ###### Article D423-17
 
 Les œuvres confiées à la garde des musées nationaux dont la Commission scientifique des musées nationaux estime qu'elles ne
@@ -27930,9 +27821,12 @@ _Cite_:
 
 ###### Article R423-7
 
-Les décisions de prêts sont prises par arrêté du ministre chargé de la culture après avis de la Commission scientifique des
-musées nationaux, qui vérifie notamment l'état de conservation des biens ainsi que les garanties de sécurité prévues pour le
-transport et le lieu d'exposition.
+Les décisions de prêts d'œuvres confiées à la garde des musées nationaux sont prises, après avis de la Commission
+scientifique des musées nationaux :
+
+1° Pour les musées érigés en services à compétence nationale, par le chef de ces services ;
+
+2° Pour les musées érigés en établissements publics, par l'autorité compétente de ces établissements. 
 
 Les prêts ne peuvent être consentis que si le bénéficiaire accepte que, pendant toute sa durée, un contrôle soit assuré par
 le responsable, au sens de l'article L. 442-8, des collections du musée prêteur ou son représentant, ou un représentant de la
@@ -27944,13 +27838,13 @@ _Anciens textes_:
 
   - Décret n°81-240 du 3 mars 1981 - art. 3 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 5
 
 _Cité par_:
 
@@ -27958,7 +27852,68 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du patrimoine. - art. L442-8 (V)
+  - Code du patrimoine - art. L442-8
+
+
+###### Article R423-13
+
+I.-Les décisions de mise en dépôt d'œuvres sont prises, après avis de la Commission scientifique des musées nationaux :
+
+1° Pour les musées érigés en services à compétence nationale, par le chef de ces services ;
+
+2° Pour les musées érigés en établissements publics, par l'autorité compétente de ces établissements.
+
+II.-Le maintien du dépôt d'œuvres doit être confirmé par une décision prise dans les conditions prévues au I. La décision de
+maintien du dépôt est prise avant l'expiration d'un délai maximum de cinq ans à compter de la date de signature de la
+décision de mise en dépôt.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 5
+
+
+###### Article R423-14
+
+Les bénéficiaires de dépôts peuvent être autorisés à prêter les œuvres déposées pour des expositions temporaires dans les
+conditions prévues aux articles D. 423-6 à D. 423-8. Cette autorisation leur est accordée, après avis de la Commission
+scientifique des musées nationaux :
+
+1° Pour les musées érigés en services à compétence nationale, par décision du chef de ces services ;
+
+2° Pour les musées érigés en établissements publics, par décision de l'autorité compétente de ces établissements.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 5
+
+
+###### Article R423-15
+
+I.-Les décisions de déplacement des dépôts peuvent être prises :
+
+1° Pour les musées érigés en services à compétence nationale, par le chef de ces services ;
+
+2° Pour les musées érigés en établissements publics, par l'autorité compétente de ces établissements.
+
+II.-Les décisions de retrait définitif des dépôts peuvent être prises, après avis de la Commission scientifique des musées
+nationaux :
+
+1° Pour les musées érigés en services à compétence nationale, par le chef de ces services ;
+
+2° Pour les musées érigés en établissements publics, par l'autorité compétente de ces établissements.
+
+Le retrait est obligatoirement prononcé, pour insuffisance de soins, insécurité ou transfert sans autorisation hors du lieu
+de dépôt ou si l'œuvre n'est pas exposée au public.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 5
 
 
 ### TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE<a id=276></a>
@@ -32036,15 +31991,16 @@ _Créé par_:
 
 ###### Article R523-38-4
 
-Dans un délai de deux mois suivant l'exécution de la convention d'évaluation, le ministre chargé de la culture notifie à
-l'aménageur le contenu des prescriptions postérieures à l'évaluation mentionnées aux 2° et 3° de l'article R. 523-15. A
-défaut de notification dans ce délai, il est réputé avoir renoncé à édicter de telles prescriptions.
+Dans un délai de deux mois suivant l'exécution de la convention d'évaluation, le    directeur du département des recherches
+archéologiques subaquatiques et sous-marines notifie à l'aménageur le contenu des prescriptions postérieures à l'évaluation
+mentionnées aux 2° et 3° de l'article R. 523-15. A défaut de notification dans ce délai, il est réputé avoir renoncé à
+édicter de telles prescriptions.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-537 du 28 juin 2018 - art. 1
+  - Décret n°2020-733 du 15 juin 2020 - art. 6
 
 
 ##### Section 7 : Mise en œuvre des fouilles<a id=322></a>
@@ -32489,8 +32445,8 @@ _Cite_:
 
 ###### Article R523-53
 
-Les arbitres sont nommés pour une durée de trois ans renouvelable par un arrêté du ministre chargé de la culture, qui en
-dresse la liste.
+Les arbitres sont nommés pour une durée de trois ans renouvelable par un arrêté du    préfet de région, qui en dresse la
+liste.
 
 **Liens relatifs à cet article**
 
@@ -32498,13 +32454,13 @@ _Anciens textes_:
 
   - Décret n°2004-490 du 3 juin 2004 - art. 48 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 6
 
 _Cité par_:
 
@@ -33428,27 +33384,22 @@ _Codifié par_:
 
 ###### Article R524-34
 
-Les subventions mentionnées à l'article L. 524-11 sont attribuées par arrêté du ministre chargé de la culture. Ces
-subventions sont versées en fonctionnement.
+Les subventions mentionnées à l'article L. 524-11 sont attribuées par arrêté du    préfet de région. Ces subventions sont
+versées en fonctionnement. 
 
-La demande de subvention est adressée chaque année au plus tard le 31 décembre au ministre chargé de la culture par la
-collectivité territoriale ou le groupement de collectivités territoriales mentionné à l'article L. 523-4.
-
-**Nota:**
-
-L'article 3 du décret n° 2016-1485 du 2 novembre 2016 précise les conditions de versement des subventions au titre de 2016,
-par dérogation aux articles R. 524-34 et R. 524-36 dans leur rédaction issue dudit décret.
+La demande de subvention est adressée chaque année au plus tard le 31 décembre au    préfet de région par la collectivité
+territoriale ou le groupement de collectivités territoriales mentionné à l'article L. 523-4.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
+  - Décret n°2020-733 du 15 juin 2020 - art. 6
 
 _Cite_:
 
-  - Code du patrimoine - art. L523-4 (V)
-  - Code du patrimoine - art. L524-11 (V)
+  - Code du patrimoine - art. L523-4
+  - Code du patrimoine - art. L524-11
 
 
 ###### Article R524-35
@@ -33605,18 +33556,14 @@ _Cite_:
 Les décisions d'exécution de fouilles ou de sondages prévues à l'article L. 531-9 sont prises par le préfet de région.
 
 A défaut d'accord amiable avec le propriétaire du terrain, les fouilles sont déclarées d'utilité publique par décision du
-ministre chargé de la culture, qui autorise l'occupation temporaire des terrains. L'occupation temporaire est ordonnée par
-arrêté du préfet.
+préfet de région, qui autorise l'occupation temporaire des terrains à moins que le ministre n'ait décidé d'évoquer le
+dossier. L'occupation temporaire est ordonnée par arrêté du préfet.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°94-422 du 27 mai 1994 - art. 3 (Ab), alinéas 2 et 3.
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
 
 _Codifié par_:
 
@@ -33629,9 +33576,13 @@ _Cité par_:
   - Code forestier (nouveau) - art. R141-38-2 (V)
   - Code forestier (nouveau) - art. R141-38-4 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 6
+
 _Cite_:
 
-  - Code du patrimoine. - art. L531-9 (V)
+  - Code du patrimoine - art. L531-9
 
 
 ###### Article R531-6
@@ -33813,10 +33764,11 @@ _Cite_:
 
 ###### Article R532-4
 
-Le montant de la récompense prévu aux articles L. 532-6 et L. 532-13 est fixé par le ministre chargé de la culture, après
-avis du Conseil national de la recherche archéologique, en fonction de l'intérêt du bien, dans la limite de plafonds définis
-par arrêté conjoint des ministres chargés du budget et de la culture. Lorsque la récompense prévue à l'article L. 532-6 est
-attribuée en nature, la valeur est fixée selon la même procédure.
+Le montant de la récompense prévu aux articles L. 532-6 et L. 532-13 est fixé par le    directeur du département des
+recherches archéologiques subaquatiques et sous-marines, après avis du Conseil national de la recherche archéologique, en
+fonction de l'intérêt du bien, dans la limite de plafonds définis par arrêté conjoint des ministres chargés du budget et de
+la culture. Lorsque la récompense prévue à l'article L. 532-6 est attribuée en nature, la valeur est fixée selon la même
+procédure.
 
 **Liens relatifs à cet article**
 
@@ -33824,21 +33776,21 @@ _Anciens textes_:
 
   - Décret n°91-1226 du 5 décembre 1991 - art. 4 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-_Cité par_:
+_Modifié par_:
 
-  - Code du patrimoine - art. R545-11 (V)
+  - Décret n°2020-733 du 15 juin 2020 - art. 6
 
 _Cite_:
 
-  - Code du patrimoine. - art. L532-6 (V)
+  - Code du patrimoine - art. L532-6
+
+_Cité par_:
+
+  - Code du patrimoine - art. R545-11 (V)
 
 
 ##### Section 2 : Mesures de publicité prises pour l'application  de l'article L. 532-2<a id=341></a>
@@ -33945,8 +33897,9 @@ _Codifié par_:
 
 ###### Article R532-8
 
-Les autorisations de fouilles et de déplacement des biens culturels maritimes sont délivrées par le ministre chargé de la
-culture, après avis de la commission territoriale de la recherche archéologique territorialement compétente.
+Les autorisations de fouilles et de déplacement des biens culturels maritimes sont délivrées par le directeur du département
+des recherches archéologiques subaquatiques et sous-marines, après avis de la commission territoriale de la recherche
+archéologique territorialement compétente.
 
 L'autorisation fixe les prescriptions suivant lesquelles les travaux doivent être conduits.
 
@@ -33971,11 +33924,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-156 du 8 février 2017 - art. 14
+  - Décret n°2020-733 du 15 juin 2020 - art. 6
 
 _Cité par_:
 
-  - Code du patrimoine - art. R532-12 (M)
+  - Code du patrimoine - art. R532-12 (V)
   - Code du patrimoine - art. R545-17 (V)
   - Code du patrimoine - art. R750-7 (V)
   - Code du patrimoine - art. R760-9 (V)
@@ -33985,8 +33938,9 @@ _Cité par_:
 
 ###### Article R532-9
 
-Les décisions de faire exécuter des fouilles sous la responsabilité de l'Etat sont prises par le ministre chargé de la
-culture, après avis de la     commission territoriale de la recherche archéologique territorialement compétente.
+Les décisions de faire exécuter des fouilles sous la responsabilité de l'Etat sont prises par le    directeur du département
+des recherches archéologiques subaquatiques et sous-marines, après avis de la commission territoriale de la recherche
+archéologique territorialement compétente.
 
 **Liens relatifs à cet article**
 
@@ -34000,7 +33954,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-156 du 8 février 2017 - art. 14
+  - Décret n°2020-733 du 15 juin 2020 - art. 6
 
 
 ###### Article R532-10
@@ -34051,7 +34005,8 @@ _Cite_:
 ###### Article R532-12
 
 Par arrêté motivé pris sur avis conforme de la commission territoriale de la recherche archéologique territorialement
-compétente, le ministre chargé de la culture prononce le retrait de l'autorisation accordée en vertu de l'article R. 532-8 :
+compétente, le directeur du département des recherches archéologiques subaquatiques et sous-marines prononce le retrait de
+l'autorisation accordée en vertu de l'article R. 532-8 :
 
 1° En cas d'inobservation grave ou répétée des prescriptions imposées pour l'exécution des recherches, la déclaration ou la
 conservation des découvertes ;
@@ -34070,11 +34025,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-156 du 8 février 2017 - art. 14
+  - Décret n°2020-733 du 15 juin 2020 - art. 6
 
 _Cité par_:
 
-  - Code du patrimoine - art. R532-13 (M)
+  - Code du patrimoine - art. R532-13 (V)
   - Code du patrimoine - art. R545-17 (V)
   - Code du patrimoine - art. R750-7 (V)
   - Code du patrimoine - art. R760-9 (V)
@@ -34088,8 +34043,8 @@ _Cite_:
 
 ###### Article R532-13
 
-Le ministre chargé de la culture transmet les décisions prises en vertu de l'article R. 532-12 au préfet maritime, lequel en
-informe les représentants exerçant des missions en mer.
+Le directeur du département des recherches archéologiques subaquatiques et sous-marines transmet les décisions prises en
+vertu de l'article R. 532-12 au préfet maritime, lequel en informe les représentants exerçant des missions en mer.
 
 **Liens relatifs à cet article**
 
@@ -34097,13 +34052,13 @@ _Anciens textes_:
 
   - Décret n°91-1226 du 5 décembre 1991 - art. 12 (Ab), ecqc préfet maritime.
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 6
 
 _Cite_:
 
@@ -34180,7 +34135,8 @@ _Cité par_:
 ###### Article R532-16
 
 Les demandes de remboursement ou d'indemnité mentionnées aux articles R. 532-14 et R. 532-15 doivent être introduites dans le
-délai de trois mois suivant la notification du retrait, auprès du ministre chargé de la culture.
+délai de trois mois suivant la notification du retrait, auprès du    directeur du département des recherches archéologiques
+subaquatiques et sous-marines.
 
 **Liens relatifs à cet article**
 
@@ -34188,18 +34144,18 @@ _Anciens textes_:
 
   - Décret n°91-1226 du 5 décembre 1991 - art. 13 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 6
+
 _Cite_:
 
-  - Code du patrimoine - art. R532-14 (V)
-  - Code du patrimoine - art. R532-15 (V)
+  - Code du patrimoine - art. R532-14
+  - Code du patrimoine - art. R532-15
 
 
 ###### Article R532-17
@@ -36773,14 +36729,14 @@ _Créé par_:
 
 ###### Article R546-7
 
-Lorsque le bien archéologique mobilier est un bien culturel maritime, le ministre chargé de la culture exerce les compétences
-dévolues au préfet de région par le présent chapitre.
+Lorsque le bien archéologique mobilier est un bien culturel maritime, le    directeur du département des recherches
+archéologiques subaquatiques et sous-marines exerce les compétences dévolues au préfet de région par le présent chapitre.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-537 du 28 juin 2018 - art. 2
+  - Décret n°2020-733 du 15 juin 2020 - art. 6
 
 
 ## LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE<a id=364></a>
@@ -39304,12 +39260,13 @@ _Cite_:
 ###### Article R621-46
 
 En application de l'article L. 621-12, lorsque la conservation d'un immeuble classé au titre des monuments historiques est
-gravement compromise par l'inexécution de travaux de réparation ou d'entretien, le ministre chargé de la culture fait établir
-un rapport constatant la nécessité des travaux à réaliser, décrivant et estimant ces travaux et recueille l'avis de la
-Commission nationale du patrimoine et de l'architecture.
+gravement compromise par l'inexécution de travaux de réparation ou d'entretien, le préfet de région, ou le ministre chargé de
+la culture en cas d'évocation du dossier, fait établir un rapport constatant la nécessité des travaux à réaliser, décrivant
+et estimant ces travaux et ce rapport est soumis pour avis à la Commission nationale du patrimoine et de l'architecture.
 
 L'arrêté de mise en demeure donne au propriétaire un délai de quinze jours pour choisir le maître d'œuvre chargé d'assurer
-l'exécution des travaux. A défaut, le ministre chargé de la culture procède à sa désignation.
+l'exécution des travaux. A défaut, le préfet de région, ou le ministre chargé de la culture en cas d'évocation du dossier,
+procède à sa désignation.
 
 L'arrêté fixe les délais dans lesquels, à compter de la date d'approbation du projet, les travaux devront être entrepris et
 exécutés.
@@ -39326,7 +39283,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 1
+  - Décret n°2020-733 du 15 juin 2020 - art. 7
 
 _Cite_:
 
@@ -39335,8 +39292,8 @@ _Cite_:
 
 ###### Article R621-47
 
-Lorsque le ministre chargé de la culture décide, conformément aux dispositions de l'article L. 621-13, de faire exécuter les
-travaux d'office, il notifie sa décision au propriétaire.
+Lorsque le    préfet de région ou le ministre chargé de la culture en cas d'évocation du dossier, décide, conformément aux
+dispositions de l'article L. 621-13, de faire exécuter les travaux d'office, il notifie sa décision au propriétaire. 
 
 Le propriétaire d'un immeuble classé dispose d'un délai d'un mois à compter de la notification prévue à l'alinéa précédent
 pour demander au préfet d'engager la procédure d'expropriation prévue à l'article L. 621-13. La demande comporte l'indication
@@ -39350,17 +39307,17 @@ _Anciens textes_:
 
   - Décret n°2007-487 du 30 mars 2007 - art. 28 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 7
+
 _Cite_:
 
-  - Code du patrimoine. - art. L621-13 (V)
+  - Code du patrimoine - art. L621-13
 
 _Cité par_:
 
