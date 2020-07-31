@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2020-06-18
+Version Consolidée au 2020-08-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -3128,7 +3128,14 @@ présent code, ainsi que pour la conservation de biens dans les conditions prév
 Elle peut également acquérir les biens mentionnés au troisième alinéa lorsque cette acquisition est nécessaire aux actions de
 sauvegarde qu'elle met en place.
 
-Elle peut attribuer un label au patrimoine non protégé et aux sites.
+Elle peut attribuer un label aux immeubles non protégés au titre des monuments historiques, bâtis ou non bâtis, situés dans
+les zones rurales, bourgs et petites villes de moins de 20 000 habitants, dans les sites patrimoniaux remarquables et dans
+les sites classés au titre du code de l'environnement. Les immeubles non-habitables caractéristiques du patrimoine rural ne
+sont pas soumis à ces restrictions géographiques. Les travaux réalisés sur les immeubles visibles de la voie publique ou que
+le propriétaire s'engage à rendre accessibles au public ayant reçu le label mentionné à la première phrase du présent alinéa
+sont déductibles de l'impôt sur le revenu, dans les conditions prévues aux articles 156 et 156 bis du code général des
+impôts, sous réserve que la Fondation du patrimoine octroie une subvention pour leur réalisation, dont le montant ne peut
+être inférieur à 2 % de leur coût. Une majorité des immeubles labellisés chaque année appartient au patrimoine rural.
 
 **Liens relatifs à cet article**
 
@@ -3146,7 +3153,7 @@ _Cité par_:
   - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (VD)
   - Loi n°2017-1775 du 28 décembre 2017 - art. 90 (VD)
   - Arrêté du 15 juin 2018 (V)
-  - Code de l'environnement - art. L300-3 (M)
+  - Code de l'environnement - art. L300-3 (V)
   - Code du patrimoine - art. L143-5 (V)
   - Code du patrimoine. - art. L143-2-1 (V)
   - Code général des impôts, CGI. - art. 156 (V)
@@ -3155,7 +3162,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
+  - Loi n°2020-935 du 30 juillet 2020 - art. 7 (V)
 
 **Liens**:
 
