@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2020-08-01
+Version Consolidée au 2020-10-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -16716,8 +16716,8 @@ Le président de la commission peut autoriser des experts à siéger avec voix c
 Les fonctions de président et de membre de la commission peuvent donner lieu au remboursement des frais de déplacement et de
 séjour dans les conditions prévues par la réglementation applicable aux personnels civils de l'Etat.
 
-Le président perçoit une indemnité forfaitaire dont le montant est fixé par un arrêté conjoint du ministre chargé de la
-culture et du ministre chargé du budget.
+Le président perçoit une indemnité forfaitaire dont le montant est fixé en application du décret n° 2004-71 du 16 janvier
+2004 relatif aux conditions de rémunération des collaborateurs extérieurs du ministre de la culture et de la communication.
 
 **Liens relatifs à cet article**
 
@@ -16725,13 +16725,13 @@ _Anciens textes_:
 
   - Décret n°96-750 du 20 août 1996 - art. 2 (Ab), alinéas 20 à 23.
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2020-1191 du 28 septembre 2020 - art. 1
 
 
 ###### Article D113-30
