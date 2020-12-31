@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2020-10-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L770-4)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL (art. L111-1 à L143-15)](#2)
@@ -13054,12 +13054,9 @@ d'accroche ainsi que leurs locaux et installations techniques ;
 
 2° Des opérations mentionnées au second alinéa de l'article L. 522-1 du code de la construction et de l'habitation ;
 
-3° Des mesures prescrites pour les immeubles à usage d'habitation déclarés insalubres à titre irrémédiable en application de
-l'article L. 1331-28 du code de la santé publique ;
-
-4° Des mesures prescrites pour des immeubles à usage d'habitation menaçant ruine ayant fait l'objet d'un arrêté de péril pris
-en application de l'article L. 511-2 du code de la construction et de l'habitation et assorti d'une ordonnance de démolition
-ou d'interdiction définitive d'habiter.
+3° Pour des mesures prescrites par un arrêté de mise en sécurité ou de traitement de l'insalubrité pris en application de
+l'article L. 511-11 du code de la construction et de l'habitation portant sur des immeubles à usage d'habitation et ayant
+prescrit la démolition ou l'interdiction définitive d'habiter.
 
 En cas de silence de l'architecte des Bâtiments de France, cet avis est réputé favorable.
 
@@ -13069,11 +13066,10 @@ Conformément au VI de l’article 56 de la loi n°2018-1021 du 23 novembre 2018
 d'autorisation prévues aux articles L. 621-32, L. 632-1 et L. 632-2 du code du patrimoine ainsi qu'aux demandes pour
 lesquelles cette autorisation est requise qui sont déposées à compter du lendemain de la publication de la présente loi.
 
+Conformément à l’article 19 de l’ordonnance n° 2020-1144 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021 et ne sont applicables qu'aux arrêtés notifiés à compter de cette date.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 56
 
 _Cité par_:
 
@@ -13085,9 +13081,13 @@ _Cité par_:
   - Code de l'urbanisme - art. R*441-9 (V)
   - Code de l'urbanisme - art. R451-1 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2020-1144 du 16 septembre 2020 - art. 9
+
 _Cite_:
 
-  - Code de la santé publique - art. L1331-28 (VD)
+  - Code de la santé publique - art. L1331-28
   - Code de la construction et de l'habitation. - art. L511-2
   - Code de la construction et de l'habitation. - art. L522-1
 
@@ -22638,12 +22638,15 @@ _Codifié par_:
 Le contrat de dépôt prévu au II de l'article L. 212-4 est conclu par écrit. Toute clause tendant à appliquer le droit de
 rétention aux archives déposées est réputée non écrite.
 
-Le projet de contrat est transmis à la personne chargée du contrôle scientifique et technique de l'Etat sur les archives, qui
-dispose d'un délai d'un mois pour formuler ses observations. La signature du contrat ne peut intervenir qu'à l'expiration de
-ce délai.
-
 La personne chargée du contrôle scientifique et technique de l'Etat sur les archives est destinataire d'un exemplaire du
 contrat signé.
+
+**Nota:**
+
+Conformément à l'article 13 du décret n° 2020-733 du 15 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021
+pour ce qui concerne les personnes physiques ou morales souhaitant assurer la conservation d'archives publiques et ne
+disposant pas encore des certifications requises à la date de publication du présent décret. Les agréments délivrés
+antérieurement à cette date par le ministre chargé de la culture restent valables jusqu'à leur expiration.
 
 **Liens relatifs à cet article**
 
@@ -22651,17 +22654,17 @@ _Anciens textes_:
 
   - Décret n°79-1037 du 3 décembre 1979 - art. 20-3 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 4
+
 _Cite_:
 
-  - Code du patrimoine. - art. L212-4 (V)
+  - Code du patrimoine - art. L212-4
 
 
 ###### Article R212-22
@@ -22712,23 +22715,15 @@ _Codifié par_:
 Toute personne physique ou morale souhaitant assurer la conservation d'archives publiques et bénéficier de l'agrément prévu
 au II de l'article L. 212-4 doit remplir les conditions suivantes :
 
-1° Exercer son activité en conformité avec les normes relatives aux prestations en archivage et gestion externalisée de
-documents sur support papier ainsi que celles relatives à l'archivage électronique, déterminées par arrêté du ministre chargé
-de la culture ;
+1° Pour son activité de tiers archivage sur support papier, disposer de la certification correspondant aux normes relatives
+aux prestations en archivage et gestion externalisée de documents sur support papier ;
 
-2° Conserver sur le territoire national les archives qui lui sont confiées, dans des locaux conformes aux prescriptions du
-service interministériel des archives de France de la direction générale des patrimoines ;
+2° Pour son activité de tiers archivage numérique, disposer de la certification correspondant aux normes relatives à
+l'archivage électronique.
 
-3° Recourir à des professionnels qualifiés en matière de sécurité et de conservation matérielle des archives ;
+Les normes de référence sont déterminées par arrêté du ministre chargé de la culture.
 
-4° Assurer une conservation sécurisée incluant une politique de confidentialité destinée notamment à assurer la protection
-contre les accès non autorisés ainsi que l'intégrité et la pérennité des archives ;
-
-5° Individualiser dans son organisation l'activité de conservation et les moyens qui lui sont dédiés ainsi que la gestion des
-stocks et des flux de documents ;
-
-6° Définir et mettre en place des dispositifs d'information sur l'activité de conservation à destination des organismes
-déposants, notamment en cas de modification substantielle des conditions d'exercice de cette activité ;
+3° à 6° (supprimés)
 
 7° Identifier les personnes chargées de l'activité de conservation en précisant le lien contractuel qui les lie au
 dépositaire ;
@@ -22736,29 +22731,36 @@ dépositaire ;
 8° Le cas échéant, identifier son représentant sur le territoire national au sens de l'article 5 de la loi n° 78-17 du 6
 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
+**Nota:**
+
+Conformément à l'article 13 du décret n° 2020-733 du 15 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021
+pour ce qui concerne les personnes physiques ou morales souhaitant assurer la conservation d'archives publiques et ne
+disposant pas encore des certifications requises à la date de publication du présent décret. Les agréments délivrés
+antérieurement à cette date par le ministre chargé de la culture restent valables jusqu'à leur expiration.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 5 (M)
-  - Code du patrimoine. - art. L212-4 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 5
+  - Code du patrimoine - art. L212-4
 
 _Anciens textes_:
 
   - Décret n°79-1037 du 3 décembre 1979 - art. 20-5 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 4
+
 _Cité par_:
 
   - Code du patrimoine - art. R212-24 (VD)
-  - Code du patrimoine - art. R212-25 (V)
+  - Code du patrimoine - art. R212-25 (VD)
   - Code du patrimoine - art. R212-26 (VT)
   - Code du patrimoine - art. R212-27 (VT)
   - Code du patrimoine - art. R212-29 (VD)
@@ -22766,8 +22768,15 @@ _Cité par_:
 
 ###### Article R212-24
 
-L'agrément prévu à l'article R. 212-23 est accordé par le ministre chargé de la culture. Il est notifié au bénéficiaire par
-lettre recommandée avec demande d'avis de réception. Il est publié au Journal officiel de la République française.
+L'agrément prévu à l'article R. 212-23 est accordé par le préfet de département ou, à Paris, par le préfet de police. Il est
+notifié au bénéficiaire et publié au recueil des actes administratifs de la préfecture.
+
+**Nota:**
+
+Conformément à l'article 13 du décret n° 2020-733 du 15 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021
+pour ce qui concerne les personnes physiques ou morales souhaitant assurer la conservation d'archives publiques et ne
+disposant pas encore des certifications requises à la date de publication du présent décret. Les agréments délivrés
+antérieurement à cette date par le ministre chargé de la culture restent valables jusqu'à leur expiration.
 
 **Liens relatifs à cet article**
 
@@ -22775,55 +22784,37 @@ _Anciens textes_:
 
   - Décret n°79-1037 du 3 décembre 1979 - art. 20-6 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 4
+
 _Cite_:
 
-  - Code du patrimoine - art. R212-23 (V)
+  - Code du patrimoine - art. R212-23
 
 
 ###### Article R212-25
 
-Le demandeur de l'agrément prévu à l'article R. 212-23 adresse au service interministériel des archives de France de la
-direction générale des patrimoines, par lettre recommandée avec demande d'avis de réception, un dossier comprenant les
-éléments suivants :
+Le demandeur de l'agrément prévu à cet article adresse au préfet de département où est situé le siège social de sa société ou
+de sa filiale ou au préfet de police pour les sociétés étrangères n'ayant pas d'implantation en France, par lettre
+recommandée avec demande d'avis de réception, un dossier comprenant les éléments suivants :
 
 1° L'identité et l'adresse du demandeur et, le cas échéant, de son représentant ainsi que, pour les personnes morales, les
 statuts ;
 
-2° Les justificatifs attestant la qualification et l'expérience du personnel employé par le demandeur ;
+2° Les justificatifs des certifications en cours de validité attestant la conformité aux normes mentionnées à l'article R.
+212-23 ou l'adresse des pages internet de référence attestant de la validité en cours de ces certifications.
 
-3° Les types de support des archives conservées ;
+**Nota:**
 
-4° La description de la politique de conservation matérielle mise en œuvre ;
-
-5° Les dispositions prises pour assurer la sécurité des archives, notamment la présentation de la politique de
-confidentialité et de sécurité, incluant un plan de reprise d'activité et un plan d'urgence face aux sinistres pour les
-archives, quel que soit leur support ;
-
-6° Les catégories de personnes qui, en raison de leurs fonctions ou pour les besoins du service, ont accès aux archives
-déposées ;
-
-7° Le cas échéant, l'indication du recours à des prestataires externes, les contrats conclus avec eux et, pour ceux exerçant
-eux-mêmes une activité de conservation, leur propre agrément ;
-
-8° Le cas échéant, la description des moyens mis en œuvre pour procéder aux destructions des archives désignées par le
-déposant en distinguant ceux utilisés pour les archives sur support papier et ceux appliqués aux supports numériques ;
-
-9° La description des procédures et des applications informatiques utilisées pour la gestion des archives ainsi que des
-dispositifs assurant la traçabilité de l'ensemble des opérations ayant trait à cette gestion ;
-
-10° Les procédures de restitution des archives au déposant ou de versement dans un dépôt d'archives à l'expiration ou à la
-cessation du contrat ;
-
-11° Un document présentant les comptes prévisionnels de l'activité consacrée aux prestations de conservation ainsi que, dans
-le cas d'une demande de renouvellement, les comptes de résultat et bilans liés à cette activité depuis le dernier agrément.
+Conformément à l'article 13 du décret n° 2020-733 du 15 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021
+pour ce qui concerne les personnes physiques ou morales souhaitant assurer la conservation d'archives publiques et ne
+disposant pas encore des certifications requises à la date de publication du présent décret. Les agréments délivrés
+antérieurement à cette date par le ministre chargé de la culture restent valables jusqu'à leur expiration.
 
 **Liens relatifs à cet article**
 
@@ -22831,127 +22822,31 @@ _Anciens textes_:
 
   - Décret n°79-1037 du 3 décembre 1979 - art. 20-7 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-_Cite_:
-
-  - Code du patrimoine - art. R212-23 (V)
-
-
-###### Article R212-26
-
-Lorsque l'agrément prévu à l'article R. 212-23 est demandé en vue de conserver des archives sur support papier, le demandeur
-fournit en outre les éléments relatifs à :
-
-1° La description des terrains et des bâtiments affectés à la conservation des archives publiques, accompagnée des plans
-détaillant les installations techniques : emplacement, caractéristiques et superficie du terrain, caractéristiques de
-l'environnement, dispositifs anti-intrusion ; capacité et surface de chaque local ; accès, contrôles d'accès et dispositifs
-visant à interdire l'accès à toute personne non autorisée ; dispositifs de protection et de lutte anti-incendie, de
-protection contre le vol et l'effraction, de protection contre les dégâts des eaux ; description de l'environnement
-climatique (température et humidité relative, ventilation et brassage de l'air, dispositifs de contrôle, dispositifs de
-filtrage de l'air) ; dispositifs de chauffage et de climatisation ; dispositifs de protection contre la lumière et la
-poussière ; description des appareils et mobiliers de stockage, notamment de la structure des mobiliers et des charges au sol
-des planchers ;
-
-2° Le métrage linéaire des archives sur support papier qu'il conserve à la date de la demande ;
-
-3° Les procédures de communication matérielle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-1037 du 3 décembre 1979 - art. 20-8 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2020-733 du 15 juin 2020 - art. 4
 
 _Cite_:
 
-  - Code du patrimoine - art. R212-23
-
-
-###### Article R212-27
-
-Lorsque l'agrément prévu à l'article R. 212-23 est demandé en vue de conserver des archives sur support numérique, le
-demandeur fournit en outre les éléments relatifs à :
-
-1° La description des lieux dans lesquels sont réalisés les traitements : caractéristiques techniques, type d'alimentation
-électrique, groupe électrogène, onduleurs, protection contre le feu, l'eau, la poussière, l'électromagnétisme, environnement
-climatique, type de planchers et de faux-plafonds, charges au sol des planchers ;
-
-2° La description de la typologie et de la topographie du réseau ainsi que le descriptif des équipements de connexion et de
-sécurité ;
-
-3° La description des infrastructures logicielles et matérielles mises en œuvre et la documentation afférente à celles-ci ;
-
-4° Les fonctionnalités assurées par le système ;
-
-5° Les procédures visant à assurer, au moment du transfert des archives, la réception sécurisée et l'intégrité de celles-ci,
-leur prise en compte dans la plate-forme de stockage sécurisé et le suivi de cette prise en charge ;
-
-6° Les conditions de mise en œuvre d'une alerte concernant les formats d'encodage des données destinée à avertir le déposant
-en cas d'obsolescence de ce format, et, éventuellement, les procédures visant à réaliser, avec son autorisation et sous son
-contrôle, des migrations de formats des données, si ces derniers ne permettent plus d'assurer la lisibilité des informations,
-ainsi qu'à assurer la traçabilité de ces migrations ;
-
-7° Les choix des supports de stockage et les moyens mis en œuvre pour assurer la surveillance des supports et leurs
-éventuelles migrations ;
-
-8° Les dispositifs de redondance, de réplication sur des sites distants ainsi que de sauvegarde mis en œuvre ;
-
-9° Les moyens mis en œuvre pour assurer l'intégrité des archives déposées (systèmes d'empreintes, systèmes d'horodatage) ;
-
-10° Le volume des archives numériques qu'il conserve à la date de la demande ;
-
-11° Les modalités techniques d'accès aux données, en particulier l'interfaçage avec le système d'information du déposant
-permettant à ce dernier de récupérer des données déposées après recherche documentaire dans son propre système d'information
-et les dispositifs garantissant l'étanchéité des deux systèmes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-1037 du 3 décembre 1979 - art. 20-9 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-733 du 15 juin 2020 - art. 4
-
-_Cite_:
-
-  - Code du patrimoine - art. R212-23
+  - Code du patrimoine - art. R212-23 (VD)
 
 
 ###### Article R212-28
 
-Le ministre chargé de la culture se prononce dans un délai de quatre mois à compter de la demande d'agrément, dont il est
-accusé réception. Durant ce délai, le service interministériel des archives de France de la direction générale des
-patrimoines peut effectuer, par elle-même ou par toute personne qu'elle désigne à cet effet, un contrôle sur pièces et sur
-place des éléments fournis par le demandeur. Un silence de quatre mois vaut décision implicite de rejet.
+Le préfet se prononce dans un délai de quatre mois à compter de la demande d'agrément, dont il est accusé réception. Durant
+ce délai, le préfet peut effectuer, par lui-même ou par toute personne qu'elle désigne à cet effet, un contrôle sur pièces et
+sur place des éléments fournis par le demandeur. Un silence de quatre mois vaut décision implicite de rejet.
+
+**Nota:**
+
+Conformément à l'article 13 du décret n° 2020-733 du 15 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021
+pour ce qui concerne les personnes physiques ou morales souhaitant assurer la conservation d'archives publiques et ne
+disposant pas encore des certifications requises à la date de publication du présent décret. Les agréments délivrés
+antérieurement à cette date par le ministre chargé de la culture restent valables jusqu'à leur expiration.
 
 **Liens relatifs à cet article**
 
@@ -22959,22 +22854,29 @@ _Anciens textes_:
 
   - Décret n°79-1037 du 3 décembre 1979 - art. 20-10 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 4
+
 
 ###### Article R212-29
 
-L'agrément prévu à l'article R. 212-23 est accordé pour une durée de cinq ans ; ce délai est ramené à trois ans lorsqu'il est
-accordé, même pour partie, pour conserver des archives sur support numérique.
+L'agrément prévu à l'article R. 212-23 est accordé pour la durée de la certification associée attestant la conformité aux
+normes mentionnées à l'article R. 212-23, et prolongé automatiquement en cas de renouvellement.
 
-La personne agréée informe sans délai le ministre chargé de la culture de tout changement affectant les informations
-mentionnées aux articles R. 212-25 à R. 212-27 et de toute interruption, temporaire ou définitive, de son activité.
+La personne agréée informe sans délai le préfet ayant attribué l'agrément de tout changement affectant les informations
+mentionnées à l'article R. 212-25 et de toute interruption, temporaire ou définitive, de son activité.
+
+**Nota:**
+
+Conformément à l'article 13 du décret n° 2020-733 du 15 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021
+pour ce qui concerne les personnes physiques ou morales souhaitant assurer la conservation d'archives publiques et ne
+disposant pas encore des certifications requises à la date de publication du présent décret. Les agréments délivrés
+antérieurement à cette date par le ministre chargé de la culture restent valables jusqu'à leur expiration.
 
 **Liens relatifs à cet article**
 
@@ -22982,62 +22884,52 @@ _Anciens textes_:
 
   - Décret n°79-1037 du 3 décembre 1979 - art. 20-11 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 4
 
 _Cite_:
 
-  - Code du patrimoine - art. R212-23 (V)
-
-
-###### Article R212-30
-
-La demande de renouvellement de l'agrément est faite au plus tard six mois avant le terme de la période d'agrément, dans les
-mêmes conditions que celles applicables à la demande initiale. Il est statué sur cette demande de renouvellement selon la
-même procédure.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-1037 du 3 décembre 1979 - art. 20-12 (Ab)
-
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
-_Codifié par_:
-
-  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-733 du 15 juin 2020 - art. 4
+  - Code du patrimoine - art. R212-23
 
 
 ###### Article R212-31
 
-Lorsqu'il envisage de procéder au retrait d'un agrément en application du II de l'article L. 212-4, le ministre chargé de la
-culture en communique les motifs à la personne agréée, par lettre recommandée avec demande d'avis de réception, l'appelle à
-formuler dans les deux mois ses observations, écrites ou, à sa demande, orales, et mentionne la faculté qui lui est offerte
-de se faire assister ou représenter par le conseil de son choix.
+Le retrait pour quelque cause que ce soit d'une certification attestant la conformité aux normes mentionnées à l'article R.
+212-23 entraîne automatiquement la cessation de l'agrément.
+
+En cas d'expiration d'une certification attestant la conformité aux normes mentionnées à l'article R. 212-23, l'agrément peut
+être seulement suspendu si le renouvellement de la certification est en cours et soumis à l'autorité de certification. Dans
+l'attente qu'il soit statué définitivement sur le renouvellement, cet état permet la conservation des archives déjà déposées
+mais suspend l'agrément en tant qu'il sert de fondement à de nouveaux dépôts.
 
 En cas de divulgation non autorisée d'archives ou de manquements graves du dépositaire à ses obligations mettant notamment en
-cause la confidentialité, l'intégrité, la sécurité et la pérennité des archives déposées, le ministre chargé de la culture
+cause la confidentialité, l'intégrité, la sécurité et la pérennité des archives déposées, le préfet ayant attribué l'agrément
 peut, à titre conservatoire, dans l'attente qu'il soit statué définitivement sur le projet de retrait d'agrément, prononcer
 la suspension de l'agrément en tant qu'il sert de fondement à de nouveaux dépôts.
+
+Lorsqu'il envisage de procéder au retrait d'un agrément en application du II de l'article L. 212-4, le préfet en communique
+les motifs à la personne agréée, par lettre recommandée avec demande d'avis de réception, l'appelle à formuler dans les deux
+mois ses observations, écrites ou, à sa demande, orales, et mentionne la faculté qui lui est offerte de se faire assister ou
+représenter par le conseil de son choix.
 
 La décision de retrait de l'agrément est notifiée à la personne agréée intéressée, par lettre recommandée avec demande d'avis
 de réception. Elle est motivée et mentionne les voies et délais de recours. Elle met fin de plein droit à la conservation des
 archives déposées et entraîne leur restitution aux déposants. Les frais de restitution des archives déposées sont à la charge
 du dépositaire.
 
-Les décisions de retrait et de suspension de l'agrément sont publiées au Journal officiel de la République française.
+Les décisions de retrait de l'agrément sont publiées au recueil des actes administratifs de la préfecture.
+
+**Nota:**
+
+Conformément à l'article 13 du décret n° 2020-733 du 15 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021
+pour ce qui concerne les personnes physiques ou morales souhaitant assurer la conservation d'archives publiques et ne
+disposant pas encore des certifications requises à la date de publication du présent décret. Les agréments délivrés
+antérieurement à cette date par le ministre chargé de la culture restent valables jusqu'à leur expiration.
 
 **Liens relatifs à cet article**
 
@@ -23045,17 +22937,17 @@ _Anciens textes_:
 
   - Décret n°79-1037 du 3 décembre 1979 - art. 20-13 (Ab)
 
-_Créé par_:
-
-  - Décret n°2011-574 du 24 mai 2011  - art.
-
 _Codifié par_:
 
   - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+_Modifié par_:
+
+  - Décret n°2020-733 du 15 juin 2020 - art. 4
+
 _Cite_:
 
-  - Code du patrimoine. - art. L212-4 (V)
+  - Code du patrimoine - art. L212-4
 
 
 ##### Paragraphe 4 : Sanction administrative prévue à l'article L. 214-10<a id=221></a>
